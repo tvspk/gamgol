@@ -43,6 +43,21 @@ Uživateli odpovídej **česky**. Uživatel není programátor: kroky na GitHubu
 - Testy: `python3 web/tools/test_sync.py` (napodobený GitHub, 4 zařízení), `python3 web/tools/test_qr.py` (falešná
   kamera, potřebuje ffmpeg), obě proti `index.html`. Nikdy netestuj proti skutečnému GitHubu.
 
+## ROZPRACOVÁNO: doplňkové karty Mnemo Hooks (od 17. 11. 2026)
+Uživatel chce do Mnemo Hooks doplnit **všech 288** slovíček a spojení hry (dřív Card index / Lost & found), která v balíčcích
+Mnemo Korean chybějí. Seznam je v `mnemo/doplnky/chNN.tsv` (slovo, en a věta ze hry jsou vyplněné). Práce je rozdělená do chatů:
+1. kapitoly 1–2 · 2. kapitoly 3–6 · 3. kapitoly 7–11 · 4. kapitoly 12–14 · 5. zvuk, kontrola a vydání APK.
+V chatu 1–4: vyplň v TSV sloupce `cs, druh, typ, tema, priklad_cs, mnemo, koreny` (popis v hlavičce
+`web/tools/mnemo_doplnky.py`), pořadí řádků neměň (id karet). Pak `python3 web/tools/mnemo_doplnky.py && python3 web/tools/mnemo_build.py
+&& sh web/build.sh && python3 -I web/tools/build_site.py`, testy t1 a tc, commit + push (verzi APK nezvyšuj; web se tím
+aktualizuje, nové karty jsou do nahrání zvuku bez nahrávky, hraje je hlas zařízení).
+Pravidla karet: česky, bez romanizace; český překlad věty ze hry (jména: 서진 Sodžin, 도윤 Tojun, 하람 Haram, 지수 선배 Čisu,
+선배 kolegyně, 소장님 velitel, 이장님 starosta, 덕배 할아버지 děda Tokpe, 복순 할머니 babička Poksun, 까망이 Kkamangi,
+장미숙 사장님 paní Čang (majitelka), 김 순경 strážnice Kim, 감골 Gamgol); háček krátký jako v balíčcích
+(sino slova rozklad hanja, spojení = složky, původní slova zvuková asociace); témata podle balíčků té kapitoly; vše `overit: true`.
+Chat 5: `python3 web/tools/audio_list.py && python3 web/tools/record.py --only m1,…,m14` (model Supertonic, viz TECHNIKA.md),
+`sh web/build.sh`, build_site, všechny testy, `android/verze.txt` → `19 2.8`, push, ověřit vydání. Pak tento oddíl smazat.
+
 ## Testy hry
 `sh web/build.sh && for t in t1 t2 t3 tc; do python3 web/tools/$t.py; done` (Playwright).
 

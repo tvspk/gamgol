@@ -19,6 +19,9 @@ def load(p):
 
 roots_doc = load(os.path.join(src, "ko-koreny.json"))
 roots = {r["id"]: [r["hangul"], r["hanja"], r["cs"]] for r in roots_doc["koreny"]}
+extra_roots = os.path.join(src, "ko-koreny-doplnky.json")   # kořeny doplňkových karet (web/tools/mnemo_doplnky.py)
+if os.path.exists(extra_roots):
+    roots.update({r["id"]: [r["hangul"], r["hanja"], r["cs"]] for r in load(extra_roots)["koreny"]})
 
 chapters, seen, warn = {}, {}, []
 files = sorted(glob.glob(os.path.join(src, "ko-topik3-*.json")))
