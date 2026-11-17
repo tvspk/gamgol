@@ -1,0 +1,873 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 1 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d0101",
+   "tema": "práce",
+   "slovo": "회사를 그만두다",
+   "cs": "odejít z firmy, dát výpověď",
+   "en": "to quit one's company",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 회사를 그만두고 지금은 프리랜서로 일해요.",
+   "priklad_cs": "Sodžin odešla z firmy a teď pracuje na volné noze.",
+   "mnemo": "회사 (firma) + 그만두다 (přestat) = skončit ve firmě.",
+   "koreny": [
+    "hoe-會",
+    "sa-社"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0102",
+   "tema": "práce",
+   "slovo": "아르바이트를 하다",
+   "cs": "mít brigádu",
+   "en": "to work a part-time job",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 아르바이트를 하면서 돈을 모으고 있어요.",
+   "priklad_cs": "Při brigádě si šetřím peníze.",
+   "mnemo": "아르바이트 (z němčiny Arbeit = brigáda) + 하다 (dělat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0103",
+   "tema": "vztahy",
+   "slovo": "이성 친구가 생기다",
+   "cs": "najít si partnera / partnerku",
+   "en": "to get a boyfriend or girlfriend",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 이성 친구가 생겨서 요즘 기분이 좋아요.",
+   "priklad_cs": "Tojun si našel přítelkyni, a tak má teď dobrou náladu.",
+   "mnemo": "이성 (異 jiný + 性 pohlaví) + 친구 (kamarád) + 생기다 (vzniknout) = objeví se kamarád opačného pohlaví.",
+   "koreny": [
+    "i-異",
+    "seong-性"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0104",
+   "tema": "volný čas",
+   "slovo": "취미 생활을 하다",
+   "cs": "věnovat se koníčkům",
+   "en": "to spend time on one's hobbies",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 주말에 그림을 그리면서 취미 생활을 해요.",
+   "priklad_cs": "Kolegyně o víkendu maluje a věnuje se svým koníčkům.",
+   "mnemo": "趣味 záliba + 生活 život = žít svými zálibami.",
+   "koreny": [
+    "chwi-趣",
+    "mi-味",
+    "saeng-生",
+    "hwal-活"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0105",
+   "tema": "práce",
+   "slovo": "새로운 일을 시작하다",
+   "cs": "začít novou práci",
+   "en": "to start new work (a new job or project)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "이장님은 올해 새로운 일을 시작하셨어요.",
+   "priklad_cs": "Starosta letos začal s novou prací.",
+   "mnemo": "새로운 (nový) + 일 (práce) + 시작 (始 začít + 作 dělat) = pustit se do něčeho nového.",
+   "koreny": [
+    "si-始",
+    "jak-作"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0106",
+   "tema": "život a změny",
+   "slovo": "새로운 것을 배우다",
+   "cs": "učit se nové věci",
+   "en": "to learn something new",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "덕배 할아버지는 요즘 새로운 것을 배우면서 지내세요.",
+   "priklad_cs": "Děda Tokpe teď tráví dny tím, že se učí nové věci.",
+   "mnemo": "새로운 (nový) + 것 (věc) + 배우다 (učit se).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0107",
+   "tema": "volný čas",
+   "slovo": "봉사 활동을 하다",
+   "cs": "dělat dobrovolnickou práci",
+   "en": "to do volunteer work",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 매주 주말에 마을 회관에서 봉사 활동을 해요.",
+   "priklad_cs": "Haram každý víkend dělá dobrovolnickou práci v obecním domě.",
+   "mnemo": "奉 sloužit + 仕 sloužit = služba druhým; 活動 činnost.",
+   "koreny": [
+    "bong-奉",
+    "sa-仕",
+    "hwal-活",
+    "dong-動"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0108",
+   "tema": "práce",
+   "slovo": "인턴으로 일하다",
+   "cs": "pracovat jako stážista",
+   "en": "to work as an intern",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 대학교 때 회사에서 인턴으로 일했어요.",
+   "priklad_cs": "Tojun na vysoké pracoval ve firmě jako stážista.",
+   "mnemo": "인턴 (z angl. intern) + 으로 (jako) + 일하다 (pracovat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0109",
+   "tema": "plány",
+   "slovo": "자격증을 따다",
+   "cs": "získat certifikát (osvědčení)",
+   "en": "to get a certificate (a qualification)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 작년에 컴퓨터 자격증을 땄어요.",
+   "priklad_cs": "Kolegyně loni získala počítačový certifikát.",
+   "mnemo": "資格 způsobilost + 證 doklad = doklad o způsobilosti; 따다 = utrhnout, získat.",
+   "koreny": [
+    "ja-資",
+    "gyeok-格",
+    "jeung-證"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0110",
+   "tema": "škola",
+   "slovo": "유학을 가다",
+   "cs": "odjet studovat do zahraničí",
+   "en": "to go abroad to study (school or university)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "손녀가 작년에 유학을 갔어.",
+   "priklad_cs": "Vnučka loni odjela studovat do zahraničí.",
+   "mnemo": "留 zůstat + 學 učení = zůstat v cizině kvůli studiu.",
+   "koreny": [
+    "yu-留",
+    "hak-學"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0111",
+   "tema": "škola",
+   "slovo": "어학연수를 가다",
+   "cs": "odjet na jazykový kurz do zahraničí",
+   "en": "to go abroad for a language course",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 대학교 때 일본으로 어학연수를 갔어요.",
+   "priklad_cs": "Na vysoké jela Sodžin na jazykový kurz do Japonska.",
+   "mnemo": "語學 jazyk + 硏修 brousit a zdokonalovat = vybrousit si jazyk.",
+   "koreny": [
+    "eo-語",
+    "hak-學",
+    "yeon-硏",
+    "su-修"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0112",
+   "tema": "práce",
+   "slovo": "회사를 옮기다",
+   "cs": "změnit firmu (zaměstnavatele)",
+   "en": "to change companies (move to another employer)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이 형은 내년에 회사를 옮기려고 해요.",
+   "priklad_cs": "Tojunův starší bratr chce příští rok změnit firmu.",
+   "mnemo": "회사 (firma) + 옮기다 (přesunout) = přesunout se do jiné firmy.",
+   "koreny": [
+    "hoe-會",
+    "sa-社"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0113",
+   "tema": "zdraví",
+   "slovo": "다이어트를 하다",
+   "cs": "držet dietu",
+   "en": "to go on a diet",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 요즘 다이어트를 하면서 매일 운동해요.",
+   "priklad_cs": "Tojun teď drží dietu a každý den cvičí.",
+   "mnemo": "다이어트 (z angl. diet) + 하다 (dělat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0114",
+   "tema": "plány",
+   "slovo": "돈을 모으다",
+   "cs": "šetřit peníze",
+   "en": "to save up money",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 서울에 가고 싶어서 돈을 모으고 있어요.",
+   "priklad_cs": "Haram chce jet do Soulu, a tak si šetří peníze.",
+   "mnemo": "돈 (peníze) + 모으다 (sbírat) = sbírat peníze.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0115",
+   "tema": "plány",
+   "slovo": "운전면허를 따다",
+   "cs": "udělat si řidičák",
+   "en": "to get a driver's licence",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "내년에는 운전면허를 딸까 해.",
+   "priklad_cs": "Příští rok si asi udělám řidičák.",
+   "mnemo": "運轉 řídit + 免許 povolení = řidičské povolení; 따다 = získat.",
+   "koreny": [
+    "un-運",
+    "jeon-轉",
+    "myeon-免",
+    "heo-許"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0116",
+   "tema": "plány",
+   "slovo": "집을 마련하다",
+   "cs": "pořídit si vlastní bydlení",
+   "en": "to get a home of one's own",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 돈을 모아서 작은 집을 마련하려고 해요.",
+   "priklad_cs": "Kolegyně si chce našetřit a pořídit si malý byt.",
+   "mnemo": "집 (dům) + 마련하다 (opatřit si) = opatřit si střechu nad hlavou.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0117",
+   "tema": "volný čas",
+   "slovo": "헬스클럽에 등록하다",
+   "cs": "přihlásit se do posilovny",
+   "en": "to sign up at a gym",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "요즘 헬스클럽에 등록해서 아침마다 운동하면서 지내.",
+   "priklad_cs": "Nedávno se přihlásil do posilovny a každé ráno cvičí.",
+   "mnemo": "헬스클럽 (z angl. health club) + 登 vstoupit + 錄 zapsat = zapsat se.",
+   "koreny": [
+    "deung-登",
+    "rok-錄"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0118",
+   "tema": "škola",
+   "slovo": "학원에 등록하다",
+   "cs": "přihlásit se do soukromé školy (kurzu)",
+   "en": "to enrol at a private academy",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "복순 할머니도 컴퓨터 학원에 등록하셨어요.",
+   "priklad_cs": "I babička Poksun se přihlásila do počítačového kurzu.",
+   "mnemo": "學院 škola, ústav + 登錄 zapsat se.",
+   "koreny": [
+    "hak-學",
+    "won-院",
+    "deung-登",
+    "rok-錄"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0119",
+   "tema": "práce",
+   "slovo": "업무",
+   "cs": "pracovní povinnosti",
+   "en": "work duties (the tasks of a job)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "순경의 업무는 생각보다 많아요.",
+   "priklad_cs": "Strážník má víc povinností, než by člověk čekal.",
+   "mnemo": "業 práce + 務 povinnost = pracovní povinnosti.",
+   "koreny": [
+    "eop-業",
+    "mu-務"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0120",
+   "tema": "práce",
+   "slovo": "신경을 쓰다",
+   "cs": "dávat si záležet, starat se o",
+   "en": "to pay careful attention to, to worry over",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 작은 일에도 신경을 많이 써요.",
+   "priklad_cs": "Kolegyně si dává hodně záležet i na maličkostech.",
+   "mnemo": "神經 nervy + 쓰다 (použít) = zapojit nervy.",
+   "koreny": [
+    "sin-神",
+    "gyeong-經"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0121",
+   "tema": "škola",
+   "slovo": "동영상 강의",
+   "cs": "videopřednáška",
+   "en": "video lecture",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "도윤이는 매일 밤 동영상 강의를 들으면서 공부해요.",
+   "priklad_cs": "Tojun se každý večer učí z videopřednášek.",
+   "mnemo": "動映像 pohyblivý obraz = video; 講 přednášet + 義 výklad = přednáška.",
+   "koreny": [
+    "dong-動",
+    "yeong-映",
+    "sang-像",
+    "gang-講",
+    "ui-義"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0122",
+   "tema": "škola",
+   "slovo": "실력이 늘다",
+   "cs": "zlepšit se (v dovednosti)",
+   "en": "one's skill improves",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "할아버지는 컴퓨터 실력이 많이 느셨어요.",
+   "priklad_cs": "Dědovy počítačové dovednosti se hodně zlepšily.",
+   "mnemo": "實 skutečný + 力 síla = skutečná schopnost; 늘다 = přibýt.",
+   "koreny": [
+    "sil-實",
+    "ryeok-力"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0123",
+   "tema": "volný čas",
+   "slovo": "올림픽",
+   "cs": "olympiáda",
+   "en": "the Olympics",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "소장님은 올림픽을 보면서 선수들을 응원하세요.",
+   "priklad_cs": "Velitel se dívá na olympiádu a fandí sportovcům.",
+   "mnemo": "Z angl. Olympics.",
+   "extra": {
+    "typ": "vypujcka"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0124",
+   "tema": "volný čas",
+   "slovo": "금메달을 따다",
+   "cs": "získat zlatou medaili",
+   "en": "to win a gold medal",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "그 선수는 올림픽에서 금메달을 땄어요.",
+   "priklad_cs": "Ten sportovec získal na olympiádě zlatou medaili.",
+   "mnemo": "金 zlato + 메달 (medaile) + 따다 (utrhnout, získat).",
+   "koreny": [
+    "geum-金"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0125",
+   "tema": "život a změny",
+   "slovo": "소감",
+   "cs": "dojmy (z události)",
+   "en": "one's impressions (what you felt after an event)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "금메달을 딴 소감이 어때요?",
+   "priklad_cs": "Jaké to je, získat zlatou medaili?",
+   "mnemo": "所 to, co + 感 cítit = to, co cítíš.",
+   "koreny": [
+    "so-所",
+    "gam-感"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0126",
+   "tema": "plány",
+   "slovo": "결과를 얻다",
+   "cs": "dosáhnout výsledku",
+   "en": "to get a result",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "열심히 연습해서 좋은 결과를 얻었어요.",
+   "priklad_cs": "Pilně jsem trénovala a dosáhla jsem dobrého výsledku.",
+   "mnemo": "結 spojit + 果 plod = výsledek; 얻다 = získat.",
+   "koreny": [
+    "gyeol-結",
+    "gwa-果"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0127",
+   "tema": "vztahy",
+   "slovo": "응원하다",
+   "cs": "fandit, podporovat",
+   "en": "to cheer for, to root for",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "마을 사람들이 모두 하람이를 응원해요.",
+   "priklad_cs": "Celá vesnice fandí Haramovi.",
+   "mnemo": "應 odpovídat + 援 pomoci = povzbuzovat a podporovat.",
+   "koreny": [
+    "eung-應",
+    "won-援"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0128",
+   "tema": "vztahy",
+   "slovo": "덕분",
+   "cs": "díky (někomu)",
+   "en": "thanks to (someone's help)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "선배 덕분에 일을 빨리 배웠어요.",
+   "priklad_cs": "Díky kolegyni jsem se rychle naučila práci.",
+   "mnemo": "德 ctnost + 分 díl = díl tvé dobroty.",
+   "koreny": [
+    "deok-德",
+    "bun-分"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0129",
+   "tema": "život a změny",
+   "slovo": "궁금하다",
+   "cs": "být zvědavý, zajímat (koho)",
+   "en": "to be curious, to wonder",
+   "slovni_druh": "pridavne_jmeno",
+   "frekvence": 2,
+   "priklad": "걱정은 안 해. 그냥 궁금해.",
+   "priklad_cs": "Nemám starost. Jen jsem zvědavá.",
+   "mnemo": "„KUNG-kum“ – zvědavě ťukáš na dveře: kung kum, co je uvnitř?",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0130",
+   "tema": "zdraví",
+   "slovo": "체조",
+   "cs": "gymnastika",
+   "en": "gymnastics",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "하람이는 매일 아침 체조 연습을 해요.",
+   "priklad_cs": "Haram každé ráno trénuje gymnastiku.",
+   "mnemo": "體 tělo + 操 ovládat = ovládání těla.",
+   "koreny": [
+    "che-體",
+    "jo-操"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0131",
+   "tema": "volný čas",
+   "slovo": "금메달리스트",
+   "cs": "zlatý medailista",
+   "en": "gold medallist",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "그 체조 선수는 올림픽 금메달리스트예요.",
+   "priklad_cs": "Ten gymnasta je olympijský zlatý medailista.",
+   "mnemo": "金 zlato + 메달리스트 (z angl. medallist).",
+   "koreny": [
+    "geum-金"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0132",
+   "tema": "život a změny",
+   "slovo": "키우다",
+   "cs": "vychovávat, chovat (zvíře)",
+   "en": "to raise, to bring up (a child, an athlete)",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "복순 할머니는 까망이를 10년 동안 키우셨어요.",
+   "priklad_cs": "Babička Poksun chová Kkamangi už deset let.",
+   "mnemo": "Od 크다 (růst): nechat růst – dítě, zvíře i sportovce.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0133",
+   "tema": "volný čas",
+   "slovo": "동호회 모임에 가다",
+   "cs": "jít na schůzku zájmového klubu",
+   "en": "to go to a hobby club meet-up",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 매주 토요일에 그림 동호회 모임에 가요.",
+   "priklad_cs": "Kolegyně chodí každou sobotu na schůzku malířského klubu.",
+   "mnemo": "同 stejný + 好 mít rád + 會 spolek = spolek se stejnou zálibou; 모임 = setkání.",
+   "koreny": [
+    "dong-同",
+    "ho-好",
+    "hoe-會"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0134",
+   "tema": "škola",
+   "slovo": "복습을 하다",
+   "cs": "opakovat si (učivo)",
+   "en": "to review (what one has studied)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 버스를 기다리면서 복습을 해요.",
+   "priklad_cs": "Haram si při čekání na autobus opakuje učivo.",
+   "mnemo": "復 znovu + 習 cvičit = znovu procvičit.",
+   "koreny": [
+    "bok-復",
+    "seup-習"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0135",
+   "tema": "volný čas",
+   "slovo": "요가를 하다",
+   "cs": "cvičit jógu",
+   "en": "to do yoga",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 요즘 가게 일을 하면서 요가를 배워요.",
+   "priklad_cs": "Teď se vedle práce v obchodě učím jógu.",
+   "mnemo": "요가 (jóga) + 하다 (dělat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0136",
+   "tema": "volný čas",
+   "slovo": "영상통화를 하다",
+   "cs": "mít videohovor",
+   "en": "to make a video call",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "나는 어제 저녁에 공원을 걸으면서 손녀하고 영상통화를 했어.",
+   "priklad_cs": "Včera večer jsem se procházel v parku a měl jsem videohovor s vnučkou.",
+   "mnemo": "映像 obraz + 通話 hovor = hovor s obrazem.",
+   "koreny": [
+    "yeong-映",
+    "sang-像",
+    "tong-通",
+    "hwa-話"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0137",
+   "tema": "volný čas",
+   "slovo": "캠핑을 하다",
+   "cs": "kempovat",
+   "en": "to go camping",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 주말에 친구들하고 캠핑을 하려고 해요.",
+   "priklad_cs": "Tojun chce o víkendu jet s kamarády kempovat.",
+   "mnemo": "캠핑 (z angl. camping) + 하다 (dělat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0138",
+   "tema": "volný čas",
+   "slovo": "래프팅을 하다",
+   "cs": "sjíždět řeku na raftu",
+   "en": "to go rafting",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "여름에는 강에서 래프팅을 하고 싶어요.",
+   "priklad_cs": "V létě bych si ráda sjela řeku na raftu.",
+   "mnemo": "래프팅 (z angl. rafting) + 하다 (dělat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0139",
+   "tema": "volný čas",
+   "slovo": "서핑을 하다",
+   "cs": "surfovat",
+   "en": "to surf",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 매년 여름에 바다에서 서핑을 해요.",
+   "priklad_cs": "Sodžin každé léto surfuje na moři.",
+   "mnemo": "서핑 (z angl. surfing) + 하다 (dělat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0140",
+   "tema": "volný čas",
+   "slovo": "맛집을 방문하다",
+   "cs": "navštívit vyhlášenou restauraci",
+   "en": "to visit a restaurant known for good food",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 여행하면서 맛집을 방문해요.",
+   "priklad_cs": "Sodžin na cestách navštěvuje vyhlášené restaurace.",
+   "mnemo": "맛집 (맛 chuť + 집 dům) + 訪問 navštívit.",
+   "koreny": [
+    "bang-訪",
+    "mun-問"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0141",
+   "tema": "škola",
+   "slovo": "대학원에 진학하다",
+   "cs": "pokračovat ve studiu na postgraduálním stupni",
+   "en": "to go on to graduate school",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배 동생은 내년에 대학원에 진학하려고 해요.",
+   "priklad_cs": "Mladší bratr kolegyně chce příští rok pokračovat ve studiu na postgraduálním stupni.",
+   "mnemo": "大學院 vysoká škola + ústav; 進 vpřed + 學 učení = postoupit ve studiu.",
+   "koreny": [
+    "dae-大",
+    "hak-學",
+    "won-院",
+    "jin-進"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0142",
+   "tema": "práce",
+   "slovo": "프리랜서로 일하다",
+   "cs": "pracovat na volné noze",
+   "en": "to work as a freelancer",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 서울에서 프리랜서로 일해요.",
+   "priklad_cs": "Pracuju v Soulu na volné noze.",
+   "mnemo": "프리랜서 (z angl. freelancer) + 로 (jako) + 일하다 (pracovat).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0143",
+   "tema": "práce",
+   "slovo": "사업을 하다",
+   "cs": "podnikat",
+   "en": "to run a business",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "미숙 사장님은 20년 동안 사업을 하셨어요.",
+   "priklad_cs": "Paní Čang podniká už dvacet let.",
+   "mnemo": "事 věc + 業 dílo = podnik.",
+   "koreny": [
+    "sa-事",
+    "eop-業"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "jazyk": "ko",
+ "verze": 1,
+ "koreny": [
+  {
+   "id": "si-始",
+   "hangul": "시",
+   "hanja": "始",
+   "cs": "začít"
+  },
+  {
+   "id": "gang-講",
+   "hangul": "강",
+   "hanja": "講",
+   "cs": "přednášet"
+  },
+  {
+   "id": "ui-義",
+   "hangul": "의",
+   "hanja": "義",
+   "cs": "smysl, výklad"
+  },
+  {
+   "id": "gwa-果",
+   "hangul": "과",
+   "hanja": "果",
+   "cs": "plod, výsledek"
+  },
+  {
+   "id": "won-援",
+   "hangul": "원",
+   "hanja": "援",
+   "cs": "pomoci, podpořit"
+  },
+  {
+   "id": "jo-操",
+   "hangul": "조",
+   "hanja": "操",
+   "cs": "ovládat, cvičit"
+  }
+ ]
+}
