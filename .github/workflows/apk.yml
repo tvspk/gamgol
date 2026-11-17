@@ -1,0 +1,81 @@
+# On every push to main: checks, web for GitHub Pages up to date, build of the APK.
+# When android/verze.txt holds a new version, release v<versionName> with gamgol.apk is created (installs over the
+# previous app, progress stays). Released only when signed with the original key from Secrets (certificate 5013f733…).
+name: APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: No keys, passwords, tokens, transfer codes or e-mail addresses in the repository
+        run: |
+          if git ls-files | grep -Ei '\.jks$|\.keystore$|KEYSTORE|\.apk$|PREDANI\.md|HANDOFF\.md'; then echo "::error::A signing key, a password, an APK or a private handoff note must not be in the repository."; exit 1; fi
+          if git grep -Il 'github_pat_[A-Za-z0-9_]\{30\}' -- . ':!web/tools/test_*' ; then echo "::error::A token must not be in the repository."; exit 1; fi
+          if git grep -IlE 'GG[01]\.[A-Za-z0-9_-]{60}' -- . ; then echo "::error::A transfer code must not be in the repository."; exit 1; fi
+          if git grep -IlE '[A-Za-z0-9._%+-]+@(gmail|seznam|email|outlook|icloud)\.' -- . ; then echo "::error::An e-mail address must not be in the repository."; exit 1; fi
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: The web version (index.html, sw.js) is made from the sources
+        run: |
+          sh web/build.sh
+          python3 -I web/tools/build_site.py --check
+
+      - name: Build the APK
+        env:
+          KS_B64: ${{ secrets.GAMGOL_KEYSTORE }}
+          KS_PASS: ${{ secrets.GAMGOL_KEYSTORE_PASSWORD }}
+        run: |
+          read VC VN < android/verze.txt
+          echo "$VN" > /tmp/version
+          if [ -n "$KS_B64" ] && [ -n "$KS_PASS" ]; then
+            echo "$KS_B64" | base64 -d > /tmp/gamgol.jks; echo yes > /tmp/release
+            export GAMGOL_KS_PASS="$KS_PASS"
+          else
+            echo "::warning::No key in Secrets: test build with a throw-away key, no release."
+            keytool -genkeypair -keystore /tmp/gamgol.jks -storetype PKCS12 -alias gamgol -keyalg RSA -keysize 2048 -validity 2 \
+              -dname CN=test -storepass testtest -keypass testtest >/dev/null 2>&1
+            export GAMGOL_KS_PASS=testtest; echo no > /tmp/release
+          fi
+          GAMGOL_KS_FILE=/tmp/gamgol.jks sh android/build.sh "$VC" "$VN"
+          rm -f /tmp/gamgol.jks
+          mkdir -p out && mv "android/build/GamgolSubstation-$VN.apk" out/gamgol.apk
+          if [ "$(cat /tmp/release)" = yes ]; then
+            java -jar android/toolchain/apksigner.jar verify --print-certs out/gamgol.apk | grep -q '5013f733e5b2e87a778a8bc738954248af6cdcd74f4e165e1bf31f97cb7259ae' \
+              || { echo "::error::The APK is not signed with the key of the installed app."; exit 1; }
+          fi
+
+      - name: APK as a run artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gamgol-apk
+          path: out/gamgol.apk
+          retention-days: 14
+
+      - name: Release (only a new version signed with the key)
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V="$(cat /tmp/version)"
+          if [ "$(cat /tmp/release)" != "yes" ]; then echo "No key (Secrets): no release."; exit 0; fi
+          if gh release view "v$V" >/dev/null 2>&1; then echo "Release v$V exists already: raise the version in android/verze.txt for a new one."; exit 0; fi
+          gh release create "v$V" out/gamgol.apk --title "Gamgol Substation $V" --latest \
+            --notes "Gamgol Substation $V for Android. Install gamgol.apk over the previous app: progress stays."

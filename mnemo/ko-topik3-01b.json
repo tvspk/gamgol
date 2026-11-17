@@ -1,0 +1,454 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 1 – textbook s. 18–19 (Part 2), workbook 3-1 s. 10",
+  "karty": [
+    {
+      "id": "ko-topik3-0028",
+      "tema": "plány",
+      "slovo": "계획",
+      "vyslovnost": "gyehoek",
+      "cs": "plán",
+      "en": "plan",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "이번 방학{에} 무슨 계획{이} 있어요?",
+      "priklad_cs": "Jaké máš plány na tyhle prázdniny? (에 → kdy; 이 → 1. pád)",
+      "mnemo": "計 počítat + 劃 rozvrhnout = rozpočítat si to dopředu.",
+      "koreny": [
+        "gye-計",
+        "hoek-劃"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0029",
+      "tema": "práce",
+      "slovo": "옮기다",
+      "vyslovnost": "omgida",
+      "vyslov_hangul": "옴기다",
+      "cs": "přesunout, přestěhovat (věc); změnit (práci)",
+      "en": "to move",
+      "cs_upresneni": "přesunout (věc, firmu), ne bydliště",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "지금 회사 일{은} 제 전공{과} 맞지 않아서 회사{를} 옮기고 싶어요.",
+      "priklad_cs": "Práce ve firmě neodpovídá mému oboru, tak chci změnit firmu. (은 → téma; 과 → s + 7. pád; 를 → 4. pád)",
+      "mnemo": "„ÓM-gi“ – při stěhování skříně si mumláš „óm“ jako jogín, abys ji unesl.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "옮기다",
+          "옮겨요",
+          "옮겼어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0011",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0030",
+      "tema": "zdraví",
+      "slovo": "다이어트",
+      "vyslovnost": "daieoteu",
+      "cs": "dieta, hubnutí",
+      "en": "diet",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "체중{이} 5kg{이나} 늘어서 다이어트{를} 하려고 해요.",
+      "priklad_cs": "Přibral jsem až pět kil, tak chci držet dietu. (이 → 1. pád; 이나 → až; 를 → 4. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "diet",
+        "hada": true
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0031",
+      "tema": "plány",
+      "slovo": "모으다",
+      "vyslovnost": "moeuda",
+      "cs": "sbírat, šetřit (peníze)",
+      "en": "to collect",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "해외여행{을} 가려고 돈{을} 모으고 있어요.",
+      "priklad_cs": "Šetřím peníze, abych mohl jet do zahraničí. (을 → 4. pád)",
+      "mnemo": "„MOU-da“ – MOUDRÝ šetří: 돈을 모아요.",
+      "rodina": [
+        "모임",
+        "모이다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "모으다",
+          "모아요",
+          "모았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0032",
+      "tema": "práce",
+      "slovo": "인턴",
+      "vyslovnost": "inteon",
+      "cs": "stážista, stáž",
+      "en": "intern",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "방학{에} 회사{에서} 인턴{으로} 일할까 해요.",
+      "priklad_cs": "O prázdninách asi budu dělat stážistu ve firmě. (에 → kdy; 에서 → kde; 으로 → jako + 1. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "intern"
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0033",
+      "tema": "plány",
+      "slovo": "운전",
+      "vyslovnost": "unjeon",
+      "cs": "řízení (auta)",
+      "en": "driving",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "아직 운전면허증{이} 없어서 운전{을} 꼭 배우고 싶어요.",
+      "priklad_cs": "Ještě nemám řidičák, tak se chci určitě naučit řídit. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "運 pohybovat + 轉 otáčet = točit volantem a jet.",
+      "koreny": [
+        "un-運",
+        "jeon-轉"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0034",
+      "tema": "plány",
+      "slovo": "면허증",
+      "alternativy": [
+        "면허"
+      ],
+      "vyslovnost": "myeonheojeung",
+      "vyslov_hangul": "면허쯩",
+      "cs": "průkaz, licence",
+      "en": "license",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "작년{에} 운전면허증{을} 땄어요.",
+      "priklad_cs": "Loni jsem si udělal řidičák. (에 → kdy; 을 → 4. pád)",
+      "mnemo": "免 osvobodit + 許 povolit + 證 doklad = doklad o povolení. 운전면허(증) = řidičák.",
+      "koreny": [
+        "myeon-免",
+        "heo-許",
+        "jeung-證"
+      ],
+      "rodina": [
+        "운전면허"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0035",
+      "tema": "plány",
+      "slovo": "자격증",
+      "vyslovnost": "jagyeokjeung",
+      "vyslov_hangul": "자격쯩",
+      "cs": "certifikát, osvědčení o kvalifikaci",
+      "en": "certificate",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "민우 씨{는} 작년{에} 컴퓨터 자격증{을} 땄어요.",
+      "priklad_cs": "Minu loni získal počítačový certifikát. (는 → téma; 에 → kdy; 을 → 4. pád)",
+      "mnemo": "資 kvalifikace + 格 úroveň + 證 doklad = doklad o kvalifikaci.",
+      "koreny": [
+        "ja-資",
+        "gyeok-格",
+        "jeung-證"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0036",
+      "tema": "plány",
+      "slovo": "따다",
+      "vyslovnost": "ttada",
+      "cs": "získat (zkouškou: řidičák, certifikát)",
+      "en": "to get certified",
+      "cs_upresneni": "získat (průkaz, certifikát)",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "면허{를} 따면 멋진 차{도} 사고 싶어요.",
+      "priklad_cs": "Až si udělám řidičák, chci si koupit i pěkné auto. (를 → 4. pád; 도 → také)",
+      "mnemo": "„TA-DÁ!“ – fanfára, máš řidičák. Základní význam je „utrhnout (ovoce)“: utrhneš si certifikát.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "따다",
+          "따요",
+          "땄어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0037",
+      "tema": "plány",
+      "slovo": "마련하다",
+      "vyslovnost": "maryeonhada",
+      "cs": "opatřit si, pořídit (byt, peníze)",
+      "en": "to prepare",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "열심히 돈{을} 모아서 집{을} 마련할까 해요.",
+      "priklad_cs": "Asi budu pilně šetřit a pořídím si byt. (을 → 4. pád)",
+      "mnemo": "„MARIÓN“ si konečně pořídila vlastní byt.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "마련하다",
+          "마련해요",
+          "마련했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0038",
+      "tema": "škola",
+      "slovo": "유학",
+      "vyslovnost": "yuhak",
+      "cs": "studium v zahraničí",
+      "en": "studying abroad",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "내년{에} 미국{으로} 유학{을} 갈까 해요.",
+      "priklad_cs": "Příští rok asi pojedu studovat do Ameriky. (에 → kdy; 으로 → kam; 을 → 4. pád)",
+      "mnemo": "留 pobývat + 學 učení = pobývat jinde kvůli studiu.",
+      "koreny": [
+        "yu-留",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0039",
+      "tema": "škola",
+      "slovo": "어학연수",
+      "vyslovnost": "eohangnyeonsu",
+      "vyslov_hangul": "어항년수",
+      "cs": "jazykový pobyt (v zahraničí)",
+      "en": "language study abroad",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한국어 공부{를} 위해서 내년{에} 한국{으로} 어학연수{를} 갈 거예요.",
+      "priklad_cs": "Kvůli korejštině pojedu příští rok na jazykový pobyt do Koreje. (를 → 4. pád; 에 → kdy; 으로 → kam)",
+      "mnemo": "語 jazyk + 學 učení + 硏 zkoumat + 修 zdokonalovat = zdokonalování v jazyce.",
+      "koreny": [
+        "eo-語",
+        "hak-學",
+        "yeon-硏",
+        "su-修"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0040",
+      "tema": "volný čas",
+      "slovo": "헬스클럽",
+      "alternativy": [
+        "헬스장"
+      ],
+      "vyslovnost": "helseukeulleop",
+      "cs": "posilovna, fitko",
+      "en": "gym",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다음 달{부터} 헬스클럽{에} 등록할까 해요.",
+      "priklad_cs": "Od příštího měsíce se asi přihlásím do posilovny. (부터 → od; 에 → kam)",
+      "mnemo": "Z angl. health club; korejsky 헬스 = posilování.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "health club"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0041",
+      "tema": "škola",
+      "slovo": "학원",
+      "vyslovnost": "hagwon",
+      "vyslov_hangul": "하권",
+      "cs": "soukromá škola, kurzy (hagwon)",
+      "en": "private educational institute",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 컴퓨터 학원{에} 다니고 있어요.",
+      "priklad_cs": "Teď chodím na počítačový kurz. (에 → kam)",
+      "mnemo": "學 učení + 院 ústav = učební ústav.",
+      "koreny": [
+        "hak-學",
+        "won-院"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0042",
+      "tema": "škola",
+      "slovo": "등록",
+      "vyslovnost": "deungnok",
+      "vyslov_hangul": "등녹",
+      "cs": "zápis, registrace",
+      "en": "to enroll",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요가 학원{에} 등록했어요.",
+      "priklad_cs": "Zapsal jsem se na jógu. (에 → kam: do/na)",
+      "mnemo": "登 zapsat se + 錄 záznam = zapsat do záznamu.",
+      "koreny": [
+        "deung-登",
+        "rok-錄"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0043",
+      "tema": "škola",
+      "slovo": "학업",
+      "vyslovnost": "hageop",
+      "vyslov_hangul": "하겁",
+      "cs": "studium, studijní povinnosti",
+      "en": "study",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "학업{을} 마치고 취직하고 싶어요.",
+      "priklad_cs": "Chci dokončit studium a najít si práci. (을 → 4. pád)",
+      "mnemo": "學 učení + 業 dílo = práce na studiu.",
+      "koreny": [
+        "hak-學",
+        "eop-業"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0044",
+      "tema": "plány",
+      "slovo": "본격적",
+      "vyslovnost": "bongyeokjeok",
+      "vyslov_hangul": "본껵쩍",
+      "cs": "pořádný, naplno (본격적으로 = naplno, vážně)",
+      "en": "in earnest",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다음 주{부터} 본격적으로 다이어트{를} 시작해요.",
+      "priklad_cs": "Od příštího týdne začínám s dietou naplno. (부터 → od; 를 → 4. pád)",
+      "mnemo": "本 základ + 格 úroveň + 的 -ový = podle pravidel, naostro.",
+      "koreny": [
+        "bon-本",
+        "gyeok-格",
+        "jeok-的"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0045",
+      "tema": "práce",
+      "slovo": "여행사",
+      "vyslovnost": "yeohaengsa",
+      "cs": "cestovní kancelář",
+      "en": "travel agency",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 한국 여행사{에} 취직할까 해요.",
+      "priklad_cs": "Asi se nechám zaměstnat v korejské cestovce. (는 → téma; 에 → kam)",
+      "mnemo": "旅行 cestování + 社 firma = cestovní firma.",
+      "koreny": [
+        "yeo-旅",
+        "haeng-行",
+        "sa-社"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0046",
+      "tema": "gramatika",
+      "slovo": "-(으)ㄹ까 하다",
+      "vyslovnost": "-(eu)lkka hada",
+      "cs": "asi (něco) udělám, uvažuju, že…",
+      "en": "I'm thinking of doing…",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "이번 주말{에는} 집{에서} 책{을} 좀 읽을까 해요.",
+      "priklad_cs": "Tenhle víkend si asi doma trochu počtu. (에는 → kdy + důraz; 에서 → kde; 을 → 4. pád)",
+      "mnemo": "Nejistý záměr, ne pevné rozhodnutí. Po souhlásce -을까 (읽을까), po samohlásce -ㄹ까 (갈까).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

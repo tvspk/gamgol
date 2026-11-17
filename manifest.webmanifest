@@ -1,0 +1,21 @@
+{
+ "name": "Gamgol Substation",
+ "short_name": "Gamgol",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#e9e0c8",
+ "theme_color": "#28475b",
+ "icons": [
+  {
+   "src": "web/site/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "web/site/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

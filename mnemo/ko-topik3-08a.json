@@ -1,0 +1,476 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 8 한국어로 할 수 있는 즐거운 활동들을 찾아보는 게 어때? – textbook s. 76–77 (Part 1 어휘 + 표현 -을지/-ㄹ지) + 새로 나온 어휘 s. 81 (늘다) + přepis poslechu (s. 153) + 어휘 색인; workbook 3-2 s. 10 (어휘 연습)",
+  "karty": [
+    {
+      "id": "ko-topik3-0561",
+      "tema": "kariéra",
+      "slovo": "적성",
+      "vyslovnost": "jeokseong",
+      "vyslov_hangul": "적썽",
+      "cs": "vlohy, předpoklady (k práci, oboru)",
+      "en": "aptitude",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어떤 일{이} 제 적성{에} 맞는지 잘 모르겠어요.",
+      "priklad_cs": "Nevím, jaká práce odpovídá mým vlohám. (이 → 1. pád; 에 → k čemu)",
+      "mnemo": "適 hodit se + 性 povaha = povaha, které se něco hodí. 적성에 맞다 = sedět (komu) podle vloh.",
+      "koreny": [
+        "jeok-適",
+        "seong-性"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0583",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0562",
+      "tema": "kariéra",
+      "slovo": "전망",
+      "vyslovnost": "jeonmang",
+      "cs": "vyhlídky, perspektiva; výhled",
+      "en": "prospect",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "전공{을} 선택할 때 전망{이} 좋은 분야{를} 선택해요.",
+      "priklad_cs": "Když si vybírám obor, volím takový, který má dobré vyhlídky. (을, 를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "展 rozvinout + 望 vyhlížet = vyhlížet, kam se to rozvine. 전망이 좋다 = mít dobré vyhlídky (i „hezký výhled“).",
+      "koreny": [
+        "jeon-展",
+        "mang-望"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0585",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0563",
+      "tema": "kariéra",
+      "slovo": "재능",
+      "vyslovnost": "jaeneung",
+      "cs": "talent, nadání",
+      "en": "talent",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "난 한국어{에} 재능{이} 없나 봐.",
+      "priklad_cs": "Asi nemám na korejštinu talent. (에 → na co; 이 → 1. pád)",
+      "mnemo": "才 nadání + 能 schopnost. ~에 재능이 있다 = mít talent na…",
+      "koreny": [
+        "jae-才",
+        "neung-能"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0564",
+      "tema": "práce",
+      "slovo": "근무",
+      "vyslovnost": "geunmu",
+      "cs": "práce, služba (v zaměstnání)",
+      "en": "work",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "우리 회사{는} 복지{나} 근무 환경{이} 정말 좋아요.",
+      "priklad_cs": "Naše firma má opravdu dobré benefity i pracovní prostředí. (는 → téma; 나 → nebo; 이 → 1. pád)",
+      "mnemo": "勤 pilný + 務 povinnost = plnit povinnosti v práci. 근무 환경 = pracovní prostředí, 근무 시간 = pracovní doba.",
+      "koreny": [
+        "geun-勤",
+        "mu-務"
+      ],
+      "rodina": [
+        "근무 환경",
+        "근무 시간"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0565",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0565",
+      "tema": "práce",
+      "slovo": "환경",
+      "vyslovnost": "hwangyeong",
+      "cs": "prostředí; životní prostředí",
+      "en": "environment",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "근무 환경{이} 좋은 회사{에서} 일하고 싶어요.",
+      "priklad_cs": "Chci pracovat ve firmě s dobrým pracovním prostředím. (이 → 1. pád; 에서 → kde)",
+      "mnemo": "環 kruh, obklopit + 境 hranice = to, co tě obklopuje. Rejstřík uvádí „natural environment“, v kapitole jde o 근무 환경.",
+      "koreny": [
+        "hwan-環",
+        "gyeong-境"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0564",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0566",
+      "tema": "kariéra",
+      "slovo": "안정성",
+      "vyslovnost": "anjeongseong",
+      "vyslov_hangul": "안정썽",
+      "cs": "stabilita, jistota (zaměstnání)",
+      "en": "stability",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "그 회사{에서} 오랫동안 일할 수 있는지 안정성{도} 확인해야 해요.",
+      "priklad_cs": "Musím si ověřit i stabilitu, jestli v té firmě můžu dlouho pracovat. (에서 → kde; 도 → i)",
+      "mnemo": "安 klid + 定 stanovit + 性 vlastnost = vlastnost být v klidu a pevně daný.",
+      "koreny": [
+        "an-安",
+        "jeong-定",
+        "seong-性"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0608",
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0567",
+      "tema": "kariéra",
+      "slovo": "인지도",
+      "vyslovnost": "injido",
+      "cs": "povědomost, známost (firmy, značky)",
+      "en": "awareness",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 인지도{가} 높은 회사{에서} 일하고 싶어요.",
+      "priklad_cs": "Chci pracovat ve známé firmě. (는 → téma; 가 → 1. pád; 에서 → kde)",
+      "mnemo": "認 uznat + 知 vědět + 度 míra = míra, do jaké o tom lidé vědí. 인지도가 높다 = být známý.",
+      "koreny": [
+        "in-認",
+        "ji-知",
+        "do-度"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0568",
+      "tema": "kariéra",
+      "slovo": "꿈",
+      "vyslovnost": "kkum",
+      "cs": "sen; životní cíl",
+      "en": "dream",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "제 꿈{은} 한국어 선생님{이} 되는 거예요.",
+      "priklad_cs": "Mým snem je stát se učitelem korejštiny. (은 → téma; 이 → 1. pád u 되다 „stát se“)",
+      "mnemo": "„KUM“ – v KUMbále sníš o budoucnosti. 꿈을 이루다 = splnit si sen, 꿈을 꾸다 = snít.",
+      "rodina": [
+        "꿈꾸다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0569",
+      "tema": "práce",
+      "slovo": "복지",
+      "vyslovnost": "bokji",
+      "vyslov_hangul": "복찌",
+      "cs": "sociální zabezpečení; zaměstnanecké výhody",
+      "en": "welfare",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 돈보다{는} 보험{이나} 연금 같은 복지{가} 더 중요해요.",
+      "priklad_cs": "Pro mě jsou důležitější výhody jako pojištění nebo penze než peníze. (는 → téma; 보다는 → než; 이나 → nebo; 가 → 1. pád)",
+      "mnemo": "福 štěstí + 祉 blaho = blahobyt. U firmy = benefity, ve státě = sociální systém.",
+      "koreny": [
+        "bok-福",
+        "ji-祉"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0609",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0570",
+      "tema": "škola",
+      "slovo": "전공",
+      "vyslovnost": "jeongong",
+      "cs": "obor studia, hlavní předmět",
+      "en": "major",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "대학{에} 가면 뭘 전공할지 아직 모르겠어요.",
+      "priklad_cs": "Ještě nevím, co budu na vysoké studovat. (에 → kam)",
+      "mnemo": "專 výhradní + 攻 útočit = soustředěně se do něčeho pustit. 전공하다 = studovat (obor). Je i ve workbooku (어휘 확장).",
+      "koreny": [
+        "jeon-專",
+        "gong-攻"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0571",
+      "tema": "práce",
+      "slovo": "급여",
+      "vyslovnost": "geubyeo",
+      "vyslov_hangul": "그벼",
+      "cs": "plat, mzda",
+      "en": "salary",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "하고 싶은 일{은} 급여{가} 너무 적어요.",
+      "priklad_cs": "Práce, kterou chci dělat, je moc špatně placená. (은 → téma; 가 → 1. pád)",
+      "mnemo": "給 dávat + 與 dát = co ti firma dává. Úřednější než 월급.",
+      "koreny": [
+        "geup-給",
+        "yeo-與"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0572",
+      "tema": "kariéra",
+      "slovo": "흥미",
+      "vyslovnost": "heungmi",
+      "cs": "zájem, zalíbení",
+      "en": "interest",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 요리{에} 흥미{가} 있어서 요리사{가} 되고 싶어요.",
+      "priklad_cs": "Baví mě vaření, tak se chci stát kuchařem. (는 → téma; 에 → o co; 가 → 1. pád; 가 → 1. pád u 되다)",
+      "mnemo": "興 povznést + 味 chuť = chuť do něčeho. V učebnici dvojice 흥미/관심; 흥미롭다 = zajímavý.",
+      "koreny": [
+        "heung-興",
+        "mi-味"
+      ],
+      "rodina": [
+        "흥미롭다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0573",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0573",
+      "tema": "kariéra",
+      "slovo": "관심",
+      "vyslovnost": "gwansim",
+      "cs": "zájem (o něco)",
+      "en": "interest",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "저{는} 한국 문화{에} 관심{이} 많아요.",
+      "priklad_cs": "Velmi se zajímám o korejskou kulturu. (는 → téma; 에 → o co; 이 → 1. pád)",
+      "mnemo": "關 spojení + 心 srdce = srdce spojené s něčím. ~에 관심이 있다 = zajímat se o…",
+      "koreny": [
+        "gwan-關",
+        "sim-心"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0572",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0574",
+      "tema": "kariéra",
+      "slovo": "미래",
+      "vyslovnost": "mirae",
+      "cs": "budoucnost",
+      "en": "future",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "미래{를} 위해 지금 외국어{를} 공부하고 있어요.",
+      "priklad_cs": "Kvůli budoucnosti se teď učím cizí jazyk. (를 → 4. pád; 를 위해 → kvůli, pro)",
+      "mnemo": "未 ještě ne + 來 přijít = to, co ještě nepřišlo.",
+      "koreny": [
+        "mi-未",
+        "rae-來"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0578",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0575",
+      "tema": "kariéra",
+      "slovo": "분야",
+      "vyslovnost": "bunya",
+      "vyslov_hangul": "부냐",
+      "cs": "obor, oblast",
+      "en": "field",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "로봇 분야{가} 전망{이} 좋은 것 같아요.",
+      "priklad_cs": "Zdá se, že robotika má dobré vyhlídky. (가, 이 → 1. pád)",
+      "mnemo": "分 dělit + 野 pole = oddělené pole činnosti.",
+      "koreny": [
+        "bun-分",
+        "ya-野"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0576",
+      "tema": "kariéra",
+      "slovo": "선택",
+      "vyslovnost": "seontaek",
+      "cs": "výběr, volba",
+      "en": "choice",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "대학 진학{을} 해야 하는데 전공 선택{을} 하기 어려워요.",
+      "priklad_cs": "Musím jít na vysokou, ale je těžké vybrat si obor. (을 → 4. pád)",
+      "mnemo": "選 vybrat + 擇 zvolit. 선택하다 = vybrat si.",
+      "koreny": [
+        "seon-選",
+        "taek-擇"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0577",
+      "tema": "kariéra",
+      "slovo": "영향",
+      "vyslovnost": "yeonghyang",
+      "cs": "vliv",
+      "en": "influence",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "대학 전공{은} 직업{까지} 영향{을} 줄 가능성{이} 높아요.",
+      "priklad_cs": "Obor na vysoké může ovlivnit i budoucí povolání. (은 → téma; 까지 → až po, i; 을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "影 stín + 響 ozvěna = stín a ozvěna, které věc vrhá kolem sebe. 영향을 주다 = ovlivnit, 영향을 받다 = být ovlivněn.",
+      "koreny": [
+        "yeong-影",
+        "hyang-響"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0578",
+      "tema": "kariéra",
+      "slovo": "달리다",
+      "vyslovnost": "dallida",
+      "cs": "záviset (na čem)",
+      "en": "to depend on",
+      "cs_upresneni": "záviset, viset na (~에 달리다), ne „běžet“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "미래{가} 달린 일이니까 한번 신중하게 생각해 보세요.",
+      "priklad_cs": "Jde o věc, na které závisí vaše budoucnost, tak si to dobře rozmyslete. (가 → 1. pád)",
+      "mnemo": "Doslova „viset“: budoucnost na tom visí. ~에 달려 있다 = záviset na… Pozor: stejně znějící 달리다 = běžet.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "달리다",
+          "달려요",
+          "달렸어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0574",
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0579",
+      "tema": "gramatika",
+      "slovo": "-(으)ㄹ지 (알다/모르다)",
+      "vyslovnost": "-(eu)lji (alda/moreuda)",
+      "cs": "(ne)vím, zda / co / kdy …",
+      "en": "(not) know whether / what …",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "아직 뭘 전공할지 모르겠어요. 제 적성{을} 모르겠어서요.",
+      "priklad_cs": "Ještě nevím, co budu studovat. Neznám svoje vlohy. (을 → 4. pád)",
+      "mnemo": "Nepřímá otázka + 알다/모르다 (궁금하다). Po souhlásce -을지 (맞을지), po samohlásce a ㄹ -ㄹ지 (할지, 만들지). Nepravidelná: 맵다 → 매울지, 붓다 → 부을지.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0580",
+      "tema": "škola",
+      "slovo": "늘다",
+      "vyslovnost": "neulda",
+      "cs": "zlepšit se, přibýt",
+      "en": "to improve, to increase",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "다른 친구들{은} 실력{이} 빨리 느는 것 같아요.",
+      "priklad_cs": "Zdá se mi, že ostatní se zlepšují rychle. (은 → téma; 이 → 1. pád)",
+      "mnemo": "„NE, ULŽ dost“ – a stejně pořád přibývá. 실력이 늘다 = zlepšit se. Opak 줄다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "늘다",
+          "늘어요",
+          "늘었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

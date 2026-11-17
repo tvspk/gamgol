@@ -1,0 +1,611 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 14 Part 1 – textbook s. 124–125 (어휘, 표현 -아도/-어도/-여도), s. 128–129 + přepis poslechu s. 158–159 + 어휘 색인; workbook 3-2 s. 70 (어휘 연습)",
+  "karty": [
+    {
+      "id": "ko-topik3-0986",
+      "tema": "starosti",
+      "slovo": "고민",
+      "vyslovnost": "gomin",
+      "cs": "starost, trápení; dumání (nad problémem)",
+      "en": "worry",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "남자 친구{하고} 성격{이} 안 맞아서 어떻게 해야 할지 고민이에요.",
+      "priklad_cs": "S přítelem si povahově nesedíme a trápím se, co s tím dělat. (하고 → s + 7. pád; 이 → 1. pád)",
+      "mnemo": "苦 hořký, trápení + 悶 tíseň = hořká tíseň v hlavě. 고민하다 = lámat si hlavu, 고민이 있다 = mít starost, 고민거리 = věc, která trápí.",
+      "koreny": [
+        "go-苦",
+        "min-悶"
+      ],
+      "rodina": [
+        "고민거리"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0987",
+      "tema": "starosti",
+      "slovo": "경제생활",
+      "alternativy": [
+        "경제 생활"
+      ],
+      "vyslovnost": "gyeongjesaenghwal",
+      "cs": "hospodaření, finanční život",
+      "en": "economic life",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 제 고민{은} 주로 경제생활{에} 관한 거예요.",
+      "priklad_cs": "Moje starosti se teď týkají hlavně peněz. (은 → téma; 에 관한 → týkající se)",
+      "mnemo": "經濟 ekonomika + 生活 život = život z hlediska peněz. V učebnici jedna z kategorií starostí: 성격, 인간관계, 학업과 진로, 경제생활, 건강, 외모.",
+      "koreny": [
+        "gyeong-經",
+        "je-濟",
+        "saeng-生",
+        "hwal-活"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0936",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0988",
+      "tema": "vztahy",
+      "slovo": "인간관계",
+      "alternativy": [
+        "인간 관계"
+      ],
+      "vyslovnost": "ingangwangye",
+      "cs": "mezilidské vztahy",
+      "en": "human relationship",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "회사{에서} 인간관계{가} 제일 어려워요.",
+      "priklad_cs": "V práci jsou pro mě nejtěžší vztahy s lidmi. (에서 → kde; 가 → 1. pád)",
+      "mnemo": "人間 člověk (人 člověk + 間 mezi) + 關係 vztah (關 spojení + 係 vázat). Doslova „vazby mezi lidmi“.",
+      "koreny": [
+        "in-人",
+        "gan-間",
+        "gwan-關",
+        "gye-係"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0989",
+      "tema": "vzhled",
+      "slovo": "외모",
+      "vyslovnost": "oemo",
+      "cs": "vzhled, zevnějšek",
+      "en": "appearance",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "10대{는} 키{나} 외모{에} 대한 고민{이} 많아요.",
+      "priklad_cs": "Náctiletí se hodně trápí kvůli výšce a vzhledu. (는 → téma; 나 → nebo; 에 대한 → o; 이 → 1. pád)",
+      "mnemo": "外 venek + 貌 podoba = vnější podoba. Srovnej 외식, 외국 (外 = venek).",
+      "koreny": [
+        "oe-外",
+        "mo-貌"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0990",
+      "tema": "povaha",
+      "slovo": "성격",
+      "vyslovnost": "seonggyeok",
+      "vyslov_hangul": "성껵",
+      "cs": "povaha, charakter",
+      "en": "personality, character",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "저{는} 사람들{과} 잘 어울리지 못하는 성격이에요.",
+      "priklad_cs": "Mám povahu, že se špatně stýkám s lidmi. (는 → téma; 과 → s + 7. pád)",
+      "mnemo": "性 povaha + 格 míra, úroveň = „rozměr povahy“. Výslovnost [성껵]. 성격이 좋다 = mít dobrou povahu.",
+      "koreny": [
+        "seong-性",
+        "gyeok-格"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0997",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0991",
+      "tema": "škola",
+      "slovo": "성적",
+      "vyslovnost": "seongjeok",
+      "cs": "známky, studijní výsledky",
+      "en": "grade",
+      "cs_upresneni": "známky, výsledky (ve škole)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "아무리 노력해도 시험 성적{이} 오르지 않아요.",
+      "priklad_cs": "Ať se snažím sebevíc, výsledky testů se nezlepšují. (이 → 1. pád)",
+      "mnemo": "成 dosáhnout + 績 výsledek, zásluha = čeho jsi dosáhl. 성적이 오르다 = zlepšit se, 성적이 떨어지다 = zhoršit se.",
+      "koreny": [
+        "seong-成",
+        "jeok-績"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0992",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0992",
+      "tema": "škola",
+      "slovo": "성적이 떨어지다",
+      "vyslovnost": "seongjeogi tteoreojida",
+      "vyslov_hangul": "성저기 떠러지다",
+      "cs": "zhoršit se ve škole (klesnou známky)",
+      "en": "grades drop",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "공부{를} 열심히 안 해서 지난 학기{보다} 성적{이} 떨어졌어요.",
+      "priklad_cs": "Neučil jsem se pořádně, tak mám horší známky než minulý semestr. (를 → 4. pád; 보다 → než; 이 → 1. pád)",
+      "mnemo": "떨어지다 = spadnout: známky „spadly“. Opak 성적이 오르다.",
+      "koreny": [
+        "seong-成",
+        "jeok-績"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "성적이 떨어지다",
+          "성적이 떨어져요",
+          "성적이 떨어졌어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0991",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0993",
+      "tema": "kariéra",
+      "slovo": "진로",
+      "vyslovnost": "jillo",
+      "vyslov_hangul": "질로",
+      "cs": "budoucí dráha, směr (studia, kariéry)",
+      "en": "course, career path",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "학교 진로 상담실{에} 상담 신청{을} 한번 해 보지 그래?",
+      "priklad_cs": "Co kdyby ses objednal na konzultaci do školní kariérní poradny? (에 → kam; 을 → 4. pád)",
+      "mnemo": "進 postupovat + 路 cesta = cesta, po které půjdeš dál. Výslovnost [질로] (ㄴ+ㄹ → ㄹㄹ).",
+      "koreny": [
+        "jin-進",
+        "ro-路"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-1039",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0994",
+      "tema": "povaha",
+      "slovo": "인내심",
+      "vyslovnost": "innaesim",
+      "cs": "trpělivost, vytrvalost",
+      "en": "patience",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "전 인내심{이} 좀 부족한 편이에요.",
+      "priklad_cs": "Jsem spíš málo trpělivý. (이 → 1. pád)",
+      "mnemo": "忍 snášet + 耐 vydržet + 心 srdce = srdce, které vydrží. 인내심이 부족하다 = mít málo trpělivosti, 인내심이 강하다 = být velmi trpělivý.",
+      "koreny": [
+        "in-忍",
+        "nae-耐",
+        "sim-心"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0294",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0995",
+      "tema": "zdraví",
+      "slovo": "불면증",
+      "vyslovnost": "bulmyeonjeung",
+      "vyslov_hangul": "불면쯩",
+      "cs": "nespavost",
+      "en": "insomnia",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 커피{를} 자주 마셔서 밤{에} 불면증{이} 심해졌어요.",
+      "priklad_cs": "Teď piju často kávu, tak se mi v noci zhoršila nespavost. (를 → 4. pád; 에 → kdy; 이 → 1. pád)",
+      "mnemo": "不 ne + 眠 spát + 症 příznak, nemoc = nemoc „nespaní“. Výslovnost [불면쯩]. 불면증이 심하다 = trpět silnou nespavostí.",
+      "koreny": [
+        "bul-不",
+        "myeon-眠",
+        "jeung-症"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0296",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0996",
+      "tema": "vztahy",
+      "slovo": "어울리다",
+      "vyslovnost": "eoullida",
+      "cs": "stýkat se, vycházet (s lidmi), zapadnout mezi ně",
+      "en": "to associate (with), to get along",
+      "cs_upresneni": "stýkat se, vycházet s lidmi (~와/과 어울리다), ne „slušet“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "전 사람들{과} 잘 어울리지 못하는 성격이라서 고민이에요.",
+      "priklad_cs": "Trápí mě, že se svou povahou neumím dobře vycházet s lidmi. (과 → s + 7. pád)",
+      "mnemo": "Základ „spojit se dohromady“. S lidmi (~와 어울리다) = stýkat se; s věcí (~에게 어울리다) = slušet, hodit se: 그 옷이 잘 어울려요.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "어울리다",
+          "어울려요",
+          "어울렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0997",
+      "tema": "vztahy",
+      "slovo": "성격이 안 맞다",
+      "alternativy": [
+        "성격이 맞지 않다"
+      ],
+      "vyslovnost": "seonggyeogi an matda",
+      "vyslov_hangul": "성껴기 안 맏따",
+      "cs": "povahově si nesedět",
+      "en": "to have incompatible personalities",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "남자 친구{하고} 자꾸 싸우는 걸 보면 성격{이} 정말 안 맞는 것 같아요.",
+      "priklad_cs": "Když vidím, jak se s přítelem pořád hádáme, asi si povahově opravdu nesedíme. (하고 → s + 7. pád; 이 → 1. pád)",
+      "mnemo": "맞다 = sedět, pasovat (jako klíč do zámku). 성격이 잘 맞다 = rozumět si povahově.",
+      "koreny": [
+        "seong-性",
+        "gyeok-格"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "성격이 안 맞다",
+          "성격이 안 맞아요",
+          "성격이 안 맞았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-1041",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0998",
+      "tema": "povaha",
+      "slovo": "성격이 급하다",
+      "vyslovnost": "seonggyeogi geupada",
+      "vyslov_hangul": "성껴기 그파다",
+      "cs": "být netrpělivý, zbrklý (povahou)",
+      "en": "to be impatient, hasty",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "전 시험{을} 볼 때 성격{이} 급해서 실수{가} 많아요.",
+      "priklad_cs": "Při testech jsem zbrklý, a tak dělám hodně chyb. (을 → 4. pád; 이, 가 → 1. pád)",
+      "mnemo": "急 naléhavý: povaha, která pořád spěchá. Pozor, samotné 급하다 = naléhavý, spěšný (급한 일).",
+      "koreny": [
+        "seong-性",
+        "gyeok-格",
+        "geup-急"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "성격이 급하다",
+          "성격이 급해요",
+          "성격이 급했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0179",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0999",
+      "tema": "práce",
+      "slovo": "적응",
+      "vyslovnost": "jeogeung",
+      "vyslov_hangul": "저긍",
+      "cs": "přizpůsobení, adaptace",
+      "en": "adaptation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "회사 생활{에} 적응하기{가} 힘들어요.",
+      "priklad_cs": "Je pro mě těžké zvyknout si na život ve firmě. (에 → na co; 가 → 1. pád)",
+      "mnemo": "適 hodit se + 應 odpovídat = odpovědět tak, aby to sedělo. ~에 적응하다 = přizpůsobit se čemu. Výslovnost [저긍].",
+      "koreny": [
+        "jeok-適",
+        "eung-應"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1000",
+      "tema": "práce",
+      "slovo": "일이 잘되지 않다",
+      "alternativy": [
+        "일이 잘 안되다",
+        "일이 잘 안 되다"
+      ],
+      "vyslovnost": "iri jaldoeji anta",
+      "vyslov_hangul": "이리 잘되지 안타",
+      "cs": "nedaří se (práce, věci)",
+      "en": "things don't go well",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "걱정거리{가} 많아서 회사{에서} 일{이} 잘되지 않아요.",
+      "priklad_cs": "Mám hodně starostí, tak se mi v práci nedaří. (가 → 1. pád; 에서 → kde; 이 → 1. pád)",
+      "mnemo": "잘되다 = dobře se dařit (jedno slovo, píše se dohromady). 사업이 잘돼요 = podnikání se daří.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "일이 잘되지 않다",
+          "일이 잘되지 않아요",
+          "일이 잘되지 않았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-1047",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1001",
+      "tema": "pocity",
+      "slovo": "속상하다",
+      "vyslovnost": "soksanghada",
+      "vyslov_hangul": "속쌍하다",
+      "cs": "být rozmrzelý, mrzet (koho)",
+      "en": "to be upset, distressed",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "자꾸 아는 문제{를} 틀려서 속상해요.",
+      "priklad_cs": "Mrzí mě, že pořád kazím otázky, které umím. (를 → 4. pád)",
+      "mnemo": "속 nitro + 傷 zranit = zraněné nitro. Výslovnost [속쌍하다]. Lehčí než 슬프다: mrzí tě to, štve tě to.",
+      "koreny": [
+        "sang-傷"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "속상하다",
+          "속상해요",
+          "속상했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1002",
+      "tema": "škola",
+      "slovo": "틀리다",
+      "vyslovnost": "teullida",
+      "cs": "být špatně, splést se (v odpovědi)",
+      "en": "to be wrong",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "문제{를} 꼼꼼하게 읽지 않아서 또 틀렸어요.",
+      "priklad_cs": "Nepřečetl jsem si zadání pořádně, a tak jsem to zase pokazil. (를 → 4. pád)",
+      "mnemo": "Opak 맞다 (být správně). 문제를 틀리다 = udělat chybu v úloze. Pozor na 다르다 (být jiný) – Korejci je hovorově pletou.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "틀리다",
+          "틀려요",
+          "틀렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1003",
+      "tema": "gramatika",
+      "slovo": "-아도/-어도/-여도",
+      "alternativy": [
+        "-아도",
+        "-어도",
+        "-여도"
+      ],
+      "vyslovnost": "-ado/-eodo/-yeodo",
+      "cs": "i když, ačkoli, ať (… sebevíc)",
+      "en": "even if, even though",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "아무리 비싸도 친환경 제품{을} 사고 싶어요.",
+      "priklad_cs": "I kdyby to bylo sebedražší, chci kupovat ekologické výrobky. (을 → 4. pád)",
+      "mnemo": "První situace neovlivní druhou. Tvoří se jako -아요/어요 + 도: 비싸다 → 비싸도, 힘들다 → 힘들어도, 급하다 → 급해도. S 아무리 = ať sebevíc.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1004",
+      "tema": "peníze",
+      "slovo": "목돈",
+      "vyslovnost": "mokdon",
+      "vyslov_hangul": "목똔",
+      "cs": "větší obnos peněz (naspořený)",
+      "en": "large sum of money",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "돈{을} 아껴 써도 목돈{을} 만들기{가} 어렵네요.",
+      "priklad_cs": "I když šetřím, je těžké našetřit větší částku. (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "Peníze pohromadě v jednom „balíku“. Výslovnost [목똔]. 목돈을 만들다 / 모으다 = našetřit větší sumu. Opak 푼돈 (drobné).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1005",
+      "tema": "bydlení",
+      "slovo": "마당",
+      "vyslovnost": "madang",
+      "cs": "dvůr, dvorek (u domu)",
+      "en": "yard",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "회사{에서} 좀 멀어도 마당{이} 있는 집{에서} 살고 싶어요.",
+      "priklad_cs": "Chci bydlet v domě s dvorkem, i kdyby to bylo trochu daleko od práce. (에서 → odkud, kde; 이 → 1. pád)",
+      "mnemo": "„MA DANG“ – MÁ DĚDA dvorek se psem. Venkovní prostor u domu, u hanoku uprostřed.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1006",
+      "tema": "práce",
+      "slovo": "보고서",
+      "vyslovnost": "bogoseo",
+      "cs": "zpráva, report (písemná)",
+      "en": "report",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "아무리 급해도 보고서 내용{은} 꼼꼼하게 확인해야 돼요.",
+      "priklad_cs": "Ať spěcháš sebevíc, obsah zprávy musíš pečlivě zkontrolovat. (은 → téma)",
+      "mnemo": "報告 hlášení (報 oznámit + 告 sdělit) + 書 písemnost. 보고서를 쓰다 / 작성하다 = sepsat zprávu.",
+      "koreny": [
+        "bo-報",
+        "go-告",
+        "seo-書"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1007",
+      "tema": "práce",
+      "slovo": "확인",
+      "vyslovnost": "hwagin",
+      "vyslov_hangul": "화긴",
+      "cs": "ověření, kontrola, potvrzení",
+      "en": "confirmation, check",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "보내기 전{에} 내용{을} 다시 한번 확인해 보세요.",
+      "priklad_cs": "Před odesláním si obsah ještě jednou zkontrolujte. (에 → kdy; 을 → 4. pád)",
+      "mnemo": "確 jistý + 認 uznat = ujistit se a uznat za správné. 확인하다 = ověřit. Výslovnost [화긴].",
+      "koreny": [
+        "hwak-確",
+        "in-認"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1008",
+      "tema": "starosti",
+      "slovo": "노력",
+      "vyslovnost": "noryeok",
+      "cs": "úsilí, snaha",
+      "en": "effort",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "운동{을} 시작한 지 두 달{이} 됐는데 꾸준히 노력하면 근육{이} 생길 거예요.",
+      "priklad_cs": "Cvičíš teprve dva měsíce, když se budeš soustavně snažit, svaly narostou. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "努 snažit se + 力 síla = vynaložit sílu. 노력하다 = snažit se. Cílové spojení 꾸준히 노력하다 = soustavně se snažit.",
+      "koreny": [
+        "no-努",
+        "ryeok-力"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0940",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1009",
+      "tema": "starosti",
+      "slovo": "찾아보다",
+      "vyslovnost": "chajaboda",
+      "vyslov_hangul": "차자보다",
+      "cs": "vyhledat, poohlédnout se (po čem)",
+      "en": "to search, to look for",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "너무 힘들면 다른 일{을} 찾아보는 게 좋을 것 같아.",
+      "priklad_cs": "Když je to moc těžké, asi by bylo dobré poohlédnout se po jiné práci. (을 → 4. pád)",
+      "mnemo": "찾다 hledat + -아 보다 zkusit = zkusit hledat. 인터넷에서 찾아보다 = vyhledat na internetu.",
+      "rodina": [
+        "찾다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "찾아보다",
+          "찾아봐요",
+          "찾아봤어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0587",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

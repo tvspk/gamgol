@@ -1,0 +1,381 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 7 본선에서 상을 탈 수 있었으면 좋겠어요 – textbook s. 64–65 (Part 1 어휘, -았/었/였으면 좋겠다) + 어휘 색인; workbook 3-1 s. 70",
+  "karty": [
+    {
+      "id": "ko-topik3-0499",
+      "tema": "soutěže a akce",
+      "slovo": "대회",
+      "vyslovnost": "daehoe",
+      "cs": "soutěž, turnaj",
+      "en": "contest",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "말하기 대회{에} 나가려고 신청서{를} 냈어요.",
+      "priklad_cs": "Podal jsem přihlášku, abych se zúčastnil řečnické soutěže. (에 → kam: do/na; 를 → 4. pád)",
+      "mnemo": "大 velký + 會 setkání = velké setkání, soutěž. 대회에 나가다 = jít do soutěže.",
+      "koreny": [
+        "dae-大",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0500",
+      "tema": "soutěže a akce",
+      "slovo": "예선",
+      "vyslovnost": "yeseon",
+      "cs": "předkolo, kvalifikace",
+      "en": "qualifying round",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어제 예선{을} 통과했어요.",
+      "priklad_cs": "Včera jsem prošel předkolem. (을 → 4. pád)",
+      "mnemo": "豫 předem + 選 výběr = předběžný výběr. 예선에 나가다 = jít do předkola. Opak 본선.",
+      "koreny": [
+        "ye-豫",
+        "seon-選"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0501",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0501",
+      "tema": "soutěže a akce",
+      "slovo": "본선",
+      "vyslovnost": "bonseon",
+      "cs": "finále, hlavní kolo",
+      "en": "main round, finals",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "본선{에서} 상{을} 탈 수 있었으면 좋겠어요.",
+      "priklad_cs": "Kéž bych mohl ve finále získat cenu. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "本 hlavní + 選 výběr = hlavní výběr. Opak 예선.",
+      "koreny": [
+        "bon-本",
+        "seon-選"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0500",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0502",
+      "tema": "soutěže a akce",
+      "slovo": "진출",
+      "vyslovnost": "jinchul",
+      "cs": "postup (do dalšího kola), proniknutí",
+      "en": "advance into",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "우리 팀{이} 본선{에} 진출했어요.",
+      "priklad_cs": "Náš tým postoupil do finále. (이 → 1. pád; 에 → kam)",
+      "mnemo": "進 postupovat + 出 vyjít = vyrazit kupředu. 본선에 진출하다 = postoupit do finále.",
+      "koreny": [
+        "jin-進",
+        "chul-出"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0503",
+      "tema": "soutěže a akce",
+      "slovo": "통과",
+      "vyslovnost": "tonggwa",
+      "cs": "projití (kolem, zkouškou), průjezd",
+      "en": "pass through",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "열심히 연습해서 예선{을} 통과했어요.",
+      "priklad_cs": "Pilně jsem trénoval, a tak jsem prošel předkolem. (을 → 4. pád)",
+      "mnemo": "通 projít + 過 minout = projít skrz. 예선을 통과하다 = projít předkolem.",
+      "koreny": [
+        "tong-通",
+        "gwa-過"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0504",
+      "tema": "soutěže a akce",
+      "slovo": "수상",
+      "vyslovnost": "susang",
+      "cs": "získání ceny, ocenění",
+      "en": "awarding",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이번 대회{에서} 수상{을} 하게 되면 한턱낼게요.",
+      "priklad_cs": "Jestli v téhle soutěži získám cenu, zvu vás. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "受 přijmout + 賞 cena = přijmout cenu. Formálnější než 상을 타다.",
+      "koreny": [
+        "su-受",
+        "sang-賞"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0505",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0505",
+      "tema": "soutěže a akce",
+      "slovo": "상을 타다",
+      "alternativy": [
+        "상을 받다"
+      ],
+      "vyslovnost": "sangeul tada",
+      "cs": "získat cenu",
+      "en": "to win a prize",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "이번 대회{에서} 상{을} 탔으면 좋겠어요.",
+      "priklad_cs": "Kéž bych v téhle soutěži získal cenu. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "賞 cena + 타다 dostat (přidělené; jinak 타다 = jet, nasednout). Stejně znějící 상 (床) = jídelní stolek.",
+      "koreny": [
+        "sang-賞"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "상을 타다",
+          "상을 타요",
+          "상을 탔어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0248",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0506",
+      "tema": "soutěže a akce",
+      "slovo": "부상",
+      "vyslovnost": "busang",
+      "cs": "doprovodná (věcná) cena",
+      "en": "extra prize (rejstřík: injury, wound)",
+      "cs_upresneni": "doprovodná cena (副賞), ne „zranění“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "케이팝 콘테스트{에서} 부상{으로} 비행기 표{를} 받았어요.",
+      "priklad_cs": "V K-popové soutěži jsem jako cenu dostal letenku. (에서 → kde; 으로 → jako; 를 → 4. pád)",
+      "mnemo": "副 vedlejší + 賞 cena = cena navíc k diplomu (상장). Stejně znějící 부상 (負傷) = zranění – tak heslo chybně překládá rejstřík textbooku.",
+      "koreny": [
+        "bu-副",
+        "sang-賞"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0299",
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0507",
+      "tema": "soutěže a akce",
+      "slovo": "신청서",
+      "vyslovnost": "sincheongseo",
+      "cs": "přihláška, formulář žádosti",
+      "en": "application form",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "홈페이지{에서} 신청서{를} 작성했어요.",
+      "priklad_cs": "Vyplnil jsem přihlášku na webu. (에서 → kde; 를 → 4. pád)",
+      "mnemo": "申請 žádost (申 vyjádřit + 請 prosit) + 書 písemnost. 신청하다 = přihlásit se.",
+      "koreny": [
+        "sin-申",
+        "cheong-請",
+        "seo-書"
+      ],
+      "rodina": [
+        "신청"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0508",
+      "tema": "soutěže a akce",
+      "slovo": "작성",
+      "vyslovnost": "jakseong",
+      "vyslov_hangul": "작썽",
+      "cs": "vyplnění, sepsání (dokumentu)",
+      "en": "to fill out",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "신청서{를} 다 작성했으니까 사무실{에} 제출할게요.",
+      "priklad_cs": "Přihlášku mám vyplněnou, tak ji odevzdám v kanceláři. (를 → 4. pád; 에 → kam)",
+      "mnemo": "作 dělat + 成 dokončit = vyhotovit. 신청서를 작성하다 = vyplnit přihlášku.",
+      "koreny": [
+        "jak-作",
+        "seong-成"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0509",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0509",
+      "tema": "soutěže a akce",
+      "slovo": "제출",
+      "vyslovnost": "jechul",
+      "cs": "odevzdání, předložení",
+      "en": "to submit",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "신청서{는} 금요일{까지} 제출해야 해요.",
+      "priklad_cs": "Přihlášku je třeba odevzdat do pátku. (는 → téma; 까지 → do)",
+      "mnemo": "提 předložit + 出 vydat = předložit a vydat z ruky.",
+      "koreny": [
+        "je-提",
+        "chul-出"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0508",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0510",
+      "tema": "soutěže a akce",
+      "slovo": "콘테스트",
+      "vyslovnost": "konteseuteu",
+      "cs": "soutěž (pěvecká, talentová)",
+      "en": "contest",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "케이팝 콘테스트{에} 나가고 싶어요.",
+      "priklad_cs": "Chci jít do K-popové soutěže. (에 → kam)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "contest"
+      },
+      "viz_tez": "ko-topik3-0499",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0511",
+      "tema": "soutěže a akce",
+      "slovo": "퀴즈",
+      "vyslovnost": "kwijeu",
+      "cs": "kvíz",
+      "en": "quiz",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "다음 주{에} 학당{에서} 한국어 퀴즈 대회{를} 해요.",
+      "priklad_cs": "Příští týden se v akademii koná kvíz z korejštiny. (에 → kdy; 에서 → kde; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "quiz"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0512",
+      "tema": "gramatika",
+      "slovo": "-았/었/였으면 좋겠다",
+      "vyslovnost": "-asseumyeon/-eosseumyeon/-yeosseumyeon joketda",
+      "cs": "kéž by…, bylo by fajn, kdyby…",
+      "en": "expresses one's current wish or desire",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "저{도} 할 수 있는 한국 요리{가} 있었으면 좋겠어요.",
+      "priklad_cs": "Kéž by existovalo korejské jídlo, které zvládnu i já. (도 → také; 가 → 1. pád)",
+      "mnemo": "Minulý tvar + -으면 좋겠다 = „bylo by dobré, kdyby“. Přání do budoucna, i když je tvar minulý: 날씨가 좋았으면 좋겠어요. Po ㅏ/ㅗ -았으면 (탔으면), jinak -었으면 (있었으면), 하다 → 했으면.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0513",
+      "tema": "čas",
+      "slovo": "연말",
+      "vyslovnost": "yeonmal",
+      "cs": "konec roku",
+      "en": "end of the year",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "연말{에는} 가족{과} 함께 여행{을} 갔으면 좋겠어요.",
+      "priklad_cs": "Na konci roku bych rád jel s rodinou na výlet. (에는 → kdy + důraz; 과 → s + 7. pád; 을 → 4. pád)",
+      "mnemo": "年 rok + 末 konec. Opak 연초 (začátek roku). Srovnej 송년.",
+      "koreny": [
+        "yeon-年",
+        "mal-末"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0529",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0514",
+      "tema": "soutěže a akce",
+      "slovo": "합격",
+      "vyslovnost": "hapgyeok",
+      "vyslov_hangul": "합껵",
+      "cs": "úspěch u zkoušky, přijetí",
+      "en": "pass",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "내일 운전면허 시험{에} 합격했으면 좋겠어요.",
+      "priklad_cs": "Kéž bych zítra udělal zkoušky na řidičák. (에 → u čeho)",
+      "mnemo": "合 shodovat se + 格 měřítko = splnit měřítko. 시험에 합격하다; opak 떨어지다.",
+      "koreny": [
+        "hap-合",
+        "gyeok-格"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

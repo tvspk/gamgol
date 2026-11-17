@@ -1,0 +1,350 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 8 – workbook 3-2 s. 10–11 (어휘 연습, 어휘 확장: životopis) + 어휘 색인 workbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-0611",
+      "tema": "práce",
+      "slovo": "이력서",
+      "vyslovnost": "iryeokseo",
+      "vyslov_hangul": "이력써",
+      "cs": "životopis",
+      "en": "résumé, CV",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이력서{에} 학력{과} 경력{을} 써요.",
+      "priklad_cs": "Do životopisu se píše vzdělání a praxe. (에 → do; 과 → a; 을 → 4. pád)",
+      "mnemo": "履 šlapat + 歷 minulost + 書 písemnost = písemnost o tom, kudy jsi šel. 이력서를 내다 = podat životopis.",
+      "koreny": [
+        "i-履",
+        "ryeok-歷",
+        "seo-書"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0621",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0612",
+      "tema": "práce",
+      "slovo": "인적 사항",
+      "vyslovnost": "injeok sahang",
+      "vyslov_hangul": "인쩍 싸항",
+      "cs": "osobní údaje",
+      "en": "personal information",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이력서 맨 위{에} 인적 사항{을} 써요.",
+      "priklad_cs": "Úplně nahoru do životopisu se píšou osobní údaje. (에 → kam; 을 → 4. pád)",
+      "mnemo": "人的 osobní + 事項 položky (事 věc + 項 položka). Patří sem 성명, 연락처, 주소.",
+      "koreny": [
+        "in-人",
+        "jeok-的",
+        "sa-事",
+        "hang-項"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0613",
+      "tema": "práce",
+      "slovo": "성명",
+      "vyslovnost": "seongmyeong",
+      "cs": "jméno a příjmení (úředně)",
+      "en": "name",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "신청서{의} 성명 칸{에} 이름{을} 쓰세요.",
+      "priklad_cs": "Do kolonky „jméno“ v přihlášce napište své jméno. (의 → 2. pád; 에 → kam; 을 → 4. pád)",
+      "mnemo": "姓 příjmení + 名 jméno. Úřední slovo pro 이름 ve formulářích.",
+      "koreny": [
+        "seong-姓",
+        "myeong-名"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0614",
+      "tema": "práce",
+      "slovo": "연락처",
+      "vyslovnost": "yeollakcheo",
+      "vyslov_hangul": "열락처",
+      "cs": "kontakt (telefon, e-mail)",
+      "en": "contact information",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "여기{에} 연락처{를} 적는 게 어때요?",
+      "priklad_cs": "Co sem napsat kontakt? (에 → kam; 를 → 4. pád)",
+      "mnemo": "連 spojit + 絡 propojit + 處 místo = místo, kde tě lze zastihnout. Výslovnost [열락처] (ㄴ + ㄹ → ㄹㄹ).",
+      "koreny": [
+        "yeon-連",
+        "rak-絡",
+        "cheo-處"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0615",
+      "tema": "škola",
+      "slovo": "학력",
+      "vyslovnost": "hangnyeok",
+      "vyslov_hangul": "항녁",
+      "cs": "dosažené vzdělání",
+      "en": "educational background",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "학력{이} 어떻게 되십니까?",
+      "priklad_cs": "Jaké máte vzdělání? (이 → 1. pád)",
+      "mnemo": "學 učení + 歷 minulost = studijní minulost. Pozor: 학력 [항녁] × 실력 (schopnost).",
+      "koreny": [
+        "hak-學",
+        "ryeok-歷"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0621",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0616",
+      "tema": "škola",
+      "slovo": "학위",
+      "vyslovnost": "hagwi",
+      "vyslov_hangul": "하귀",
+      "cs": "akademický titul",
+      "en": "(educational) degree",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한국대학교{에서} 학사{와} 석사 학위{를} 받았습니다.",
+      "priklad_cs": "Na Korejské univerzitě jsem získal bakalářský a magisterský titul. (에서 → kde; 와 → a; 를 → 4. pád)",
+      "mnemo": "學 učení + 位 pozice = pozice ve vzdělání. 학위를 받다 = získat titul.",
+      "koreny": [
+        "hak-學",
+        "wi-位"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0617",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0617",
+      "tema": "škola",
+      "slovo": "학사",
+      "vyslovnost": "haksa",
+      "vyslov_hangul": "학싸",
+      "cs": "bakalář (titul)",
+      "en": "(B.A) bachelor's degree",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "학사 때{는} 한국학{을} 전공했어요.",
+      "priklad_cs": "Na bakaláři jsem studoval koreanistiku. (는 → téma; 을 → 4. pád)",
+      "mnemo": "學 učení + 士 vzdělanec. Řada: 학사 → 석사 → 박사.",
+      "koreny": [
+        "hak-學",
+        "sa-士"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0618",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0618",
+      "tema": "škola",
+      "slovo": "석사",
+      "vyslovnost": "seoksa",
+      "vyslov_hangul": "석싸",
+      "cs": "magistr (titul)",
+      "en": "(M.A) Master's degree",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "석사 때{는} 한국 문화학{을} 전공했어요.",
+      "priklad_cs": "Na magistru jsem studoval korejská kulturní studia. (는 → téma; 을 → 4. pád)",
+      "mnemo": "碩 velký + 士 vzdělanec = velký vzdělanec. Řada: 학사 → 석사 → 박사.",
+      "koreny": [
+        "seok-碩",
+        "sa-士"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0617",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0619",
+      "tema": "škola",
+      "slovo": "한국학",
+      "vyslovnost": "hangukak",
+      "vyslov_hangul": "한구칵",
+      "cs": "koreanistika",
+      "en": "Korean studies",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "대학교{에서} 한국학{을} 전공했어요.",
+      "priklad_cs": "Na univerzitě jsem studoval koreanistiku. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "韓國 Korea + 學 nauka.",
+      "koreny": [
+        "han-韓",
+        "guk-國",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0620",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0620",
+      "tema": "škola",
+      "slovo": "한국 문화학",
+      "vyslovnost": "hanguk munhwahak",
+      "vyslov_hangul": "한궁 문화학",
+      "cs": "korejská kulturní studia",
+      "en": "Korean cultural studies",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 5,
+      "priklad": "석사 과정{에서} 한국 문화학{을} 공부했어요.",
+      "priklad_cs": "V magisterském studiu jsem studoval korejská kulturní studia. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "韓國 Korea + 文化 kultura (文 písmo + 化 proměna) + 學 nauka.",
+      "koreny": [
+        "han-韓",
+        "guk-國",
+        "mun-文",
+        "hwa-化",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0619",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0621",
+      "tema": "práce",
+      "slovo": "경력",
+      "vyslovnost": "gyeongnyeok",
+      "vyslov_hangul": "경녁",
+      "cs": "praxe, pracovní zkušenosti",
+      "en": "(work) experiences",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "무역 회사{에서} 3년 일한 경력{이} 있어요.",
+      "priklad_cs": "Mám tři roky praxe v obchodní firmě. (에서 → kde; 이 → 1. pád)",
+      "mnemo": "經 projít + 歷 minulost = co jsi prošel. 경력자 = zkušený uchazeč. Srovnej 학력 (vzdělání).",
+      "koreny": [
+        "gyeong-經",
+        "ryeok-歷"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0615",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0622",
+      "tema": "práce",
+      "slovo": "부서",
+      "vyslovnost": "buseo",
+      "cs": "oddělení (ve firmě)",
+      "en": "department/team",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "무역 회사 영업 부서{에서} 일했습니다.",
+      "priklad_cs": "Pracoval jsem v obchodním oddělení exportní firmy. (에서 → kde)",
+      "mnemo": "部 část + 署 úřad = úřední část firmy. 부서를 옮기다 = přejít na jiné oddělení.",
+      "koreny": [
+        "bu-部",
+        "seo-署"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0623",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0623",
+      "tema": "práce",
+      "slovo": "직위",
+      "vyslovnost": "jigwi",
+      "vyslov_hangul": "지귀",
+      "cs": "funkce, pracovní pozice",
+      "en": "rank/position",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "최근{에} 일한 회사{에서는} 직위{가} 팀장이었어요.",
+      "priklad_cs": "Ve firmě, kde jsem pracoval naposledy, jsem měl pozici vedoucího týmu. (에 → kdy; 에서는 → kde + téma; 가 → 1. pád)",
+      "mnemo": "職 zaměstnání + 位 pozice. Hodnosti: 사원 → 대리 → 과장 → 부장; 팀장 = vedoucí týmu.",
+      "koreny": [
+        "jik-職",
+        "wi-位"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0622",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0624",
+      "tema": "kariéra",
+      "slovo": "희망",
+      "vyslovnost": "huimang",
+      "vyslov_hangul": "히망",
+      "cs": "naděje; přání (희망 직업 = vysněné povolání)",
+      "en": "hope, wish",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "우리 아이{는} 희망 직업{이} 자주 바뀌어요.",
+      "priklad_cs": "Našemu dítěti se pořád mění, čím chce být. (는 → téma; 이 → 1. pád)",
+      "mnemo": "希 doufat + 望 vyhlížet. 희망하다 = přát si. 희망 직업 = povolání, které by člověk chtěl dělat.",
+      "koreny": [
+        "hui-希",
+        "mang-望"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0568",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

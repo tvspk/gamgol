@@ -1,0 +1,171 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3, kap. 1 – doplněk: slova z 어휘 색인 textbooku (s. 16–17) a workbooku 3-1 (s. 11) dříve vynechaná",
+  "karty": [
+    {
+      "id": "ko-topik3-0063",
+      "tema": "život a změny",
+      "slovo": "울다",
+      "vyslovnost": "ulda",
+      "cs": "plakat, brečet",
+      "en": "to cry",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "영화{가} 슬퍼서 많은 관객들{이} 영화{를} 보면서 울었어요.",
+      "priklad_cs": "Film byl smutný, takže hodně diváků u něj plakalo. (가, 이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "Vyrazili včely z ÚLu, poštípaly tě a brečíš.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "울다",
+          "울어요",
+          "울었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0064",
+      "tema": "plány",
+      "slovo": "준비",
+      "vyslovnost": "junbi",
+      "cs": "příprava",
+      "en": "preparation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "요즘 여행 준비{를} 하고 있어요.",
+      "priklad_cs": "Teď se připravuju na cestu. (를 → 4. pád)",
+      "mnemo": "準 norma + 備 vybavit = vybavit se, jak se má.",
+      "koreny": [
+        "jun-準",
+        "bi-備"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0065",
+      "tema": "vztahy",
+      "slovo": "초대",
+      "vyslovnost": "chodae",
+      "cs": "pozvání",
+      "en": "to invite",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "친구{를} 생일 파티{에} 초대했어요.",
+      "priklad_cs": "Pozval jsem kamaráda na narozeninovou oslavu. (를 → 4. pád; 에 → kam)",
+      "mnemo": "招 pozvat + 待 hostit = pozvat a pohostit.",
+      "koreny": [
+        "cho-招",
+        "dae-待"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0066",
+      "tema": "vztahy",
+      "slovo": "축하",
+      "vyslovnost": "chuka",
+      "vyslov_hangul": "추카",
+      "cs": "blahopřání, gratulace",
+      "en": "to celebrate, to congratulate",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "졸업{을} 축하해요!",
+      "priklad_cs": "Gratuluju k absolvování! (을 → 4. pád; česky „k“ + 3. pád)",
+      "mnemo": "祝 oslavovat + 賀 blahopřát. Srovnej 축제 (festival).",
+      "koreny": [
+        "chuk-祝",
+        "ha-賀"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0067",
+      "tema": "zdraví",
+      "slovo": "스트레스",
+      "vyslovnost": "seuteureseu",
+      "cs": "stres",
+      "en": "stress",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "스트레스{를} 받을 때 뭐 해요?",
+      "priklad_cs": "Co děláš, když jsi ve stresu? (를 → 4. pád; 스트레스를 받다 = být ve stresu, doslova „dostávat stres“)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "stress"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0068",
+      "tema": "škola",
+      "slovo": "수업 후",
+      "vyslovnost": "sueop hu",
+      "cs": "po vyučování",
+      "en": "after school",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "수업 후{에} 친구{하고} 영상통화{를} 해요.",
+      "priklad_cs": "Po vyučování si s kamarádem volám přes video. (에 → kdy; 하고 → s + 7. pád; 를 → 4. pád)",
+      "mnemo": "授 vyučovat + 業 práce = vyučování; 後 = po.",
+      "koreny": [
+        "su-授",
+        "eop-業",
+        "hu-後"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0069",
+      "tema": "škola",
+      "slovo": "졸업 후",
+      "vyslovnost": "joreop hu",
+      "vyslov_hangul": "조러푸",
+      "cs": "po absolvování (školy)",
+      "en": "after graduation",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "졸업 후{에} 프리랜서{로} 일하고 싶어요.",
+      "priklad_cs": "Po škole chci pracovat na volné noze. (에 → kdy; 로 → jako + 1. pád)",
+      "mnemo": "卒業 absolvování + 後 po.",
+      "koreny": [
+        "jol-卒",
+        "eop-業",
+        "hu-後"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0004",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# keys and passwords never go here (they stay in the private handoff ZIP and in GitHub Secrets)
+*.jks
+*.keystore
+android/KEYSTORE*
+# private notes for the user (handoff ZIP only: they hold the key password and account names)
+PREDANI.md
+HANDOFF.md
+START.md
+hotove/
+# build output and tools (the tools are fetched from npm by android/build.sh, checked by SHA-256)
+android/toolchain/
+android/build/
+android/assets/
+web/gamgol.html
+web/test.html
+*.apk
+*.apk.part*
+*.idsig
+# audio working copies (the bundles in audio/bundles/ are the source; unbundle.py makes audio/mp3/)
+audio/mp3/
+audio/takes/
+audio/listen/
+audio/list.json
+audio/check.tsv
+# test leftovers
+__pycache__/
+*.png.tmp
+web/shots/

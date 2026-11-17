@@ -1,0 +1,271 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 12 – workbook 3-2 s. 51 (어휘 확장) + 어휘 색인 workbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-0914",
+      "tema": "nemocnice",
+      "slovo": "정형외과",
+      "vyslovnost": "jeonghyeongoegwa",
+      "vyslov_hangul": "정형외꽈",
+      "cs": "ortopedie",
+      "en": "orthopedics",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "정형외과{에} 갔는데 허리 디스크{에} 걸렸다고 해요.",
+      "priklad_cs": "Byl jsem na ortopedii a prý mám výhřez ploténky. (에 → kam; 에 → čím)",
+      "mnemo": "整形 upravit tvar (整 urovnat + 形 tvar) + 外科 chirurgie (外 vnější + 科 obor). Kosti, klouby, záda.",
+      "koreny": [
+        "jeong-整",
+        "hyeong-形",
+        "oe-外",
+        "gwa-科"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0915",
+      "tema": "nemocnice",
+      "slovo": "내과",
+      "vyslovnost": "naegwa",
+      "vyslov_hangul": "내꽈",
+      "cs": "interna, vnitřní lékařství",
+      "en": "internal medicine",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "체했을 때{는} 내과{에} 가 보세요.",
+      "priklad_cs": "Když máte potíže se žaludkem, zajděte na internu. (는 → důraz; 에 → kam)",
+      "mnemo": "內 vnitřní + 科 obor. Nachlazení, žaludek. Výslovnost [내꽈].",
+      "koreny": [
+        "nae-內",
+        "gwa-科"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0914",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0916",
+      "tema": "nemocnice",
+      "slovo": "치과",
+      "vyslovnost": "chigwa",
+      "vyslov_hangul": "치꽈",
+      "cs": "zubař, zubní ordinace",
+      "en": "dentist (office), dentistry",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "6개월{에} 한 번 치과{에} 가서 스케일링{을} 받아요.",
+      "priklad_cs": "Jednou za půl roku chodím k zubaři na odstranění zubního kamene. (에 → za; 에 → kam; 을 → 4. pád)",
+      "mnemo": "齒 zub + 科 obor. Výslovnost [치꽈]. 치과 의사 = zubař.",
+      "koreny": [
+        "chi-齒",
+        "gwa-科"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0917",
+      "tema": "tělo",
+      "slovo": "뼈",
+      "vyslovnost": "ppyeo",
+      "cs": "kost",
+      "en": "bone",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "넘어져서 다리 뼈{가} 부러졌어요.",
+      "priklad_cs": "Upadl jsem a zlomil si nohu (kost v noze). (가 → 1. pád)",
+      "mnemo": "뼈가 부러지다 = zlomit si kost. 코뼈 = nosní kost.",
+      "rodina": [
+        "뼈가 부러지다",
+        "코뼈"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0857",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0918",
+      "tema": "nemocnice",
+      "slovo": "이를 뽑다",
+      "vyslovnost": "ireul ppopda",
+      "vyslov_hangul": "이를 뽑따",
+      "cs": "vytrhnout zub",
+      "en": "to extract a tooth",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "더 심해지면 이{를} 뽑아야 할 수{도} 있으니까 빨리 치료받아.",
+      "priklad_cs": "Když se to zhorší, možná ti budou muset zub vytrhnout, tak se rychle nech ošetřit. (를 → 4. pád; 도 → i)",
+      "mnemo": "이 zub + 뽑다 vytáhnout (i 뽑다 = vybrat, zvolit).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "이를 뽑다",
+          "이를 뽑아요",
+          "이를 뽑았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0919",
+      "tema": "zdraví",
+      "slovo": "체하다",
+      "vyslovnost": "chehada",
+      "cs": "mít zkažený žaludek (z přejedení)",
+      "en": "to have an upset stomach",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "점심{을} 너무 많이 먹어서 체한 것 같아.",
+      "priklad_cs": "Asi jsem se k obědu přejedl a sedlo mi to na žaludek. (을 → 4. pád)",
+      "mnemo": "滯 váznout: jídlo „uvázne“ v žaludku. Typicky korejské; léčí se 소화제 nebo píchnutím do prstu.",
+      "koreny": [
+        "che-滯"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "체하다",
+          "체해요",
+          "체했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0920",
+      "tema": "zdraví",
+      "slovo": "어깨가 뭉치다",
+      "vyslovnost": "eokkaega mungchida",
+      "cs": "mít ztuhlá ramena",
+      "en": "to have knots in one's shoulders",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "컴퓨터{를} 오래 해서 어깨{가} 뭉쳤어요.",
+      "priklad_cs": "Dlouho jsem seděl u počítače a mám ztuhlá ramena. (를 → 4. pád; 가 → 1. pád)",
+      "mnemo": "뭉치다 = shluknout se do hrudky: svaly jsou jako uzly.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "어깨가 뭉치다",
+          "어깨가 뭉쳐요",
+          "어깨가 뭉쳤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0921",
+      "tema": "nemocnice",
+      "slovo": "스케일링",
+      "vyslovnost": "seukeilling",
+      "cs": "odstranění zubního kamene",
+      "en": "scaling",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "나{도} 6개월{에} 한 번 치과{에} 가서 스케일링{을} 받아.",
+      "priklad_cs": "Já taky jednou za půl roku jdu k zubaři na odstranění zubního kamene. (도 → také; 에 → za; 에 → kam; 을 → 4. pád)",
+      "mnemo": "Z angl. scaling. 스케일링을 받다.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "scaling"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0922",
+      "tema": "zdraví",
+      "slovo": "이가 썩다",
+      "vyslovnost": "iga sseokda",
+      "vyslov_hangul": "이가 썩따",
+      "cs": "mít zkažený zub, kaz",
+      "en": "to have a cavity",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "단 음식{을} 많이 먹어서 그런지 이{가} 썩었어.",
+      "priklad_cs": "Asi jsem jedl moc sladkého, mám zkažený zub. (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "썩다 = hnít, kazit se. Podstatné jméno je 충치.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "이가 썩다",
+          "이가 썩어요",
+          "이가 썩었어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0667",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0923",
+      "tema": "zdraví",
+      "slovo": "메스껍다",
+      "vyslovnost": "meseukkeopda",
+      "vyslov_hangul": "메스껍따",
+      "cs": "mít nevolnost, zvedá se žaludek",
+      "en": "to feel nauseous",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "차{를} 오래 타고 가니까 속{이} 좀 메스껍네요.",
+      "priklad_cs": "Jedeme autem dlouho a je mi trochu nevolno. (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "„MES-KOP“ – po MĚSíční KOPané se ti zvedá žaludek. Často 속이 메스껍다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "메스껍다",
+          "메스꺼워요",
+          "메스꺼웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0924",
+      "tema": "zdraví",
+      "slovo": "속이 쓰리다",
+      "vyslovnost": "sogi sseurida",
+      "vyslov_hangul": "소기 쓰리다",
+      "cs": "pálí mě žáha, bolí žaludek",
+      "en": "to have heartburn",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "아침{을} 안 먹고 커피{를} 마셨더니 속{이} 쓰려요.",
+      "priklad_cs": "Nesnídal jsem a vypil kávu, a teď mě pálí žáha. (을, 를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "속 vnitřek, žaludek + 쓰리다 pálit, štípat (o ráně, žaludku).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "속이 쓰리다",
+          "속이 쓰려요",
+          "속이 쓰렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 9 – textbook s. 86–89 (Part 2 어휘: způsoby přípravy, -고 나서, 연습해요, 이야기해 봐요) + přepisy poslechu + 어휘 색인; workbook 3-2 s. 20 (어휘 연습)",
+  "karty": [
+    {
+      "id": "ko-topik3-0651",
+      "tema": "vaření",
+      "slovo": "굽다",
+      "vyslovnost": "gupda",
+      "vyslov_hangul": "굽따",
+      "cs": "péct, grilovat",
+      "en": "to roast, to grill",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "생선{을} 구워요.",
+      "priklad_cs": "Griluju rybu. (을 → 4. pád)",
+      "mnemo": "„KUBa PEČe“ na grilu. ㅂ se mění na 우: 구워요, 구운 감자.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "굽다",
+          "구워요",
+          "구웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0652",
+      "tema": "vaření",
+      "slovo": "삶다",
+      "vyslovnost": "samda",
+      "vyslov_hangul": "삼따",
+      "cs": "vařit (ve vodě)",
+      "en": "to boil",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "면{을} 다 삶고 나서 바로 찬물{에} 씻으세요.",
+      "priklad_cs": "Až nudle uvaříte, hned je propláchněte studenou vodou. (을 → 4. pád; 에 → v)",
+      "mnemo": "„SÁM DA(l)“ vajíčka do hrnce: vařit ve vodě (vejce, nudle, brambory). Srovnej 끓이다 = vařit polévku, přivést k varu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "삶다",
+          "삶아요",
+          "삶았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0655",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0653",
+      "tema": "vaření",
+      "slovo": "데치다",
+      "vyslovnost": "dechida",
+      "cs": "spařit, krátce povařit",
+      "en": "to blanch",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "시금치{는} 뜨거운 물{에} 살짝 데쳐서 먹으면 돼요.",
+      "priklad_cs": "Špenát stačí krátce spařit v horké vodě. (는 → téma; 에 → v)",
+      "mnemo": "„DĚ-ČI“ – DĚti ČIstí špenát a hodí ho na chvilku do vřelé vody.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "데치다",
+          "데쳐요",
+          "데쳤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0654",
+      "tema": "vaření",
+      "slovo": "찌다",
+      "vyslovnost": "jjida",
+      "cs": "vařit v páře, dusit v páře",
+      "en": "to steam",
+      "cs_upresneni": "vařit v páře, ne „přibrat“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "만두{는} 튀긴 것{이} 아니라 찐 것{만} 먹어요.",
+      "priklad_cs": "Knedlíčky mandu jím jen v páře, ne smažené. (는 → téma; 이 → 1. pád; 만 → jen)",
+      "mnemo": "„ČÍ-DA“ – ČÍnské knedlíčky v bambusovém košíku nad párou. Stejně znějící 찌다 = přibrat (살이 찌다).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "찌다",
+          "쪄요",
+          "쪘어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0655",
+      "tema": "vaření",
+      "slovo": "끓이다",
+      "vyslovnost": "kkeurida",
+      "vyslov_hangul": "끄리다",
+      "cs": "vařit, přivést k varu (polévku, vodu)",
+      "en": "to boil",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "라면 하나{도} 제대로 못 끓여요.",
+      "priklad_cs": "Neumím pořádně uvařit ani jedny instantní nudle. (도 → ani)",
+      "mnemo": "„KULIČKY“ bublin – voda vře. 끓다 = vřít, 끓이다 = nechat vřít. 국을 끓이다, 라면을 끓이다.",
+      "rodina": [
+        "끓다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "끓이다",
+          "끓여요",
+          "끓였어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0652",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0656",
+      "tema": "vaření",
+      "slovo": "볶다",
+      "vyslovnost": "bokda",
+      "vyslov_hangul": "복따",
+      "cs": "restovat, smažit za stálého míchání",
+      "en": "to stir-fry",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "밥{을} 넣기 전{에} 채소{나} 고기{를} 먼저 볶아요.",
+      "priklad_cs": "Než přidám rýži, nejdřív orestuji zeleninu nebo maso. (을, 를 → 4. pád; 에 → kdy; 나 → nebo)",
+      "mnemo": "„BOKem pánve“ to pořád přehazuješ. 볶음밥 = smažená rýže.",
+      "rodina": [
+        "볶음",
+        "볶음밥"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "볶다",
+          "볶아요",
+          "볶았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0657",
+      "tema": "vaření",
+      "slovo": "부치다",
+      "vyslovnost": "buchida",
+      "cs": "smažit na pánvi (placky, čon)",
+      "en": "to pan-fry (pancakes)",
+      "cs_upresneni": "smažit placky na pánvi, ne „poslat“",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "비 오는 날{에는} 전{을} 부쳐 먹어요.",
+      "priklad_cs": "Za deštivých dnů si smažíme placky čon. (에는 → kdy + důraz; 을 → 4. pád)",
+      "mnemo": "Placka na pánvi „BUČÍ“ (syčí). Jen pro placky (전, 부침개, 계란). Stejně znějící 부치다 = poslat (dopis).",
+      "rodina": [
+        "부침개"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "부치다",
+          "부쳐요",
+          "부쳤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0658",
+      "tema": "vaření",
+      "slovo": "튀기다",
+      "vyslovnost": "twigida",
+      "cs": "smažit (ve fritéze, v hlubokém oleji)",
+      "en": "to fry",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "감자{를} 기름{에} 튀겼어요.",
+      "priklad_cs": "Osmažil jsem brambory v oleji. (를 → 4. pád; 에 → v)",
+      "mnemo": "Hranolky jako „TWIGs“ (anglicky větvičky) v oleji. 튀김 = smažené jídlo v těstíčku.",
+      "rodina": [
+        "튀김"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "튀기다",
+          "튀겨요",
+          "튀겼어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0659",
+      "tema": "vaření",
+      "slovo": "썰다",
+      "vyslovnost": "sseolda",
+      "cs": "krájet (nožem)",
+      "en": "to cut, to chop",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "고기{와} 채소{를} 적당한 크기{로} 썰어요.",
+      "priklad_cs": "Maso a zeleninu nakrájím na vhodnou velikost. (와 → a; 를 → 4. pád; 로 → na)",
+      "mnemo": "„SOLdát“ krájí nožem jako šavlí.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "썰다",
+          "썰어요",
+          "썰었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0660",
+      "tema": "vaření",
+      "slovo": "섞다",
+      "vyslovnost": "seokda",
+      "vyslov_hangul": "석따",
+      "cs": "smíchat, zamíchat",
+      "en": "to mix",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "면{하고} 소스{를} 섞기 전{에} 면{을} 살짝 볶아.",
+      "priklad_cs": "Než smícháš nudle s omáčkou, lehce je orestuj. (하고 → a; 를, 을 → 4. pád; 에 → kdy)",
+      "mnemo": "„ŠOK“ – v šoku všechno smícháš dohromady.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "섞다",
+          "섞어요",
+          "섞었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0661",
+      "tema": "vaření",
+      "slovo": "두르다",
+      "vyslovnost": "dureuda",
+      "cs": "rozlít (olej po pánvi); ovinout",
+      "en": "to put around",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "먼저 프라이팬{에} 참기름{을} 둘러요.",
+      "priklad_cs": "Nejdřív rozliji po pánvi sezamový olej. (에 → na; 을 → 4. pád)",
+      "mnemo": "„DURRR“ – kroužíš kolem dokola. 기름을 두르다 = rozlít olej po pánvi, 목도리를 두르다 = omotat si šálu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "두르다",
+          "둘러요",
+          "둘렀어요"
+        ],
+        "nepravidelnost": "르"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0662",
+      "tema": "vaření",
+      "slovo": "붓다",
+      "vyslovnost": "butda",
+      "vyslov_hangul": "붇따",
+      "cs": "nalít, vlít",
+      "en": "to pour",
+      "cs_upresneni": "nalít, ne „otéct“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "소고기{가} 익을 때까지 볶고 나서 물{을} 부어요.",
+      "priklad_cs": "Hovězí restuji, dokud není hotové, a pak naliju vodu. (가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "„BUT-ylku“ naliješ do hrnce. ㅅ odpadá: 부어요. Stejně znějící 붓다 = otéct (얼굴이 붓다).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "붓다",
+          "부어요",
+          "부었어요"
+        ],
+        "nepravidelnost": "ㅅ"
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0663",
+      "tema": "vaření",
+      "slovo": "익다",
+      "vyslovnost": "ikda",
+      "vyslov_hangul": "익따",
+      "cs": "uvařit se, propéct se; dozrát",
+      "en": "to be cooked",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "고기{가} 다 익으면 불{을} 끄세요.",
+      "priklad_cs": "Až bude maso propečené, vypněte oheň. (가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "„IKarus“ se upekl až do středu. 익히다 = tepelně upravit, 익은 과일 = zralé ovoce.",
+      "rodina": [
+        "익히다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "익다",
+          "익어요",
+          "익었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0664",
+      "tema": "každodenní život",
+      "slovo": "뜯다",
+      "vyslovnost": "tteutda",
+      "vyslov_hangul": "뜯따",
+      "cs": "roztrhnout, rozbalit; utrhnout",
+      "en": "to tear open, to open (a gift)",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "선물{과} 카드{를} 같이 받으면 카드{를} 읽고 나서 선물{을} 뜯어 봐요.",
+      "priklad_cs": "Když dostanu dárek s přáníčkem, nejdřív si přečtu přáníčko a pak rozbalím dárek. (과 → s; 를, 을 → 4. pád)",
+      "mnemo": "„TUT-ová“ páska na balíčku – roztrhneš ji.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "뜯다",
+          "뜯어요",
+          "뜯었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0665",
+      "tema": "každodenní život",
+      "slovo": "끝내다",
+      "vyslovnost": "kkeunnaeda",
+      "vyslov_hangul": "끈내다",
+      "cs": "dokončit, skončit (s čím)",
+      "en": "to finish",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "이삿짐 정리{를} 끝내고 나서 식사{를} 합시다.",
+      "priklad_cs": "Až dokončíme vybalování věcí po stěhování, pojďme jíst. (를 → 4. pád)",
+      "mnemo": "끝 konec + 내다 = dotáhnout do konce. 끝나다 = skončit (samo). Formálněji 마치다.",
+      "rodina": [
+        "끝",
+        "끝나다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "끝내다",
+          "끝내요",
+          "끝냈어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0545",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0666",
+      "tema": "každodenní život",
+      "slovo": "이삿짐",
+      "vyslovnost": "isatjim",
+      "vyslov_hangul": "이사찜",
+      "cs": "věci při stěhování (stěhovaná zavazadla)",
+      "en": "moving loads",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이삿짐 정리{를} 끝내고 나서 식사{를} 합시다.",
+      "priklad_cs": "Až dokončíme vybalování věcí po stěhování, pojďme jíst. (를 → 4. pád)",
+      "mnemo": "移徙 stěhování + 짐 zavazadlo. ㅅ mezi slovy zdvojí ㅈ: [이사찜].",
+      "koreny": [
+        "i-移",
+        "sa-徙"
+      ],
+      "rodina": [
+        "짐"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "viz_tez": "ko-topik3-0011",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0667",
+      "tema": "zdraví",
+      "slovo": "충치",
+      "vyslovnost": "chungchi",
+      "cs": "zubní kaz",
+      "en": "decayed tooth",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "음식{을} 먹고 나서 이{를} 닦지 않으면 충치{가} 생길 수 있어요.",
+      "priklad_cs": "Když si po jídle nevyčistíte zuby, můžete dostat kaz. (을, 를 → 4. pád; 가 → 1. pád)",
+      "mnemo": "蟲 červ + 齒 zub = „červ v zubu“.",
+      "koreny": [
+        "chung-蟲",
+        "chi-齒"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0236",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0668",
+      "tema": "gramatika",
+      "slovo": "-고 나서",
+      "vyslovnost": "-go naseo",
+      "cs": "až (to) dokončíš, pak…; poté co",
+      "en": "indicates that an action is followed by another",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "음식{을} 먹고 나서 이{를} 닦으세요.",
+      "priklad_cs": "Po jídle si vyčistěte zuby. (을, 를 → 4. pád)",
+      "mnemo": "Kmen slovesa + -고 나서, bez ohledu na zakončení. Zdůrazňuje, že první děj skončil a pak přišel druhý. Jen se slovesy (ne s přídavnými jmény). Srovnej -고 나면 (až skončí, pak nastane stav).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0104",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0669",
+      "tema": "vaření",
+      "slovo": "비결",
+      "vyslovnost": "bigyeol",
+      "cs": "tajemství (úspěchu), trik",
+      "en": "know-how, tip",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "맛있게 만드는 비결{이} 뭐야?",
+      "priklad_cs": "Jaký je tvůj trik, že to je tak dobré? (이 → 1. pád)",
+      "mnemo": "秘 tajný + 訣 trik = tajný trik. Podobně 비법 (tajný recept).",
+      "koreny": [
+        "bi-秘",
+        "gyeol-訣"
+      ],
+      "rodina": [
+        "비법"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0670",
+      "tema": "vaření",
+      "slovo": "조리법",
+      "vyslovnost": "joribeop",
+      "vyslov_hangul": "조리뻡",
+      "cs": "recept, způsob přípravy",
+      "en": "cuisine, recipe",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한식{은} 삶거나 찌는 조리법{을} 많이 써요.",
+      "priklad_cs": "Korejská kuchyně často používá vaření ve vodě nebo v páře. (은 → téma; 을 → 4. pád)",
+      "mnemo": "調理 příprava jídla (調 ladit + 理 upravit) + 法 metoda. 조리하다 = připravovat jídlo.",
+      "koreny": [
+        "jo-調",
+        "ri-理",
+        "beop-法"
+      ],
+      "rodina": [
+        "조리하다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

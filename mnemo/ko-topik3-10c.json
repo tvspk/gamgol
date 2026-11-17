@@ -1,0 +1,657 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 10 – textbook s. 97–99 (이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepisy poslechu, workbook 3-2 s. 31 (어휘 확장) + 어휘 색인 obou knih",
+  "karty": [
+    {
+      "id": "ko-topik3-0735",
+      "tema": "vztahy",
+      "slovo": "후배",
+      "vyslovnost": "hubae",
+      "cs": "mladší kolega / spolužák",
+      "en": "junior (at school or work)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이쪽{은} 제 학교 후배 김민우예요.",
+      "priklad_cs": "Tohle je Kim Minu, můj mladší spolužák. (은 → téma)",
+      "mnemo": "後 po + 輩 generace = kdo přišel po tobě. Opak 선배.",
+      "koreny": [
+        "hu-後",
+        "bae-輩"
+      ],
+      "rodina": [
+        "선배"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0736",
+      "tema": "vztahy",
+      "slovo": "동갑",
+      "vyslovnost": "donggap",
+      "cs": "stejně starý, vrstevník",
+      "en": "the same age",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "지아 씨{는} 저{랑} 동갑이에요.",
+      "priklad_cs": "Jia je stejně stará jako já. (는 → téma; 랑 → s, jako)",
+      "mnemo": "同 stejný + 甲 první znak šedesátiletého cyklu = narozen ve stejném roce cyklu.",
+      "koreny": [
+        "dong-同",
+        "gap-甲"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0737",
+      "tema": "zdvořilost",
+      "slovo": "높임말",
+      "vyslovnost": "nopimmal",
+      "vyslov_hangul": "노핌말",
+      "cs": "zdvořilá řeč, honorifika",
+      "en": "honorific speech",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "나이{를} 알면 높임말{을} 써야 하는지 알 수 있어요.",
+      "priklad_cs": "Když znáš věk, víš, jestli máš mluvit zdvořile. (를, 을 → 4. pád)",
+      "mnemo": "높이다 zvýšit + 말 řeč = „povýšená“ řeč. Opak 반말.",
+      "rodina": [
+        "높이다",
+        "존댓말"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0738",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0738",
+      "tema": "zdvořilost",
+      "slovo": "반말",
+      "vyslovnost": "banmal",
+      "cs": "tykání, neformální řeč",
+      "en": "plain (informal) speech",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "보통 친해지기 전까지{는} 반말{을} 잘 안 해요.",
+      "priklad_cs": "Obvykle se netyká, dokud se lidé nesblíží. (는 → důraz; 을 → 4. pád)",
+      "mnemo": "半 polovina + 말 řeč = „poloviční“ řeč bez zdvořilého -요. Opak 높임말.",
+      "koreny": [
+        "ban-半"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "viz_tez": "ko-topik3-0737",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0739",
+      "tema": "zdvořilost",
+      "slovo": "말을 놓다",
+      "vyslovnost": "mareul nota",
+      "vyslov_hangul": "마를 노타",
+      "cs": "začít si tykat",
+      "en": "to start speaking informally",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "저{보다} 나이{가} 어리면 바로 말{을} 놓아도 되는 줄 알았어요.",
+      "priklad_cs": "Myslel jsem, že když je někdo mladší, můžu mu hned tykat. (보다 → než; 가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "말 řeč + 놓다 položit, povolit = povolit řeč. Nabídka tykání: 말 놓으세요.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "말을 놓다",
+          "말을 놓아요",
+          "말을 놓았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0738",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0740",
+      "tema": "doprava",
+      "slovo": "누르다",
+      "vyslovnost": "nureuda",
+      "cs": "zmáčknout, stisknout",
+      "en": "to press",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "내릴 때 버스{에서} 벨{을} 눌러야 해요.",
+      "priklad_cs": "Když chcete vystoupit, musíte v autobuse zmáčknout zvonek. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "„NURE“ – NOŘÍŠ prst do tlačítka.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "누르다",
+          "눌러요",
+          "눌렀어요"
+        ],
+        "nepravidelnost": "르"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0741",
+      "tema": "doprava",
+      "slovo": "멈추다",
+      "vyslovnost": "meomchuda",
+      "cs": "zastavit (se)",
+      "en": "to stop",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "우리 나라{에서는} 모든 정류장{에서} 버스{가} 멈춰요.",
+      "priklad_cs": "U nás autobus staví na každé zastávce. (에서는 → kde + důraz; 에서 → kde; 가 → 1. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "멈추다",
+          "멈춰요",
+          "멈췄어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0742",
+      "tema": "doprava",
+      "slovo": "정류장",
+      "vyslovnost": "jeongnyujang",
+      "vyslov_hangul": "정뉴장",
+      "cs": "zastávka (autobusu)",
+      "en": "(bus) stop",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "벨{을} 안 눌러서 정류장{에서} 못 내릴 뻔했어요.",
+      "priklad_cs": "Nezmáčkl jsem zvonek, a tak jsem málem nevystoupil na zastávce. (을 → 4. pád; 에서 → kde)",
+      "mnemo": "停 zastavit + 留 zůstat + 場 místo. ㅇ + ㄹ se čte [ㄴ]: [정뉴장].",
+      "koreny": [
+        "jeong-停",
+        "ryu-留",
+        "jang-場"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0743",
+      "tema": "kultura",
+      "slovo": "신기하다",
+      "vyslovnost": "singihada",
+      "cs": "úžasný, zvláštní, překvapivý",
+      "en": "to be amazing, curious",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국 사람들{의} 인사 방법{이} 참 신기해요.",
+      "priklad_cs": "Způsob, jakým se Korejci zdraví, mi přijde moc zajímavý. (의 → 2. pád; 이 → 1. pád)",
+      "mnemo": "神 duch + 奇 podivný = div jako od boha.",
+      "koreny": [
+        "sin-神",
+        "gi-奇"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "신기하다",
+          "신기해요",
+          "신기했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0744",
+      "tema": "kultura",
+      "slovo": "습관적",
+      "vyslovnost": "seupgwanjeok",
+      "vyslov_hangul": "습꽌적",
+      "cs": "ze zvyku, zvykový",
+      "en": "habitual",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{도} 습관적{으로} 자주 사용해요.",
+      "priklad_cs": "Také to často používám ze zvyku. (도 → i; 으로 → jak)",
+      "mnemo": "習慣 zvyk (習 cvičit + 慣 navyklý) + 的 -ový. 습관적으로 = ze zvyku.",
+      "koreny": [
+        "seup-習",
+        "gwan-慣",
+        "jeok-的"
+      ],
+      "rodina": [
+        "습관"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0745",
+      "tema": "kultura",
+      "slovo": "개인적",
+      "vyslovnost": "gaeinjeok",
+      "cs": "osobní, soukromý",
+      "en": "personal",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이집트 사람들{도} 개인적인 질문{을} 많이 해요.",
+      "priklad_cs": "Egypťané se také často ptají na osobní věci. (도 → i; 을 → 4. pád)",
+      "mnemo": "個人 jednotlivec (個 jednotlivý + 人 člověk) + 的 -ový. 개인적으로 = osobně.",
+      "koreny": [
+        "gae-個",
+        "in-人",
+        "jeok-的"
+      ],
+      "rodina": [
+        "개인"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0746",
+      "tema": "kultura",
+      "slovo": "대표적",
+      "vyslovnost": "daepyojeok",
+      "cs": "typický, reprezentativní",
+      "en": "representative",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국{의} 대표적인 음식{은} 김치예요.",
+      "priklad_cs": "Typickým korejským jídlem je kimči. (의 → 2. pád; 은 → téma)",
+      "mnemo": "代表 zástupce (代 zastoupit + 表 ukázat) + 的 -ový.",
+      "koreny": [
+        "dae-代",
+        "pyo-表",
+        "jeok-的"
+      ],
+      "rodina": [
+        "대표"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0747",
+      "tema": "kultura",
+      "slovo": "지방",
+      "vyslovnost": "jibang",
+      "cs": "kraj, region; venkov",
+      "en": "region",
+      "cs_upresneni": "kraj, region (地方), ne tuk",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "북쪽 지방{의} 김치 맛{은} 조금 싱거워요.",
+      "priklad_cs": "Na severu je kimči trochu méně slané. (의 → 2. pád; 은 → téma)",
+      "mnemo": "地 země + 方 strana. Stejně znějící 지방 (脂肪) = tuk.",
+      "koreny": [
+        "ji-地",
+        "bang-方"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0748",
+      "tema": "jídlo",
+      "slovo": "싱겁다",
+      "vyslovnost": "singgeopda",
+      "vyslov_hangul": "싱겁따",
+      "cs": "mdlý, nedosolený",
+      "en": "to be bland",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "국{이} 좀 싱거워요. 소금{을} 더 넣으세요.",
+      "priklad_cs": "Polévka je trochu mdlá. Přidejte sůl. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "„SING-GOP“ – zpíváš (SING) mdlou písničku bez soli. Opak 짜다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "싱겁다",
+          "싱거워요",
+          "싱거웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "viz_tez": "ko-topik3-0749",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0749",
+      "tema": "jídlo",
+      "slovo": "짠맛",
+      "vyslovnost": "jjanmat",
+      "vyslov_hangul": "짠맏",
+      "cs": "slaná chuť",
+      "en": "a salty taste",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "남쪽 지방{으로} 가면 짠맛{이} 강해져요.",
+      "priklad_cs": "Čím víc na jih, tím je chuť slanější. (으로 → kam; 이 → 1. pád)",
+      "mnemo": "짜다 slaný + 맛 chuť. Podobně 단맛 (sladká), 신맛 (kyselá), 매운맛 (pálivá).",
+      "rodina": [
+        "짜다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0748",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0750",
+      "tema": "kultura",
+      "slovo": "한옥",
+      "vyslovnost": "hanok",
+      "vyslov_hangul": "하녹",
+      "cs": "tradiční korejský dům",
+      "en": "traditional Korean-style house (Hanok)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한옥{에서} 하룻밤 자 보고 싶어요.",
+      "priklad_cs": "Chtěl bych zkusit přespat v tradičním korejském domě. (에서 → kde)",
+      "mnemo": "韓 Korea + 屋 dům. Srovnej 한식 (korejské jídlo), 한복 (korejský oděv).",
+      "koreny": [
+        "han-韓",
+        "ok-屋"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0681",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0751",
+      "tema": "doprava",
+      "slovo": "대중교통",
+      "vyslovnost": "daejunggyotong",
+      "cs": "veřejná doprava",
+      "en": "public transportation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국{은} 대중교통{이} 편리해요.",
+      "priklad_cs": "V Koreji je veřejná doprava pohodlná. (은 → téma; 이 → 1. pád)",
+      "mnemo": "大衆 veřejnost (大 velký + 衆 dav) + 交通 doprava (交 střídat + 通 projít).",
+      "koreny": [
+        "dae-大",
+        "jung-衆",
+        "gyo-交",
+        "tong-通"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0752",
+      "tema": "jídlo",
+      "slovo": "배달",
+      "vyslovnost": "baedal",
+      "cs": "rozvoz, donáška",
+      "en": "delivery",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국{에서는} 밤늦게{도} 음식{을} 배달시킬 수 있어요.",
+      "priklad_cs": "V Koreji si můžete nechat přivézt jídlo i pozdě v noci. (에서는 → kde + důraz; 도 → i; 을 → 4. pád)",
+      "mnemo": "配 přidělit + 達 doručit. 배달 음식 = jídlo s donáškou, 배달시키다 = nechat si přivézt.",
+      "koreny": [
+        "bae-配",
+        "dal-達"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0753",
+      "tema": "jídlo",
+      "slovo": "길거리",
+      "vyslovnost": "gilgeori",
+      "vyslov_hangul": "길꺼리",
+      "cs": "ulice",
+      "en": "street",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "길거리 음식{이} 싸고 맛있어요.",
+      "priklad_cs": "Pouliční jídlo je levné a chutné. (이 → 1. pád)",
+      "mnemo": "길 cesta + 거리 ulice. 길거리 음식 = pouliční jídlo.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0754",
+      "tema": "zdvořilost",
+      "slovo": "악수",
+      "vyslovnost": "aksu",
+      "vyslov_hangul": "악쑤",
+      "cs": "podání ruky",
+      "en": "handshake",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "인사할 때 손{을} 내밀어 악수하는 것{도} 괜찮아요.",
+      "priklad_cs": "Při pozdravu je v pořádku také napřáhnout ruku a podat si ji. (을 → 4. pád; 도 → i)",
+      "mnemo": "握 uchopit + 手 ruka = chytit ruku.",
+      "koreny": [
+        "ak-握",
+        "su-手"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0755",
+      "tema": "zdvořilost",
+      "slovo": "눈인사",
+      "vyslovnost": "nuninsa",
+      "vyslov_hangul": "누닌사",
+      "cs": "pozdrav pohledem, kývnutím",
+      "en": "greeting with a nod",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "제니 씨 나라{에서는} 자주 눈인사{를} 해요?",
+      "priklad_cs": "Zdraví se u vás, Jenny, často pohledem? (에서는 → kde + důraz; 를 → 4. pád)",
+      "mnemo": "눈 oko + 인사 pozdrav.",
+      "koreny": [
+        "in-人",
+        "sa-事"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0690",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0756",
+      "tema": "zdvořilost",
+      "slovo": "머리를 쓰다듬다",
+      "vyslovnost": "meorireul sseudadeumda",
+      "vyslov_hangul": "머리를 쓰다듬따",
+      "cs": "pohladit po hlavě",
+      "en": "to pat someone's head",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "어떤 나라{에서는} 머리{를} 쓰다듬으면 그 사람{을} 무시하는 거예요.",
+      "priklad_cs": "V některých zemích pohladit někoho po hlavě znamená neúctu. (에서는 → kde + důraz; 를, 을 → 4. pád)",
+      "mnemo": "쓰다듬다 = hladit. V Koreji se tak chválí děti.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "머리를 쓰다듬다",
+          "머리를 쓰다듬어요",
+          "머리를 쓰다듬었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0757",
+      "tema": "zdvořilost",
+      "slovo": "코를 풀다",
+      "alternativy": [
+        "식탁에서 코를 풀다"
+      ],
+      "vyslovnost": "koreul pulda",
+      "cs": "vysmrkat se",
+      "en": "to blow one's nose",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "한국{에서는} 식탁{에서} 코{를} 풀면 안 돼요.",
+      "priklad_cs": "V Koreji se u stolu nesmrká. (에서는 → kde + důraz; 에서 → kde; 를 → 4. pád)",
+      "mnemo": "코 nos + 풀다 uvolnit, rozmotat.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "코를 풀다",
+          "코를 풀어요",
+          "코를 풀었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0758",
+      "tema": "zdvořilost",
+      "slovo": "웃어른",
+      "vyslovnost": "udeoreun",
+      "vyslov_hangul": "우더른",
+      "cs": "starší (osoba, které náleží úcta)",
+      "en": "elder, senior",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "웃어른{이} 말할 때 조용히 하는 게 예의예요.",
+      "priklad_cs": "Když mluví starší, je slušné být zticha. (이 → 1. pád)",
+      "mnemo": "웃- horní + 어른 dospělý = kdo stojí výš.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0319",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0759",
+      "tema": "zdvořilost",
+      "slovo": "양보",
+      "vyslovnost": "yangbo",
+      "cs": "přenechání, ustoupení (místa)",
+      "en": "concession (to give up a seat)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "버스{에서} 할아버지{에게} 자리{를} 양보했어요.",
+      "priklad_cs": "V autobuse jsem pustil sednout dědečka. (에서 → kde; 에게 → 3. pád; 를 → 4. pád)",
+      "mnemo": "讓 ustoupit + 步 krok = udělat krok stranou. 자리를 양보하다 = pustit sednout.",
+      "koreny": [
+        "yang-讓",
+        "bo-步"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0760",
+      "tema": "zdvořilost",
+      "slovo": "혼잣말",
+      "vyslovnost": "honjanmal",
+      "vyslov_hangul": "혼잔말",
+      "cs": "mluvení pro sebe, samomluva",
+      "en": "talking to oneself",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한국 드라마{에서는} 사람들{이} 혼잣말{을} 많이 해요.",
+      "priklad_cs": "V korejských seriálech lidé často mluví sami pro sebe. (에서는 → kde + důraz; 이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "혼자 sám + ㅅ + 말 řeč. ㅅ před ㅁ se čte [ㄴ]: [혼잔말].",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0761",
+      "tema": "zdvořilost",
+      "slovo": "가방을 대신 들어주다",
+      "alternativy": [
+        "가방을 대신 들어 주다"
+      ],
+      "vyslovnost": "gabangeul daesin deureojuda",
+      "vyslov_hangul": "가방을 대신 드러주다",
+      "cs": "ponést (komu) tašku",
+      "en": "to carry a bag for (someone)",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "가방{이} 무거워 보이는데 제{가} 대신 들어 드릴까요?",
+      "priklad_cs": "Taška vypadá těžce, mám vám ji ponést? (이, 가 → 1. pád)",
+      "mnemo": "대신 místo (koho) + 들다 nést + -어 주다 (pro koho). Zdvořile 들어 드리다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "가방을 대신 들어주다",
+          "가방을 대신 들어줘요",
+          "가방을 대신 들어줬어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0160",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

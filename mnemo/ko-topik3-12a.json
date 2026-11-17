@@ -1,0 +1,715 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 12 양치질을 못 할 정도로 손목이 아파 – textbook s. 108–109 (Part 1 어휘, -다(가)) + přepisy poslechu (s. 157) + 어휘 색인; workbook 3-2 s. 50",
+  "karty": [
+    {
+      "id": "ko-topik3-0832",
+      "tema": "zdraví",
+      "slovo": "외상",
+      "vyslovnost": "oesang",
+      "cs": "zranění (vnější)",
+      "en": "injury",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다음{은} 외상{에} 관한 대화입니다.",
+      "priklad_cs": "Následuje rozhovor o zraněních. (은 → téma; 에 → o čem)",
+      "mnemo": "外 venek + 傷 rána = vnější zranění. Opak 내상 (vnitřní zranění).",
+      "koreny": [
+        "oe-外",
+        "sang-傷"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0833",
+      "tema": "zdraví",
+      "slovo": "다치다",
+      "vyslovnost": "dachida",
+      "cs": "zranit se, poranit si",
+      "en": "to get hurt",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "무거운 짐{을} 들다가 손목{을} 다쳤어요.",
+      "priklad_cs": "Při zvedání těžkého zavazadla jsem si poranil zápěstí. (을 → 4. pád)",
+      "mnemo": "„DA-ČI-DA“ – DA ČÍ to je noha? Poraněná. Zní stejně jako 닫히다 (zavřít se).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "다치다",
+          "다쳐요",
+          "다쳤어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0276",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0834",
+      "tema": "zdraví",
+      "slovo": "상처",
+      "vyslovnost": "sangcheo",
+      "cs": "rána, zranění",
+      "en": "wound",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "걷다가 넘어져서 무릎{에} 상처{가} 났어요.",
+      "priklad_cs": "Cestou jsem upadl a odřel si koleno. (에 → na; 가 → 1. pád)",
+      "mnemo": "傷 rána + 處 místo = místo rány. 상처가 나다 = poranit se, mít ránu; i citová rána (마음의 상처).",
+      "koreny": [
+        "sang-傷",
+        "cheo-處"
+      ],
+      "rodina": [
+        "상처가 나다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0835",
+      "tema": "zdraví",
+      "slovo": "인대",
+      "vyslovnost": "indae",
+      "cs": "vaz (šlacha)",
+      "en": "ligament",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "손목 인대{가} 좀 늘어났어요.",
+      "priklad_cs": "Trochu jsem si natáhl vaz v zápěstí. (가 → 1. pád)",
+      "mnemo": "靭 pružný, houževnatý + 帶 pás = pružný pásek ve kloubu.",
+      "koreny": [
+        "in-靭",
+        "dae-帶"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0836",
+      "tema": "zdraví",
+      "slovo": "늘어나다",
+      "vyslovnost": "neureonada",
+      "vyslov_hangul": "느러나다",
+      "cs": "natáhnout se, zvětšit se, přibýt",
+      "en": "to be stretched",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "축구{를} 하다가 인대{가} 늘어났어요.",
+      "priklad_cs": "Při fotbale jsem si natáhl vaz. (를 → 4. pád; 가 → 1. pád)",
+      "mnemo": "늘다 přibýt + 나다. 인대가 늘어나다 = natáhnout si vaz; 체중이 늘어나다 = přibrat. Opak 줄어들다.",
+      "rodina": [
+        "늘다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "늘어나다",
+          "늘어나요",
+          "늘어났어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0837",
+      "tema": "tělo",
+      "slovo": "발목",
+      "vyslovnost": "balmok",
+      "cs": "kotník",
+      "en": "ankle",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{도} 발목{을} 삔 적{이} 있어요.",
+      "priklad_cs": "Já jsem si taky jednou vymkl kotník. (도 → také; 을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "발 noha + 목 krk = „krk nohy“. Stejně 손목 = zápěstí.",
+      "rodina": [
+        "손목"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0894",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0838",
+      "tema": "zdraví",
+      "slovo": "삐다",
+      "vyslovnost": "ppida",
+      "cs": "vymknout si, podvrtnout",
+      "en": "to sprain, to twist",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "공{을} 차다가 발목{을} 삐어서 깁스{를} 했어요.",
+      "priklad_cs": "Při kopání do míče jsem si vymkl kotník, tak mám sádru. (을, 를 → 4. pád)",
+      "mnemo": "„PÍ-DA!“ – pípne to v kotníku a je vymknutý. 발목을 삐다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "삐다",
+          "삐어요",
+          "삐었어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0840",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0839",
+      "tema": "tělo",
+      "slovo": "허리",
+      "vyslovnost": "heori",
+      "cs": "bedra, kříž; pas",
+      "en": "waist",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "오래 앉아 있었더니 허리{가} 아파요.",
+      "priklad_cs": "Dlouho jsem seděl, a teď mě bolí v kříži. (가 → 1. pád)",
+      "mnemo": "„HO-RI!“ – hoří mi to v kříži. 허리가 아프다 = bolí v zádech, 허리둘레 = obvod pasu.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0840",
+      "tema": "zdraví",
+      "slovo": "삐끗하다",
+      "vyslovnost": "ppikkeutada",
+      "vyslov_hangul": "삐끄타다",
+      "cs": "pochroumat si, hnout si (zády)",
+      "en": "to sprain, to twist",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "짐{을} 옮기다가 허리{를} 삐끗했어요.",
+      "priklad_cs": "Při stěhování věcí jsem si hnul zády. (을, 를 → 4. pád)",
+      "mnemo": "Zvukomalebné 삐끗 = škubnutí, zlé pohnutí. Hlavně 허리를 삐끗하다; silnější je 삐다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "삐끗하다",
+          "삐끗해요",
+          "삐끗했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0838",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0841",
+      "tema": "zdraví",
+      "slovo": "베이다",
+      "vyslovnost": "beida",
+      "cs": "říznout se (o něco)",
+      "en": "to cut, to be cut",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "어제 요리{를} 하다 칼{에} 손{을} 베였어요.",
+      "priklad_cs": "Včera jsem se při vaření řízl nožem do ruky. (를 → 4. pád; 에 → o co; 을 → 4. pád)",
+      "mnemo": "Trpný tvar od 베다 „říznout“. 손가락을 베이다 = říznout se do prstu; 종이에 베이다 = řízl se o papír.",
+      "rodina": [
+        "베다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "베이다",
+          "베여요",
+          "베였어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0842",
+      "tema": "zdraví",
+      "slovo": "데다",
+      "vyslovnost": "deda",
+      "cs": "spálit se, opařit se",
+      "en": "to get burned",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "뜨거운 물{에} 손{을} 데었어요.",
+      "priklad_cs": "Opařil jsem si ruku horkou vodou. (에 → čím; 을 → 4. pád)",
+      "mnemo": "„DE-DA“ – DEj ruku pryč, je to horké! 손을 데다, 화상을 입다 (formálněji).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "데다",
+          "데어요",
+          "데었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0843",
+      "tema": "léčba",
+      "slovo": "연고",
+      "vyslovnost": "yeongo",
+      "cs": "mast (léčivá)",
+      "en": "ointment",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "상처{에} 연고{를} 바르고 나서 반창고{를} 붙여 봐.",
+      "priklad_cs": "Natři ránu mastí a pak dej náplast. (에 → na; 를 → 4. pád)",
+      "mnemo": "軟 měkký + 膏 mast = měkká mast. 연고를 바르다.",
+      "koreny": [
+        "yeon-軟",
+        "go-膏"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0844",
+      "tema": "léčba",
+      "slovo": "바르다",
+      "vyslovnost": "bareuda",
+      "cs": "natřít, namazat (mast, krém)",
+      "en": "to apply on",
+      "cs_upresneni": "natřít, ne „správný“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "모기{한테} 물려서 연고{를} 발랐어요.",
+      "priklad_cs": "Poštípal mě komár, tak jsem to namazal mastí. (한테 → od koho; 를 → 4. pád)",
+      "mnemo": "Pozor na tvary: 발라요, 발랐어요. Stejně znějící 바르다 = správný, přímý (바른 자세).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "바르다",
+          "발라요",
+          "발랐어요"
+        ],
+        "nepravidelnost": "르"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0845",
+      "tema": "léčba",
+      "slovo": "반창고",
+      "vyslovnost": "banchanggo",
+      "cs": "náplast",
+      "en": "band-aid",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "손가락{을} 베여서 반창고{를} 붙였어요.",
+      "priklad_cs": "Řízl jsem se do prstu, tak jsem si dal náplast. (을, 를 → 4. pád)",
+      "mnemo": "絆 svázat + 瘡 vřed, rána + 膏 mast = pásek s mastí na ránu.",
+      "koreny": [
+        "ban-絆",
+        "chang-瘡",
+        "go-膏"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0846",
+      "tema": "léčba",
+      "slovo": "파스",
+      "vyslovnost": "paseu",
+      "cs": "hřejivá náplast (proti bolesti)",
+      "en": "pain relief patch",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "허리{를} 삐끗해서 파스{를} 붙였어요.",
+      "priklad_cs": "Hnul jsem si zády, tak jsem si nalepil náplast proti bolesti. (를 → 4. pád)",
+      "mnemo": "Korejská „파스“ = náplast s lékem na bolavé svaly. 파스를 붙이다.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "(přes japonštinu, původ nejistý)"
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0847",
+      "tema": "léčba",
+      "slovo": "붙이다",
+      "vyslovnost": "buchida",
+      "vyslov_hangul": "부치다",
+      "cs": "přilepit, nalepit",
+      "en": "to affix",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "다리{에} 파스{를} 붙이고 잤어요.",
+      "priklad_cs": "Nalepil jsem si na nohu náplast a šel spát. (에 → na; 를 → 4. pád)",
+      "mnemo": "Od 붙다 „přilepit se“. Pozor: zní stejně jako 부치다 (poslat dopis).",
+      "rodina": [
+        "붙다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "붙이다",
+          "붙여요",
+          "붙였어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0848",
+      "tema": "léčba",
+      "slovo": "붕대",
+      "vyslovnost": "bungdae",
+      "cs": "obvaz",
+      "en": "bandage, dressing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "왜 손목{에} 붕대{를} 감았어? 다친 거야?",
+      "priklad_cs": "Proč máš obvázané zápěstí? Zranil ses? (에 → na; 를 → 4. pád)",
+      "mnemo": "繃 ovinout + 帶 pás = pás k ovinutí. 붕대를 감다.",
+      "koreny": [
+        "bung-繃",
+        "dae-帶"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0849",
+      "tema": "léčba",
+      "slovo": "감다",
+      "vyslovnost": "gamda",
+      "vyslov_hangul": "감따",
+      "cs": "ovinout, omotat",
+      "en": "to wrap",
+      "cs_upresneni": "ovinout (obvaz), ne zavřít oči ani mýt vlasy",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "다친 손{에} 붕대{를} 감았어요.",
+      "priklad_cs": "Obvázal jsem si zraněnou ruku. (에 → na; 를 → 4. pád)",
+      "mnemo": "붕대를 감다 = obvázat. Stejně znějící 감다 = zavřít oči (눈을 감다) a 감다 = umýt vlasy (머리를 감다).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "감다",
+          "감아요",
+          "감았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0850",
+      "tema": "léčba",
+      "slovo": "깁스",
+      "vyslovnost": "gipseu",
+      "vyslov_hangul": "깁쓰",
+      "cs": "sádra (sádrový obvaz)",
+      "en": "plaster cast",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "병원{에서} 일주일 후{에} 검사해 보고 괜찮으면 깁스{는} 풀어도 된대요.",
+      "priklad_cs": "V nemocnici říkali, že za týden mě prohlédnou, a když to bude dobré, sádru můžu sundat. (에서 → kde; 에 → kdy; 는 → téma)",
+      "mnemo": "Z němčiny Gips. 깁스를 하다 = mít sádru, 깁스를 풀다 = sundat sádru.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "(z němčiny) Gips",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0851",
+      "tema": "léčba",
+      "slovo": "풀다",
+      "vyslovnost": "pulda",
+      "cs": "rozvázat, sundat; vyřešit",
+      "en": "to untie",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "언제 깁스{를} 풀 거예요?",
+      "priklad_cs": "Kdy ti sundají sádru? (를 → 4. pád)",
+      "mnemo": "Základní význam „rozvázat, uvolnit“: 깁스를 풀다, 문제를 풀다 (vyřešit úlohu), 스트레스를 풀다.",
+      "rodina": [
+        "풀리다",
+        "코를 풀다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "풀다",
+          "풀어요",
+          "풀었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "viz_tez": "ko-topik3-0095",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0852",
+      "tema": "léčba",
+      "slovo": "물리 치료",
+      "alternativy": [
+        "물리치료"
+      ],
+      "vyslovnost": "mulli chiryo",
+      "vyslov_hangul": "물리 치료",
+      "cs": "fyzioterapie, rehabilitace",
+      "en": "physical therapy",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다친 다리{는} 매주 물리 치료{를} 받고 있어요.",
+      "priklad_cs": "Na zraněnou nohu chodím každý týden na rehabilitaci. (는 → téma; 를 → 4. pád)",
+      "mnemo": "物理 fyzika (物 věc + 理 princip) + 治療 léčba. 물리 치료를 받다.",
+      "koreny": [
+        "mul-物",
+        "ri-理",
+        "chi-治",
+        "ryo-療"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0853",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0853",
+      "tema": "léčba",
+      "slovo": "치료",
+      "vyslovnost": "chiryo",
+      "cs": "léčba, ošetření",
+      "en": "treatment (치료하다 = to cure)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "다쳤을 때 어떻게 치료하는지 이야기해 보세요.",
+      "priklad_cs": "Povězte, jak se ošetřuje, když se zraníte. (bez částic)",
+      "mnemo": "治 léčit + 療 hojit. 치료를 받다 = podstoupit léčbu, 치료하다 = léčit.",
+      "koreny": [
+        "chi-治",
+        "ryo-療"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0854",
+      "tema": "léčba",
+      "slovo": "수술",
+      "vyslovnost": "susul",
+      "cs": "operace",
+      "en": "surgery",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "친구{가} 밀어서 넘어졌는데 코뼈{가} 부러져서 수술{을} 받았어요.",
+      "priklad_cs": "Kamarád mě strčil, upadl jsem, zlomil si nosní kost a musel na operaci. (가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "手 ruka + 術 umění, technika = ruční zákrok. 수술을 받다 = jít na operaci, 수술하다 = operovat.",
+      "koreny": [
+        "su-手",
+        "sul-術"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0855",
+      "tema": "léčba",
+      "slovo": "검사",
+      "vyslovnost": "geomsa",
+      "cs": "vyšetření, kontrola",
+      "en": "checking (검사하다 = to check)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "일주일 후{에} 병원{에서} 검사해 보고 괜찮으면 깁스{를} 풀 거예요.",
+      "priklad_cs": "Za týden mě v nemocnici vyšetří, a když to bude dobré, sundají mi sádru. (에 → kdy; 에서 → kde; 를 → 4. pád)",
+      "mnemo": "檢 prověřit + 査 zkoumat. 검사를 받다 = jít na vyšetření, 건강 검사 = prohlídka.",
+      "koreny": [
+        "geom-檢",
+        "sa-査"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0856",
+      "tema": "tělo",
+      "slovo": "부위",
+      "vyslovnost": "buwi",
+      "cs": "místo, část (těla)",
+      "en": "a part",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다친 부위{가} 어디예요?",
+      "priklad_cs": "Kde přesně jste zraněný? (가 → 1. pád)",
+      "mnemo": "部 část + 位 pozice = místo na těle. 다친 부위 = zraněné místo.",
+      "koreny": [
+        "bu-部",
+        "wi-位"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0857",
+      "tema": "zdraví",
+      "slovo": "부러지다",
+      "vyslovnost": "bureojida",
+      "cs": "zlomit se",
+      "en": "to be broken",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "초등학교 때 코뼈{가} 부러졌어요.",
+      "priklad_cs": "Na základní škole jsem si zlomil nosní kost. (가 → 1. pád)",
+      "mnemo": "„BU-RE-ČI-DA“ – BUch, a kost je zlomená. O tvrdých podlouhlých věcech (kost, větev, tužka); sklo se 깨지다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "부러지다",
+          "부러져요",
+          "부러졌어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0861",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0858",
+      "tema": "tělo",
+      "slovo": "코뼈",
+      "vyslovnost": "koppyeo",
+      "cs": "nosní kost",
+      "en": "nasal bone",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "넘어져서 코뼈{가} 부러졌어요.",
+      "priklad_cs": "Upadl jsem a zlomil si nosní kost. (가 → 1. pád)",
+      "mnemo": "코 nos + 뼈 kost.",
+      "rodina": [
+        "뼈"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0917",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0859",
+      "tema": "čas",
+      "slovo": "시기",
+      "vyslovnost": "sigi",
+      "cs": "doba, období (kdy)",
+      "en": "time",
+      "cs_upresneni": "doba, období, ne žárlivost",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "다친 시기{는} 언제예요? – 초등학교 때요.",
+      "priklad_cs": "Kdy ses zranil? – Na základce. (는 → téma)",
+      "mnemo": "時 čas + 期 období. Stejně znějící 시기 (猜忌) = žárlivost, závist.",
+      "koreny": [
+        "si-時",
+        "gi-期"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0860",
+      "tema": "gramatika",
+      "slovo": "-다(가)",
+      "vyslovnost": "-da(ga)",
+      "cs": "při (dělání čeho) se stalo…; jak jsem…, tak",
+      "en": "indicates that the process of an event may be the cause for another situation",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "짐{을} 옮기다가 허리{를} 삐끗했어요.",
+      "priklad_cs": "Při přenášení zavazadel jsem si hnul zády. (을, 를 → 4. pád)",
+      "mnemo": "Kmen slovesa + -다가 (bez ohledu na zakončení), 가 lze vypustit. Během děje 1 nastane děj 2, často nehoda: 졸다가 한 정거장 더 갔어요 = usnul jsem a přejel zastávku. Podmět obou vět je stejný.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0861",
+      "tema": "nehody",
+      "slovo": "깨지다",
+      "vyslovnost": "kkaejida",
+      "cs": "rozbít se (na kusy), prasknout",
+      "en": "to break",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "핸드폰 액정{이} 깨졌네요. – 네, 떨어뜨렸어요.",
+      "priklad_cs": "Máš rozbitý displej na mobilu. – Jo, upustil jsem ho. (이 → 1. pád)",
+      "mnemo": "Od 깨다 „rozbít“. O skle, talíři, displeji; kost se 부러지다.",
+      "rodina": [
+        "깨다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "깨지다",
+          "깨져요",
+          "깨졌어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0857",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

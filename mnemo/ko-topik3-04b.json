@@ -1,0 +1,754 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 4 – textbook s. 42–43 (Part 2 어휘, 반말 2) + 어휘 색인; workbook 3-1 s. 40",
+  "karty": [
+    {
+      "id": "ko-topik3-0254",
+      "tema": "domácnost",
+      "slovo": "전구",
+      "vyslovnost": "jeongu",
+      "cs": "žárovka",
+      "en": "bulb",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "전구{가} 나가서 방{이} 어두워요.",
+      "priklad_cs": "Praskla žárovka, tak je v pokoji tma. (가, 이 → 1. pád)",
+      "mnemo": "電 elektřina + 球 koule = elektrická koule.",
+      "koreny": [
+        "jeon-電",
+        "gu-球"
+      ],
+      "rodina": [
+        "전구가 나가다",
+        "전구를 갈다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0257",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0255",
+      "tema": "domácnost",
+      "slovo": "불이 나가다",
+      "alternativy": [
+        "전기가 나가다"
+      ],
+      "vyslovnost": "buri nagada",
+      "vyslov_hangul": "부리 나가다",
+      "cs": "vypadne proud, zhasne světlo",
+      "en": "the power goes out",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "갑자기 불{이} 나가서 아무것{도} 안 보여요.",
+      "priklad_cs": "Najednou vypadl proud a není nic vidět. (이 → 1. pád; 도 → ani)",
+      "mnemo": "불 světlo + 나가다 odejít = světlo „odešlo“. Stejně 전구가 나가다 = praskne žárovka.",
+      "rodina": [
+        "전구가 나가다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "불이 나가다",
+          "불이 나가요",
+          "불이 나갔어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0154",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0256",
+      "tema": "domácnost",
+      "slovo": "전기",
+      "vyslovnost": "jeongi",
+      "cs": "elektřina, proud",
+      "en": "electricity",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "전기{를} 아껴 써야 해요.",
+      "priklad_cs": "Musíme šetřit elektřinou. (를 → 4. pád)",
+      "mnemo": "電 elektřina + 氣 energie.",
+      "koreny": [
+        "jeon-電",
+        "gi-氣"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0255",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0257",
+      "tema": "domácnost",
+      "slovo": "갈다",
+      "vyslovnost": "galda",
+      "cs": "vyměnit (za nové)",
+      "en": "to change, to replace",
+      "cs_upresneni": "vyměnit (žárovku, závěsy), ne „brousit, mlít“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "방{이} 어두워서 전구{를} 갈고 싶어요.",
+      "priklad_cs": "V pokoji je tma, chci vyměnit žárovku. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "전구를 갈다 = vyměnit žárovku, 커튼을 갈다 = vyměnit závěsy (workbook). Stejně znějící 갈다 = brousit, mlít.",
+      "rodina": [
+        "전구를 갈다",
+        "커튼을 갈다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "갈다",
+          "갈아요",
+          "갈았어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0258",
+      "tema": "domácnost",
+      "slovo": "변기",
+      "vyslovnost": "byeongi",
+      "cs": "záchodová mísa, záchod",
+      "en": "toilet",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "변기{가} 고장 나서 물{이} 안 내려가요.",
+      "priklad_cs": "Záchod je rozbitý a voda neodtéká. (가, 이 → 1. pád)",
+      "mnemo": "便 výkal (čte se 변) + 器 nádoba.",
+      "koreny": [
+        "byeon-便",
+        "gi-器"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0259",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0259",
+      "tema": "domácnost",
+      "slovo": "변기가 막히다",
+      "vyslovnost": "byeongiga makida",
+      "vyslov_hangul": "변기가 마키다",
+      "cs": "ucpat se (o záchodu)",
+      "en": "the toilet gets clogged",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "집{에서} 변기{가} 막히면 어떻게 해야 돼요?",
+      "priklad_cs": "Co mám dělat, když se doma ucpe záchod? (에서 → kde; 가 → 1. pád)",
+      "mnemo": "막히다 = být ucpaný (srov. 길이 막히다 = zácpa). Řešení: 변기를 뚫다.",
+      "koreny": [
+        "byeon-便",
+        "gi-器"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "변기가 막히다",
+          "변기가 막혀요",
+          "변기가 막혔어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0188",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0260",
+      "tema": "domácnost",
+      "slovo": "뚫다",
+      "vyslovnost": "ttulta",
+      "vyslov_hangul": "뚤타",
+      "cs": "prorazit, pročistit (ucpané)",
+      "en": "to dig; to unclog",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "막힌 변기{를} 뚫었어요.",
+      "priklad_cs": "Pročistil jsem ucpaný záchod. (를 → 4. pád)",
+      "mnemo": "„TUL“ – TUneLem prorazíš ucpávku. 변기를 뚫다 = pročistit záchod.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "뚫다",
+          "뚫어요",
+          "뚫었어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0259",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0261",
+      "tema": "domácnost",
+      "slovo": "얼룩",
+      "vyslovnost": "eolluk",
+      "cs": "skvrna, flek",
+      "en": "stain",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "벽{에} 얼룩{이} 생겼어요.",
+      "priklad_cs": "Na zdi se udělal flek. (에 → kde; 이 → 1. pád)",
+      "mnemo": "„OL-LUK“ – OLej na LUXusním koberci = flek.",
+      "rodina": [
+        "얼룩이 생기다",
+        "얼룩을 없애다",
+        "얼룩을 지우다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0262",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0262",
+      "tema": "domácnost",
+      "slovo": "없애다",
+      "vyslovnost": "eopsaeda",
+      "vyslov_hangul": "업쌔다",
+      "cs": "odstranit, zbavit se",
+      "en": "to remove",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "이 세제{로} 얼룩{을} 없앨 수 있어요.",
+      "priklad_cs": "Tímhle prostředkem se dá flek odstranit. (로 → čím, 7. pád; 을 → 4. pád)",
+      "mnemo": "Od 없다 „nebýt“ → způsobit, aby nebylo.",
+      "rodina": [
+        "없다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "없애다",
+          "없애요",
+          "없앴어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0263",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0263",
+      "tema": "domácnost",
+      "slovo": "지우다",
+      "vyslovnost": "jiuda",
+      "cs": "smazat, odstranit (skvrnu)",
+      "en": "to remove, to erase",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "옷{에} 묻은 얼룩{을} 지웠어요.",
+      "priklad_cs": "Vyčistil jsem flek na oblečení. (에 → na; 을 → 4. pád)",
+      "mnemo": "„DŽI-U“ – gumou (지우개) to smažeš.",
+      "rodina": [
+        "지우개"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "지우다",
+          "지워요",
+          "지웠어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0262",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0264",
+      "tema": "domácnost",
+      "slovo": "바람이 들어오다",
+      "vyslovnost": "barami deureooda",
+      "vyslov_hangul": "바라미 드러오다",
+      "cs": "táhne (vítr jde dovnitř)",
+      "en": "the wind comes in",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "창문{에서} 바람{이} 들어오면 커튼{을} 달아 보세요.",
+      "priklad_cs": "Když táhne od okna, zkuste pověsit závěs. (에서 → odkud; 이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "바람 vítr + 들어오다 vejít dovnitř.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "바람이 들어오다",
+          "바람이 들어와요",
+          "바람이 들어왔어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0265",
+      "tema": "domácnost",
+      "slovo": "수리",
+      "vyslovnost": "suri",
+      "cs": "oprava",
+      "en": "repairs",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "고장 난 에어컨{을} 수리했어요.",
+      "priklad_cs": "Opravil jsem rozbitou klimatizaci. (을 → 4. pád)",
+      "mnemo": "修 zdokonalit + 理 uspořádat = dát do pořádku. Úřednější než 고치다.",
+      "koreny": [
+        "su-修",
+        "ri-理"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0213",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0266",
+      "tema": "domácnost",
+      "slovo": "페인트칠",
+      "vyslovnost": "peinteuchil",
+      "cs": "natírání, malování (barvou)",
+      "en": "painting",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "벽{에} 페인트칠{을} 다시 해야겠어요.",
+      "priklad_cs": "Zdi bude potřeba znovu natřít. (에 → na; 을 → 4. pád)",
+      "mnemo": "페인트 (paint) + 漆 nátěr.",
+      "koreny": [
+        "chil-漆"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "z_anglictiny": "paint",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0267",
+      "tema": "domácnost",
+      "slovo": "도배",
+      "vyslovnost": "dobae",
+      "cs": "tapetování",
+      "en": "(wall)papering",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "새 벽지{를} 사서 도배{를} 했어요.",
+      "priklad_cs": "Koupil jsem novou tapetu a vytapetoval. (를 → 4. pád)",
+      "mnemo": "塗 natřít + 褙 podlepit = olepit stěnu papírem.",
+      "koreny": [
+        "do-塗",
+        "bae-褙"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0268",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0268",
+      "tema": "domácnost",
+      "slovo": "벽지",
+      "vyslovnost": "byeokji",
+      "vyslov_hangul": "벽찌",
+      "cs": "tapeta",
+      "en": "wallpaper",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "벽지{가} 오래돼서 색{이} 변했어요.",
+      "priklad_cs": "Tapeta je stará, tak změnila barvu. (가, 이 → 1. pád)",
+      "mnemo": "壁 stěna + 紙 papír.",
+      "koreny": [
+        "byeok-壁",
+        "ji-紙"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0267",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0269",
+      "tema": "domácnost",
+      "slovo": "커튼",
+      "vyslovnost": "keoteun",
+      "cs": "závěs, záclona",
+      "en": "curtain",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이제 곧 겨울이니까 두꺼운 커튼{을} 사야겠어요.",
+      "priklad_cs": "Brzy bude zima, tak musím koupit silné závěsy. (을 → 4. pád)",
+      "mnemo": "",
+      "rodina": [
+        "커튼을 달다",
+        "커튼을 갈다"
+      ],
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "curtain"
+      },
+      "viz_tez": "ko-topik3-0270",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0270",
+      "tema": "domácnost",
+      "slovo": "달다",
+      "vyslovnost": "dalda",
+      "cs": "pověsit, připevnit",
+      "en": "to hang",
+      "cs_upresneni": "pověsit (závěs), ne „sladký“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "새 커튼{을} 사서 달았어요.",
+      "priklad_cs": "Koupil jsem nové závěsy a pověsil je. (을 → 4. pád)",
+      "mnemo": "커튼을 달다 = pověsit závěs. Stejně znějící 달다 = sladký.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "달다",
+          "달아요",
+          "달았어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "viz_tez": "ko-topik3-0329",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0271",
+      "tema": "domácnost",
+      "slovo": "못",
+      "vyslovnost": "mot",
+      "vyslov_hangul": "몯",
+      "cs": "hřebík",
+      "en": "nail",
+      "cs_upresneni": "hřebík, ne „nemoci“ (못 + sloveso)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "벽{에} 못{을} 박고 그림{을} 걸었어요.",
+      "priklad_cs": "Zatloukl jsem do zdi hřebík a pověsil obraz. (에 → do; 을 → 4. pád)",
+      "mnemo": "Stejně zní záporka 못 (못 가요 = nemůžu jít).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0272",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0272",
+      "tema": "domácnost",
+      "slovo": "박다",
+      "vyslovnost": "bakda",
+      "vyslov_hangul": "박따",
+      "cs": "zatlouct",
+      "en": "to drive (a nail)",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "망치{로} 못{을} 박았어요.",
+      "priklad_cs": "Zatloukl jsem hřebík kladivem. (로 → čím, 7. pád; 을 → 4. pád)",
+      "mnemo": "„PAK!“ – zvuk kladiva na hřebíku.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "박다",
+          "박아요",
+          "박았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0271",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0273",
+      "tema": "bydlení",
+      "slovo": "집주인",
+      "vyslovnost": "jipjuin",
+      "vyslov_hangul": "집쭈인",
+      "cs": "majitel domu, pronajímatel",
+      "en": "house owner",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "페인트칠{은} 집주인{이} 다 해 줄 거예요.",
+      "priklad_cs": "Natření vám udělá majitel. (은 → téma; 이 → 1. pád)",
+      "mnemo": "집 dům + 主人 pán (主 pán + 人 člověk).",
+      "koreny": [
+        "ju-主",
+        "in-人"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0274",
+      "tema": "bydlení",
+      "slovo": "계약",
+      "vyslovnost": "gyeyak",
+      "vyslov_hangul": "게약",
+      "cs": "smlouva",
+      "en": "contract",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "계약하면 바로 들어와서 살 수 있어요.",
+      "priklad_cs": "Když podepíšete smlouvu, můžete se hned nastěhovat. (bez částic)",
+      "mnemo": "契 dohoda + 約 úmluva. 계약하다 = uzavřít smlouvu.",
+      "koreny": [
+        "gye-契",
+        "yak-約"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0275",
+      "tema": "bydlení",
+      "slovo": "구하다",
+      "vyslovnost": "guhada",
+      "cs": "shánět, hledat (byt, práci)",
+      "en": "to look for, to seek (rejstřík: to save)",
+      "cs_upresneni": "shánět (byt, práci), ne „zachránit“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "학교 근처{에서} 집{을} 구하고 있어요.",
+      "priklad_cs": "Sháním byt blízko školy. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "求 hledat, žádat + 하다. Stejně znějící 救하다 = zachránit.",
+      "koreny": [
+        "gu-求"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "구하다",
+          "구해요",
+          "구했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0276",
+      "tema": "domácnost",
+      "slovo": "닫히다",
+      "vyslovnost": "dachida",
+      "vyslov_hangul": "다치다",
+      "cs": "zavřít se, jít zavřít",
+      "en": "to be closed",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "창문{이} 잘 안 닫혀요.",
+      "priklad_cs": "Okno nejde pořádně zavřít. (이 → 1. pád)",
+      "mnemo": "Trpný tvar od 닫다 „zavřít“. Pozor: zní stejně jako 다치다 (zranit se).",
+      "rodina": [
+        "닫다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "닫히다",
+          "닫혀요",
+          "닫혔어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0277",
+      "tema": "domácnost",
+      "slovo": "일어나다",
+      "vyslovnost": "ireonada",
+      "vyslov_hangul": "이러나다",
+      "cs": "stát se, přihodit se; vstát",
+      "en": "to happen",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "집{에서} 일어날 수 있는 문제{에는} 뭐{가} 있어요?",
+      "priklad_cs": "Jaké problémy se můžou doma vyskytnout? (에서 → kde; 에는 → mezi; 가 → 1. pád)",
+      "mnemo": "Ráno 일어나다 = vstát; problém se „zvedne“ = stane se.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "일어나다",
+          "일어나요",
+          "일어났어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0015",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0278",
+      "tema": "gramatika",
+      "slovo": "-아라/어라, -자 (반말 2)",
+      "vyslovnost": "-ara/eora, -ja (banmal)",
+      "cs": "rozkaz a návrh v tykání: udělej! / pojďme…!",
+      "en": "intimate command (-아라/어라) and suggestion (-자)",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "재훈아, 방 좀 치워라. – 음식 값{은} 각자 계산하자.",
+      "priklad_cs": "Čehune, ukliď si pokoj. – Jídlo si zaplaťme každý sám. (은 → téma)",
+      "mnemo": "-아라/어라 = rozkaz blízkému nebo mladšímu (치워라, 먹어라, 해라). -자 = návrh „pojďme“ (가자, 먹자, 하자). Zdvořile -(으)세요 a -(으)ㅂ시다.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0163",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0279",
+      "tema": "peníze",
+      "slovo": "계산",
+      "vyslovnost": "gyesan",
+      "vyslov_hangul": "게산",
+      "cs": "placení (účtu); výpočet",
+      "en": "to calculate",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "음식 값{은} 각자 계산해요.",
+      "priklad_cs": "Za jídlo platí každý sám. (은 → téma)",
+      "mnemo": "計 počítat + 算 počítat. V restauraci 계산하다 = zaplatit.",
+      "koreny": [
+        "gye-計",
+        "san-算"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0280",
+      "tema": "peníze",
+      "slovo": "한턱내다",
+      "vyslovnost": "hanteongnaeda",
+      "vyslov_hangul": "한턴내다",
+      "cs": "pohostit, zatáhnout (za všechny)",
+      "en": "to treat",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "오늘{은} 제 생일이니까 제{가} 한턱낼게요.",
+      "priklad_cs": "Dneska mám narozeniny, tak vás zvu. (은 → téma; 가 → 1. pád)",
+      "mnemo": "한턱 pohoštění + 내다 vydat, zaplatit.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "한턱내다",
+          "한턱내요",
+          "한턱냈어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0281",
+      "tema": "domácnost",
+      "slovo": "꾸미다",
+      "vyslovnost": "kkumida",
+      "cs": "zdobit, vyzdobit, zařídit",
+      "en": "to decorate",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "봄{을} 맞아 집 안{을} 꾸미는 사람들{이} 많아요.",
+      "priklad_cs": "Hodně lidí na uvítanou jara zdobí byt. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "„KU-MI“ – vyzdobíš to s KUMŠTem. 꾸미기 = zdobení.",
+      "rodina": [
+        "꾸미기"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "꾸미다",
+          "꾸며요",
+          "꾸몄어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0282",
+      "tema": "škola",
+      "slovo": "게시판",
+      "vyslovnost": "gesipan",
+      "cs": "nástěnka",
+      "en": "bulletin board",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "게시판{에} 재미있는 한국 드라마{를} 소개하는 코너{가} 있으면 좋겠어요.",
+      "priklad_cs": "Bylo by fajn mít na nástěnce rubriku, kde se představují zajímavé korejské seriály. (에 → na; 를 → 4. pád; 가 → 1. pád)",
+      "mnemo": "揭 vyvěsit + 示 ukázat + 板 deska = deska na vyvěšování.",
+      "koreny": [
+        "ge-揭",
+        "si-示",
+        "pan-板"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0283",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0283",
+      "tema": "škola",
+      "slovo": "코너",
+      "vyslovnost": "koneo",
+      "cs": "koutek, rubrika; roh",
+      "en": "corner",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "교실{에} 한국 책 코너{를} 만들어요.",
+      "priklad_cs": "Uděláme ve třídě koutek s korejskými knihami. (에 → kde; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "corner"
+      },
+      "viz_tez": "ko-topik3-0282",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+<title>Gamgol Poslech</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&family=Noto+Sans+KR:wght@400;500&display=swap">
+<style>
+/* Layout: one column of filed recordings, like the station's case log; filters stick to the top. */
+:root{
+  --paper:#f6f3ec; --card:#fffdf8; --ink:#1f2a33; --soft:#5d6973; --line:#d9d2c3;
+  --navy:#28475b; --stamp:#b5402f; --ok:#2f6b4a; --hi:#efe6cf;
+  --f-ui:"IBM Plex Sans",system-ui,sans-serif; --f-ko:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif; --f-tag:"Courier Prime","Courier New",monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#171d22;--card:#1f272e;--ink:#e7e3da;--soft:#9aa6ae;--line:#34404a;--navy:#8fb4cc;--stamp:#e27a66;--ok:#7cc29a;--hi:#2c3640;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#171d22;--card:#1f272e;--ink:#e7e3da;--soft:#9aa6ae;--line:#34404a;--navy:#8fb4cc;--stamp:#e27a66;--ok:#7cc29a;--hi:#2c3640;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:15px/1.5 var(--f-ui)}
+.wrap{max-width:860px;margin:0 auto;padding-inline:16px;padding-block:20px 60px}
+h1{font:700 22px/1.2 var(--f-tag);letter-spacing:.02em;margin:0;text-wrap:balance}
+.sub{color:var(--soft);margin:4px 0 0;font-size:14px;max-width:65ch}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:2;background:var(--paper);padding-block:12px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
+select,button,textarea{font:inherit;color:inherit}
+select{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:6px 8px;min-height:36px}
+.btn{background:var(--navy);color:var(--paper);border:0;border-radius:6px;padding:7px 14px;min-height:36px;cursor:pointer;font-weight:500}
+.btn.alt{background:transparent;color:var(--navy);border:1px solid var(--navy)}
+.btn:focus-visible,select:focus-visible,.pl:focus-visible,.rp:focus-visible{outline:2px solid var(--stamp);outline-offset:2px}
+.count{margin-left:auto;font:13px var(--f-tag);color:var(--soft);font-variant-numeric:tabular-nums}
+.note{font-size:13px;color:var(--soft);margin:10px 0 0}
+.note.warn{color:var(--stamp)}
+ol{list-style:none;margin:12px 0 0;padding:0;display:flex;flex-direction:column;gap:6px}
+li{display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:10px;align-items:start;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:10px}
+li.cur{background:var(--hi);border-color:var(--navy)}
+li.rep{border-left:4px solid var(--stamp)}
+.pl{width:40px;height:40px;border-radius:50%;border:1.5px solid var(--navy);background:none;color:var(--navy);cursor:pointer;display:grid;place-items:center}
+.pl.on{background:var(--navy);color:var(--paper)}
+.t{font:500 18px/1.55 var(--f-ko);overflow-wrap:anywhere}
+.m{font:12px var(--f-tag);color:var(--soft);display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:2px}
+.m .v{color:var(--navy);font-weight:700}
+.rp{background:none;border:1px solid var(--line);color:var(--stamp);border-radius:6px;padding:5px 10px;cursor:pointer;font-size:13px;white-space:nowrap}
+.rep .rp{border-color:var(--stamp)}
+.form{grid-column:2 / -1;display:flex;flex-direction:column;gap:6px}
+.form textarea{width:100%;min-height:60px;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:8px;resize:vertical}
+.form .row{display:flex;gap:8px;flex-wrap:wrap}
+.said{grid-column:2 / -1;font-size:13px;color:var(--stamp);margin:0}
+.empty{padding:30px 0;color:var(--soft);text-align:center}
+@media (max-width:520px){li{grid-template-columns:44px minmax(0,1fr)}.rp{grid-column:2;justify-self:start}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+<div class="wrap">
+  <h1>GAMGOL · POSLECH</h1>
+  <p class="sub">Všechny nahrávky do hry. Pusť si je jednu po druhé a u každé, která zní špatně, klikni na Nahlásit a napiš proč. Pak Claudovi napiš „oprav nahlášené“.</p>
+  <div class="bar">
+    <select id="fch" aria-label="Kapitola"></select>
+    <select id="fkind" aria-label="Druh">
+      <option value="">Všechny druhy</option><option value="line">Repliky</option><option value="task">Úkoly</option><option value="read">Zpravodaj</option><option value="card">Kartičky</option><option value="cardex">Příklady ke kartičkám</option>
+    </select>
+    <select id="fv" aria-label="Hlas"><option value="">Oba hlasy</option><option value="F1">F1 (žena)</option><option value="M1">M1 (muž)</option></select>
+    <select id="frep" aria-label="Nahlášené"><option value="">Vše</option><option value="rep">Jen nahlášené</option></select>
+    <button class="btn" id="all" type="button">Přehrát vše</button>
+    <span class="count" id="cnt"></span>
+  </div>
+  <p class="note" id="dbnote">Načítám nahlášení…</p>
+  <ol id="list"></ol>
+</div>
+<script>
+const DATA = /*DATA*/;
+const KIND = { line: "replika", task: "úkol", read: "Zpravodaj", card: "kartička", cardex: "příklad" };
+const chOf = b => b.slice(1), chName = c => c === "f" ? "Závěrečný spis" : "Kapitola " + c;
+const $ = s => document.querySelector(s), esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const SPK = '<svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M2 6h3l4-3v10l-4-3H2z" fill="currentColor"/><path d="M11 5.5c1.3 1.2 1.3 3.8 0 5M12.8 3.8c2.3 2.2 2.3 6.2 0 8.4" stroke="currentColor" fill="none" stroke-width="1.3"/></svg>';
+const rows = DATA.rows.map(([k, b, v, t, kind, ref]) => ({ k, b, v, t, kind, ref }));
+const chs = [...new Set(rows.map(r => chOf(r.b)))];
+$("#fch").innerHTML = '<option value="">Všechny kapitoly</option>' + chs.map(c => `<option value="${c}">${chName(c)}</option>`).join("");
+let REP = {}, db = null, uid = null, openForm = null;
+const shown = () => rows.filter(r => (!$("#fch").value || chOf(r.b) === $("#fch").value) && (!$("#fkind").value || r.kind === $("#fkind").value) && (!$("#fv").value || r.v === $("#fv").value) && (!$("#frep").value || REP[r.k]));
+
+let draft = "";                                    // text typed into the open report form, kept across redraws
+function draw() {
+  const ta = openForm && document.getElementById("note-" + openForm), had = ta && document.activeElement === ta, caret = ta ? ta.selectionStart : 0;
+  if (ta) draft = ta.value;
+  const L = shown(), nrep = Object.keys(REP).length;
+  $("#cnt").textContent = L.length + " nahrávek" + (nrep ? " · nahlášeno " + nrep : "");
+  $("#list").innerHTML = L.length ? L.map(r => { const rp = REP[r.k];
+    return `<li data-k="${r.k}" class="${rp ? "rep" : ""}${P.k === r.k ? " cur" : ""}"><button class="pl${P.k === r.k ? " on" : ""}" type="button" data-play="${r.k}" aria-label="Přehrát">${SPK}</button>
+      <div><div class="t" lang="ko">${esc(r.t)}</div><div class="m"><span class="v">${r.v}</span><span>${chName(chOf(r.b))}</span><span>${KIND[r.kind]}</span><span>${esc(r.ref)}</span><span>${r.k}</span></div></div>
+      ${db ? `<button class="rp" type="button" data-rep="${r.k}">${rp ? "Upravit" : "Nahlásit"}</button>` : ""}
+      ${rp && openForm !== r.k ? `<p class="said">Nahlášeno: ${esc(rp.note || "bez poznámky")}</p>` : ""}
+      ${openForm === r.k ? `<div class="form"><textarea id="note-${r.k}" placeholder="Co je špatně? Např. špatná výslovnost slova, useknutý konec, divná intonace…">${esc(draft)}</textarea>
+        <div class="row"><button class="btn" type="button" data-send="${r.k}">${rp ? "Uložit" : "Nahlásit"}</button>${rp ? `<button class="btn alt" type="button" data-del="${r.k}">Zrušit nahlášení</button>` : ""}<button class="btn alt" type="button" data-close="1">Zavřít</button></div></div>` : ""}</li>`; }).join("")
+    : '<li class="empty" style="display:block">Žádné nahrávky neodpovídají filtru.</li>';
+  const nt = had && document.getElementById("note-" + openForm); if (nt) { nt.focus({ preventScroll: true }); nt.setSelectionRange(caret, caret); }
+}
+/* while playing, only the highlight moves: redrawing 2 000 rows per clip is slow on a phone and would close nothing open */
+function mark(k) {
+  document.querySelectorAll("li.cur").forEach(li => { li.classList.remove("cur"); const b = li.querySelector(".pl"); if (b) b.classList.remove("on"); });
+  const li = k && document.querySelector(`li[data-k="${k}"]`); if (li) { li.classList.add("cur"); const b = li.querySelector(".pl"); if (b) b.classList.add("on"); }
+  return li;
+}
+
+/* playback: one bundle per chapter and kind, fetched once, clip cut out by [offset, length] */
+const B = {}, P = { k: null, el: null, tok: 0, url: "" };
+/* one shared <audio>, unlocked by the first tap: Safari, iOS and Android allow play() per element only after a tap */
+const AEL = new Audio(), SILENT = "data:audio/mpeg;base64,//NwwAAAAAAAAAAAAEluZm8AAAAPAAAABAAAAlgAenp6enp6enp6enp6enp6enp6enp6enp6pqampqampqampqampqampqampqampqamptPT09PT09PT09PT09PT09PT09PT09PT09P/////////////////////////////////AAAAAExhdmM2MC4zMQAAAAAAAAAAAAAAACQCcQAAAAAAAAJY+/rsqgAAAAAAAAAAAAAAAAD/80DEAAAAA0gAAAAATEFNRTMuMTAwVVVVVVVVVVVVVUxBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQsRbAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQMSkAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NCxKMAAANIAAAAAFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"; let unlocked = false;
+function unlock() { if (unlocked) return; AEL.src = SILENT; const p = AEL.play(); if (p && p.then) p.then(() => unlocked = true, () => {}); }
+async function clip(k) { const e = DATA.idx[k]; const p = B[e[0]] || (B[e[0]] = fetch("audio/" + e[0] + ".mp3").then(r => { if (!r.ok) throw 0; return r.arrayBuffer(); }));
+  try { const buf = await p; return URL.createObjectURL(new Blob([buf.slice(e[1], e[1] + e[2])], { type: "audio/mpeg" })); } catch (x) { delete B[e[0]]; return ""; } }
+function stop() { P.tok++; AEL.onended = AEL.onerror = null; AEL.pause(); P.el = null; if (P.url) URL.revokeObjectURL(P.url); P.url = ""; P.k = null; mark(null); $("#all").textContent = "Přehrát vše"; }
+async function play(list) {
+  stop(); unlock(); const tok = P.tok;
+  for (const k of list) {
+    P.k = k; const li = mark(k); if (li && list.length > 1 && !openForm) li.scrollIntoView({ block: "center", behavior: "smooth" });
+    const url = await clip(k); if (tok !== P.tok) return; if (!url) continue; P.url = url;
+    const a = P.el = AEL; a.src = url; await new Promise(res => { a.onended = a.onerror = res; a.play().catch(res); });
+    URL.revokeObjectURL(url); P.url = ""; if (tok !== P.tok) return;
+    if (list.length > 1) await new Promise(r => setTimeout(r, 350)); if (tok !== P.tok) return;
+  }
+  P.k = null; P.el = null; $("#all").textContent = "Přehrát vše"; mark(null);
+}
+$("#all").onclick = () => { if (P.el || P.k) return stop(); const L = shown().map(r => r.k); play(L); if (L.length) $("#all").textContent = "Zastavit"; };
+["#fch", "#fkind", "#fv", "#frep"].forEach(s => $(s).onchange = draw);
+$("#list").onclick = async e => {
+  const t = e.target.closest("button"); if (!t) return;
+  if (t.dataset.play) { if (P.k === t.dataset.play) return stop(); return play([t.dataset.play]); }
+  if (t.dataset.rep) { const k = t.dataset.rep; openForm = openForm === k ? null : k; draft = openForm && REP[k] ? REP[k].note || "" : ""; draw(); const ta = document.getElementById("note-" + openForm); if (ta) ta.focus(); return; }
+  if (t.dataset.close) { openForm = null; draft = ""; return draw(); }
+  if (t.dataset.send) { const k = t.dataset.send, r = rows.find(x => x.k === k), note = document.getElementById("note-" + k).value.trim();
+    t.disabled = true; t.textContent = "Ukládám…";
+    try { await db.doc("reports/" + k).set({ k, t: r.t, v: r.v, b: r.b, kind: r.kind, ref: r.ref, note, at: Date.now(), by: uid }); openForm = null; draft = ""; }
+    catch (x) { t.disabled = false; t.textContent = "Zkusit znovu"; $("#dbnote").textContent = "Nahlášení se neuložilo (" + (x && x.code || "chyba") + "). Zkus to znovu."; $("#dbnote").className = "note warn"; return; }
+    return draw(); }
+  if (t.dataset.del) { try { await db.doc("reports/" + t.dataset.del).delete(); openForm = null; draft = ""; } catch (x) { $("#dbnote").textContent = "Nahlášení se nepodařilo zrušit (" + (x && x.code || "chyba") + "). Zkus to znovu."; $("#dbnote").className = "note warn"; return; } return draw(); }
+};
+draw();
+(async () => {
+  try {
+    if (!window.claude || !window.claude.use) throw 0;
+    const [d, u] = await Promise.all([window.claude.use("db"), window.claude.use("user")]);
+    if (!d) throw 0; db = d; uid = u ? await u.id() : null;
+    db.collection("reports").onSnapshot(s => { REP = {}; s.docs.forEach(x => REP[x.id] = x.data()); $("#dbnote").textContent = "Nahlášení se ukládají do úložiště stránky, Claude si je přečte."; $("#dbnote").className = "note"; draw(); },
+      e => { $("#dbnote").textContent = "Nahlášení se nepodařilo načíst (" + (e && e.code || "chyba") + ")."; $("#dbnote").className = "note warn"; });
+    draw();
+  } catch (e) { $("#dbnote").textContent = "Nahlašování tady nejde: stránka nemá přístup k úložišti. Poslouchat můžeš i tak."; $("#dbnote").className = "note warn"; }
+})();
+</script>

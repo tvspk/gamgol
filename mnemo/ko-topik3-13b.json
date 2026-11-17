@@ -1,0 +1,734 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3, kap. 13 Part 2 – textbook s. 118 (어휘), s. 120–123 (연습, 이야기, 듣고 말해요, 더 말해 봐요) + 어휘 색인; workbook 3-2 s. 60",
+  "karty": [
+    {
+      "id": "ko-topik3-0945",
+      "tema": "peníze",
+      "slovo": "가계부",
+      "vyslovnost": "gagyebu",
+      "vyslov_hangul": "가게부",
+      "cs": "domácí rozpočet, kniha výdajů",
+      "en": "household ledger",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 가계부 앱{을} 쓰고 있어요.",
+      "priklad_cs": "Používám aplikaci na vedení rozpočtu. (는 → téma; 을 → 4. pád)",
+      "mnemo": "家計 rodinné účty (家 dům + 計 počítat) + 簿 kniha záznamů. 가계부를 쓰다 = vést si rozpočet. Výslovnost [가게부].",
+      "koreny": [
+        "ga-家",
+        "gye-計",
+        "bu-簿"
+      ],
+      "rodina": [
+        "가계부를 쓰다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0946",
+      "tema": "peníze",
+      "slovo": "저금",
+      "vyslovnost": "jeogeum",
+      "cs": "spoření, úspory",
+      "en": "saving",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "남는 돈{은} 은행{에} 저금{을} 해요.",
+      "priklad_cs": "Peníze, které zbydou, si ukládám v bance. (은 → téma; 에 → kam; 을 → 4. pád)",
+      "mnemo": "貯 hromadit + 金 peníze. 저금하다 = šetřit, ukládat. Srovnej 저축 (spoření).",
+      "koreny": [
+        "jeo-貯",
+        "geum-金"
+      ],
+      "rodina": [
+        "저금통",
+        "저축"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0947",
+      "tema": "nakupování",
+      "slovo": "구입",
+      "vyslovnost": "guip",
+      "cs": "koupě, nákup",
+      "en": "purchase",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "가격{을} 비교한 후{에} 구입해요.",
+      "priklad_cs": "Kupuji až po porovnání cen. (을 → 4. pád; 에 → kdy)",
+      "mnemo": "購 koupit + 入 vstoupit = „koupit dovnitř“. 구입하다 = koupit (formálně, jako 구매하다).",
+      "koreny": [
+        "gu-購",
+        "ip-入"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0476",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0948",
+      "tema": "peníze",
+      "slovo": "신용 카드",
+      "alternativy": [
+        "신용카드"
+      ],
+      "vyslovnost": "sinyong kadeu",
+      "vyslov_hangul": "시뇽 카드",
+      "cs": "kreditní karta",
+      "en": "credit card",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "현금{만} 쓰려고 신용 카드{를} 쓰지 않아요.",
+      "priklad_cs": "Chci platit jen hotově, tak nepoužívám kreditku. (를 → 4. pád)",
+      "mnemo": "信用 důvěra, úvěr (信 věřit + 用 použít) + 카드 card.",
+      "koreny": [
+        "sin-信",
+        "yong-用"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "z_anglictiny": "card"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0949",
+      "tema": "nakupování",
+      "slovo": "충동구매",
+      "vyslovnost": "chungdonggumae",
+      "cs": "impulzivní nákup",
+      "en": "impulse buying",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "제{가} 충동구매{가} 심한 편이에요.",
+      "priklad_cs": "Dost často nakupuji impulzivně. (가 → 1. pád)",
+      "mnemo": "衝動 popud (衝 narazit + 動 pohnout) + 購買 nákup. 충동구매를 하다.",
+      "koreny": [
+        "chung-衝",
+        "dong-動",
+        "gu-購",
+        "mae-買"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0476",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0950",
+      "tema": "peníze",
+      "slovo": "아끼다",
+      "vyslovnost": "akkida",
+      "cs": "šetřit (čím), nešetrně neplýtvat",
+      "en": "to save, to spare",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "돈{을} 아껴 써도 생활비{는} 매달 부족해요.",
+      "priklad_cs": "I když šetřím, peníze na živobytí mi každý měsíc nestačí. (을 → 4. pád; 는 → téma)",
+      "mnemo": "„A KIDA?“ – „A kýda?“ ptá se lakomec a šetří každou korunu. 아껴 쓰다 = šetrně používat; 시간을 아끼다.",
+      "rodina": [
+        "아껴 쓰다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "아끼다",
+          "아껴요",
+          "아꼈어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0951",
+      "tema": "nakupování",
+      "slovo": "상품",
+      "vyslovnost": "sangpum",
+      "cs": "zboží",
+      "en": "goods, product",
+      "cs_upresneni": "zboží (商品), ne výhra",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "할인 상품{을} 구매하면 돈{을} 아낄 수 있어요.",
+      "priklad_cs": "Když kupuješ zboží ve slevě, můžeš ušetřit. (을 → 4. pád)",
+      "mnemo": "商 obchod + 品 věc = věc na prodej. Stejně zní 상품 (賞品) = věcná cena.",
+      "koreny": [
+        "sang-商",
+        "pum-品"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0299",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0952",
+      "tema": "peníze",
+      "slovo": "계획을 세우다",
+      "vyslovnost": "gyehoegeul seuuda",
+      "vyslov_hangul": "게회글 세우다",
+      "cs": "udělat si plán, naplánovat",
+      "en": "to make a plan",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "쇼핑하기 전{에} 무엇{을} 살지 계획{을} 세워요.",
+      "priklad_cs": "Před nákupem si naplánuji, co koupím. (에 → kdy; 을 → 4. pád)",
+      "mnemo": "세우다 = postavit: plán „postavíš“. 계획을 세워 돈을 쓰다 = utrácet podle plánu.",
+      "koreny": [
+        "gye-計",
+        "hoek-劃"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "계획을 세우다",
+          "계획을 세워요",
+          "계획을 세웠어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0028",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0953",
+      "tema": "peníze",
+      "slovo": "계획 없이 돈을 쓰다",
+      "vyslovnost": "gyehoek eopsi doneul sseuda",
+      "vyslov_hangul": "게회겁씨 도늘 쓰다",
+      "cs": "utrácet bez plánu",
+      "en": "to spend money without a plan",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "계획 없이 돈{을} 쓰면 월말{에} 돈{이} 없어요.",
+      "priklad_cs": "Když utrácíš bez plánu, na konci měsíce nemáš peníze. (을 → 4. pád; 에 → kdy; 이 → 1. pád)",
+      "mnemo": "없이 = bez. Opak: 계획을 세워 돈을 쓰다.",
+      "koreny": [
+        "gye-計",
+        "hoek-劃"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "계획 없이 돈을 쓰다",
+          "계획 없이 돈을 써요",
+          "계획 없이 돈을 썼어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0952",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0954",
+      "tema": "nakupování",
+      "slovo": "필요한 것만 사다",
+      "vyslovnost": "piryohan geonman sada",
+      "vyslov_hangul": "피료한 건만 사다",
+      "cs": "kupovat jen to, co je potřeba",
+      "en": "to buy only what is needed",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "계획{을} 세우면 필요한 것{만} 사게 돼요.",
+      "priklad_cs": "Když si uděláš plán, koupíš jen to, co potřebuješ. (을 → 4. pád; 만 → jen)",
+      "mnemo": "必要 potřeba + 것 věc + 만 jen.",
+      "koreny": [
+        "pil-必",
+        "yo-要"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "필요한 것만 사다",
+          "필요한 것만 사요",
+          "필요한 것만 샀어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0955",
+      "tema": "peníze",
+      "slovo": "지출",
+      "vyslovnost": "jichul",
+      "cs": "výdaj, výdaje",
+      "en": "expense",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "가계부{를} 쓰고 난 뒤{에는} 필요 없는 지출{이} 많이 줄었어요.",
+      "priklad_cs": "Od té doby, co si vedu rozpočet, se zbytečné výdaje hodně snížily. (를 → 4. pád; 에는 → kdy + důraz; 이 → 1. pád)",
+      "mnemo": "支 vyplácet + 出 vyjít = peníze, které odejdou. Opak 수입 (příjem).",
+      "koreny": [
+        "ji-支",
+        "chul-出"
+      ],
+      "rodina": [
+        "수입"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0956",
+      "tema": "peníze",
+      "slovo": "관리",
+      "vyslovnost": "gwalli",
+      "vyslov_hangul": "괄리",
+      "cs": "správa, péče, hospodaření (s čím)",
+      "en": "management, supervision",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "현수 씨{는} 생활비 관리{를} 어떻게 해요?",
+      "priklad_cs": "Jak hospodaříš s penězi na živobytí, Hjonsu? (는 → téma; 를 → 4. pád)",
+      "mnemo": "管 trubka, spravovat + 理 uspořádat. Výslovnost [괄리]. 건강 관리, 시간 관리, 관리비.",
+      "koreny": [
+        "gwan-管",
+        "ri-理"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0973",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0957",
+      "tema": "peníze",
+      "slovo": "절약",
+      "vyslovnost": "jeoryak",
+      "vyslov_hangul": "저략",
+      "cs": "šetření, úspora",
+      "en": "saving, economizing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "생활비 달력{을} 써 보니까 생활비{가} 많이 절약되더라고요.",
+      "priklad_cs": "Zkusil jsem kalendář na výdaje a zjistil jsem, že se tím hodně ušetří. (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "節 omezit (článek bambusu) + 約 stáhnout = stáhnout výdaje. 절약하다 = šetřit; 절약되다 = být ušetřen.",
+      "koreny": [
+        "jeol-節",
+        "yak-約"
+      ],
+      "rodina": [
+        "절약하다",
+        "절약되다"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0958",
+      "tema": "peníze",
+      "slovo": "줄다",
+      "vyslovnost": "julda",
+      "cs": "zmenšit se, ubýt",
+      "en": "to decrease",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "필요 없는 지출{이} 많이 줄었어요.",
+      "priklad_cs": "Zbytečné výdaje se hodně snížily. (이 → 1. pád)",
+      "mnemo": "Nepřechodné: něco ubývá samo. Přechodné je 줄이다. Opak 늘다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "줄다",
+          "줄어요",
+          "줄었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "viz_tez": "ko-topik3-0959",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0959",
+      "tema": "peníze",
+      "slovo": "줄이다",
+      "vyslovnost": "jurida",
+      "vyslov_hangul": "주리다",
+      "cs": "snížit, omezit, zmenšit",
+      "en": "to decrease, to reduce",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "생활비{를} 줄일 수 있는 좋은 방법{이} 있어요?",
+      "priklad_cs": "Máš nějaký dobrý způsob, jak snížit životní náklady? (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "줄다 + příponové -이- = „udělat, aby ubylo“. Opak 늘리다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "줄이다",
+          "줄여요",
+          "줄였어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0958",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0960",
+      "tema": "oblečení",
+      "slovo": "주머니",
+      "vyslovnost": "jumeoni",
+      "cs": "kapsa, váček",
+      "en": "pocket",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "달력{에} 주머니{를} 달아 하루{에} 쓸 생활비{를} 넣어 놓아요.",
+      "priklad_cs": "Na kalendář přišiju kapsičky a do nich dám peníze na každý den. (에 → kam; 를 → 4. pád; 에 → na)",
+      "mnemo": "„ČUMÍ NĚKDO?“ – rychle schováš peníze do kapsy. 주머니를 달다 = přišít/připevnit kapsu.",
+      "rodina": [
+        "주머니를 달다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0961",
+      "tema": "peníze",
+      "slovo": "쓸데없다",
+      "vyslovnost": "sseuldeeopda",
+      "vyslov_hangul": "쓸떼업따",
+      "cs": "zbytečný, k ničemu",
+      "en": "to be unnecessary, useless",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 쓸데없는 데 돈{을} 쉽게 쓰는 편이에요.",
+      "priklad_cs": "Snadno utrácím za zbytečnosti. (는 → téma; 을 → 4. pád)",
+      "mnemo": "쓸 데 místo k použití + 없다 není = „nemá kde se použít“. Výslovnost [쓸떼업따].",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "쓸데없다",
+          "쓸데없어요",
+          "쓸데없었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0962",
+      "tema": "pocity",
+      "slovo": "부담스럽다",
+      "vyslovnost": "budamseureopda",
+      "vyslov_hangul": "부담스럽따",
+      "cs": "být na obtíž, zatěžující, nepříjemně drahý",
+      "en": "to feel burdened",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "교통비{가} 오르니까 정말 부담스럽더라고요.",
+      "priklad_cs": "Jízdné zdražilo a je to pro mě opravdu zátěž. (가 → 1. pád)",
+      "mnemo": "負 nést na zádech + 擔 nést na rameni = břemeno + -스럽다. Platí pro peníze i pro nepříjemný tlak (부담스러운 선물).",
+      "koreny": [
+        "bu-負",
+        "dam-擔"
+      ],
+      "rodina": [
+        "부담",
+        "부담되다"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "부담스럽다",
+          "부담스러워요",
+          "부담스러웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0963",
+      "tema": "peníze",
+      "slovo": "상승",
+      "vyslovnost": "sangseung",
+      "cs": "růst, vzestup (cen, teploty)",
+      "en": "rise, increase",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "물가 상승{에} 관한 뉴스{를} 들었어요.",
+      "priklad_cs": "Slyšel jsem zprávy o růstu cen. (에 → o; 를 → 4. pád)",
+      "mnemo": "上 nahoru + 昇 stoupat. Opak 하락 (pokles). Formální, ve zprávách.",
+      "koreny": [
+        "sang-上",
+        "seung-昇"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0964",
+      "tema": "peníze",
+      "slovo": "오르다",
+      "vyslovnost": "oreuda",
+      "cs": "stoupat, zdražit; vystoupat",
+      "en": "to be raised, to rise",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "요즘 물가{가} 정말 많이 오른 것 같아요.",
+      "priklad_cs": "Zdá se, že ceny teď opravdu hodně stouply. (가 → 1. pád)",
+      "mnemo": "„OHŘEJ DA“ – ohřeješ a teplota stoupá. 물가가 오르다 = ceny stoupají; 산에 오르다 = vystoupat na horu. Opak 내리다.",
+      "rodina": [
+        "물가가 오르다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "오르다",
+          "올라요",
+          "올랐어요"
+        ],
+        "nepravidelnost": "르"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0965",
+      "tema": "peníze",
+      "slovo": "공공요금",
+      "vyslovnost": "gonggongyogeum",
+      "cs": "poplatky za veřejné služby (energie, voda, MHD)",
+      "en": "public utility charges",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다음 달{부터} 전기 요금{하고} 공공요금{이} 오른대요.",
+      "priklad_cs": "Prý od příštího měsíce zdraží elektřina a veřejné poplatky. (부터 → od; 하고 → a; 이 → 1. pád)",
+      "mnemo": "公共 veřejný (公 veřejný + 共 společný) + 料金 poplatek.",
+      "koreny": [
+        "gong-公",
+        "gong-共",
+        "yo-料",
+        "geum-金"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0931",
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0966",
+      "tema": "ostatní",
+      "slovo": "하루빨리",
+      "vyslovnost": "harubballi",
+      "cs": "co nejdřív, co nejrychleji",
+      "en": "immediately, as soon as possible",
+      "slovni_druh": "ostatni",
+      "frekvence": 3,
+      "priklad": "물가{가} 하루빨리 안정되었으면 좋겠어요.",
+      "priklad_cs": "Kéž by se ceny co nejdřív ustálily. (가 → 1. pád)",
+      "mnemo": "하루 jeden den + 빨리 rychle = „o den dřív“.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0967",
+      "tema": "peníze",
+      "slovo": "안정되다",
+      "vyslovnost": "anjeongdoeda",
+      "cs": "ustálit se, stabilizovat se",
+      "en": "to be stabilized",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "교통비{가} 좀 안정되면 좋겠어요.",
+      "priklad_cs": "Bylo by dobré, kdyby se jízdné trochu ustálilo. (가 → 1. pád)",
+      "mnemo": "安 klid + 定 určit = klidný a pevný stav + 되다. 안정적 = stabilní.",
+      "koreny": [
+        "an-安",
+        "jeong-定"
+      ],
+      "rodina": [
+        "안정",
+        "안정적"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "안정되다",
+          "안정돼요",
+          "안정됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0968",
+      "tema": "ostatní",
+      "slovo": "정확하다",
+      "vyslovnost": "jeonghwakada",
+      "vyslov_hangul": "정화카다",
+      "cs": "přesný",
+      "en": "to be accurate",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "가계부{를} 쓰면 지출{을} 정확하게 알 수 있어요.",
+      "priklad_cs": "Když si vedeš rozpočet, víš přesně, kolik utratíš. (를, 을 → 4. pád)",
+      "mnemo": "正 správný + 確 jistý. Výslovnost [정화카다]. 정확히 = přesně.",
+      "koreny": [
+        "jeong-正",
+        "hwak-確"
+      ],
+      "rodina": [
+        "정확히"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "정확하다",
+          "정확해요",
+          "정확했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0969",
+      "tema": "práce",
+      "slovo": "운영",
+      "vyslovnost": "unyeong",
+      "vyslov_hangul": "우녕",
+      "cs": "provoz, vedení (podniku)",
+      "en": "operation, management",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "나중{에} 작은 카페{를} 운영하고 싶어요.",
+      "priklad_cs": "Jednou bych chtěl provozovat malou kavárnu. (에 → kdy; 를 → 4. pád)",
+      "mnemo": "運 pohybovat + 營 spravovat, podnikat. 가게를 운영하다 = provozovat obchod.",
+      "koreny": [
+        "un-運",
+        "yeong-營"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0970",
+      "tema": "práce",
+      "slovo": "성공",
+      "vyslovnost": "seonggong",
+      "cs": "úspěch",
+      "en": "success",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "자신{만의} 성공 전략{이} 뭐예요?",
+      "priklad_cs": "Jaká je tvoje vlastní strategie úspěchu? (의 → 2. pád; 이 → 1. pád)",
+      "mnemo": "成 dosáhnout + 功 zásluha. 성공하다 = uspět. Opak 실패.",
+      "koreny": [
+        "seong-成",
+        "gong-功"
+      ],
+      "rodina": [
+        "실패"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0971",
+      "tema": "práce",
+      "slovo": "전략",
+      "vyslovnost": "jeollyak",
+      "vyslov_hangul": "절략",
+      "cs": "strategie",
+      "en": "strategy",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "쿠폰{을} 활용하는 것{도} 좋은 전략이에요.",
+      "priklad_cs": "Využívat kupony je taky dobrá strategie. (을 → 4. pád; 도 → také)",
+      "mnemo": "戰 válka + 略 plán = válečný plán. Výslovnost [절략].",
+      "koreny": [
+        "jeon-戰",
+        "ryak-略"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0972",
+      "tema": "ostatní",
+      "slovo": "항목",
+      "vyslovnost": "hangmok",
+      "cs": "položka, kategorie",
+      "en": "article, item",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "생활비 중{에서} 가장 많이 쓰는 항목{이} 뭐예요?",
+      "priklad_cs": "Na kterou položku z výdajů utrácíš nejvíc? (에서 → z; 이 → 1. pád)",
+      "mnemo": "項 položka + 目 položka v seznamu. Výslovnost [항목].",
+      "koreny": [
+        "hang-項",
+        "mok-目"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

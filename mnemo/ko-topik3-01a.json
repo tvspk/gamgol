@@ -1,0 +1,642 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 1 열심히 배우면서 일하고 있어요 – textbook s. 16–17 (Part 1)",
+  "karty": [
+    {
+      "id": "ko-topik3-0001",
+      "tema": "život a změny",
+      "slovo": "근황",
+      "vyslovnost": "geunhwang",
+      "cs": "novinky (jak se kdo poslední dobou má)",
+      "en": "recent state",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 근황{이} 궁금해요.",
+      "priklad_cs": "Zajímá mě, co je u tebe nového. (이 → 1. pád)",
+      "mnemo": "近 blízký + 況 stav = stav v nedávné době, „co je nového“.",
+      "koreny": [
+        "geun-近",
+        "hwang-況"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0002",
+      "tema": "život a změny",
+      "slovo": "지내다",
+      "vyslovnost": "jinaeda",
+      "cs": "mít se, trávit čas",
+      "en": "to spend (time), to get along",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "민우 씨, 요즘 어떻게 지내요?",
+      "priklad_cs": "Minu, jak ses poslední dobou měl?",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "지내다",
+          "지내요",
+          "지냈어요"
+        ]
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0003",
+      "tema": "škola",
+      "slovo": "입학",
+      "vyslovnost": "iphak",
+      "vyslov_hangul": "이팍",
+      "cs": "nástup do školy",
+      "en": "to enter a school",
+      "cs_upresneni": "nástup do školy (zahájení studia)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "올해 대학교{에} 입학했어요.",
+      "priklad_cs": "Letos jsem nastoupil na vysokou školu. (에 → kam: na + 4. pád)",
+      "mnemo": "入 vstoupit + 學 škola = vstoupit do školy.",
+      "koreny": [
+        "ip-入",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0004",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0004",
+      "tema": "škola",
+      "slovo": "졸업",
+      "vyslovnost": "joreop",
+      "vyslov_hangul": "조럽",
+      "cs": "absolvování (školy)",
+      "en": "to graduate",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "학교{를} 졸업하면 어떤 일{을} 하고 싶어요?",
+      "priklad_cs": "Jakou práci chceš dělat, až dostuduješ? (를, 을 → 4. pád)",
+      "mnemo": "卒 ukončit + 業 dílo = dokončit studium.",
+      "koreny": [
+        "jol-卒",
+        "eop-業"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0003",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0005",
+      "tema": "škola",
+      "slovo": "휴학",
+      "vyslovnost": "hyuhak",
+      "cs": "přerušení studia",
+      "en": "to take time off (school)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "남자 대학생들{은} 보통 휴학{을} 하고 군대{에} 가요.",
+      "priklad_cs": "Studenti obvykle přeruší studium a jdou na vojnu. (은 → téma, 1. pád; 을 → 4. pád; 에 → kam)",
+      "mnemo": "休 odpočinek + 學 škola = pauza ve škole.",
+      "koreny": [
+        "hyu-休",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0006",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0006",
+      "tema": "škola",
+      "slovo": "복학",
+      "vyslovnost": "bokak",
+      "vyslov_hangul": "보칵",
+      "cs": "návrat do školy (po přerušení)",
+      "en": "to go back to school",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "1년 동안 쉬고 다음 학기{에} 복학해요.",
+      "priklad_cs": "Rok jsem si dal pauzu a příští semestr se vracím do školy. (에 → kdy)",
+      "mnemo": "復 znovu + 學 škola = znovu do školy.",
+      "koreny": [
+        "bok-復",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0005",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0007",
+      "tema": "práce",
+      "slovo": "취직",
+      "vyslovnost": "chwijik",
+      "cs": "získání zaměstnání, nástup do práce",
+      "en": "to get a job",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "얼마 전{에} 취직했는데 회사{가} 정말 마음{에} 들어요.",
+      "priklad_cs": "Nedávno jsem nastoupil do práce a firma se mi moc líbí. (에 → kdy; 가 → 1. pád; 에 → v/do)",
+      "mnemo": "就 nastoupit + 職 zaměstnání = nastoupit do zaměstnání.",
+      "koreny": [
+        "chwi-就",
+        "jik-職"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0008",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0008",
+      "tema": "práce",
+      "slovo": "휴직",
+      "vyslovnost": "hyujik",
+      "cs": "volno v práci (dočasné přerušení)",
+      "en": "to take a leave of absence",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "아기{가} 태어나서 1년 동안 휴직했어요.",
+      "priklad_cs": "Narodilo se nám miminko, tak jsem si vzal rok volna z práce. (가 → 1. pád)",
+      "mnemo": "休 odpočinek + 職 zaměstnání = pauza v práci. Srovnej 휴학 (pauza ve škole).",
+      "koreny": [
+        "hyu-休",
+        "jik-職"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0007",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0009",
+      "tema": "práce",
+      "slovo": "그만두다",
+      "vyslovnost": "geumanduda",
+      "cs": "skončit, nechat (čeho), dát výpověď",
+      "en": "to stop, to quit",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "내년{에는} 지금 하는 일{을} 그만두고 유학{을} 갈까 해요.",
+      "priklad_cs": "Příští rok asi skončím v práci a pojedu studovat do zahraničí. (에는 → kdy + důraz; 을 → 4. pád)",
+      "mnemo": "그만 „dost“ + 두다 „nechat“ = „nech toho, dost!“ → skončit.",
+      "rodina": [
+        "그만",
+        "두다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "그만두다",
+          "그만둬요",
+          "그만뒀어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0010",
+      "tema": "práce",
+      "slovo": "아르바이트",
+      "alternativy": [
+        "알바"
+      ],
+      "vyslovnost": "areubaiteu",
+      "cs": "brigáda",
+      "en": "part-time job",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘{은} 학교{에} 다니면서 아르바이트{를} 해요.",
+      "priklad_cs": "Teď chodím do školy a při tom mám brigádu. (은 → téma; 에 → kam; 를 → 4. pád)",
+      "mnemo": "Z němčiny Arbeit = práce. Hovorově zkráceně 알바.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_nemciny": "Arbeit",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0011",
+      "tema": "život a změny",
+      "slovo": "이사",
+      "vyslovnost": "isa",
+      "cs": "stěhování",
+      "en": "to move (house)",
+      "cs_upresneni": "stěhování (bydliště)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "다음 달{에} 부산{으로} 이사해요.",
+      "priklad_cs": "Příští měsíc se stěhuju do Pusanu. (에 → kdy; 으로 → kam, směr)",
+      "mnemo": "移 přesunout + 徙 stěhovat = přestěhovat se.",
+      "koreny": [
+        "i-移",
+        "sa-徙"
+      ],
+      "rodina": [
+        "이삿짐"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0029",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0012",
+      "tema": "vztahy",
+      "slovo": "약혼",
+      "vyslovnost": "yakon",
+      "vyslov_hangul": "야콘",
+      "cs": "zasnoubení",
+      "en": "to be engaged",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "두 사람{은} 작년{에} 약혼하고 올해 결혼해요.",
+      "priklad_cs": "Ti dva se loni zasnoubili a letos se berou. (은 → téma; 에 → kdy)",
+      "mnemo": "約 slib + 婚 sňatek = slib sňatku.",
+      "koreny": [
+        "yak-約",
+        "hon-婚"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0013",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0013",
+      "tema": "vztahy",
+      "slovo": "결혼",
+      "vyslovnost": "gyeolhon",
+      "cs": "svatba, manželství",
+      "en": "to get married",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "언니{가} 다음 주{에} 결혼해요.",
+      "priklad_cs": "Sestra se příští týden vdává. (가 → 1. pád; 에 → kdy)",
+      "mnemo": "結 spojit + 婚 sňatek = spojit se sňatkem.",
+      "koreny": [
+        "gyeol-結",
+        "hon-婚"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0012",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0014",
+      "tema": "vztahy",
+      "slovo": "이성",
+      "vyslovnost": "iseong",
+      "cs": "opačné pohlaví",
+      "en": "opposite sex",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이성 친구{가} 생겨서 요즘 아주 행복해요.",
+      "priklad_cs": "Mám nově přítele (přítelkyni), takže jsem teď moc šťastná. (가 → 1. pád)",
+      "mnemo": "異 jiný + 性 pohlaví = jiné pohlaví. 이성 친구 = kluk/holka (partner).",
+      "koreny": [
+        "i-異",
+        "seong-性"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0015",
+      "tema": "život a změny",
+      "slovo": "생기다",
+      "vyslovnost": "saenggida",
+      "cs": "vzniknout, objevit se, mít nově",
+      "en": "to come into being, to happen",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "회사 앞{에} 새로 생긴 식당{에} 가서 김치찌개{를} 먹을까 해요.",
+      "priklad_cs": "Asi zajdu do nové restaurace před firmou na kimčchi-čige. (에 → kde/kam; 를 → 4. pád)",
+      "mnemo": "„SENKY“ – ze sena se najednou něco vynoří: vznikne to.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "생기다",
+          "생겨요",
+          "생겼어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0016",
+      "tema": "volný čas",
+      "slovo": "취미",
+      "vyslovnost": "chwimi",
+      "cs": "koníček, záliba",
+      "en": "hobby",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "주말{에는} 취미 생활{을} 하면서 쉬어요.",
+      "priklad_cs": "O víkendu odpočívám a věnuju se koníčkům. (에는 → kdy + důraz; 을 → 4. pád)",
+      "mnemo": "趣 záliba + 味 chuť = něco, k čemu máš chuť.",
+      "koreny": [
+        "chwi-趣",
+        "mi-味"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0017",
+      "tema": "život a změny",
+      "slovo": "생활",
+      "vyslovnost": "saenghwal",
+      "cs": "život (každodenní), způsob života",
+      "en": "living",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "한국 생활{은} 어때요?",
+      "priklad_cs": "Jaký je život v Koreji? (은 → téma)",
+      "mnemo": "生 život + 活 činnost = každodenní život.",
+      "koreny": [
+        "saeng-生",
+        "hwal-活"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0018",
+      "tema": "práce",
+      "slovo": "동료",
+      "vyslovnost": "dongnyo",
+      "vyslov_hangul": "동뇨",
+      "cs": "kolega",
+      "en": "colleague",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "일{도} 재미있고 동료들{도} 친절해서 좋아요.",
+      "priklad_cs": "Práce je zajímavá a kolegové jsou milí, takže je to fajn. (도 → i, také)",
+      "mnemo": "同 stejný + 僚 kolega = člověk na stejném místě.",
+      "koreny": [
+        "dong-同",
+        "ryo-僚"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0019",
+      "tema": "život a změny",
+      "slovo": "마음에 들다",
+      "vyslovnost": "maeume deulda",
+      "vyslov_hangul": "마으메 들다",
+      "cs": "líbit se",
+      "en": "to like, to be pleased with",
+      "slovni_druh": "fraze",
+      "frekvence": 1,
+      "priklad": "새 집{이} 정말 마음{에} 들어요.",
+      "priklad_cs": "Nový byt se mi moc líbí. (이 → 1. pád; 에 → do)",
+      "mnemo": "마음 srdce + 에 do + 들다 vstoupit = „vleze ti do srdce“.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "마음에 들다",
+          "마음에 들어요",
+          "마음에 들었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0020",
+      "tema": "život a změny",
+      "slovo": "별일",
+      "vyslovnost": "byeollil",
+      "vyslov_hangul": "별릴",
+      "cs": "nic zvláštního / něco zvláštního",
+      "en": "a particular thing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "잘 지냈어요? 별일 없죠?",
+      "priklad_cs": "Jak se máš? Nic zvláštního, ne? (částice vypuštěna)",
+      "mnemo": "別 zvláštní + 일 věc = zvláštní věc. 별일 없어요? = Všechno v pořádku?",
+      "koreny": [
+        "byeol-別"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0021",
+      "tema": "volný čas",
+      "slovo": "이것저것",
+      "vyslovnost": "igeotjeogeot",
+      "vyslov_hangul": "이걷쩌걷",
+      "cs": "ledacos, to i ono",
+      "en": "one thing and another",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "친구{하고} 밥{을} 먹으면서 이것저것 얘기{도} 많이 했어요.",
+      "priklad_cs": "S kamarádem jsme jedli a povídali si o všem možném. (하고 → s + 7. pád; 을 → 4. pád; 도 → také)",
+      "mnemo": "이것 tohle + 저것 tamto = to i ono.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0022",
+      "tema": "volný čas",
+      "slovo": "수다를 떨다",
+      "vyslovnost": "sudareul tteolda",
+      "cs": "klábosit, kecat",
+      "en": "to chat",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "친구{하고} 커피{를} 마시면서 수다{를} 떨어요.",
+      "priklad_cs": "S kamarádkou pijeme kafe a klábosíme. (하고 → s + 7. pád; 를 → 4. pád)",
+      "mnemo": "U SUDu piva se kecá, až se třese (떨다 = třást) jazyk.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "수다를 떨다",
+          "수다를 떨어요",
+          "수다를 떨었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0023",
+      "tema": "volný čas",
+      "slovo": "심심하다",
+      "vyslovnost": "simsimhada",
+      "cs": "nudit se, být znuděný",
+      "en": "to be bored",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "안나 씨{는} 심심할 때 뭐 해요?",
+      "priklad_cs": "Anno, co děláš, když se nudíš? (는 → téma)",
+      "mnemo": "Nudou si mumláš „šim-šim-šim“ jako tikající hodiny.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "심심하다",
+          "심심해요",
+          "심심했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0024",
+      "tema": "volný čas",
+      "slovo": "봉사",
+      "vyslovnost": "bongsa",
+      "cs": "dobrovolná služba, dobrovolnictví",
+      "en": "voluntary service",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "주말{에} 시청{에서} 봉사 활동{을} 하고 있어요.",
+      "priklad_cs": "O víkendech dělám dobrovolníka na radnici. (에 → kdy; 에서 → kde; 을 → 4. pád)",
+      "mnemo": "奉 sloužit + 仕 sloužit = služba druhým. 봉사 활동 = dobrovolnická činnost.",
+      "koreny": [
+        "bong-奉",
+        "sa-仕"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0025",
+      "tema": "volný čas",
+      "slovo": "관객",
+      "vyslovnost": "gwangaek",
+      "cs": "divák (v kině, divadle)",
+      "en": "audience",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "영화{가} 슬퍼서 많은 관객들{이} 울었어요.",
+      "priklad_cs": "Film byl smutný, takže hodně diváků plakalo. (가, 이 → 1. pád)",
+      "mnemo": "觀 dívat se + 客 host = host, který se dívá.",
+      "koreny": [
+        "gwan-觀",
+        "gaek-客"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0026",
+      "tema": "volný čas",
+      "slovo": "축제",
+      "vyslovnost": "chukje",
+      "vyslov_hangul": "축쩨",
+      "cs": "festival, slavnost",
+      "en": "festival",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "지난 세종학당 축제{에서} 뭘 했어요?",
+      "priklad_cs": "Co jsi dělal na posledním festivalu Sejong Hakdang? (에서 → kde)",
+      "mnemo": "祝 oslavovat + 祭 slavnost = oslava, festival.",
+      "koreny": [
+        "chuk-祝",
+        "je-祭"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0027",
+      "tema": "gramatika",
+      "slovo": "-(으)면서",
+      "vyslovnost": "-(eu)myeonseo",
+      "cs": "zatímco, a při tom (dvě činnosti současně)",
+      "en": "while (two actions at the same time)",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "회사{에} 다니면서 주말{에는} 봉사 활동{도} 해요.",
+      "priklad_cs": "Chodím do práce a k tomu o víkendech dělám dobrovolníka. (에 → kam; 에는 → kdy + důraz; 도 → také)",
+      "mnemo": "Po souhlásce -으면서 (먹으면서), po samohlásce -면서 (보면서). Podmět obou dějů je stejný.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

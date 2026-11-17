@@ -1,0 +1,563 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 11 – textbook s. 102–104 (Part 2 어휘, 표현 간접 인용 1, 연습해요) + přepisy poslechu (s. 156) + 어휘 색인; workbook 3-2 s. 40",
+  "karty": [
+    {
+      "id": "ko-topik3-0784",
+      "tema": "kultura",
+      "slovo": "연기",
+      "vyslovnost": "yeongi",
+      "cs": "herectví, herecký výkon",
+      "en": "acting",
+      "cs_upresneni": "herecký výkon, ne kouř ani odklad",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이 영화{는} 배우들{이} 연기{를} 정말 잘한다고 해요.",
+      "priklad_cs": "Prý v tom filmu herci hrají opravdu skvěle. (는 → téma; 이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "演 předvádět + 技 dovednost. Pokrývá cílové spojení 연기를 잘하다. 연기자 = herec. Stejně znějící 연기 = kouř (煙氣), odklad (延期).",
+      "koreny": [
+        "yeon-演",
+        "gi-技"
+      ],
+      "rodina": [
+        "연기를 잘하다",
+        "연기자"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0785",
+      "tema": "kultura",
+      "slovo": "표현력",
+      "vyslovnost": "pyohyeonnyeok",
+      "vyslov_hangul": "표현녁",
+      "cs": "výrazové schopnosti, schopnost vyjádřit (se)",
+      "en": "expressiveness",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "그 배우{는} 표현력{이} 뛰어나요.",
+      "priklad_cs": "Ten herec má výjimečné výrazové schopnosti. (는 → téma; 이 → 1. pád)",
+      "mnemo": "表現 vyjádření (表 projevit + 現 ukázat) + 力 síla. Pokrývá cílové spojení 표현력이 뛰어나다.",
+      "koreny": [
+        "pyo-表",
+        "hyeon-現",
+        "ryeok-力"
+      ],
+      "rodina": [
+        "표현",
+        "표현하다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0786",
+      "tema": "hodnocení",
+      "slovo": "뛰어나다",
+      "vyslovnost": "ttwieonada",
+      "cs": "vynikající, vynikat",
+      "en": "to be excellent",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "이 뮤지컬{은} 작품성{도} 뛰어나고 배우들{도} 연기{를} 잘한다고 해요.",
+      "priklad_cs": "Ten muzikál má prý vysokou uměleckou hodnotu a herci hrají dobře. (은 → téma; 도 → i; 를 → 4. pád)",
+      "mnemo": "뛰다 skočit + 나다 vyjít = vyskočit nad ostatní.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "뛰어나다",
+          "뛰어나요",
+          "뛰어났어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0787",
+      "tema": "kultura",
+      "slovo": "작품성",
+      "vyslovnost": "jakpumseong",
+      "vyslov_hangul": "작품썽",
+      "cs": "umělecká hodnota (díla)",
+      "en": "value, quality (of a work)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "작품성{이} 뛰어난 영화{를} 좋아해요.",
+      "priklad_cs": "Mám rád filmy s vysokou uměleckou hodnotou. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "作品 dílo (作 tvořit + 品 věc) + 性 povaha. Pokrývá cílové spojení 작품성이 뛰어나다.",
+      "koreny": [
+        "jak-作",
+        "pum-品",
+        "seong-性"
+      ],
+      "rodina": [
+        "작품"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0829",
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0788",
+      "tema": "hodnocení",
+      "slovo": "흥미진진하다",
+      "vyslovnost": "heungmijinjinhada",
+      "cs": "napínavý, strhující",
+      "en": "to be exciting",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "얼마 전{에} 축구 경기{를} 봤는데 정말 흥미진진했어요.",
+      "priklad_cs": "Nedávno jsem viděl fotbalový zápas a byl opravdu napínavý. (에 → kdy; 를 → 4. pád)",
+      "mnemo": "興味 zájem + 津津 přetékající = zájem přetéká přes okraj.",
+      "koreny": [
+        "heung-興",
+        "mi-味",
+        "jin-津",
+        "jin-津"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "흥미진진하다",
+          "흥미진진해요",
+          "흥미진진했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0790",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0789",
+      "tema": "kultura",
+      "slovo": "줄거리",
+      "vyslovnost": "julgeori",
+      "cs": "děj, obsah (příběhu)",
+      "en": "summary, plot",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{도} 아직 못 봤는데 줄거리{도} 흥미롭고 볼거리{도} 많다고 해요.",
+      "priklad_cs": "Ještě jsem to taky neviděl, ale prý má zajímavý děj a je na co koukat. (도 → také)",
+      "mnemo": "줄 linka, provázek + 거리 látka = nit příběhu.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0790",
+      "tema": "hodnocení",
+      "slovo": "흥미롭다",
+      "vyslovnost": "heungmiropda",
+      "vyslov_hangul": "흥미롭따",
+      "cs": "zajímavý",
+      "en": "to be interesting",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 책{은} 내용{이} 정말 흥미로워요.",
+      "priklad_cs": "Ta kniha má opravdu zajímavý obsah. (은 → téma; 이 → 1. pád)",
+      "mnemo": "興味 zájem + -롭다 (plný čeho). 흥미 = zájem.",
+      "koreny": [
+        "heung-興",
+        "mi-味"
+      ],
+      "rodina": [
+        "흥미"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "흥미롭다",
+          "흥미로워요",
+          "흥미로웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0791",
+      "tema": "hodnocení",
+      "slovo": "환상적이다",
+      "alternativy": [
+        "환상적"
+      ],
+      "vyslovnost": "hwansangjeogida",
+      "vyslov_hangul": "환상저기다",
+      "cs": "fantastický, úžasný",
+      "en": "to be fantastic",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "그리고 공연{이} 정말 환상적이었어요.",
+      "priklad_cs": "A to představení bylo naprosto fantastické. (이 → 1. pád)",
+      "mnemo": "幻想 fantazie (幻 přelud + 想 myšlenka) + 的 -ový.",
+      "koreny": [
+        "hwan-幻",
+        "sang-想",
+        "jeok-的"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "환상적이다",
+          "환상적이에요",
+          "환상적이었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0792",
+      "tema": "pocity",
+      "slovo": "기대",
+      "vyslovnost": "gidae",
+      "cs": "očekávání",
+      "en": "expectation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "다음 달{에도} 공연{이} 있는데 벌써부터 기대{가} 돼요.",
+      "priklad_cs": "Příští měsíc je zase koncert a už teď se na něj těším. (에도 → kdy + i; 이, 가 → 1. pád)",
+      "mnemo": "期 období + 待 čekat. 기대하다 = očekávat, 기대가 되다 / 기대되다 = těšit se.",
+      "koreny": [
+        "gi-期",
+        "dae-待"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0520",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0793",
+      "tema": "hodnocení",
+      "slovo": "대단하다",
+      "vyslovnost": "daedanhada",
+      "cs": "úžasný, ohromný, skvělý",
+      "en": "to be great",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "기타 연주 실력{도} 정말 대단했어요.",
+      "priklad_cs": "I jeho hra na kytaru byla úžasná. (도 → i)",
+      "mnemo": "„DA-DAN!“ – fanfára, když vidíš něco ohromného.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "대단하다",
+          "대단해요",
+          "대단했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0794",
+      "tema": "kultura",
+      "slovo": "멤버",
+      "vyslovnost": "membeo",
+      "cs": "člen (skupiny)",
+      "en": "member",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "와, 멤버들{이} 모두 노래{를} 잘하는 것 같아요.",
+      "priklad_cs": "Páni, všichni členové skupiny asi zpívají skvěle. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "member"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0795",
+      "tema": "hodnocení",
+      "slovo": "비교",
+      "vyslovnost": "bigyo",
+      "cs": "srovnání",
+      "en": "comparison",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "직접 보는 거{하고} 티브이{로} 보는 거{는} 비교{가} 안 돼요.",
+      "priklad_cs": "Vidět to naživo se s televizí nedá srovnat. (하고 → a; 로 → čím; 는 → téma; 가 → 1. pád)",
+      "mnemo": "比 porovnat + 較 poměřit. 비교가 안 되다 = nedá se srovnat (je to o moc lepší).",
+      "koreny": [
+        "bi-比",
+        "gyo-較"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0796",
+      "tema": "hodnocení",
+      "slovo": "평가",
+      "vyslovnost": "pyeongga",
+      "vyslov_hangul": "평까",
+      "cs": "hodnocení",
+      "en": "estimation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 영화{는} 관객들{의} 평가{가} 아주 좋아요.",
+      "priklad_cs": "Ten film má od diváků velmi dobré hodnocení. (는 → téma; 의 → 2. pád; 가 → 1. pád)",
+      "mnemo": "評 posoudit + 價 hodnota = posoudit hodnotu.",
+      "koreny": [
+        "pyeong-評",
+        "ga-價"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0806",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0797",
+      "tema": "hodnocení",
+      "slovo": "풍부하다",
+      "vyslovnost": "pungbuhada",
+      "cs": "bohatý, hojný",
+      "en": "to be rich",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "줄거리{가} 흥미롭고 볼거리{도} 풍부했어요.",
+      "priklad_cs": "Děj byl zajímavý a bylo i na co koukat. (가 → 1. pád; 도 → také)",
+      "mnemo": "豐 hojný + 富 bohatý.",
+      "koreny": [
+        "pung-豐",
+        "bu-富"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "풍부하다",
+          "풍부해요",
+          "풍부했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0798",
+      "tema": "gramatika",
+      "slovo": "-다고 하다",
+      "alternativy": [
+        "-는다고 하다",
+        "-ㄴ다고 하다"
+      ],
+      "vyslovnost": "-dago hada",
+      "cs": "prý …; říká, že … (nepřímá řeč, oznamovací věta)",
+      "en": "indirect quotation of a statement",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "배우들{이} 연기{를} 정말 잘한다고 해요.",
+      "priklad_cs": "Prý herci hrají opravdu skvěle. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "Sloveso: -는다고 (먹는다고), -ㄴ다고 (잘한다고); přídavné jméno a minulý čas: -다고 (없다고, 봤다고). Předávám, co jsem slyšel nebo četl. Hovorově zkráceno -대요.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0799",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0799",
+      "tema": "gramatika",
+      "slovo": "-(이)라고 하다",
+      "alternativy": [
+        "-이라고 하다",
+        "-라고 하다"
+      ],
+      "vyslovnost": "-(i)rago hada",
+      "cs": "prý je to …; říká, že je … (nepřímá řeč u podstatného jména)",
+      "en": "indirect quotation with a noun + 이다",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "외국인들{에게} 가장 인기 있는 관광지{는} 제주도라고 해요.",
+      "priklad_cs": "Prý nejoblíbenějším turistickým místem u cizinců je ostrov Čedžu. (에게 → u, pro; 는 → téma)",
+      "mnemo": "Podstatné jméno + 이라고 (po souhlásce: 학생이라고) / 라고 (po samohlásce: 제주도라고). Zápor 아니라고 해요. Hovorově -(이)래요.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0798",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0800",
+      "tema": "pocity",
+      "slovo": "포기",
+      "vyslovnost": "pogi",
+      "cs": "vzdání se, rezignace",
+      "en": "to give up",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{도} 여행{을} 가려고 했는데 표{가} 없어서 포기했어요.",
+      "priklad_cs": "Taky jsem chtěl jet na výlet, ale nebyly lístky, tak jsem to vzdal. (도 → také; 을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "抛 hodit + 棄 zahodit = odhodit. 포기하다 = vzdát (se).",
+      "koreny": [
+        "po-抛",
+        "gi-棄"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0801",
+      "tema": "hodnocení",
+      "slovo": "가능하다",
+      "vyslovnost": "ganeunghada",
+      "cs": "možný",
+      "en": "to be possible",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "어떻게 이런 게 가능할까요? 정말 신기해요.",
+      "priklad_cs": "Jak je tohle možné? To je úžasné.",
+      "mnemo": "可 moci + 能 schopnost. Opak 불가능하다, 가능성 = možnost.",
+      "koreny": [
+        "ga-可",
+        "neung-能"
+      ],
+      "rodina": [
+        "불가능하다",
+        "가능성"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "가능하다",
+          "가능해요",
+          "가능했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0802",
+      "tema": "doprava",
+      "slovo": "중고차",
+      "vyslovnost": "junggocha",
+      "cs": "ojeté auto",
+      "en": "used car",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "자동차{가} 필요해서 중고차{를} 사려고 알아보고 있어요.",
+      "priklad_cs": "Potřebuju auto, tak se poohlížím po ojetém. (가 → 1. pád; 를 → 4. pád)",
+      "mnemo": "中古 z druhé ruky (中 střed + 古 starý) + 車 vůz. 중고 = použitý, z druhé ruky.",
+      "koreny": [
+        "jung-中",
+        "go-古",
+        "cha-車"
+      ],
+      "rodina": [
+        "중고"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0803",
+      "tema": "kultura",
+      "slovo": "전시관",
+      "vyslovnost": "jeonsigwan",
+      "cs": "výstavní pavilon, výstavní hala",
+      "en": "exhibit hall",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "우리 다른 전시관 먼저 보고 여기{는} 오후{에} 올까요?",
+      "priklad_cs": "Co kdybychom si nejdřív prohlédli jiný pavilon a sem přišli odpoledne? (는 → téma; 에 → kdy)",
+      "mnemo": "展示 vystavení + 館 budova, sál.",
+      "koreny": [
+        "jeon-展",
+        "si-示",
+        "gwan-館"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0771",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0804",
+      "tema": "kultura",
+      "slovo": "전시품",
+      "vyslovnost": "jeonsipum",
+      "cs": "exponát",
+      "en": "exhibit",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "박람회 전시품{이} 정말 신기했어요.",
+      "priklad_cs": "Exponáty na veletrhu byly opravdu úžasné. (이 → 1. pád)",
+      "mnemo": "展示 vystavení + 品 věc = vystavená věc.",
+      "koreny": [
+        "jeon-展",
+        "si-示",
+        "pum-品"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0771",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0805",
+      "tema": "kultura",
+      "slovo": "피라미드",
+      "vyslovnost": "piramideu",
+      "cs": "pyramida",
+      "en": "pyramid",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "와, 진짜 피라미드{가} 눈앞{에} 있는 것 같지 않아요?",
+      "priklad_cs": "Páni, nepřipadá ti, jako by tu byla skutečná pyramida? (가 → 1. pád; 에 → kde)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "pyramid"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

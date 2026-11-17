@@ -1,0 +1,515 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 11 – textbook s. 100–101 (Part 1 어휘, 표현 -을/-ㄹ 테니(까)) + přepis poslechu (s. 156) + 어휘 색인; workbook 3-2 s. 40 (어휘 연습)",
+  "karty": [
+    {
+      "id": "ko-topik3-0762",
+      "tema": "kultura",
+      "slovo": "문화생활",
+      "vyslovnost": "munhwasaenghwal",
+      "cs": "kulturní život, kulturní vyžití",
+      "en": "a cultural life",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "여러분{은} 주로 어떤 문화생활{을} 해요?",
+      "priklad_cs": "Jakému kulturnímu vyžití se obvykle věnujete? (은 → téma; 을 → 4. pád)",
+      "mnemo": "文化 kultura (文 písmo + 化 proměna) + 生活 život (生 žít + 活 činnost).",
+      "koreny": [
+        "mun-文",
+        "hwa-化",
+        "saeng-生",
+        "hwal-活"
+      ],
+      "rodina": [
+        "문화",
+        "생활"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0763",
+      "tema": "kultura",
+      "slovo": "영화",
+      "vyslovnost": "yeonghwa",
+      "cs": "film",
+      "en": "movie",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "주말{에} 영화 보러 갈래요?",
+      "priklad_cs": "Půjdeme o víkendu do kina? (에 → kdy)",
+      "mnemo": "映 promítat + 畫 obraz = promítaný obraz. 영화관 = kino.",
+      "koreny": [
+        "yeong-映",
+        "hwa-畫"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0764",
+      "tema": "kultura",
+      "slovo": "연극",
+      "vyslovnost": "yeongeuk",
+      "cs": "divadelní hra, divadlo",
+      "en": "play",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "연극{은} 배우{와} 관객{이} 가까이 있어서 느낌{이} 더 생생해요.",
+      "priklad_cs": "V divadle jsou herci blízko divákům, takže dojem je živější. (은 → téma; 와 → a; 이 → 1. pád)",
+      "mnemo": "演 předvádět + 劇 drama. Srovnej 공연 (představení), 연기 (herectví).",
+      "koreny": [
+        "yeon-演",
+        "geuk-劇"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0079",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0765",
+      "tema": "kultura",
+      "slovo": "민속 공연",
+      "vyslovnost": "minsok gongyeon",
+      "cs": "lidové (folklorní) představení",
+      "en": "folk performance",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "탈춤{과} 사물놀이{는} 한국{의} 민속 공연이에요.",
+      "priklad_cs": "Tanec v maskách a samulnori jsou korejská lidová představení. (과 → a; 는 → téma; 의 → 2. pád)",
+      "mnemo": "民 lid + 俗 zvyk = lidový zvyk, folklor; 公演 představení. Pokrývá i heslo 민속 (folk).",
+      "koreny": [
+        "min-民",
+        "sok-俗",
+        "gong-公",
+        "yeon-演"
+      ],
+      "rodina": [
+        "민속"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0079",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0766",
+      "tema": "kultura",
+      "slovo": "오페라",
+      "vyslovnost": "opera",
+      "cs": "opera",
+      "en": "opera",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "예술의 전당{에서} 오페라{를} 봤어요.",
+      "priklad_cs": "V Centru umění (Yesul-ui Jeondang) jsem viděl operu. (에서 → kde; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "opera"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0767",
+      "tema": "kultura",
+      "slovo": "발레",
+      "vyslovnost": "balle",
+      "cs": "balet",
+      "en": "ballet",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "발레 공연{이} 정말 아름다웠어요.",
+      "priklad_cs": "Baletní představení bylo opravdu krásné. (이 → 1. pád)",
+      "mnemo": "Z francouzského ballet.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "ballet"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0768",
+      "tema": "kultura",
+      "slovo": "연주회",
+      "vyslovnost": "yeonjuhoe",
+      "cs": "koncert (hudební přednes), recitál",
+      "en": "concert",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "유명한 피아니스트{의} 연주회{가} 우리 동네{에서} 열린다고 해요.",
+      "priklad_cs": "Prý u nás ve čtvrti bude mít koncert slavný pianista. (의 → 2. pád; 가 → 1. pád; 에서 → kde)",
+      "mnemo": "演奏 hra na nástroj + 會 setkání = setkání, kde se hraje. Spíš vážná hudba.",
+      "koreny": [
+        "yeon-演",
+        "ju-奏",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0075",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0769",
+      "tema": "kultura",
+      "slovo": "경기",
+      "vyslovnost": "gyeonggi",
+      "cs": "zápas, utkání",
+      "en": "match",
+      "cs_upresneni": "zápas (sportovní), ne hospodářství",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "스포츠 경기{를} 보러 경기장{에} 자주 가요.",
+      "priklad_cs": "Často chodím na stadion na sportovní zápasy. (를 → 4. pád; 에 → kam)",
+      "mnemo": "競 soutěžit + 技 dovednost = soutěž v dovednosti. 경기장 = stadion. Stejně znějící 경기 (景氣) = hospodářská situace.",
+      "koreny": [
+        "gyeong-競",
+        "gi-技"
+      ],
+      "rodina": [
+        "스포츠 경기",
+        "경기장"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0770",
+      "tema": "kultura",
+      "slovo": "음악회",
+      "vyslovnost": "eumakhoe",
+      "vyslov_hangul": "으마쾨",
+      "cs": "koncert (hudební večer)",
+      "en": "concert",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "학교{에서} 음악회{가} 있어서 친구{하고} 같이 갔어요.",
+      "priklad_cs": "Ve škole byl koncert, tak jsem tam šel s kamarádem. (에서 → kde; 가 → 1. pád; 하고 → s + 7. pád)",
+      "mnemo": "音 zvuk + 樂 hudba + 會 setkání. Pop koncert je spíš 콘서트.",
+      "koreny": [
+        "eum-音",
+        "ak-樂",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0768",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0771",
+      "tema": "kultura",
+      "slovo": "전시회",
+      "vyslovnost": "jeonsihoe",
+      "cs": "výstava",
+      "en": "exhibition",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 그림 보는 걸 좋아해서 전시회{에} 자주 가요.",
+      "priklad_cs": "Rád se dívám na obrazy, tak často chodím na výstavy. (는 → téma; 에 → kam)",
+      "mnemo": "展 rozvinout + 示 ukázat + 會 setkání = setkání, kde se vystavuje. 전시하다 = vystavovat.",
+      "koreny": [
+        "jeon-展",
+        "si-示",
+        "hoe-會"
+      ],
+      "rodina": [
+        "전시하다",
+        "전시관",
+        "전시품"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0772",
+      "tema": "kultura",
+      "slovo": "콘서트",
+      "vyslovnost": "konseoteu",
+      "cs": "koncert",
+      "en": "concert",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "시끄러운 걸 별로 안 좋아해서 콘서트{에는} 잘 안 가요.",
+      "priklad_cs": "Hluk moc nemusím, tak na koncerty skoro nechodím. (에는 → kam + důraz)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "concert"
+      },
+      "viz_tez": "ko-topik3-0770",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0773",
+      "tema": "kultura",
+      "slovo": "팬미팅",
+      "vyslovnost": "paenmiting",
+      "cs": "setkání s fanoušky (fan meeting)",
+      "en": "fan meeting",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "좋아하는 가수{의} 팬미팅{에} 가 보고 싶어요.",
+      "priklad_cs": "Chtěl bych zajít na setkání s fanoušky oblíbeného zpěváka. (의 → 2. pád; 에 → kam)",
+      "mnemo": "Korejsko-anglické fan meeting: hvězda se setká s fanoušky.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "fan meeting"
+      },
+      "viz_tez": "ko-topik3-0077",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0774",
+      "tema": "kultura",
+      "slovo": "뮤지컬",
+      "vyslovnost": "myujikeol",
+      "cs": "muzikál",
+      "en": "musical",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "뮤지컬 '레미제라블'{은} 줄거리{가} 흥미로웠어요.",
+      "priklad_cs": "Muzikál Bídníci měl zajímavý děj. (은 → téma; 가 → 1. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "musical"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0775",
+      "tema": "kultura",
+      "slovo": "유물",
+      "vyslovnost": "yumul",
+      "cs": "historický předmět, artefakt",
+      "en": "relic",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "박물관{에서} 오래된 유물{을} 전시하고 있어요.",
+      "priklad_cs": "V muzeu vystavují staré historické předměty. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "遺 zanechat + 物 věc = věc, kterou zanechali předkové. Srovnej 유적지 (historické místo).",
+      "koreny": [
+        "yu-遺",
+        "mul-物"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0776",
+      "tema": "média",
+      "slovo": "기사",
+      "vyslovnost": "gisa",
+      "cs": "článek (novinový)",
+      "en": "article",
+      "cs_upresneni": "článek, ne řidič",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "유미 씨, 이 콘서트 기사 봤어요?",
+      "priklad_cs": "Jumi, viděla jsi ten článek o koncertu? (částice vypuštěna)",
+      "mnemo": "記 zapsat + 事 věc = zapsaná událost. Stejně znějící 기사 (技士) = řidič, technik.",
+      "koreny": [
+        "gi-記",
+        "sa-事"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0777",
+      "tema": "čas",
+      "slovo": "미리",
+      "vyslovnost": "miri",
+      "cs": "předem, dopředu",
+      "en": "in advance",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "주말{에는} 사람{이} 많을 테니까 제{가} 미리 예매할게요.",
+      "priklad_cs": "O víkendu tam bude hodně lidí, tak koupím lístky předem. (에는 → kdy + důraz; 이, 가 → 1. pád)",
+      "mnemo": "„MÍRÍ“ dopředu – kdo míří předem, trefí.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0778",
+      "tema": "práce",
+      "slovo": "마무리",
+      "vyslovnost": "mamuri",
+      "cs": "dokončení, závěrečná práce",
+      "en": "finish",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "마무리{는} 제{가} 할 테니까 오늘{은} 일찍 가서 쉬세요.",
+      "priklad_cs": "Dodělám to já, tak dnes jděte domů dřív a odpočiňte si. (는, 은 → téma; 가 → 1. pád)",
+      "mnemo": "마무리하다 = dodělat, uzavřít; 마무리를 짓다 = dotáhnout do konce.",
+      "extra": {
+        "typ": "puvodni",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0779",
+      "tema": "počasí",
+      "slovo": "기온",
+      "vyslovnost": "gion",
+      "cs": "teplota (vzduchu)",
+      "en": "temperature",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "산 정상{에} 올라가면 기온{이} 떨어질 테니까 두꺼운 옷{을} 꼭 챙기세요.",
+      "priklad_cs": "Na vrcholu hory klesne teplota, tak si určitě vezměte teplé oblečení. (에 → kam; 이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "氣 vzduch + 溫 teplo = teplota vzduchu. Tělesná teplota je 체온.",
+      "koreny": [
+        "gi-氣",
+        "on-溫"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0780",
+      "tema": "příroda",
+      "slovo": "정상",
+      "vyslovnost": "jeongsang",
+      "cs": "vrchol (hory)",
+      "en": "top, summit",
+      "cs_upresneni": "vrchol (hory), ne „normální“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "세 시간{을} 걸어서 드디어 산 정상{에} 도착했어요.",
+      "priklad_cs": "Po třech hodinách chůze jsme konečně dorazili na vrchol. (을 → 4. pád; 에 → kam)",
+      "mnemo": "頂 temeno + 上 nahoře = nejvyšší bod. Stejně znějící 정상 (正常) = normální.",
+      "koreny": [
+        "jeong-頂",
+        "sang-上"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0781",
+      "tema": "čas",
+      "slovo": "평일",
+      "vyslovnost": "pyeongil",
+      "cs": "všední den",
+      "en": "weekday",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "주말{에는} 차{가} 많이 막힐 테니까 평일{에} 가는 게 좋을 것 같아요.",
+      "priklad_cs": "O víkendu bude ucpaná silnice, tak bude lepší jet ve všední den. (에는 → kdy + důraz; 가 → 1. pád; 에 → kdy)",
+      "mnemo": "平 rovný, běžný + 日 den = obyčejný den. Opak 주말.",
+      "koreny": [
+        "pyeong-平",
+        "il-日"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0782",
+      "tema": "popis",
+      "slovo": "자세하다",
+      "vyslovnost": "jasehada",
+      "cs": "podrobný, detailní",
+      "en": "to be detailed",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "인터넷{에} 설명{이} 자세하게 나와 있어서 따라 하기 쉬워요.",
+      "priklad_cs": "Na internetu je podrobný návod, tak se to dá snadno udělat podle něj. (에 → kde; 이 → 1. pád)",
+      "mnemo": "仔 pečlivý + 細 jemný = jemně a pečlivě. Příslovce 자세히 = podrobně.",
+      "koreny": [
+        "ja-仔",
+        "se-細"
+      ],
+      "rodina": [
+        "자세히"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "자세하다",
+          "자세해요",
+          "자세했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0783",
+      "tema": "gramatika",
+      "slovo": "-(으)ㄹ 테니(까)",
+      "alternativy": [
+        "-을 테니까",
+        "-ㄹ 테니까",
+        "-을 테니",
+        "-ㄹ 테니"
+      ],
+      "vyslovnost": "-(eu)l teni(kka)",
+      "cs": "protože (asi) bude …, tak; já to udělám, tak (ty) …",
+      "en": "since (it will surely be / I will do it), so …",
+      "slovni_druh": "ostatni",
+      "frekvence": 2,
+      "priklad": "주말{에는} 사람{이} 많을 테니까 평일{에} 가요.",
+      "priklad_cs": "O víkendu tam určitě bude hodně lidí, tak pojďme ve všední den. (에는 → kdy + důraz; 이 → 1. pád; 에 → kdy)",
+      "mnemo": "터 (předpoklad, záměr) + 이니까. Odhad mluvčího (많을 테니까) nebo jeho vůle v 1. osobě (내가 할 테니까 = udělám to já, tak…). Po souhlásce -을 테니까, po samohlásce -ㄹ 테니까. Druhá věta bývá rozkaz nebo návrh.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

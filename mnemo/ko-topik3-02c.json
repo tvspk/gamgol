@@ -1,0 +1,398 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3, kap. 2 – textbook s. 31 (더 말해 봐요) + workbook 3-1 s. 21 (어휘 확장)",
+  "karty": [
+    {
+      "id": "ko-topik3-0130",
+      "tema": "sport",
+      "slovo": "승마",
+      "vyslovnost": "seungma",
+      "cs": "jízda na koni",
+      "en": "horseback riding",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "주말{마다} 승마{를} 배우러 가요.",
+      "priklad_cs": "Každý víkend chodím na jízdárnu. (마다 → každý; 를 → 4. pád)",
+      "mnemo": "乘 nasednout + 馬 kůň.",
+      "koreny": [
+        "seung-乘",
+        "ma-馬"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0131",
+      "tema": "sport",
+      "slovo": "스쿠버다이빙",
+      "vyslovnost": "seukubeodaibing",
+      "cs": "potápění s přístrojem",
+      "en": "scuba diving",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "바다{에서} 스쿠버다이빙{을} 해 보고 싶어요.",
+      "priklad_cs": "Chtěl bych si zkusit potápění v moři. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "scuba diving"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0132",
+      "tema": "volný čas",
+      "slovo": "칼리그래피",
+      "vyslovnost": "kalligeuraepi",
+      "cs": "kaligrafie, krasopis",
+      "en": "calligraphy",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "칼리그래피{로} 생일 카드{를} 만들었어요.",
+      "priklad_cs": "Udělal jsem přáníčko k narozeninám kaligrafií. (로 → čím, 7. pád; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "calligraphy"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0133",
+      "tema": "volný čas",
+      "slovo": "로봇",
+      "vyslovnost": "robot",
+      "vyslov_hangul": "로볻",
+      "cs": "robot",
+      "en": "robot",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "로봇 조립{은} 어렵지만 재미있어요.",
+      "priklad_cs": "Skládání robotů je těžké, ale zábavné. (은 → téma)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "robot"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0134",
+      "tema": "volný čas",
+      "slovo": "조립",
+      "vyslovnost": "jorip",
+      "cs": "sestavení, montáž",
+      "en": "assembling",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 여가 시간{에} 로봇{을} 조립해요.",
+      "priklad_cs": "Ve volném čase skládám roboty. (는 → téma; 에 → kdy; 을 → 4. pád)",
+      "mnemo": "組 sestavit + 立 postavit = sestavit a postavit.",
+      "koreny": [
+        "jo-組",
+        "rip-立"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0135",
+      "tema": "sport",
+      "slovo": "등반",
+      "vyslovnost": "deungban",
+      "cs": "výstup, lezení (na horu)",
+      "en": "climbing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "다음 달{에} 친구들{과} 산 등반{을} 할 거예요.",
+      "priklad_cs": "Příští měsíc půjdu s přáteli na horu. (에 → kdy; 과 → s + 7. pád; 을 → 4. pád)",
+      "mnemo": "登 vystoupit + 攀 šplhat. Srovnej 등산 (turistika na hory).",
+      "koreny": [
+        "deung-登",
+        "ban-攀"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0137",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0136",
+      "tema": "sport",
+      "slovo": "암벽",
+      "vyslovnost": "ambyeok",
+      "cs": "skalní stěna",
+      "en": "rock wall",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "암벽{이} 너무 높아서 무서웠어요.",
+      "priklad_cs": "Skalní stěna byla tak vysoká, že jsem se bál. (이 → 1. pád)",
+      "mnemo": "巖 skála + 壁 stěna.",
+      "koreny": [
+        "am-巖",
+        "byeok-壁"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0137",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0137",
+      "tema": "sport",
+      "slovo": "암벽 등반",
+      "vyslovnost": "ambyeok deungban",
+      "vyslov_hangul": "암벽뜽반",
+      "cs": "lezení po skalách, horolezectví",
+      "en": "rock climbing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "암벽 등반{을} 하려면 뭐{가} 필요해요?",
+      "priklad_cs": "Co potřebuju, když chci lézt po skalách? (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "암벽 skalní stěna + 등반 výstup.",
+      "koreny": [
+        "am-巖",
+        "byeok-壁",
+        "deung-登",
+        "ban-攀"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0135",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0138",
+      "tema": "volný čas",
+      "slovo": "접기",
+      "vyslovnost": "jeopgi",
+      "vyslov_hangul": "접끼",
+      "cs": "skládání (papíru)",
+      "en": "origami, folding",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "종이 접기{로} 학{을} 만들었어요.",
+      "priklad_cs": "Z papíru jsem poskládal jeřába. (로 → čím, 7. pád; 을 → 4. pád)",
+      "mnemo": "Od 접다 „skládat“ + -기. 종이 접기 = origami.",
+      "rodina": [
+        "접다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0139",
+      "tema": "sport",
+      "slovo": "양궁",
+      "vyslovnost": "yanggung",
+      "cs": "lukostřelba",
+      "en": "archery",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "한국{은} 양궁{을} 정말 잘해요.",
+      "priklad_cs": "Korea je v lukostřelbě opravdu dobrá. (은 → téma; 을 → 4. pád)",
+      "mnemo": "洋 západní + 弓 luk = západní luk (sportovní lukostřelba).",
+      "koreny": [
+        "yang-洋",
+        "gung-弓"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0140",
+      "tema": "volný čas",
+      "slovo": "경기 관람",
+      "vyslovnost": "gyeonggi gwallam",
+      "vyslov_hangul": "경기 괄람",
+      "cs": "sledování sportovního zápasu (na místě)",
+      "en": "seeing a sports game",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "축구장{에} 직접 가서 경기 관람{을} 해요.",
+      "priklad_cs": "Chodím přímo na stadion sledovat zápasy. (에 → kam; 을 → 4. pád)",
+      "mnemo": "競技 soutěž, zápas + 觀覽 sledování.",
+      "koreny": [
+        "gyeong-競",
+        "gi-技",
+        "gwan-觀",
+        "ram-覽"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0080",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0141",
+      "tema": "volný čas",
+      "slovo": "그림 그리기",
+      "vyslovnost": "geurim geurigi",
+      "cs": "malování, kreslení",
+      "en": "drawing pictures",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 그림{을} 잘 못 그려서 그림 그리기{를} 별로 안 좋아해요.",
+      "priklad_cs": "Neumím moc kreslit, tak mě kreslení moc nebaví. (는 → téma; 을, 를 → 4. pád)",
+      "mnemo": "그리다 kreslit → 그림 obrázek, 그리기 kreslení.",
+      "rodina": [
+        "그림",
+        "그리다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0142",
+      "tema": "volný čas",
+      "slovo": "독서",
+      "vyslovnost": "dokseo",
+      "vyslov_hangul": "독써",
+      "cs": "četba",
+      "en": "reading books",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "집{이나} 도서관{에서} 독서{를} 해요.",
+      "priklad_cs": "Čtu doma nebo v knihovně. (에서 → kde; 를 → 4. pád)",
+      "mnemo": "讀 číst + 書 kniha.",
+      "koreny": [
+        "dok-讀",
+        "seo-書"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0143",
+      "tema": "volný čas",
+      "slovo": "맛집 탐방",
+      "vyslovnost": "matjip tambang",
+      "vyslov_hangul": "맏찝 탐방",
+      "cs": "objevování dobrých podniků (gastro výlet)",
+      "en": "culinary adventure",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "우리 주말{에} 맛집 탐방{을} 할까요?",
+      "priklad_cs": "Co kdybychom o víkendu vyrazili po dobrých podnicích? (에 → kdy; 을 → 4. pád)",
+      "mnemo": "맛집 + 探 pátrat + 訪 navštívit = pátrací návštěva dobrých podniků.",
+      "koreny": [
+        "tam-探",
+        "bang-訪"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "viz_tez": "ko-topik3-0055",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0144",
+      "tema": "volný čas",
+      "slovo": "사진 촬영",
+      "vyslovnost": "sajin chwaryeong",
+      "vyslov_hangul": "사진 촤령",
+      "cs": "fotografování",
+      "en": "taking pictures",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "카메라{를} 들고 야외{에} 나가서 사진 촬영{을} 해요.",
+      "priklad_cs": "Beru foťák, jdu ven a fotím. (를 → 4. pád; 에 → kam; 을 → 4. pád)",
+      "mnemo": "寫眞 fotografie + 撮 zachytit + 影 obraz.",
+      "koreny": [
+        "sa-寫",
+        "jin-眞",
+        "chwal-撮",
+        "yeong-影"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0145",
+      "tema": "volný čas",
+      "slovo": "야외 나들이",
+      "vyslovnost": "yaoe nadeuri",
+      "vyslov_hangul": "야외 나드리",
+      "cs": "výlet do přírody",
+      "en": "outdoor excursion",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "내일{은} 휴일이니까 야외 나들이{를} 가요.",
+      "priklad_cs": "Zítra je volno, tak pojeďme na výlet ven. (은 → téma; 를 → 4. pád)",
+      "mnemo": "野外 venku (pole + venek) + 나들이 vycházka.",
+      "koreny": [
+        "ya-野",
+        "oe-外"
+      ],
+      "rodina": [
+        "나들이"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0146",
+      "tema": "sport",
+      "slovo": "헬스",
+      "vyslovnost": "helseu",
+      "cs": "posilování, cvičení v posilovně",
+      "en": "work out (at gym)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "근육 운동{을} 하려고 헬스{를} 해요.",
+      "priklad_cs": "Chodím do posilovny, abych nabral svaly. (을, 를 → 4. pád)",
+      "mnemo": "Konglish z angl. health; místo se řekne 헬스클럽/헬스장.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "health"
+      },
+      "viz_tez": "ko-topik3-0040",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

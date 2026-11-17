@@ -1,0 +1,548 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3, kap. 3 – textbook s. 36–39 (연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + 어휘 색인; workbook 3-1 s. 31 (어휘 확장)",
+  "karty": [
+    {
+      "id": "ko-topik3-0206",
+      "tema": "vztahy",
+      "slovo": "부르다",
+      "vyslovnost": "bureuda",
+      "cs": "zavolat, přizvat (někoho)",
+      "en": "to call",
+      "cs_upresneni": "zavolat, přizvat (ne „být sytý“)",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "볼링 치러 갈 때 민우 씨{도} 불러요.",
+      "priklad_cs": "Až půjdeme na bowling, zavolej i Minua. (도 → také)",
+      "mnemo": "Pozor na tvary: 불러요, 불렀어요. Stejně znějící 부르다 (배가 부르다 = být sytý) je jiné slovo.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "부르다",
+          "불러요",
+          "불렀어요"
+        ],
+        "nepravidelnost": "르"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0207",
+      "tema": "schůzky",
+      "slovo": "불편하다",
+      "vyslovnost": "bulpyeonhada",
+      "cs": "nepohodlný, nepraktický",
+      "en": "to be inconvenient",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 1,
+      "priklad": "학교 앞 카페{는} 좀 시끄럽고 자리{도} 불편해요.",
+      "priklad_cs": "Kavárna před školou je trochu hlučná a špatně se tam sedí. (는 → téma; 도 → také)",
+      "mnemo": "不 ne + 便 pohodlný.",
+      "koreny": [
+        "bul-不",
+        "pyeon-便"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "불편하다",
+          "불편해요",
+          "불편했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0208",
+      "tema": "doprava",
+      "slovo": "주차",
+      "vyslovnost": "jucha",
+      "cs": "parkování",
+      "en": "to park",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "여기{에서는} 아무{나} 주차하면 안 돼요.",
+      "priklad_cs": "Tady nemůže parkovat jen tak někdo. (에서는 → kde + důraz; 나 → -koli)",
+      "mnemo": "駐 stát, zastavit se + 車 vůz.",
+      "koreny": [
+        "ju-駐",
+        "cha-車"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0209",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0209",
+      "tema": "doprava",
+      "slovo": "주차장",
+      "vyslovnost": "juchajang",
+      "cs": "parkoviště",
+      "en": "parking lot",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "주차장{에} 자리{가} 없네요.",
+      "priklad_cs": "Na parkovišti není místo. (에 → kde; 가 → 1. pád)",
+      "mnemo": "駐車 parkování + 場 místo.",
+      "koreny": [
+        "ju-駐",
+        "cha-車",
+        "jang-場"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0208",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0210",
+      "tema": "schůzky",
+      "slovo": "로비",
+      "vyslovnost": "robi",
+      "cs": "hala, vestibul",
+      "en": "lobby",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "그럼 회사 로비{에서} 기다릴게요.",
+      "priklad_cs": "Tak počkám v hale firmy. (에서 → kde)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "lobby"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0211",
+      "tema": "vztahy",
+      "slovo": "웬일",
+      "vyslovnost": "wennil",
+      "vyslov_hangul": "웬닐",
+      "cs": "co se děje, čemu za to vděčím (překvapení)",
+      "en": "what reason",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "여보세요. 제니 씨! 웬일이에요? 잘 지내죠?",
+      "priklad_cs": "Haló, Jenny! Co se děje, že voláš? Máš se dobře? (bez částic)",
+      "mnemo": "웬 „jaký, co za“ + 일 „věc“ = „copak to?“ Pravopis: 웬일, ne 왠일.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0212",
+      "tema": "domácnost",
+      "slovo": "고장",
+      "vyslovnost": "gojang",
+      "cs": "porucha",
+      "en": "breakdown",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "문{이} 고장 나서 집주인{이} 오기로 했어요.",
+      "priklad_cs": "Rozbily se dveře, tak měl přijít majitel bytu. (이 → 1. pád)",
+      "mnemo": "故 příhoda, závada + 障 překážka. 고장(이) 나다 = porouchat se.",
+      "koreny": [
+        "go-故",
+        "jang-障"
+      ],
+      "rodina": [
+        "고장 나다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0213",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0213",
+      "tema": "domácnost",
+      "slovo": "고치다",
+      "vyslovnost": "gochida",
+      "cs": "opravit",
+      "en": "to fix",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "그럼 문{은} 다 고쳤어요?",
+      "priklad_cs": "A dveře už jsou opravené? (은 → téma)",
+      "mnemo": "„KOČÍ-da“ – KOČÍ opraví kolo u kočáru a jede se dál.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "고치다",
+          "고쳐요",
+          "고쳤어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0212",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0214",
+      "tema": "schůzky",
+      "slovo": "시간이 맞다",
+      "vyslovnost": "sigani matda",
+      "vyslov_hangul": "시가니 맏따",
+      "cs": "mít čas ve stejnou dobu, časově se hodit",
+      "en": "to be free at the same time",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "앞으로{는} 서로 시간{이} 맞으면 자주 만나요.",
+      "priklad_cs": "Odteď se scházejme často, kdykoli se nám to oběma bude hodit. (는 → téma; 이 → 1. pád)",
+      "mnemo": "時間 čas + 맞다 sedět, shodovat se = časy se sejdou.",
+      "koreny": [
+        "si-時",
+        "gan-間"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "시간이 맞다",
+          "시간이 맞아요",
+          "시간이 맞았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0215",
+      "tema": "vztahy",
+      "slovo": "뭉치다",
+      "vyslovnost": "mungchida",
+      "cs": "srazit se dohromady; sejít se (o partě)",
+      "en": "to be in a knot",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "우리 한번 뭉쳐야지요.",
+      "priklad_cs": "Musíme se někdy dát dohromady. (bez částic)",
+      "mnemo": "뭉치 = chuchvalec, balík: parta se „sbalí“ do jednoho chumlu.",
+      "rodina": [
+        "뭉치"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "뭉치다",
+          "뭉쳐요",
+          "뭉쳤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0216",
+      "tema": "schůzky",
+      "slovo": "선약",
+      "vyslovnost": "seonyak",
+      "vyslov_hangul": "서냑",
+      "cs": "dřívější domluva, už domluvená schůzka",
+      "en": "previous engagement",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "죄송해요. 그날{은} 선약{이} 있어요.",
+      "priklad_cs": "Promiňte, ten den už něco mám. (은 → téma; 이 → 1. pád)",
+      "mnemo": "先 dříve + 約 úmluva = dřív domluvené.",
+      "koreny": [
+        "seon-先",
+        "yak-約"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0147",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0217",
+      "tema": "schůzky",
+      "slovo": "적다",
+      "vyslovnost": "jeokda",
+      "vyslov_hangul": "적따",
+      "cs": "zapsat (si), napsat",
+      "en": "to write",
+      "cs_upresneni": "zapsat (si), ne „být málo“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "약속 시간{을} 잘 적어 둘게요.",
+      "priklad_cs": "Čas schůzky si pořádně zapíšu. (을 → 4. pád)",
+      "mnemo": "적어 두다 = zapsat si (pro jistotu). Stejně znějící 적다 = být málo.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "적다",
+          "적어요",
+          "적었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0218",
+      "tema": "schůzky",
+      "slovo": "최대한",
+      "vyslovnost": "choedaehan",
+      "cs": "co nejvíc, maximálně",
+      "en": "the maximum",
+      "slovni_druh": "ostatni",
+      "frekvence": 2,
+      "priklad": "네, 고마워요. 최대한 빨리 갈게요.",
+      "priklad_cs": "Ano, díky. Přijdu co nejrychleji. (bez částic)",
+      "mnemo": "最 nej- + 大 velký + 限 mez = největší možná mez. 최대한 빨리 = co nejrychleji.",
+      "koreny": [
+        "choe-最",
+        "dae-大",
+        "han-限"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0219",
+      "tema": "schůzky",
+      "slovo": "밥 한번 먹다",
+      "vyslovnost": "bap hanbeon meokda",
+      "vyslov_hangul": "바판번 먹따",
+      "cs": "zajít (někdy) spolu na jídlo",
+      "en": "Let's have a lunch/dinner/meal",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "다음{엔} 맛집{에서} 밥 한번 먹어요. 제{가} 대접할게요.",
+      "priklad_cs": "Příště zajdeme na jídlo do nějakého dobrého podniku. Zvu tě. (엔 → kdy + důraz; 에서 → kde; 가 → 1. pád)",
+      "mnemo": "Doslova „jednou sníst rýži“. Často jen zdvořilost jako naše „někdy zajdem na pivo“.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "밥 한번 먹다",
+          "밥 한번 먹어요",
+          "밥 한번 먹었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0220",
+      "tema": "schůzky",
+      "slovo": "차 한잔하다",
+      "vyslovnost": "cha hanjanhada",
+      "cs": "zajít na čaj, na kávu",
+      "en": "to drink/grab tea (with someone)",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "시간 있으면 커피숍{에서} 차 한잔할까요?",
+      "priklad_cs": "Jestli máš čas, nezajdeme do kavárny na čaj? (에서 → kde)",
+      "mnemo": "차 čaj + 한 잔 jeden šálek + 하다. 한잔하다 se píše dohromady.",
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "차 한잔하다",
+          "차 한잔해요",
+          "차 한잔했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0221",
+      "tema": "schůzky",
+      "slovo": "얼굴 한번 보다",
+      "vyslovnost": "eolgul hanbeon boda",
+      "cs": "vidět se osobně, sejít se",
+      "en": "to see someone in person",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "전화{로} 얘기할 게 아니라 얼굴 한번 볼까요?",
+      "priklad_cs": "Nebudeme to řešit po telefonu, co se vidět osobně? (로 → čím, 7. pád)",
+      "mnemo": "Doslova „jednou uvidět obličej“.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "얼굴 한번 보다",
+          "얼굴 한번 봐요",
+          "얼굴 한번 봤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0222",
+      "tema": "doprava",
+      "slovo": "꼼짝을 못 하다",
+      "alternativy": [
+        "꼼짝 못 하다"
+      ],
+      "vyslovnost": "kkomjjageul motada",
+      "vyslov_hangul": "꼼짜글 모타다",
+      "cs": "nemoci se ani hnout (auto v zácpě)",
+      "en": "(the car) does not move an inch",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "길{이} 막혀서 차{가} 꼼짝{을} 못 하고 있어요.",
+      "priklad_cs": "Je zácpa a auto se nehne z místa. (이, 가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "꼼짝 = nepatrný pohyb, „ani ťuk“; 못하다 = nemoci.",
+      "rodina": [
+        "꼼짝"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "꼼짝을 못 하다",
+          "꼼짝을 못 해요",
+          "꼼짝을 못 했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0223",
+      "tema": "doprava",
+      "slovo": "길이 정체되다",
+      "vyslovnost": "giri jeongchedoeda",
+      "vyslov_hangul": "기리 정체되다",
+      "cs": "tvoří se kolona, doprava stojí",
+      "en": "road congestion",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "퇴근길이라 차{가} 많아서 길{이} 정체되고 있어요.",
+      "priklad_cs": "Je odpolední špička, aut je hodně a doprava stojí. (가, 이 → 1. pád)",
+      "mnemo": "停 zastavit + 滯 váznout = provoz vázne. Hovorověji 길이 막히다.",
+      "koreny": [
+        "jeong-停",
+        "che-滯"
+      ],
+      "rodina": [
+        "정체"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "길이 정체되다",
+          "길이 정체돼요",
+          "길이 정체됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0188",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0224",
+      "tema": "doprava",
+      "slovo": "길을 헤매다",
+      "vyslovnost": "gireul hemaeda",
+      "vyslov_hangul": "기를 헤매다",
+      "cs": "bloudit",
+      "en": "to wander the streets",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "비슷한 건물{이} 많아서 길{을} 헤맸어요.",
+      "priklad_cs": "Je tam spousta podobných budov, tak jsem bloudil. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "헤매다 = bloudit, tápat.",
+      "rodina": [
+        "헤매다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "길을 헤매다",
+          "길을 헤매요",
+          "길을 헤맸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0225",
+      "tema": "schůzky",
+      "slovo": "약속을 깨다",
+      "vyslovnost": "yaksogeul kkaeda",
+      "vyslov_hangul": "약쏘글 깨다",
+      "cs": "zrušit schůzku (jednostranně, narychlo); porušit slib",
+      "en": "to cancel an appointment",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "그 친구{는} 화{가} 나서 갑자기 만나기로 한 약속{을} 깼어요.",
+      "priklad_cs": "Kamarád se naštval a najednou zrušil domluvenou schůzku. (는 → téma; 가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "깨다 = rozbít: „rozbít“ domluvu.",
+      "koreny": [
+        "yak-約",
+        "sok-束"
+      ],
+      "rodina": [
+        "깨다"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "약속을 깨다",
+          "약속을 깨요",
+          "약속을 깼어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0226",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0226",
+      "tema": "schůzky",
+      "slovo": "약속을 어기다",
+      "vyslovnost": "yaksogeul eogida",
+      "vyslov_hangul": "약쏘글 어기다",
+      "cs": "nedodržet slib, nepřijít na schůzku",
+      "en": "to break a promise/an appointment",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "항상 약속{을} 잘 지켰는데 이번{에} 어겨서 죄송해요.",
+      "priklad_cs": "Vždycky jsem sliby dodržoval, omlouvám se, že jsem to tentokrát porušil. (을 → 4. pád; 에 → kdy)",
+      "mnemo": "어기다 = porušit (pravidlo, slib). Opak: 약속을 지키다 = dodržet.",
+      "koreny": [
+        "yak-約",
+        "sok-束"
+      ],
+      "rodina": [
+        "어기다",
+        "약속을 지키다"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "약속을 어기다",
+          "약속을 어겨요",
+          "약속을 어겼어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0225",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

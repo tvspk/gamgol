@@ -1,0 +1,710 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 3 어디에서 만날까? – textbook s. 32–33 (Part 1, 반말 1) + 어휘 색인",
+  "karty": [
+    {
+      "id": "ko-topik3-0147",
+      "tema": "schůzky",
+      "slovo": "약속",
+      "vyslovnost": "yaksok",
+      "vyslov_hangul": "약쏙",
+      "cs": "schůzka, domluva; slib",
+      "en": "appointment, promise",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "토요일{에} 친구{하고} 약속{이} 있어요.",
+      "priklad_cs": "V sobotu mám domluvenou schůzku s kamarádem. (에 → kdy; 하고 → s + 7. pád; 이 → 1. pád)",
+      "mnemo": "約 úmluva + 束 svázat = úmluva, která tě váže.",
+      "koreny": [
+        "yak-約",
+        "sok-束"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0148",
+      "tema": "schůzky",
+      "slovo": "정하다",
+      "vyslovnost": "jeonghada",
+      "cs": "určit, stanovit, domluvit (čas, místo)",
+      "en": "to decide",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "먼저 만날 시간{과} 장소{를} 정해요.",
+      "priklad_cs": "Nejdřív si domluvíme čas a místo schůzky. (과 → a; 를 → 4. pád)",
+      "mnemo": "定 určit + 하다. 약속을 / 시간을 / 장소를 정하다.",
+      "koreny": [
+        "jeong-定"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "정하다",
+          "정해요",
+          "정했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0149",
+      "tema": "schůzky",
+      "slovo": "약속을 잡다",
+      "alternativy": [
+        "약속을 정하다"
+      ],
+      "vyslovnost": "yaksogeul japda",
+      "vyslov_hangul": "약쏘글 잡따",
+      "cs": "domluvit si schůzku",
+      "en": "to make (an appointment)",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "그러면 다음{에} 다시 약속{을} 잡아요.",
+      "priklad_cs": "Tak si domluvíme schůzku jindy. (에 → kdy; 을 → 4. pád)",
+      "mnemo": "잡다 = chytit: „chytit“ termín, dokud je volný. Pokrývá heslo 잡다 (to make) z rejstříku.",
+      "koreny": [
+        "yak-約",
+        "sok-束"
+      ],
+      "rodina": [
+        "잡다"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "약속을 잡다",
+          "약속을 잡아요",
+          "약속을 잡았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0147",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0150",
+      "tema": "schůzky",
+      "slovo": "취소",
+      "vyslovnost": "chwiso",
+      "cs": "zrušení",
+      "en": "to cancel",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "일{이} 생겨서 약속{을} 취소했어요.",
+      "priklad_cs": "Něco mi do toho přišlo, tak jsem schůzku zrušil. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "取 vzít + 消 smazat = vzít zpět a smazat.",
+      "koreny": [
+        "chwi-取",
+        "so-消"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0151",
+      "tema": "schůzky",
+      "slovo": "잊어버리다",
+      "vyslovnost": "ijeobeorida",
+      "vyslov_hangul": "이저버리다",
+      "cs": "zapomenout (úplně)",
+      "en": "to forget",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "친구 생일{을} 잊어버렸어요.",
+      "priklad_cs": "Zapomněl jsem na kamarádovy narozeniny. (을 → 4. pád; česky „na“ + 4. pád)",
+      "mnemo": "잊다 zapomenout + -어 버리다 (udělat nadobro) = dočista zapomenout.",
+      "rodina": [
+        "잊다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "잊어버리다",
+          "잊어버려요",
+          "잊어버렸어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0152",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0152",
+      "tema": "schůzky",
+      "slovo": "깜빡하다",
+      "vyslovnost": "kkamppakada",
+      "vyslov_hangul": "깜빠카다",
+      "cs": "(na chvíli) zapomenout, vypadnout z hlavy",
+      "en": "to forget",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "오늘{이} 어머니 생신인데 제{가} 깜빡 잊고 있었어요.",
+      "priklad_cs": "Dneska má maminka narozeniny a mně to úplně vypadlo. (이, 가 → 1. pád)",
+      "mnemo": "깜빡 = mrknutí, bliknutí: paměť na okamžik „blikla“ a zhasla. Často 깜빡 잊다.",
+      "rodina": [
+        "깜빡"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "깜빡하다",
+          "깜빡해요",
+          "깜빡했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0151",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0153",
+      "tema": "schůzky",
+      "slovo": "겹치다",
+      "vyslovnost": "gyeopchida",
+      "cs": "překrývat se, krýt se (termíny)",
+      "en": "to overlap",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "그날{은} 다른 약속{하고} 겹쳐서 못 가요.",
+      "priklad_cs": "Ten den se mi to kryje s jinou schůzkou, takže nemůžu. (은 → téma; 하고 → s + 7. pád)",
+      "mnemo": "겹 = vrstva: dvě schůzky leží ve vrstvách na sobě.",
+      "rodina": [
+        "겹"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "겹치다",
+          "겹쳐요",
+          "겹쳤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0154",
+      "tema": "schůzky",
+      "slovo": "나가다",
+      "vyslovnost": "nagada",
+      "cs": "jít ven; dostavit se (na schůzku)",
+      "en": "to go out",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "어떡하죠? 오늘 약속{에} 못 나갈 것 같아요.",
+      "priklad_cs": "Co teď? Dneska asi na schůzku nedorazím. (에 → kam: na + 4. pád)",
+      "mnemo": "나다 vyjít + 가다 jít = vyjít ven. 약속에 나가다 = přijít na schůzku.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "나가다",
+          "나가요",
+          "나갔어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0155",
+      "tema": "schůzky",
+      "slovo": "장소",
+      "vyslovnost": "jangso",
+      "cs": "místo (konání)",
+      "en": "place",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "약속 장소{를} 바꿀까요?",
+      "priklad_cs": "Změníme místo schůzky? (를 → 4. pád)",
+      "mnemo": "場 místo + 所 místo.",
+      "koreny": [
+        "jang-場",
+        "so-所"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0156",
+      "tema": "schůzky",
+      "slovo": "당기다",
+      "vyslovnost": "danggida",
+      "cs": "táhnout; posunout na dřív (termín)",
+      "en": "to pull",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "시간{을} 좀 당기면 안 될까요?",
+      "priklad_cs": "Nešlo by to posunout na dřív? (을 → 4. pád)",
+      "mnemo": "Termín si „přitáhneš“ blíž k sobě: 6시 약속을 5시로 당겨요. Opak: 늦추다, 미루다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "당기다",
+          "당겨요",
+          "당겼어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0159",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0157",
+      "tema": "schůzky",
+      "slovo": "바꾸다",
+      "vyslovnost": "bakkuda",
+      "cs": "změnit, vyměnit",
+      "en": "to change",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "약속 시간{을} 좀 바꿀 수 있을까요?",
+      "priklad_cs": "Mohli bychom trochu změnit čas schůzky? (을 → 4. pád)",
+      "mnemo": "„PAKUj to“ – starý termín zabal a vyměň za nový.",
+      "rodina": [
+        "바뀌다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "바꾸다",
+          "바꿔요",
+          "바꿨어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0158",
+      "tema": "schůzky",
+      "slovo": "미루다",
+      "vyslovnost": "miruda",
+      "cs": "odložit, posunout na později",
+      "en": "to delay",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "미안하지만 오늘 약속 시간{을} 좀 미룰 수 있을까요?",
+      "priklad_cs": "Promiň, mohli bychom dnešní schůzku trochu odložit? (을 → 4. pád)",
+      "mnemo": "„MIRU-da“ – MÍRUmilovně to odložíš na jindy.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "미루다",
+          "미뤄요",
+          "미뤘어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0159",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0159",
+      "tema": "schůzky",
+      "slovo": "늦추다",
+      "vyslovnost": "neutchuda",
+      "vyslov_hangul": "늗추다",
+      "cs": "posunout na později, zpozdit",
+      "en": "to postpone",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "1시간 정도{만} 늦출 수 있을까요?",
+      "priklad_cs": "Šlo by to posunout jen asi o hodinu? (만 → jen)",
+      "mnemo": "Od 늦다 „být pozdě“ + -추- (způsobit) = udělat pozdějším. Opak: 당기다.",
+      "rodina": [
+        "늦다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "늦추다",
+          "늦춰요",
+          "늦췄어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0156",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0160",
+      "tema": "vztahy",
+      "slovo": "대신",
+      "vyslovnost": "daesin",
+      "cs": "místo (někoho, něčeho), v zastoupení",
+      "en": "instead of",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어머니{께} 대신 안부 전해 주세요.",
+      "priklad_cs": "Pozdravujte za mě maminku. (께 → 3. pád, zdvořile)",
+      "mnemo": "代 zastoupit + 身 tělo = „náhradní tělo“, v zastoupení.",
+      "koreny": [
+        "dae-代",
+        "sin-身"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0161",
+      "tema": "vztahy",
+      "slovo": "안부",
+      "vyslovnost": "anbu",
+      "cs": "pozdrav, zpráva o tom, jak se kdo má",
+      "en": "regards",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "부모님{께} 안부 전해 주세요.",
+      "priklad_cs": "Pozdravujte ode mě rodiče. (께 → 3. pád, zdvořile)",
+      "mnemo": "安 v pořádku + 否 či ne = „je v pořádku, nebo ne?“ 안부를 전하다 = vyřídit pozdrav, 안부를 묻다 = zeptat se, jak se kdo má.",
+      "koreny": [
+        "an-安",
+        "bu-否"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0162",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0162",
+      "tema": "vztahy",
+      "slovo": "전하다",
+      "vyslovnost": "jeonhada",
+      "cs": "předat, vyřídit",
+      "en": "to convey",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "민우 씨{에게} 이 말{을} 꼭 전해 주세요.",
+      "priklad_cs": "Určitě tohle vyřiďte Minuovi. (에게 → 3. pád; 을 → 4. pád)",
+      "mnemo": "傳 předat + 하다.",
+      "koreny": [
+        "jeon-傳"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "전하다",
+          "전해요",
+          "전했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0161",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0163",
+      "tema": "gramatika",
+      "slovo": "-아/어 (반말)",
+      "vyslovnost": "-a/eo (banmal)",
+      "cs": "důvěrný styl bez 요 (tykání)",
+      "en": "informal non-polite (intimate) speech style",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "늦어서 미안해. – 괜찮아. 나{도} 방금 왔어.",
+      "priklad_cs": "Promiň, že jdu pozdě. – V pohodě, taky jsem zrovna přišel. (도 → také)",
+      "mnemo": "Ze zdvořilého tvaru vypustíš 요: -아요/어요 → -아/어, -을까요 → -을까, -을래요 → -을래, -을게요 → -을게, -는데요 → -는데, -지요 → -지. 이에요/예요 → 이야/야. Já a ty: 나, 너, 내가, 네가. Jen k blízkým přátelům a mladším.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0164",
+      "tema": "domácnost",
+      "slovo": "꺼내다",
+      "vyslovnost": "kkeonaeda",
+      "cs": "vytáhnout, vyndat",
+      "en": "to take out",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "빨리 옷장 정리{를} 하고 겨울옷{을} 꺼내야 할 것 같아요.",
+      "priklad_cs": "Asi budu muset rychle uklidit skříň a vytáhnout zimní oblečení. (를, 을 → 4. pád)",
+      "mnemo": "-내다 = dostat ven: 꺼내다 vytáhnout ven.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "꺼내다",
+          "꺼내요",
+          "꺼냈어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0165",
+      "tema": "škola",
+      "slovo": "나누다",
+      "vyslovnost": "nanuda",
+      "cs": "rozdělit; dělit se",
+      "en": "to share",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "발표 준비{는} 어떻게 나눌까요?",
+      "priklad_cs": "Jak si rozdělíme přípravu prezentace? (는 → téma)",
+      "mnemo": "„NA, NUže, vezmi si půlku“ – dělíš se.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "나누다",
+          "나눠요",
+          "나눴어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0122",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0166",
+      "tema": "škola",
+      "slovo": "디자인",
+      "vyslovnost": "dijain",
+      "cs": "design",
+      "en": "design",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "디자인 공부하러 유학{을} 갈 것 같아요.",
+      "priklad_cs": "Asi pojede studovat design do zahraničí. (을 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "design",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0167",
+      "tema": "škola",
+      "slovo": "설명",
+      "vyslovnost": "seolmyeong",
+      "cs": "vysvětlení",
+      "en": "to explain",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "어제 배운 문법{을} 좀 설명해 줄 수 있어요?",
+      "priklad_cs": "Můžeš mi vysvětlit gramatiku, co jsme brali včera? (을 → 4. pád)",
+      "mnemo": "說 říci + 明 jasný = říci to jasně.",
+      "koreny": [
+        "seol-說",
+        "myeong-明"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0168",
+      "tema": "počasí",
+      "slovo": "쌀쌀하다",
+      "vyslovnost": "ssalssalhada",
+      "cs": "chladno, sychravo",
+      "en": "to be chilly",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 아침저녁{으로} 꽤 쌀쌀해졌지요?",
+      "priklad_cs": "Poslední dobou je ráno a večer docela chladno, že? (으로 → kdy, 7. pád)",
+      "mnemo": "„SSAL-SSAL“ – drkotání zubů v sychravém ránu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "쌀쌀하다",
+          "쌀쌀해요",
+          "쌀쌀했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0169",
+      "tema": "vztahy",
+      "slovo": "어버이날",
+      "vyslovnost": "eobeoinal",
+      "cs": "Den rodičů (8. května)",
+      "en": "Parents' day",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "내일 어버이날 선물{을} 사러 갈 건데 같이 갈래요?",
+      "priklad_cs": "Zítra jdu koupit dárek ke Dni rodičů, půjdeš se mnou? (을 → 4. pád)",
+      "mnemo": "어버이 = rodiče (knižně, otec + matka) + 날 den.",
+      "rodina": [
+        "어버이"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0170",
+      "tema": "domácnost",
+      "slovo": "옷장",
+      "vyslovnost": "otjang",
+      "vyslov_hangul": "옫짱",
+      "cs": "šatní skříň",
+      "en": "wardrobe, closet",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "옷장{에} 옷{이} 너무 많아요.",
+      "priklad_cs": "Ve skříni je moc oblečení. (에 → kde; 이 → 1. pád)",
+      "mnemo": "옷 oblečení + 欌 skříň.",
+      "koreny": [
+        "jang-欌"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0171",
+      "tema": "škola",
+      "slovo": "자료",
+      "vyslovnost": "jaryo",
+      "cs": "materiály, podklady",
+      "en": "materials, reference",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 자료 조사{를} 할게요.",
+      "priklad_cs": "Já udělám rešerši podkladů. (는 → téma; 를 → 4. pád)",
+      "mnemo": "資 prostředky + 料 materiál = podkladový materiál.",
+      "koreny": [
+        "ja-資",
+        "yo-料"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0118",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0172",
+      "tema": "domácnost",
+      "slovo": "정리",
+      "vyslovnost": "jeongni",
+      "vyslov_hangul": "정니",
+      "cs": "úklid, uspořádání",
+      "en": "arrangement",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "주말{에} 옷장 정리{를} 했어요.",
+      "priklad_cs": "O víkendu jsem si uklidil skříň. (에 → kdy; 를 → 4. pád)",
+      "mnemo": "整 urovnat + 理 uspořádat.",
+      "koreny": [
+        "jeong-整",
+        "ri-理"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0173",
+      "tema": "schůzky",
+      "slovo": "착각",
+      "vyslovnost": "chakgak",
+      "vyslov_hangul": "착깍",
+      "cs": "omyl, mylný dojem; splést si",
+      "en": "to confuse; to mistake (time/venue)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "늦어서 미안해요. 약속 시간{을} 착각했어요.",
+      "priklad_cs": "Promiň, že jdu pozdě. Spletl jsem si čas schůzky. (을 → 4. pád)",
+      "mnemo": "錯 splést + 覺 vnímat = mylně vnímat. Pokrývá i (시간을/장소를) 착각하다 z workbooku.",
+      "koreny": [
+        "chak-錯",
+        "gak-覺"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0174",
+      "tema": "práce",
+      "slovo": "환송회",
+      "vyslovnost": "hwansonghoe",
+      "cs": "rozlučkový večírek",
+      "en": "farewell",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "회사{를} 그만두는 사람{이} 있어서 환송회{를} 했어요.",
+      "priklad_cs": "Někdo odchází z firmy, tak jsme měli rozlučku. (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "歡 radost + 送 poslat + 會 setkání = setkání, kde někoho s radostí vyprovodíš.",
+      "koreny": [
+        "hwan-歡",
+        "song-送",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0175",
+      "tema": "práce",
+      "slovo": "회식",
+      "vyslovnost": "hoesik",
+      "cs": "firemní večeře, posezení s kolegy",
+      "en": "get-together",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "오늘 저녁{에} 회사 회식{이} 있어요.",
+      "priklad_cs": "Dnes večer máme firemní večeři. (에 → kdy; 이 → 1. pád)",
+      "mnemo": "會 setkání + 食 jídlo = společné jídlo.",
+      "koreny": [
+        "hoe-會",
+        "sik-食"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

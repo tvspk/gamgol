@@ -1,0 +1,649 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3, kap. 11 – textbook s. 105–107 (이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepisy poslechu (s. 157) + 어휘 색인; workbook 3-2 s. 41 (어휘 확장) + 어휘 색인 workbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-0806",
+      "tema": "hodnocení",
+      "slovo": "평",
+      "vyslovnost": "pyeong",
+      "cs": "recenze, hodnocení (názor)",
+      "en": "review",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "사람들{이} 인터넷{에} 쓴 평{을} 봤어요.",
+      "priklad_cs": "Četl jsem recenze, které lidé napsali na internet. (이 → 1. pád; 에 → kam; 을 → 4. pád)",
+      "mnemo": "評 posoudit. 평을 쓰다 = napsat recenzi, 평이 좋다 = mít dobré hodnocení.",
+      "koreny": [
+        "pyeong-評"
+      ],
+      "rodina": [
+        "평을 쓰다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0796",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0807",
+      "tema": "kultura",
+      "slovo": "주인공",
+      "vyslovnost": "juingong",
+      "cs": "hlavní postava, hlavní hrdina",
+      "en": "main character",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "특히 남자 주인공{의} 연기{가} 아주 좋다고 해요.",
+      "priklad_cs": "Prý je obzvlášť dobrý herecký výkon hlavního mužského hrdiny. (의 → 2. pád; 가 → 1. pád)",
+      "mnemo": "主人 pán (主 hlavní + 人 člověk) + 公 vznešený = hlavní pán příběhu.",
+      "koreny": [
+        "ju-主",
+        "in-人",
+        "gong-公"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0808",
+      "tema": "hodnocení",
+      "slovo": "손에 땀을 쥐다",
+      "vyslovnost": "sone ttameul jwida",
+      "vyslov_hangul": "소네 따믈 쥐다",
+      "cs": "tajit dech napětím, být jako na trní",
+      "en": "to be on the edge of one's seat",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "영화{가} 너무 긴장돼서 손{에} 땀{을} 쥐고 봤어요.",
+      "priklad_cs": "Film byl tak napínavý, že jsem se na něj díval se zatajeným dechem. (가 → 1. pád; 에 → v; 을 → 4. pád)",
+      "mnemo": "Doslova „svírat pot v dlani“. 쥐다 = sevřít v ruce. 손에 땀을 쥐게 하다 = držet v napětí.",
+      "rodina": [
+        "쥐다",
+        "땀"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "손에 땀을 쥐다",
+          "손에 땀을 쥐어요",
+          "손에 땀을 쥐었어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0105",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0809",
+      "tema": "kultura",
+      "slovo": "예매율",
+      "vyslovnost": "yemaeyul",
+      "cs": "podíl předprodeje (vstupenek)",
+      "en": "booking rate",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "이 영화{는} 예매율 1위라고 해요.",
+      "priklad_cs": "Prý je ten film v předprodeji vstupenek na prvním místě. (는 → téma)",
+      "mnemo": "豫 předem + 賣 prodat + 率 poměr. 예매 = předprodej, rezervace lístku; po samohlásce 율, po souhlásce 률.",
+      "koreny": [
+        "ye-豫",
+        "mae-賣",
+        "yul-率"
+      ],
+      "rodina": [
+        "예매",
+        "예매하다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0810",
+      "tema": "hodnocení",
+      "slovo": "긴장감",
+      "vyslovnost": "ginjanggam",
+      "cs": "napětí (v ději)",
+      "en": "tension",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이 영화{는} 긴장감 있게 진행돼서 지루할 틈{이} 없어요.",
+      "priklad_cs": "Ten film je napínavý od začátku do konce, takže se nestihneš nudit. (는 → téma; 이 → 1. pád)",
+      "mnemo": "緊張 napětí (緊 napjatý + 張 natáhnout) + 感 pocit.",
+      "koreny": [
+        "gin-緊",
+        "jang-張",
+        "gam-感"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0811",
+      "tema": "hodnocení",
+      "slovo": "지루하다",
+      "vyslovnost": "jiruhada",
+      "cs": "nudný, zdlouhavý",
+      "en": "to be bored, boring",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "이 드라마{는} 왜 이렇게 지루하죠?",
+      "priklad_cs": "Proč je ten seriál tak nudný? (는 → téma)",
+      "mnemo": "Věc je nudná = 지루하다; já se nudím = 심심하다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "지루하다",
+          "지루해요",
+          "지루했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0023",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0812",
+      "tema": "čas",
+      "slovo": "틈",
+      "vyslovnost": "teum",
+      "cs": "mezera, škvíra; volná chvíle",
+      "en": "(spare) time",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 너무 바빠서 쉴 틈{이} 없어요.",
+      "priklad_cs": "Teď mám tolik práce, že nemám ani chvilku na odpočinek. (이 → 1. pád)",
+      "mnemo": "-(으)ㄹ 틈이 없다 = nemít ani chvilku na… (지루할 틈이 없다 = nestihneš se nudit).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0813",
+      "tema": "hodnocení",
+      "slovo": "잔인하다",
+      "vyslovnost": "janinhada",
+      "vyslov_hangul": "자닌하다",
+      "cs": "krutý, brutální",
+      "en": "to be cruel",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "그런데 잔인한 장면{이} 좀 있다고 해요.",
+      "priklad_cs": "Ale prý jsou tam některé brutální scény. (이 → 1. pád)",
+      "mnemo": "殘 krutý, zničit + 忍 snést = snést krutost.",
+      "koreny": [
+        "jan-殘",
+        "in-忍"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "잔인하다",
+          "잔인해요",
+          "잔인했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0814",
+      "tema": "kultura",
+      "slovo": "장면",
+      "vyslovnost": "jangmyeon",
+      "cs": "scéna, záběr",
+      "en": "scene",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 영화{의} 마지막 장면{이} 아직{도} 기억{에} 남아요.",
+      "priklad_cs": "Poslední scéna toho filmu mi pořád zůstává v paměti. (의 → 2. pád; 이 → 1. pád; 도 → i; 에 → v)",
+      "mnemo": "場 místo + 面 tvář = jak místo „vypadá“ v daný okamžik.",
+      "koreny": [
+        "jang-場",
+        "myeon-面"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0815",
+      "tema": "rodina",
+      "slovo": "가정",
+      "vyslovnost": "gajeong",
+      "cs": "rodina, domácnost",
+      "en": "family",
+      "cs_upresneni": "rodina, domov, ne předpoklad",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "가정{의} 달 5월{에는} 가족{이} 함께 즐길 수 있는 공연{이} 많아요.",
+      "priklad_cs": "V květnu, měsíci rodiny, je hodně představení, která si může užít celá rodina. (의 → 2. pád; 에는 → kdy + důraz; 이 → 1. pád)",
+      "mnemo": "家 dům + 庭 dvůr = domov. 가정의 달 = květen (Den dětí, Den rodičů). Stejně znějící 가정 (假定) = předpoklad.",
+      "koreny": [
+        "ga-家",
+        "jeong-庭"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0816",
+      "tema": "čas",
+      "slovo": "주간",
+      "vyslovnost": "jugan",
+      "cs": "týden (období), týdenní",
+      "en": "week",
+      "cs_upresneni": "týden (období), ne „přes den“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한 주간{의} 문화계 소식{을} 전해 드립니다.",
+      "priklad_cs": "Přinášíme vám kulturní zprávy uplynulého týdne. (의 → 2. pád; 을 → 4. pád)",
+      "mnemo": "週 týden + 間 mezi = po dobu týdne. Stejně znějící 주간 (晝間) = přes den.",
+      "koreny": [
+        "ju-週",
+        "gan-間"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0817",
+      "tema": "místa",
+      "slovo": "놀이터",
+      "vyslovnost": "noriteo",
+      "vyslov_hangul": "노리터",
+      "cs": "dětské hřiště; místo zábavy",
+      "en": "playground",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이번 주{에} 호수 공원{이} '문화 놀이터'{로} 변신한다고 해요.",
+      "priklad_cs": "Tento týden se prý park u jezera promění v „kulturní hřiště“. (에 → kdy; 이 → 1. pád; 로 → v co)",
+      "mnemo": "놀이 hra + 터 místo, pozemek = místo na hraní.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0818",
+      "tema": "změny",
+      "slovo": "변신",
+      "vyslovnost": "byeonsin",
+      "cs": "proměna",
+      "en": "to change (into)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "호수 공원{이} 문화 놀이터{로} 변신했어요.",
+      "priklad_cs": "Park u jezera se proměnil v kulturní hřiště. (이 → 1. pád; 로 → v co)",
+      "mnemo": "變 změnit + 身 tělo = změnit podobu. ~(으)로 변신하다 = proměnit se v…",
+      "koreny": [
+        "byeon-變",
+        "sin-身"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0819",
+      "tema": "kultura",
+      "slovo": "장난감",
+      "vyslovnost": "jangnangam",
+      "vyslov_hangul": "장난깜",
+      "cs": "hračka",
+      "en": "toy",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "전 세계{의} 사랑{을} 받아 온 장난감 전시회{가} 열린다고 해요.",
+      "priklad_cs": "Prý se koná výstava hraček, které si zamiloval celý svět. (의 → 2. pád; 을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "장난 hra, lumpárna + 감 materiál = materiál na hraní.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0820",
+      "tema": "kultura",
+      "slovo": "오케스트라",
+      "vyslovnost": "okeseuteura",
+      "cs": "orchestr",
+      "en": "orchestra",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "토요일 저녁{에는} 오케스트라{의} 야외 공연{도} 열려요.",
+      "priklad_cs": "V sobotu večer bude také venkovní koncert orchestru. (에는 → kdy + důraz; 의 → 2. pád; 도 → také)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "orchestra"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0821",
+      "tema": "kultura",
+      "slovo": "주제",
+      "vyslovnost": "juje",
+      "cs": "téma",
+      "en": "topic",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "전시회{의} 주제{는} 뭐예요?",
+      "priklad_cs": "Jaké je téma výstavy? (의 → 2. pád; 는 → téma)",
+      "mnemo": "主 hlavní + 題 téma = hlavní téma.",
+      "koreny": [
+        "ju-主",
+        "je-題"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0822",
+      "tema": "kultura",
+      "slovo": "홍보",
+      "vyslovnost": "hongbo",
+      "cs": "propagace, reklama",
+      "en": "to promote",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "사람들{에게} 전시회{를} 어떻게 홍보할 거예요?",
+      "priklad_cs": "Jak budete výstavu lidem propagovat? (에게 → 3. pád; 를 → 4. pád)",
+      "mnemo": "弘 rozšířit + 報 zpráva = rozšířit zprávu.",
+      "koreny": [
+        "hong-弘",
+        "bo-報"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0823",
+      "tema": "hodnocení",
+      "slovo": "감동적이다",
+      "alternativy": [
+        "감동적"
+      ],
+      "vyslovnost": "gamdongjeogida",
+      "vyslov_hangul": "감동저기다",
+      "cs": "dojemný",
+      "en": "touching, moving",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "처음{은} 좀 지루했지만 끝{은} 감동적이어서 눈물{이} 났어요.",
+      "priklad_cs": "Začátek byl trochu nudný, ale konec byl tak dojemný, že jsem se rozplakal. (은 → téma; 이 → 1. pád)",
+      "mnemo": "感動 dojetí (感 cítit + 動 pohnout) + 的 -ový = co pohne citem.",
+      "koreny": [
+        "gam-感",
+        "dong-動",
+        "jeok-的"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "감동적이다",
+          "감동적이에요",
+          "감동적이었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0824",
+      "tema": "hodnocení",
+      "slovo": "값지다",
+      "vyslovnost": "gapjida",
+      "vyslov_hangul": "갑찌다",
+      "cs": "cenný, hodnotný",
+      "en": "valuable",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "이번 공연{은} 정말 값진 경험이었어요.",
+      "priklad_cs": "To představení byl opravdu cenný zážitek. (은 → téma)",
+      "mnemo": "값 cena + -지다 = mající cenu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "값지다",
+          "값져요",
+          "값졌어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0825",
+      "tema": "hodnocení",
+      "slovo": "내용이 뻔하다",
+      "vyslovnost": "naeyongi ppeonhada",
+      "cs": "mít předvídatelný děj",
+      "en": "the content is obvious",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "이 영화{는} 다른 사랑 영화{와} 큰 차이{가} 없어서 내용{이} 뻔해요.",
+      "priklad_cs": "Ten film se moc neliší od jiných romantických filmů, takže je jasné, jak to dopadne. (는 → téma; 와 → s; 가, 이 → 1. pád)",
+      "mnemo": "內容 obsah (內 uvnitř + 容 pojmout) + 뻔하다 zřejmý, jasný předem.",
+      "koreny": [
+        "nae-內",
+        "yong-容"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "내용이 뻔하다",
+          "내용이 뻔해요",
+          "내용이 뻔했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0826",
+      "tema": "hodnocení",
+      "slovo": "돈이 아깝다",
+      "vyslovnost": "doni akkapda",
+      "vyslov_hangul": "도니 아깝따",
+      "cs": "škoda peněz, nestojí to za ty peníze",
+      "en": "to be not worth the money",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "이런 공연{이라면} 돈{이} 아까워요.",
+      "priklad_cs": "Na takové představení je škoda peněz. (이라면 → pokud jde o; 이 → 1. pád)",
+      "mnemo": "돈 peníze + 아깝다 škoda (čeho). Opak: 천만 원을 내도 안 아깝다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "돈이 아깝다",
+          "돈이 아까워요",
+          "돈이 아까웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0827",
+      "tema": "hodnocení",
+      "slovo": "생생하다",
+      "vyslovnost": "saengsaenghada",
+      "cs": "živý, živoucí (dojem, vzpomínka)",
+      "en": "vivid",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "전쟁 장면{은} 바로 눈앞{에서} 보는 것처럼 생생했어요.",
+      "priklad_cs": "Válečné scény byly tak živé, jako bych to viděl přímo před očima. (은 → téma; 에서 → kde)",
+      "mnemo": "生 žít + 生 žít = „živě živé“.",
+      "koreny": [
+        "saeng-生",
+        "saeng-生"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "생생하다",
+          "생생해요",
+          "생생했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0828",
+      "tema": "hodnocení",
+      "slovo": "시간이 짧게 느껴지다",
+      "vyslovnost": "sigani jjalge neukkyeojida",
+      "vyslov_hangul": "시가니 짤께 느껴지다",
+      "cs": "čas rychle uteče (připadá krátký)",
+      "en": "to feel like time is passing fast",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "영화{가} 너무 재미있어서 시간{이} 짧게 느껴졌어요.",
+      "priklad_cs": "Film byl tak zábavný, že čas strašně rychle utekl. (가, 이 → 1. pád)",
+      "mnemo": "시간 čas + 짧게 krátce + 느껴지다 zdát se (od 느끼다 cítit).",
+      "koreny": [
+        "si-時",
+        "gan-間"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "시간이 짧게 느껴지다",
+          "시간이 짧게 느껴져요",
+          "시간이 짧게 느껴졌어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0829",
+      "tema": "hodnocení",
+      "slovo": "작품성이 떨어지다",
+      "vyslovnost": "jakpumseongi tteoreojida",
+      "vyslov_hangul": "작품썽이 떠러지다",
+      "cs": "mít nižší uměleckou hodnotu, být slabší (dílo)",
+      "en": "the quality of a work has become poor",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "이번 작품{은} 이전 영화들{보다} 작품성{이} 떨어지는 것 같아요.",
+      "priklad_cs": "Tohle dílo má asi menší uměleckou hodnotu než jeho předchozí filmy. (은 → téma; 보다 → než; 이 → 1. pád)",
+      "mnemo": "작품성 umělecká hodnota + 떨어지다 klesnout. Opak 작품성이 뛰어나다.",
+      "koreny": [
+        "jak-作",
+        "pum-品",
+        "seong-性"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "작품성이 떨어지다",
+          "작품성이 떨어져요",
+          "작품성이 떨어졌어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0787",
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0830",
+      "tema": "hodnocení",
+      "slovo": "집중이 안 되다",
+      "vyslovnost": "jipjungi an doeda",
+      "vyslov_hangul": "집쭝이 안 되다",
+      "cs": "nedokázat se soustředit",
+      "en": "can not concentrate",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "폭탄 소리{만} 크게 들려서 집중{이} 안 됐어요.",
+      "priklad_cs": "Bylo slyšet jen hlasité výbuchy, tak jsem se nedokázal soustředit. (만 → jen; 이 → 1. pád)",
+      "mnemo": "集中 soustředění + 안 되다 nejde. Kladně 집중이 되다 / 집중하다.",
+      "koreny": [
+        "jip-集",
+        "jung-中"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "집중이 안 되다",
+          "집중이 안 돼요",
+          "집중이 안 됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0591",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0831",
+      "tema": "hodnocení",
+      "slovo": "참신하다",
+      "vyslovnost": "chamsinhada",
+      "cs": "originální, svěží, nový",
+      "en": "original, novel",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "이 연극{은} 한 번{도} 경험해 보지 못한 참신한 내용이었어요.",
+      "priklad_cs": "Ta hra měla originální obsah, s jakým jsem se ještě nesetkal. (은 → téma)",
+      "mnemo": "斬 useknout + 新 nový = nový, jako čerstvě uříznutý.",
+      "koreny": [
+        "cham-斬",
+        "sin-新"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "참신하다",
+          "참신해요",
+          "참신했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

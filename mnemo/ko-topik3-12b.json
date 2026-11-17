@@ -1,0 +1,710 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 2,
+  "zdroj": "Sejong Korean 3, kap. 12 – textbook s. 109–111 (cvičení k -다(가), Part 2 어휘, -을/ㄹ 정도(로)), s. 113 + přepisy poslechu (s. 157) + 어휘 색인; workbook 3-2 s. 50",
+  "karty": [
+    {
+      "id": "ko-topik3-0862",
+      "tema": "technika",
+      "slovo": "액정",
+      "vyslovnost": "aekjeong",
+      "vyslov_hangul": "액쩡",
+      "cs": "displej (LCD)",
+      "en": "liquid crystal",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "어, 핸드폰 액정{이} 깨졌네요.",
+      "priklad_cs": "Jéje, máš rozbitý displej na mobilu. (이 → 1. pád)",
+      "mnemo": "液 kapalina + 晶 krystal = tekutý krystal (LCD). 액정이 깨지다 = prasknout displej.",
+      "koreny": [
+        "aek-液",
+        "jeong-晶"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0863",
+      "tema": "nehody",
+      "slovo": "떨어뜨리다",
+      "alternativy": [
+        "떨어트리다"
+      ],
+      "vyslovnost": "tteoreotteurida",
+      "vyslov_hangul": "떠러뜨리다",
+      "cs": "upustit, shodit",
+      "en": "to drop",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "핸드폰{을} 보다가 떨어뜨렸어요.",
+      "priklad_cs": "Díval jsem se do mobilu a upustil jsem ho. (을 → 4. pád)",
+      "mnemo": "Od 떨어지다 „spadnout“: 떨어뜨리다 = nechat spadnout. Rovnocenně 떨어트리다.",
+      "rodina": [
+        "떨어지다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "떨어뜨리다",
+          "떨어뜨려요",
+          "떨어뜨렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0864",
+      "tema": "každodenní život",
+      "slovo": "졸다",
+      "vyslovnost": "jolda",
+      "cs": "dřímat, podřimovat",
+      "en": "to drowse",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "미안해요. 지하철{에서} 졸다가 한 정거장 더 갔어요.",
+      "priklad_cs": "Promiň. V metru jsem si zdříml a přejel jsem o zastávku. (에서 → kde)",
+      "mnemo": "„ŽOL-DA“ – hlava ti kývá jako ŽOLík na palubní desce. 졸리다 = být ospalý.",
+      "rodina": [
+        "졸리다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "졸다",
+          "졸아요",
+          "졸았어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0865",
+      "tema": "doprava",
+      "slovo": "정거장",
+      "vyslovnost": "jeonggeojang",
+      "cs": "zastávka (autobusu, metra)",
+      "en": "station",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "졸다가 한 정거장 더 갔어요.",
+      "priklad_cs": "Zdříml jsem si a přejel jsem o zastávku. (bez částic)",
+      "mnemo": "停 zastavit + 車 vůz (čtení 거) + 場 místo = místo, kde vůz zastaví. Také 정류장.",
+      "koreny": [
+        "jeong-停",
+        "geo-車",
+        "jang-場"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0866",
+      "tema": "domácnost",
+      "slovo": "칼",
+      "vyslovnost": "kal",
+      "cs": "nůž",
+      "en": "knife",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "칼{에} 손가락{을} 베여서 피{가} 많이 났어요.",
+      "priklad_cs": "Řízl jsem se nožem do prstu a hodně to krvácelo. (에 → o co; 을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "„KAL“ – KALit nůž v kovárně. Vyslov s přídechem, jinak zní jako 갈.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0867",
+      "tema": "cestování",
+      "slovo": "짐",
+      "vyslovnost": "jim",
+      "cs": "zavazadlo, náklad, věci",
+      "en": "baggage",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "지난번{에는} 무거운 짐{을} 들다가 손목{을} 다쳤어.",
+      "priklad_cs": "Minule jsem si poranil zápěstí, když jsem zvedal těžké zavazadlo. (에는 → kdy + důraz; 을 → 4. pád)",
+      "mnemo": "짐을 들다 = zvednout, nést zavazadlo; 짐을 싸다 = sbalit se. 이삿짐 = věci při stěhování.",
+      "rodina": [
+        "이삿짐",
+        "짐을 들다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0666",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0868",
+      "tema": "nehody",
+      "slovo": "넘어지다",
+      "vyslovnost": "neomeojida",
+      "vyslov_hangul": "너머지다",
+      "cs": "upadnout, spadnout (na zem)",
+      "en": "to fall",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "축구{를} 하다가 넘어졌어요.",
+      "priklad_cs": "Při fotbale jsem upadl. (를 → 4. pád)",
+      "mnemo": "넘다 přejít přes + 어지다: překotit se. Z výšky dolů je 떨어지다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "넘어지다",
+          "넘어져요",
+          "넘어졌어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0869",
+      "tema": "místa",
+      "slovo": "계단",
+      "vyslovnost": "gyedan",
+      "vyslov_hangul": "게단",
+      "cs": "schody, schodiště",
+      "en": "stairs",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어제 지하철역 계단{에서} 넘어졌어요.",
+      "priklad_cs": "Včera jsem upadl na schodech v metru. (에서 → kde)",
+      "mnemo": "階 stupeň + 段 schod, úsek.",
+      "koreny": [
+        "gye-階",
+        "dan-段"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0870",
+      "tema": "pocity",
+      "slovo": "눈물",
+      "vyslovnost": "nunmul",
+      "cs": "slza, slzy",
+      "en": "tears",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "시험{에} 합격해서 눈물{이} 날 정도로 기뻤어요.",
+      "priklad_cs": "Prošel jsem u zkoušky a byl jsem šťastný až k slzám. (에 → u čeho; 이 → 1. pád)",
+      "mnemo": "눈 oko + 물 voda = „oční voda“. 눈물이 나다 = tečou slzy.",
+      "rodina": [
+        "눈물이 나다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0871",
+      "tema": "gramatika",
+      "slovo": "-을/ㄹ 정도(로)",
+      "vyslovnost": "-eul/-l jeongdo(ro)",
+      "cs": "až tak, že…; do té míry, že…",
+      "en": "indicates the degree of the action or condition",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "숨{을} 쉬기 어려울 정도로 코{가} 막혀서 좀 힘들어요.",
+      "priklad_cs": "Mám tak ucpaný nos, že se mi těžko dýchá, je to dost nepříjemné. (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "程度 míra (程 míra + 度 stupeň). Po souhlásce -을 정도로, po samohlásce a ㄹ -ㄹ 정도로: 먹을 정도로, 안 보일 정도로. Česky „až tak, že“.",
+      "koreny": [
+        "jeong-程",
+        "do-度"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0872",
+      "tema": "zdraví",
+      "slovo": "증상",
+      "vyslovnost": "jeungsang",
+      "cs": "příznak, symptom",
+      "en": "symptom",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "아플 때 어떤 증상{이} 있는지 이야기해 보세요.",
+      "priklad_cs": "Povězte, jaké máte příznaky, když jste nemocní. (이 → 1. pád)",
+      "mnemo": "症 nemoc, příznak + 狀 stav, podoba = podoba nemoci.",
+      "koreny": [
+        "jeung-症",
+        "sang-狀"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0873",
+      "tema": "zdraví",
+      "slovo": "소화",
+      "vyslovnost": "sohwa",
+      "cs": "trávení",
+      "en": "digestion",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "아침{을} 너무 많이 먹어서 그런지 소화{가} 안 돼요.",
+      "priklad_cs": "Asi jsem moc snědl k snídani, nemůžu to strávit. (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "消 zmizet + 化 proměnit = jídlo se promění a zmizí. 소화가 안 되다 = mít špatné trávení, 소화제 = lék na trávení.",
+      "koreny": [
+        "so-消",
+        "hwa-化"
+      ],
+      "rodina": [
+        "소화가 안 되다",
+        "소화제"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0874",
+      "tema": "zdraví",
+      "slovo": "재채기",
+      "vyslovnost": "jaechaegi",
+      "cs": "kýchnutí, kýchání",
+      "en": "sneeze",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "현수 씨, 재채기{를} 많이 하네요.",
+      "priklad_cs": "Hjonsu, ty ale kýcháš. (를 → 4. pád)",
+      "mnemo": "„ČE-ČE-GI!“ – zní jako kýchnutí. 재채기를 하다 = kýchat. Srovnej 기침 (kašel).",
+      "extra": {
+        "typ": "puvodni",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0286",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0875",
+      "tema": "zdraví",
+      "slovo": "쥐가 나다",
+      "vyslovnost": "jwiga nada",
+      "cs": "chytla mě křeč",
+      "en": "to have a cramp",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "수영{을} 하다가 다리{에} 쥐{가} 났어요.",
+      "priklad_cs": "Při plavání mě chytla křeč do nohy. (을 → 4. pád; 에 → do; 가 → 1. pád)",
+      "mnemo": "쥐 = křeč (stejně zní 쥐 = myš): jako by ti v lýtku běhala myš.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "쥐가 나다",
+          "쥐가 나요",
+          "쥐가 났어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0876",
+      "tema": "zdraví",
+      "slovo": "어지럽다",
+      "vyslovnost": "eojireopda",
+      "vyslov_hangul": "어지럽따",
+      "cs": "mít závrať, točí se hlava",
+      "en": "to be dizzy",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "소화{가} 잘 안 되고 어지러워요.",
+      "priklad_cs": "Mám špatné trávení a točí se mi hlava. (가 → 1. pád)",
+      "mnemo": "„O-DŽÍ-ROB“ – ojíždíš kolotoč a točí se ti hlava. Také „nepořádek“: 방이 어지럽다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "어지럽다",
+          "어지러워요",
+          "어지러웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0877",
+      "tema": "tělo",
+      "slovo": "잇몸",
+      "vyslovnost": "inmom",
+      "vyslov_hangul": "인몸",
+      "cs": "dáseň, dásně",
+      "en": "gum",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 피곤하면 잇몸{이} 부어요.",
+      "priklad_cs": "Když jsem unavený, otékají mi dásně. (는 → téma; 이 → 1. pád)",
+      "mnemo": "이 zub + ㅅ + 몸 tělo = „tělo zubu“. ㅅ před ㅁ se čte [ㄴ]: [인몸].",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0878",
+      "tema": "zdraví",
+      "slovo": "붓다",
+      "vyslovnost": "butda",
+      "vyslov_hangul": "붇따",
+      "cs": "otéct, opuchnout",
+      "en": "to swell (up)",
+      "cs_upresneni": "otéct, ne „nalít“",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "피곤하면 잇몸{이} 붓고 욱신거려요.",
+      "priklad_cs": "Když jsem unavený, dásně mi otečou a cukají. (이 → 1. pád)",
+      "mnemo": "ㅅ odpadá: 부어요, 부었어요. Stejně znějící 붓다 = nalít (물을 붓다). 얼굴이 붓다 = mít oteklý obličej.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "붓다",
+          "부어요",
+          "부었어요"
+        ],
+        "nepravidelnost": "ㅅ"
+      },
+      "viz_tez": "ko-topik3-0662",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0879",
+      "tema": "zdraví",
+      "slovo": "욱신거리다",
+      "vyslovnost": "uksingeorida",
+      "vyslov_hangul": "욱씬거리다",
+      "cs": "cukat, pulzovat (o bolesti)",
+      "en": "to be sore",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "심할 때{는} 잠{을} 못 잘 정도로 욱신거려요.",
+      "priklad_cs": "Když je to zlé, cuká to tak, že nemůžu spát. (는 → důraz; 을 → 4. pád)",
+      "mnemo": "„UK-ŠIN“ – bolest bouchá jako ŠINkansen: uk-šin, uk-šin. Tepající bolest rány, zubu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "욱신거리다",
+          "욱신거려요",
+          "욱신거렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0880",
+      "tema": "tělo",
+      "slovo": "피부",
+      "vyslovnost": "pibu",
+      "cs": "kůže, pleť",
+      "en": "skin",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "모기{한테} 물려서 피부{가} 가려워요.",
+      "priklad_cs": "Poštípal mě komár a svědí mě kůže. (한테 → od koho; 가 → 1. pád)",
+      "mnemo": "皮 kůže + 膚 pokožka. 피부과 = kožní oddělení.",
+      "koreny": [
+        "pi-皮",
+        "bu-膚"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0881",
+      "tema": "zdraví",
+      "slovo": "가렵다",
+      "vyslovnost": "garyeopda",
+      "vyslov_hangul": "가렵따",
+      "cs": "svědět",
+      "en": "to be itchy",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 눈{이} 따갑고 눈 주위{가} 가렵기도 해요.",
+      "priklad_cs": "Poslední dobou mě pálí oči a kolem očí mě to i svědí. (이, 가 → 1. pád)",
+      "mnemo": "„KA-RJOP“ – škrábeš se jako KArás o skálu. Svědí to = 가려워요.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "가렵다",
+          "가려워요",
+          "가려웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0882",
+      "tema": "zdraví",
+      "slovo": "코가 막히다",
+      "vyslovnost": "koga makida",
+      "vyslov_hangul": "코가 마키다",
+      "cs": "mít ucpaný nos",
+      "en": "to have a stuffy nose",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "환절기라서 그런지 코{도} 많이 막히고요.",
+      "priklad_cs": "Asi je to střídáním ročních období, a ještě mám hodně ucpaný nos. (도 → i)",
+      "mnemo": "코 nos + 막히다 být ucpaný (srov. 길이 막히다 = zácpa). 콧물이 나다 = teče z nosu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "코가 막히다",
+          "코가 막혀요",
+          "코가 막혔어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0188",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0883",
+      "tema": "zdraví",
+      "slovo": "충혈되다",
+      "vyslovnost": "chunghyeoldoeda",
+      "cs": "být podlitý krví, zarudlý (oči)",
+      "en": "to be bloodshot",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "어제 늦게까지 게임{을} 해서 그런지 눈{이} 충혈됐어.",
+      "priklad_cs": "Asi protože jsem včera dlouho hrál hry, mám zarudlé oči. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "充 naplnit + 血 krev = oko naplněné krví. 눈이 충혈되다.",
+      "koreny": [
+        "chung-充",
+        "hyeol-血"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "충혈되다",
+          "충혈돼요",
+          "충혈됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0884",
+      "tema": "zdraví",
+      "slovo": "두드러기",
+      "vyslovnost": "dudeureogi",
+      "cs": "kopřivka, vyrážka",
+      "en": "hives",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "새우{를} 먹으면 두드러기{가} 나요.",
+      "priklad_cs": "Když sním krevety, naskáče mi vyrážka. (를 → 4. pád; 가 → 1. pád)",
+      "mnemo": "Od 두드러지다 „vystupovat, vyčnívat“: pupínky vystoupí na kůži. 두드러기가 나다.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0885",
+      "tema": "zdraví",
+      "slovo": "따갑다",
+      "vyslovnost": "ttagapda",
+      "vyslov_hangul": "따갑따",
+      "cs": "pálit, štípat (oči, kůže)",
+      "en": "to prickle",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "눈{을} 못 뜰 정도로 눈{이} 따가워요.",
+      "priklad_cs": "Tak mě pálí oči, že je nemůžu otevřít. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "„TA-KAP“ – TAK KAPka šamponu v oku pálí. 햇볕이 따갑다 = slunce pálí.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "따갑다",
+          "따가워요",
+          "따가웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0886",
+      "tema": "zdraví",
+      "slovo": "식은땀",
+      "vyslovnost": "sigeunttam",
+      "vyslov_hangul": "시근땀",
+      "cs": "studený pot",
+      "en": "cold sweat",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "갑자기 배{가} 아프고 식은땀{이} 났어요.",
+      "priklad_cs": "Najednou mě rozbolelo břicho a polil mě studený pot. (가 → 1. pád; 이 → 1. pád)",
+      "mnemo": "식다 vychladnout → 식은 vychladlý + 땀 pot. 식은땀이 나다.",
+      "rodina": [
+        "땀",
+        "식다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0105",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0887",
+      "tema": "tělo",
+      "slovo": "입안",
+      "alternativy": [
+        "입 안"
+      ],
+      "vyslovnost": "iban",
+      "vyslov_hangul": "이반",
+      "cs": "ústa (vnitřek), dutina ústní",
+      "en": "inside the mouth",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "피곤해서 그런지 입안{이} 헐었어요.",
+      "priklad_cs": "Asi z únavy mám v puse afty. (이 → 1. pád)",
+      "mnemo": "입 ústa + 안 vnitřek.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0888",
+      "tema": "zdraví",
+      "slovo": "헐다",
+      "vyslovnost": "heolda",
+      "cs": "rozbolavět, mít afty, opruzeninu",
+      "en": "to have sore skin",
+      "cs_upresneni": "mít rány (v ústech), ne zbourat",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "입안{이} 헐어서 밥{을} 먹기 힘들어요.",
+      "priklad_cs": "Mám v puse afty, takže se mi špatně jí. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "입안이 헐다 = mít afty. Stejně znějící 헐다 = zbourat (건물을 헐다) a 헐다 = obnošený (헌 옷).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "헐다",
+          "헐어요",
+          "헐었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0889",
+      "tema": "zdraví",
+      "slovo": "설사",
+      "vyslovnost": "seolsa",
+      "vyslov_hangul": "설싸",
+      "cs": "průjem",
+      "en": "diarrhea",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "상한 음식{을} 먹어서 그런지 설사{를} 해요.",
+      "priklad_cs": "Asi jsem snědl zkažené jídlo, mám průjem. (을, 를 → 4. pád)",
+      "mnemo": "泄 vytékat + 瀉 vylévat. 설사하다 = mít průjem.",
+      "koreny": [
+        "seol-泄",
+        "sa-瀉"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0890",
+      "tema": "zdraví",
+      "slovo": "알레르기",
+      "vyslovnost": "allereugi",
+      "cs": "alergie",
+      "en": "allergy",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "제{가} 알레르기{가} 있어서요.",
+      "priklad_cs": "Já mám totiž alergii. (가 → 1. pád)",
+      "mnemo": "Z němčiny Allergie, proto ne „알러지“. 알레르기가 있다, 꽃가루 알레르기 = pylová alergie.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "(z němčiny) Allergie"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0891",
+      "tema": "příroda",
+      "slovo": "환절기",
+      "vyslovnost": "hwanjeolgi",
+      "cs": "období přechodu mezi ročními obdobími",
+      "en": "the change of seasons",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 환절기라서 그런지 평소{보다} 좀 심해졌어요.",
+      "priklad_cs": "Asi protože se teď mění roční období, zhoršilo se to oproti normálu. (보다 → než)",
+      "mnemo": "換 vyměnit + 節 roční období + 期 období = doba, kdy se mění roční období. Typicky se tehdy nachladíš.",
+      "koreny": [
+        "hwan-換",
+        "jeol-節",
+        "gi-期"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

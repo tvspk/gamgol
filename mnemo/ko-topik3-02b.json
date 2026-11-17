@@ -1,0 +1,693 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 2 – textbook s. 26–31 (Part 2, 연습해요, 이야기해 봐요, 듣고 말해요) + 어휘 색인; workbook 3-1 s. 20",
+  "karty": [
+    {
+      "id": "ko-topik3-0100",
+      "tema": "zdraví",
+      "slovo": "체력",
+      "vyslovnost": "cheryeok",
+      "cs": "fyzička, kondice",
+      "en": "physical strength",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "운동{을} 열심히 해서 체력{이} 좋아졌어요.",
+      "priklad_cs": "Pilně jsem cvičil, tak se mi zlepšila fyzička. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "體 tělo + 力 síla = tělesná síla.",
+      "koreny": [
+        "che-體",
+        "ryeok-力"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0101",
+      "tema": "zdraví",
+      "slovo": "가볍다",
+      "vyslovnost": "gabyeopda",
+      "vyslov_hangul": "가볍따",
+      "cs": "lehký",
+      "en": "to be light",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 1,
+      "priklad": "요가{를} 하고 나면 몸{이} 가벼워져요.",
+      "priklad_cs": "Po józe mám lehké tělo. (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "„GA-BJOP“ – lehký jako GÁBA (gáza). 몸이 가벼워지다 = tělo se odlehčí.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "가볍다",
+          "가벼워요",
+          "가벼웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0102",
+      "tema": "škola",
+      "slovo": "집중력",
+      "vyslovnost": "jipjungnyeok",
+      "vyslov_hangul": "집쭝녁",
+      "cs": "soustředění, schopnost se soustředit",
+      "en": "concentration",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "운동{을} 하면 집중력{이} 좋아져요.",
+      "priklad_cs": "Když sportuješ, zlepšuje se ti soustředění. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "集 shromáždit + 中 střed + 力 síla = síla sbírat se do středu.",
+      "koreny": [
+        "jip-集",
+        "jung-中",
+        "ryeok-力"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0103",
+      "tema": "vztahy",
+      "slovo": "알게 되다",
+      "vyslovnost": "alge doeda",
+      "cs": "poznat, seznámit se; dozvědět se",
+      "en": "to get to know",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "동호회{에서} 새로운 사람{을} 많이 알게 됐어요.",
+      "priklad_cs": "V klubu jsem poznal spoustu nových lidí. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "알다 vědět + -게 되다 stát se = „dostat se k vědění“.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "알게 되다",
+          "알게 돼요",
+          "알게 됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0104",
+      "tema": "gramatika",
+      "slovo": "-고 나면",
+      "vyslovnost": "-go namyeon",
+      "cs": "až / když (něco) dokončíš, (pak…)",
+      "en": "when/after an action has ended",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "약{을} 먹고 푹 자고 나면 괜찮아질 거예요.",
+      "priklad_cs": "Až si vezmeš lék a pořádně se vyspíš, bude ti líp. (을 → 4. pád)",
+      "mnemo": "Kmen + -고 나면, bez ohledu na zakončení. Děj musí skončit, pak teprve nastane výsledek.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0105",
+      "tema": "zdraví",
+      "slovo": "땀",
+      "vyslovnost": "ttam",
+      "cs": "pot",
+      "en": "sweat",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "땀{을} 흘리고 나면 스트레스{가} 풀려서 좋아요.",
+      "priklad_cs": "Když se zpotím, uleví se mi od stresu. (을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "„TAM“ – TAM v posilovně z tebe teče pot. 땀을 흘리다 = potit se.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0106",
+      "tema": "zdraví",
+      "slovo": "푹",
+      "vyslovnost": "puk",
+      "cs": "pořádně, důkladně (spát, odpočinout si)",
+      "en": "well",
+      "slovni_druh": "ostatni",
+      "frekvence": 2,
+      "priklad": "오늘{은} 집{에서} 푹 쉬세요.",
+      "priklad_cs": "Dneska si doma pořádně odpočiň. (은 → téma; 에서 → kde)",
+      "mnemo": "„PUK“ – padneš do peřin, až to udělá PUK, a spíš.",
+      "rodina": [
+        "푹 자다",
+        "푹 쉬다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0107",
+      "tema": "zdraví",
+      "slovo": "낫다",
+      "vyslovnost": "natda",
+      "vyslov_hangul": "낟따",
+      "cs": "uzdravit se, zlepšit se",
+      "en": "to be better",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "그럼 코미디 영화 보러 갈까요? 실컷 웃고 나면 기분{이} 좀 나아질 거예요.",
+      "priklad_cs": "Tak co jít na komedii? Až se pořádně nasměješ, bude ti líp. (이 → 1. pád)",
+      "mnemo": "„NAT“ – NATáhni se, odpočiň si a uzdravíš se.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "낫다",
+          "나아요",
+          "나았어요"
+        ],
+        "nepravidelnost": "ㅅ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0108",
+      "tema": "život a změny",
+      "slovo": "삶",
+      "vyslovnost": "salm",
+      "vyslov_hangul": "삼",
+      "cs": "život (lidský, způsob života)",
+      "en": "life",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이 책{을} 읽고 나면 삶{에} 대한 생각{이} 달라질 거예요.",
+      "priklad_cs": "Až přečteš tuhle knihu, změní se tvůj pohled na život. (을 → 4. pád; 에 대한 → o; 이 → 1. pád)",
+      "mnemo": "Od 살다 „žít“ + -ㅁ = žití. Srovnej 생활 (každodenní život).",
+      "rodina": [
+        "살다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0017",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0109",
+      "tema": "pocity",
+      "slovo": "실컷",
+      "vyslovnost": "silkeot",
+      "vyslov_hangul": "실컫",
+      "cs": "dosyta, do sytosti",
+      "en": "heartily",
+      "slovni_druh": "ostatni",
+      "frekvence": 3,
+      "priklad": "코미디 영화{를} 보면서 실컷 웃었어요.",
+      "priklad_cs": "U komedie jsem se nasmál dosyta. (를 → 4. pád)",
+      "mnemo": "„ŠIL-KOT“ – smál ses, až ses ŠÍLeně KOTulel po zemi: dosyta.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0110",
+      "tema": "život a změny",
+      "slovo": "지나다",
+      "vyslovnost": "jinada",
+      "cs": "uplynout, projít",
+      "en": "to pass",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "시간{이} 지나고 나면 괜찮아질 거예요.",
+      "priklad_cs": "Až uplyne čas, bude to dobré. (이 → 1. pád)",
+      "mnemo": "„ČI-NA-DA“ – i ČÍNskÁ zeď se Dá projít, čas uplyne.",
+      "rodina": [
+        "지내다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "지나다",
+          "지나요",
+          "지났어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0002",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0111",
+      "tema": "jídlo",
+      "slovo": "야식",
+      "vyslovnost": "yasik",
+      "cs": "jídlo pozdě v noci",
+      "en": "late-night meal",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "야식{을} 먹고 나면 다음 날 아침{에} 속{이} 불편해요.",
+      "priklad_cs": "Když se najím pozdě v noci, druhý den ráno mám těžký žaludek. (을 → 4. pád; 에 → kdy; 이 → 1. pád)",
+      "mnemo": "夜 noc + 食 jídlo = noční jídlo.",
+      "koreny": [
+        "ya-夜",
+        "sik-食"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0112",
+      "tema": "pocity",
+      "slovo": "우울하다",
+      "vyslovnost": "uulhada",
+      "cs": "sklíčený, v depresi",
+      "en": "to be depressed",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 기분{이} 너무 우울해요.",
+      "priklad_cs": "Poslední dobou mám hroznou depku. (이 → 1. pád)",
+      "mnemo": "憂 trápit se + 鬱 sklíčenost.",
+      "koreny": [
+        "u-憂",
+        "ul-鬱"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "우울하다",
+          "우울해요",
+          "우울했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0113",
+      "tema": "média",
+      "slovo": "코미디",
+      "vyslovnost": "komidi",
+      "cs": "komedie",
+      "en": "comedy",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "기분{이} 우울할 때 코미디 영화{를} 봐요.",
+      "priklad_cs": "Když mám špatnou náladu, koukám na komedie. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "comedy"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0114",
+      "tema": "média",
+      "slovo": "자막",
+      "vyslovnost": "jamak",
+      "cs": "titulky",
+      "en": "subtitles",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "중급{을} 다 배우고 나면 자막 없이 한국 드라마{를} 볼 수 있을 거예요.",
+      "priklad_cs": "Až se naučíš celý střední stupeň, budeš koukat na korejské seriály bez titulků. (을, 를 → 4. pád)",
+      "mnemo": "字 znak + 幕 plátno = znaky na plátně.",
+      "koreny": [
+        "ja-字",
+        "mak-幕"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0115",
+      "tema": "vztahy",
+      "slovo": "헤어지다",
+      "vyslovnost": "heeojida",
+      "cs": "rozejít se, rozloučit se",
+      "en": "to break up",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "여자 친구{하고} 헤어져서 힘들어요.",
+      "priklad_cs": "Rozešel jsem se s přítelkyní a je mi těžko. (하고 → s + 7. pád)",
+      "mnemo": "„HEJ, OJ, ČI-DA“ – „hej, oj, čau!“ a už se rozcházíte.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "헤어지다",
+          "헤어져요",
+          "헤어졌어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0116",
+      "tema": "volný čas",
+      "slovo": "사우나",
+      "vyslovnost": "sauna",
+      "cs": "sauna",
+      "en": "sauna",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "일{이} 많아서 피곤할 때 사우나{를} 해요.",
+      "priklad_cs": "Když jsem unavený z práce, jdu do sauny. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "sauna"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0117",
+      "tema": "média",
+      "slovo": "검색",
+      "vyslovnost": "geomsaek",
+      "cs": "vyhledávání (na internetu)",
+      "en": "search",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "인터넷 검색{을} 하면서 시간{을} 보내요.",
+      "priklad_cs": "Trávím čas hledáním na internetu. (을 → 4. pád)",
+      "mnemo": "檢 prověřit + 索 hledat = prohledávat.",
+      "koreny": [
+        "geom-檢",
+        "saek-索"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0118",
+      "tema": "škola",
+      "slovo": "조사",
+      "vyslovnost": "josa",
+      "cs": "průzkum, šetření",
+      "en": "investigation",
+      "cs_upresneni": "průzkum (zkoumání), ne gramatická částice",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "주변 사람들{의} 여가 생활{에} 대해 조사해 보세요.",
+      "priklad_cs": "Zjistěte, jak tráví volný čas lidé kolem vás. (의 → 2. pád; 에 대해 → o)",
+      "mnemo": "調 zkoumat + 査 prověřit = průzkum.",
+      "koreny": [
+        "jo-調",
+        "sa-査"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0119",
+      "tema": "volný čas",
+      "slovo": "화장",
+      "vyslovnost": "hwajang",
+      "cs": "líčení, make-up",
+      "en": "makeup",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 화장{에} 관심{이} 많아요.",
+      "priklad_cs": "Hodně mě zajímá líčení. (는 → téma; 에 → o co; 이 → 1. pád)",
+      "mnemo": "化 změnit + 粧 líčit se = proměnit se líčením.",
+      "koreny": [
+        "hwa-化",
+        "jang-粧"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0120",
+      "tema": "média",
+      "slovo": "영상을 찍다",
+      "vyslovnost": "yeongsangeul jjikda",
+      "vyslov_hangul": "영상을 찍따",
+      "cs": "natočit video",
+      "en": "to shoot a video",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "가끔 화장하는 영상{을} 찍어서 올려요.",
+      "priklad_cs": "Občas natočím video, jak se líčím, a dám ho na internet. (을 → 4. pád)",
+      "mnemo": "映像 obraz + 찍다 „cvaknout“ = natočit obraz.",
+      "koreny": [
+        "yeong-映",
+        "sang-像"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "영상을 찍다",
+          "영상을 찍어요",
+          "영상을 찍었어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0128",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0121",
+      "tema": "média",
+      "slovo": "올리다",
+      "vyslovnost": "ollida",
+      "cs": "nahrát (na internet); zvednout",
+      "en": "to upload",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "블로그{에} 사진{을} 올렸어요.",
+      "priklad_cs": "Dal jsem fotky na blog. (에 → kam; 을 → 4. pád)",
+      "mnemo": "Od 오르다 „stoupat“: dát něco nahoru – i na internet.",
+      "rodina": [
+        "오르다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "올리다",
+          "올려요",
+          "올렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0122",
+      "tema": "vztahy",
+      "slovo": "이야기를 나누다",
+      "vyslovnost": "iyagireul nanuda",
+      "cs": "popovídat si",
+      "en": "to have a conversation",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "가구{를} 만들면서 사람들{과} 이야기{를} 나눠요.",
+      "priklad_cs": "Při výrobě nábytku si s lidmi povídám. (를 → 4. pád; 과 → s + 7. pád)",
+      "mnemo": "나누다 = dělit se: „rozdělit si příběh“.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "이야기를 나누다",
+          "이야기를 나눠요",
+          "이야기를 나눴어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0123",
+      "tema": "život a změny",
+      "slovo": "원래",
+      "vyslovnost": "wollae",
+      "vyslov_hangul": "월래",
+      "cs": "původně, odjakživa",
+      "en": "originally",
+      "slovni_druh": "ostatni",
+      "frekvence": 2,
+      "priklad": "저{는} 원래 운동{을} 별로 안 좋아해요.",
+      "priklad_cs": "Já odjakživa moc nesportuju. (는 → téma; 을 → 4. pád)",
+      "mnemo": "元 počátek + 來 přijít = od počátku.",
+      "koreny": [
+        "won-元",
+        "rae-來"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0124",
+      "tema": "pocity",
+      "slovo": "성취감",
+      "vyslovnost": "seongchwigam",
+      "cs": "pocit úspěchu, uspokojení z výsledku",
+      "en": "sense of accomplishment",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "가구{를} 직접 만들면 성취감{을} 느낄 수 있어요.",
+      "priklad_cs": "Když si nábytek vyrobíš sám, máš pocit úspěchu. (를, 을 → 4. pád)",
+      "mnemo": "成 dosáhnout + 就 dokončit + 感 pocit = pocit z dokončení.",
+      "koreny": [
+        "seong-成",
+        "chwi-就",
+        "gam-感"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0125",
+      "tema": "peníze",
+      "slovo": "비용",
+      "vyslovnost": "biyong",
+      "cs": "náklady, výdaje",
+      "en": "cost",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 활동{은} 비용{이} 얼마나 들어요?",
+      "priklad_cs": "Kolik ta činnost stojí? (은 → téma; 이 → 1. pád; 비용이 들다 = stát peníze)",
+      "mnemo": "費 výdaj + 用 použít = co se na to vydá.",
+      "koreny": [
+        "bi-費",
+        "yong-用"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0126",
+      "tema": "život a změny",
+      "slovo": "한창",
+      "vyslovnost": "hanchang",
+      "cs": "právě v plném proudu, na vrcholu",
+      "en": "at the full",
+      "slovni_druh": "ostatni",
+      "frekvence": 3,
+      "priklad": "요즘 가구 만들기{에} 한창 빠져 있어요.",
+      "priklad_cs": "Teď jsem úplně pohlcený výrobou nábytku. (에 → do čeho)",
+      "mnemo": "„HAN-ČANG“ – HANka ČANGuje (tančí) naplno, je v plném proudu.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0127",
+      "tema": "život a změny",
+      "slovo": "현장",
+      "vyslovnost": "hyeonjang",
+      "cs": "místo dění, přímo na místě",
+      "en": "site",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "공연 현장{에} 직접 가서 보면 더 신나요.",
+      "priklad_cs": "Když jdeš na představení přímo na místo, je to ještě větší zážitek. (에 → kam)",
+      "mnemo": "現 současný + 場 místo = místo, kde se to právě děje.",
+      "koreny": [
+        "hyeon-現",
+        "jang-場"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0128",
+      "tema": "média",
+      "slovo": "제작",
+      "vyslovnost": "jejak",
+      "cs": "výroba, tvorba",
+      "en": "making, production",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "인터넷 방송 제작{에} 관심{이} 있어요.",
+      "priklad_cs": "Zajímá mě tvorba internetových pořadů. (에 → o co; 이 → 1. pád)",
+      "mnemo": "製 vyrábět + 作 tvořit. Pokrývá i 영상 제작 (výroba videí, workbook).",
+      "koreny": [
+        "je-製",
+        "jak-作"
+      ],
+      "rodina": [
+        "영상 제작"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0120",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0129",
+      "tema": "sport",
+      "slovo": "사격",
+      "vyslovnost": "sagyeok",
+      "cs": "střelba (sportovní)",
+      "en": "shooting",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "사격{을} 한번 배워 보고 싶어요.",
+      "priklad_cs": "Rád bych se jednou naučil střílet. (을 → 4. pád)",
+      "mnemo": "射 střílet + 擊 udeřit = vystřelit a zasáhnout.",
+      "koreny": [
+        "sa-射",
+        "gyeok-擊"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

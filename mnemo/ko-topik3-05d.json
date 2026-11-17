@@ -1,0 +1,275 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 5 – workbook 3-1 s. 51 (어휘 확장) + 어휘 색인 workbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-0430",
+      "tema": "cestování",
+      "slovo": "준비물",
+      "vyslovnost": "junbimul",
+      "cs": "věci, které je třeba si připravit (s sebou)",
+      "en": "packing list, things to bring",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "여행 준비물{을} 미리 챙기세요.",
+      "priklad_cs": "Připravte si věci na cestu předem. (을 → 4. pád)",
+      "mnemo": "準備 příprava + 物 věc.",
+      "koreny": [
+        "jun-準",
+        "bi-備",
+        "mul-物"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0064",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0431",
+      "tema": "cestování",
+      "slovo": "여권",
+      "vyslovnost": "yeogwon",
+      "vyslov_hangul": "여꿘",
+      "cs": "cestovní pas",
+      "en": "passport",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "해외여행{을} 갈 때 여권{이} 꼭 필요해요.",
+      "priklad_cs": "Když jedete do zahraničí, pas je nutný. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "旅 cesta + 券 lístek = cestovní lístek.",
+      "koreny": [
+        "yeo-旅",
+        "gwon-券"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0432",
+      "tema": "cestování",
+      "slovo": "여행 책자",
+      "vyslovnost": "yeohaeng chaekja",
+      "vyslov_hangul": "여행 책짜",
+      "cs": "průvodce (knížka), cestovní brožura",
+      "en": "travel book",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "여행 책자{가} 있으면 관광지{에} 대한 정보{를} 바로 찾을 수 있어요.",
+      "priklad_cs": "S průvodcem najdeš informace o památkách hned. (가 → 1. pád; 에 대한 → o; 를 → 4. pád)",
+      "mnemo": "旅行 + 冊子 brožura (冊 kniha + 子 malá věc).",
+      "koreny": [
+        "yeo-旅",
+        "haeng-行",
+        "chaek-冊",
+        "ja-子"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0433",
+      "tema": "cestování",
+      "slovo": "여행용품",
+      "vyslovnost": "yeohaengyongpum",
+      "cs": "cestovní potřeby (polštář na krk, maska na oči apod.)",
+      "en": "travel amenities",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "목베개{하고} 안대 같은 여행용품{을} 샀어요.",
+      "priklad_cs": "Koupil jsem si cestovní potřeby jako polštář na krk a masku na oči. (하고 → a; 을 → 4. pád)",
+      "mnemo": "旅行 + 用品 potřeby (用 použít + 品 věc). 목베개 = polštář na krk, 안대 = maska na oči.",
+      "koreny": [
+        "yeo-旅",
+        "haeng-行",
+        "yong-用",
+        "pum-品"
+      ],
+      "rodina": [
+        "목베개",
+        "안대"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0434",
+      "tema": "cestování",
+      "slovo": "숙박시설",
+      "vyslovnost": "sukbaksiseol",
+      "vyslov_hangul": "숙빡씨설",
+      "cs": "ubytovací zařízení",
+      "en": "accommodations",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "작은 시골 마을{에는} 숙박시설{이} 거의 없어요.",
+      "priklad_cs": "V malé vesnici skoro nejsou ubytovací zařízení. (에는 → kde + důraz; 이 → 1. pád)",
+      "mnemo": "宿泊 nocleh (宿 přespat + 泊 zakotvit) + 施設 zařízení.",
+      "koreny": [
+        "suk-宿",
+        "bak-泊",
+        "si-施",
+        "seol-設"
+      ],
+      "rodina": [
+        "숙박업소"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0435",
+      "tema": "cestování",
+      "slovo": "민박",
+      "vyslovnost": "minbak",
+      "cs": "ubytování v soukromí (penzion)",
+      "en": "bed and breakfast",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "호텔{이} 없으면 민박{을} 한번 찾아보세요.",
+      "priklad_cs": "Když tam není hotel, zkus najít ubytování v soukromí. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "民 lid + 泊 přenocovat = přespat u lidí.",
+      "koreny": [
+        "min-民",
+        "bak-泊"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0436",
+      "tema": "cestování",
+      "slovo": "콘도",
+      "vyslovnost": "kondo",
+      "cs": "apartmánový hotel (s kuchyní)",
+      "en": "condominium",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "콘도{는} 가정집{과} 비슷해서 가족 여행{을} 갈 때 많이 이용해요.",
+      "priklad_cs": "Apartmány jsou jako domácnost, takže se hodně využívají na rodinné výlety. (는 → téma; 과 → s; 을 → 4. pád)",
+      "mnemo": "Zkratka z condominium.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "condominium"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0437",
+      "tema": "cestování",
+      "slovo": "게스트 하우스",
+      "alternativy": [
+        "게스트하우스"
+      ],
+      "vyslovnost": "geseuteu hauseu",
+      "cs": "hostel, guesthouse",
+      "en": "guesthouse",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "게스트 하우스{는} 방{을} 같이 써야 하니까 불편하지만 저렴해요.",
+      "priklad_cs": "V hostelu musíš sdílet pokoj, takže je to nepohodlné, ale levné. (는 → téma; 을 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "guesthouse"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0438",
+      "tema": "cestování",
+      "slovo": "여행지",
+      "vyslovnost": "yeohaengji",
+      "cs": "cíl cesty, turistická destinace",
+      "en": "travel site, destination",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "지금{까지} 가 본 여행지 중{에서} 어디{가} 제일 좋았어요?",
+      "priklad_cs": "Která z destinací, kde jsi byl, se ti líbila nejvíc? (까지 → do; 에서 → z; 가 → 1. pád)",
+      "mnemo": "旅行 cesta + 地 místo. Srovnej 여행사 (cestovka).",
+      "koreny": [
+        "yeo-旅",
+        "haeng-行",
+        "ji-地"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0045",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0439",
+      "tema": "cestování",
+      "slovo": "국립 공원",
+      "vyslovnost": "gungnip gongwon",
+      "vyslov_hangul": "궁닙 공원",
+      "cs": "národní park",
+      "en": "national park",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "설악산{은} 아름다운 국립 공원이에요.",
+      "priklad_cs": "Soraksan je krásný národní park. (은 → téma)",
+      "mnemo": "國立 státní (國 země + 立 zřídit) + 公園 park (公 veřejný + 園 zahrada).",
+      "koreny": [
+        "guk-國",
+        "rip-立",
+        "gong-公",
+        "won-園"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0440",
+      "tema": "cestování",
+      "slovo": "드라마 촬영지",
+      "vyslovnost": "deurama chwaryeongji",
+      "cs": "místo natáčení seriálu",
+      "en": "(drama) filming location",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "드라마{를} 좋아해서 드라마 촬영지{에도} 몇 번 가 봤어요.",
+      "priklad_cs": "Mám rád seriály, tak jsem byl i párkrát na místech natáčení. (를 → 4. pád; 에도 → i kam)",
+      "mnemo": "드라마 seriál + 撮影 natáčení + 地 místo.",
+      "koreny": [
+        "chwal-撮",
+        "yeong-影",
+        "ji-地"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "z_anglictiny": "drama"
+      },
+      "viz_tez": "ko-topik3-0144",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 5 Part 2 – textbook s. 50–51 (어휘, 표현 -아서/어서/여서 그런지) + 어휘 색인",
+  "karty": [
+    {
+      "id": "ko-topik3-0379",
+      "tema": "cestování",
+      "slovo": "경관",
+      "vyslovnost": "gyeonggwan",
+      "cs": "scenérie, krajina (na pohled)",
+      "en": "landscape",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "그곳{은} 자연 경관{이} 정말 아름다워요.",
+      "priklad_cs": "Tamní přírodní scenérie je opravdu krásná. (은 → téma; 이 → 1. pád)",
+      "mnemo": "景 výhled + 觀 dívat se = to, nač se díváš. 자연 경관이 아름답다 = příroda je nádherná.",
+      "koreny": [
+        "gyeong-景",
+        "gwan-觀"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0393",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0380",
+      "tema": "cestování",
+      "slovo": "공기",
+      "vyslovnost": "gonggi",
+      "cs": "vzduch",
+      "en": "air",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "시골{은} 공기{가} 깨끗해요.",
+      "priklad_cs": "Na venkově je čistý vzduch. (은 → téma; 가 → 1. pád)",
+      "mnemo": "空 prázdný + 氣 energie = „prázdná“ energie kolem nás. 공기가 깨끗하다/맑다 = čistý vzduch.",
+      "koreny": [
+        "gong-空",
+        "gi-氣"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0381",
+      "tema": "cestování",
+      "slovo": "현지",
+      "vyslovnost": "hyeonji",
+      "cs": "místní (na místě), dané místo",
+      "en": "the actual place, local",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "현지{에서} 먹으니까 더 맛있었어요.",
+      "priklad_cs": "Na místě to chutnalo ještě líp. (에서 → kde)",
+      "mnemo": "現 současný + 地 země = země, kde právě jsi. 현지 음식 = místní jídlo.",
+      "koreny": [
+        "hyeon-現",
+        "ji-地"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0382",
+      "tema": "cestování",
+      "slovo": "물가",
+      "vyslovnost": "mulga",
+      "vyslov_hangul": "물까",
+      "cs": "ceny (životní náklady)",
+      "en": "prices (cost of living)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 나라{는} 물가{가} 저렴해서 여행하기 좋아요.",
+      "priklad_cs": "V té zemi jsou nízké ceny, takže se tam dobře cestuje. (는 → téma; 가 → 1. pád)",
+      "mnemo": "物 věc + 價 cena = ceny věcí. 물가가 비싸다/싸다.",
+      "koreny": [
+        "mul-物",
+        "ga-價"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0383",
+      "tema": "cestování",
+      "slovo": "저렴하다",
+      "vyslovnost": "jeoryeomhada",
+      "cs": "levný, cenově dostupný",
+      "en": "to be inexpensive",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "물가{가} 저렴한 여행지{를} 추천해 주세요.",
+      "priklad_cs": "Doporuč mi prosím destinaci s nízkými cenami. (가 → 1. pád; 를 → 4. pád)",
+      "mnemo": "低 nízký + 廉 levný. Formálnější než 싸다.",
+      "koreny": [
+        "jeo-低",
+        "ryeom-廉"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "저렴하다",
+          "저렴해요",
+          "저렴했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0384",
+      "tema": "cestování",
+      "slovo": "독특하다",
+      "vyslovnost": "dokteukada",
+      "vyslov_hangul": "독트카다",
+      "cs": "osobitý, jedinečný, neobvyklý",
+      "en": "to be unique",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 시장{에는} 독특한 기념품{이} 많아요.",
+      "priklad_cs": "Na tom trhu je spousta neobvyklých suvenýrů. (에는 → kde + důraz; 이 → 1. pád)",
+      "mnemo": "獨 sám + 特 zvláštní = zvláštní sám o sobě.",
+      "koreny": [
+        "dok-獨",
+        "teuk-特"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "독특하다",
+          "독특해요",
+          "독특했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0385",
+      "tema": "cestování",
+      "slovo": "볼거리",
+      "vyslovnost": "bolgeori",
+      "vyslov_hangul": "볼꺼리",
+      "cs": "pamětihodnosti, co vidět",
+      "en": "spectacle, attraction (things to see)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "서울{은} 볼거리{도} 많고 맛있는 음식{도} 많아요.",
+      "priklad_cs": "V Soulu je co vidět a je tam i spousta dobrého jídla. (은 → téma; 도 → také)",
+      "mnemo": "보다 vidět + -ㄹ 거리 věc k … = věci k vidění. Řada: 볼거리, 먹을거리, 놀거리, 살 거리.",
+      "rodina": [
+        "먹을거리",
+        "놀거리",
+        "살 거리"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0386",
+      "tema": "cestování",
+      "slovo": "먹을거리",
+      "vyslovnost": "meogeulgeori",
+      "vyslov_hangul": "머글꺼리",
+      "cs": "jídlo, co ochutnat",
+      "en": "food (things to eat)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "시장{에} 가면 먹을거리{가} 정말 많아요.",
+      "priklad_cs": "Na trhu je spousta věcí k jídlu. (에 → kam; 가 → 1. pád)",
+      "mnemo": "먹다 jíst + -을 거리 = věci k jídlu.",
+      "rodina": [
+        "볼거리",
+        "놀거리"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0385",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0387",
+      "tema": "cestování",
+      "slovo": "놀거리",
+      "vyslovnost": "nolgeori",
+      "vyslov_hangul": "놀꺼리",
+      "cs": "zábava, co dělat (pro zábavu)",
+      "en": "things to do for fun",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "홍대 거리{는} 놀거리{가} 많아서 꼭 가 보고 싶었어요.",
+      "priklad_cs": "Ulice v Hongdae jsou plné zábavy, tak jsem se tam chtěl určitě podívat. (는 → téma; 가 → 1. pád)",
+      "mnemo": "놀다 hrát si, bavit se + -ㄹ 거리 = věci k zábavě. V rejstříku textbooku chybí, je jen na str. 50 a 55.",
+      "rodina": [
+        "볼거리",
+        "먹을거리"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0385",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0388",
+      "tema": "cestování",
+      "slovo": "유적지",
+      "vyslovnost": "yujeokji",
+      "vyslov_hangul": "유적찌",
+      "cs": "historické místo, památka",
+      "en": "historic site",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "그 도시{는} 유적지{가} 정말 인상적이었어요.",
+      "priklad_cs": "Památky v tom městě byly opravdu působivé. (는 → téma; 가 → 1. pád)",
+      "mnemo": "遺 zanechat + 跡 stopa + 地 místo = místo se stopami minulosti.",
+      "koreny": [
+        "yu-遺",
+        "jeok-跡",
+        "ji-地"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0389",
+      "tema": "cestování",
+      "slovo": "인상적",
+      "vyslovnost": "insangjeok",
+      "cs": "působivý, dojemný (인상적이다)",
+      "en": "impressive",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "축제{를} 즐기는 모습{이} 정말 인상적이었어요.",
+      "priklad_cs": "Bylo opravdu působivé vidět, jak si lidé festival užívají. (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "印 otisk + 象 obraz + 的 -ový = co zanechá otisk v mysli. 인상 = dojem.",
+      "koreny": [
+        "in-印",
+        "sang-象",
+        "jeok-的"
+      ],
+      "rodina": [
+        "인상"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0390",
+      "tema": "cestování",
+      "slovo": "전통문화를 느끼다",
+      "vyslovnost": "jeontongmunhwareul neukkida",
+      "cs": "poznat (zažít) tradiční kulturu",
+      "en": "to feel the traditional culture",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "경복궁{에} 가면 한국{의} 전통문화{를} 느낄 수 있어요.",
+      "priklad_cs": "Když jdeš do Kjongbokkungu, můžeš zažít korejskou tradiční kulturu. (에 → kam; 의 → 2. pád; 를 → 4. pád)",
+      "mnemo": "傳統 tradice + 文化 kultura + 느끼다 cítit. 느끼다 má v rejstříku stranu 92 (kap. 10).",
+      "koreny": [
+        "jeon-傳",
+        "tong-統",
+        "mun-文",
+        "hwa-化"
+      ],
+      "rodina": [
+        "느끼다"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "전통문화를 느끼다",
+          "전통문화를 느껴요",
+          "전통문화를 느꼈어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0394",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0391",
+      "tema": "cestování",
+      "slovo": "친절하다",
+      "vyslovnost": "chinjeolhada",
+      "vyslov_hangul": "친저라다",
+      "cs": "laskavý, ochotný, vlídný",
+      "en": "to be kind",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 1,
+      "priklad": "그 도시{는} 사람들{이} 정말 친절했어요.",
+      "priklad_cs": "Lidé v tom městě byli opravdu ochotní. (는 → téma; 이 → 1. pád)",
+      "mnemo": "親 blízký + 切 upřímný = upřímně blízký. Opak 불친절하다.",
+      "koreny": [
+        "chin-親",
+        "jeol-切"
+      ],
+      "rodina": [
+        "불친절하다"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "친절하다",
+          "친절해요",
+          "친절했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0392",
+      "tema": "cestování",
+      "slovo": "기억",
+      "vyslovnost": "gieok",
+      "cs": "paměť, vzpomínka",
+      "en": "memory",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "서울{이} 가장 기억{에} 남아요.",
+      "priklad_cs": "Nejvíc mi v paměti utkvěl Soul. (이 → 1. pád; 에 → v)",
+      "mnemo": "記 zapsat + 憶 vzpomínat. 기억에 남다 = utkvět v paměti; 기억하다 = pamatovat si.",
+      "koreny": [
+        "gi-記",
+        "eok-憶"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0393",
+      "tema": "cestování",
+      "slovo": "자연",
+      "vyslovnost": "jayeon",
+      "cs": "příroda",
+      "en": "nature",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "자연{이} 아름다운 곳{으로} 여행{을} 가요.",
+      "priklad_cs": "Jezdím na místa s krásnou přírodou. (이 → 1. pád; 으로 → kam; 을 → 4. pád)",
+      "mnemo": "自 sám + 然 takový = to, co je samo od sebe takové.",
+      "koreny": [
+        "ja-自",
+        "yeon-然"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0394",
+      "tema": "cestování",
+      "slovo": "전통",
+      "vyslovnost": "jeontong",
+      "cs": "tradice",
+      "en": "tradition",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국{의} 전통{을} 경험하고 싶어요.",
+      "priklad_cs": "Chci zažít korejskou tradici. (의 → 2. pád; 을 → 4. pád)",
+      "mnemo": "傳 předat + 統 spojovat = co se předává a spojuje generace. 전통문화, 전통 음식.",
+      "koreny": [
+        "jeon-傳",
+        "tong-統"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0390",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0395",
+      "tema": "cestování",
+      "slovo": "떠나다",
+      "vyslovnost": "tteonada",
+      "cs": "odjet, vyrazit, opustit",
+      "en": "to leave",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "저{도} 공기{가} 맑은 곳{으로} 여행{을} 떠나고 싶어요.",
+      "priklad_cs": "Taky bych chtěl vyrazit na cestu někam, kde je čistý vzduch. (도 → také; 가 → 1. pád; 으로 → kam; 을 → 4. pád)",
+      "mnemo": "„TO NA DÁL“ – odjet na dálku. 여행을 떠나다 = vyrazit na cestu.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "떠나다",
+          "떠나요",
+          "떠났어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0396",
+      "tema": "cestování",
+      "slovo": "상관없이",
+      "vyslovnost": "sanggwaneopsi",
+      "vyslov_hangul": "상과넙씨",
+      "cs": "bez ohledu na, nehledě na",
+      "en": "regardless of",
+      "slovni_druh": "ostatni",
+      "frekvence": 2,
+      "priklad": "자유 여행{은} 시간{에} 상관없이 보고 싶은 걸 다 볼 수 있어요.",
+      "priklad_cs": "Na vlastní pěst můžeš vidět vše, co chceš, bez ohledu na čas. (은 → téma; 에 → na)",
+      "mnemo": "相關 souvislost + 없이 bez = bez souvislosti. ~에 상관없이; srovnej 상관없어 (je to jedno) z kap. 3.",
+      "koreny": [
+        "sang-相",
+        "gwan-關"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0397",
+      "tema": "gramatika",
+      "slovo": "-아서/어서/여서 그런지",
+      "vyslovnost": "-aseo/-eoseo/-yeoseo geureonji",
+      "cs": "asi proto, že…; možná kvůli tomu, že…",
+      "en": "perhaps because… (uncertain reason)",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "공기{가} 맑아서 그런지 마음{까지} 깨끗해지는 것 같았어요.",
+      "priklad_cs": "Asi protože byl čistý vzduch, jako by se mi vyčistila i mysl. (가 → 1. pád; 까지 → dokonce i)",
+      "mnemo": "-아서 (protože) + 그런지 (zda je to tak) = „možná je to tím, že“. Důvod je jen odhad. S podstatným jménem -이라서 그런지 (관광지라서 그런지).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0398",
+      "tema": "cestování",
+      "slovo": "맑다",
+      "vyslovnost": "makda",
+      "vyslov_hangul": "막따",
+      "cs": "jasný, čistý (vzduch, voda, obloha)",
+      "en": "to be clean, to be clear",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "오늘{은} 하늘{이} 맑아요.",
+      "priklad_cs": "Dnes je jasná obloha. (은 → téma; 이 → 1. pád)",
+      "mnemo": "MAKová pole pod jasnou oblohou. Píše se ㄺ, vyslovuje se [막따].",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "맑다",
+          "맑아요",
+          "맑았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0399",
+      "tema": "cestování",
+      "slovo": "관광",
+      "vyslovnost": "gwangwang",
+      "cs": "turistika, prohlídka (památek)",
+      "en": "sightseeing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "서울{에서} 관광{을} 하고 쇼핑{도} 했어요.",
+      "priklad_cs": "V Soulu jsem si prohlédl památky a taky nakupoval. (에서 → kde; 을 → 4. pád; 도 → také)",
+      "mnemo": "觀 dívat se + 光 světlo = dívat se na „světlo“ (slávu) cizí země. 관광지 = turistické místo.",
+      "koreny": [
+        "gwan-觀",
+        "gwang-光"
+      ],
+      "rodina": [
+        "관광지"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0400",
+      "tema": "cestování",
+      "slovo": "관광객",
+      "vyslovnost": "gwangwanggaek",
+      "cs": "turista",
+      "en": "tourist",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "명동{에는} 외국인 관광객{이} 많아요.",
+      "priklad_cs": "V Mjongdongu je hodně zahraničních turistů. (에는 → kde + důraz; 이 → 1. pád)",
+      "mnemo": "觀光 turistika + 客 host. Srovnej 관객 (divák).",
+      "koreny": [
+        "gwan-觀",
+        "gwang-光",
+        "gaek-客"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0025",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0401",
+      "tema": "cestování",
+      "slovo": "명소",
+      "vyslovnost": "myeongso",
+      "cs": "slavné místo, turistická atrakce",
+      "en": "(tourist) attraction",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "경복궁{은} 한국{을} 대표하는 명소예요.",
+      "priklad_cs": "Kjongbokkung je atrakce, která reprezentuje Koreu. (은 → téma; 을 → 4. pád)",
+      "mnemo": "名 jméno + 所 místo = místo se jménem. 관광 명소 = turistická atrakce.",
+      "koreny": [
+        "myeong-名",
+        "so-所"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0402",
+      "tema": "cestování",
+      "slovo": "예약",
+      "vyslovnost": "yeyak",
+      "cs": "rezervace",
+      "en": "reservation (예약하다 = to reserve)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "숙소{는} 예약했죠?",
+      "priklad_cs": "Ubytování máš zarezervované, že? (는 → téma)",
+      "mnemo": "豫 předem + 約 úmluva = předem domluvené.",
+      "koreny": [
+        "ye-豫",
+        "yak-約"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0403",
+      "tema": "cestování",
+      "slovo": "성수기",
+      "vyslovnost": "seongsugi",
+      "cs": "hlavní sezóna",
+      "en": "peak season",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "성수기{에는} 항공권{이} 너무 비싸요.",
+      "priklad_cs": "V hlavní sezóně jsou letenky moc drahé. (에는 → kdy + důraz; 이 → 1. pád)",
+      "mnemo": "盛 bujný + 需 poptávka + 期 období = období velké poptávky. Opak 비수기.",
+      "koreny": [
+        "seong-盛",
+        "su-需",
+        "gi-期"
+      ],
+      "rodina": [
+        "비수기"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0427",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

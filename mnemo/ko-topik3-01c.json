@@ -1,0 +1,357 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 1 – workbook 세종한국어 회화 익힘책 3-1, s. 11 (어휘 확장)",
+  "karty": [
+    {
+      "id": "ko-topik3-0047",
+      "tema": "volný čas",
+      "slovo": "동호회",
+      "vyslovnost": "donghohoe",
+      "cs": "zájmový kroužek, klub",
+      "en": "club (of people with same hobby)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "토요일{마다} 동호회 모임{에} 가요.",
+      "priklad_cs": "Každou sobotu chodím na setkání klubu. (마다 → každý; 에 → kam)",
+      "mnemo": "同 stejný + 好 mít rád + 會 spolek = spolek lidí, co mají rádi totéž.",
+      "koreny": [
+        "dong-同",
+        "ho-好",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0048",
+      "tema": "volný čas",
+      "slovo": "모임",
+      "vyslovnost": "moim",
+      "cs": "setkání, sraz",
+      "en": "meeting, meet-up",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{하고} 같은 취미{를} 가진 사람들{의} 모임{에} 가요.",
+      "priklad_cs": "Chodím na setkání lidí se stejným koníčkem jako já. (하고 → jako; 를 → 4. pád; 의 → 2. pád; 에 → kam)",
+      "mnemo": "Od 모이다 „shromáždit se“; příbuzné s 모으다 (sbírat).",
+      "rodina": [
+        "모으다",
+        "모이다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0049",
+      "tema": "škola",
+      "slovo": "복습",
+      "vyslovnost": "bokseup",
+      "vyslov_hangul": "복씁",
+      "cs": "opakování (učiva)",
+      "en": "review (lessons)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 그날 배운 내용{을} 바로 복습해요.",
+      "priklad_cs": "Co se ten den naučím, hned si zopakuju. (는 → téma; 을 → 4. pád)",
+      "mnemo": "復 znovu + 習 cvičit = znovu procvičit.",
+      "koreny": [
+        "bok-復",
+        "seup-習"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0050",
+      "tema": "volný čas",
+      "slovo": "요가",
+      "vyslovnost": "yoga",
+      "cs": "jóga",
+      "en": "yoga",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요가{를} 하면 몸{이} 유연해지고 건강해져요.",
+      "priklad_cs": "Když cvičíš jógu, tělo je pružnější a zdravější. (를 → 4. pád; 이 → 1. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "yoga"
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0051",
+      "tema": "volný čas",
+      "slovo": "영상통화",
+      "vyslovnost": "yeongsangtonghwa",
+      "cs": "videohovor",
+      "en": "video call",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "친구{가} 보고 싶을 때 휴대폰{으로} 영상통화{를} 해요.",
+      "priklad_cs": "Když se mi stýská po kamarádovi, voláme si přes video na mobilu. (가 → 1. pád; 으로 → čím, 7. pád; 를 → 4. pád)",
+      "mnemo": "映像 obraz + 通話 hovor = obrazový hovor.",
+      "koreny": [
+        "yeong-映",
+        "sang-像",
+        "tong-通",
+        "hwa-話"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0052",
+      "tema": "volný čas",
+      "slovo": "캠핑",
+      "vyslovnost": "kaemping",
+      "cs": "kempování",
+      "en": "camping",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이번 휴가{에는} 산{에서} 캠핑{을} 할까 해요.",
+      "priklad_cs": "O téhle dovolené asi pojedu kempovat na hory. (에는 → kdy + důraz; 에서 → kde; 을 → 4. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "camping"
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0053",
+      "tema": "volný čas",
+      "slovo": "래프팅",
+      "vyslovnost": "raepeuting",
+      "cs": "rafting",
+      "en": "rafting",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "여름{에} 친구들{하고} 래프팅{을} 하러 가요.",
+      "priklad_cs": "V létě jedu s kamarády na rafty. (에 → kdy; 하고 → s + 7. pád; 을 → 4. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "rafting"
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0054",
+      "tema": "volný čas",
+      "slovo": "서핑",
+      "vyslovnost": "seoping",
+      "cs": "surfování",
+      "en": "surfing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "바다{에} 가서 서핑{을} 할까 해요.",
+      "priklad_cs": "Asi pojedu k moři surfovat. (에 → kam; 을 → 4. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "surfing"
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0055",
+      "tema": "volný čas",
+      "slovo": "맛집",
+      "vyslovnost": "matjip",
+      "vyslov_hangul": "맏찝",
+      "cs": "podnik s výborným jídlem",
+      "en": "delicious restaurant",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "친구들{과} 맛집{을} 방문해서 맛있는 음식{을} 먹어요.",
+      "priklad_cs": "S přáteli navštěvuju vyhlášené podniky a jíme dobré jídlo. (과 → s + 7. pád; 을 → 4. pád)",
+      "mnemo": "맛 chuť + 집 dům = „dům chuti“.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0056",
+      "tema": "volný čas",
+      "slovo": "방문",
+      "vyslovnost": "bangmun",
+      "cs": "návštěva",
+      "en": "visit",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "다음 주{에} 고향{을} 방문할 거예요.",
+      "priklad_cs": "Příští týden navštívím rodné město. (에 → kdy; 을 → 4. pád)",
+      "mnemo": "訪 navštívit + 問 ptát se = zajít se zeptat, jak se kdo má.",
+      "koreny": [
+        "bang-訪",
+        "mun-問"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0057",
+      "tema": "škola",
+      "slovo": "대학원",
+      "vyslovnost": "daehagwon",
+      "vyslov_hangul": "대하권",
+      "cs": "postgraduální studium (magisterské, doktorské)",
+      "en": "graduate school",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "공부{를} 더 하고 싶어서 대학원{에} 진학할 거예요.",
+      "priklad_cs": "Chci studovat dál, tak půjdu na navazující studium. (를 → 4. pád; 에 → kam)",
+      "mnemo": "大學 univerzita + 院 ústav = ústav nad univerzitou. Srovnej 학원.",
+      "koreny": [
+        "dae-大",
+        "hak-學",
+        "won-院"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0058",
+      "tema": "škola",
+      "slovo": "진학",
+      "vyslovnost": "jinhak",
+      "cs": "postup na vyšší stupeň školy",
+      "en": "to enter (higher) school",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "졸업 후{에} 대학원{에} 진학할까 해요.",
+      "priklad_cs": "Po absolvování asi půjdu na navazující studium. (에 → kdy; 에 → kam)",
+      "mnemo": "進 postupovat + 學 škola = postoupit ve škole výš.",
+      "koreny": [
+        "jin-進",
+        "hak-學"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0059",
+      "tema": "práce",
+      "slovo": "프리랜서",
+      "vyslovnost": "peurillaenseo",
+      "cs": "OSVČ, na volné noze",
+      "en": "freelancer",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "프리랜서{로} 일하면 출근 시간{이} 정해져 있지 않아요.",
+      "priklad_cs": "Když pracuješ na volné noze, nemáš pevný začátek pracovní doby. (로 → jako + 1. pád; 이 → 1. pád)",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "freelancer"
+      },
+      "mnemo": "",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0060",
+      "tema": "práce",
+      "slovo": "사업",
+      "vyslovnost": "saeop",
+      "cs": "podnikání, byznys",
+      "en": "business",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "삼촌{은} 작은 사업{을} 해요.",
+      "priklad_cs": "Strýc má malou firmu (podniká). (은 → téma; 을 → 4. pád)",
+      "mnemo": "事 záležitost + 業 dílo = obchodní záležitost.",
+      "koreny": [
+        "sa-事",
+        "eop-業"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0061",
+      "tema": "život a změny",
+      "slovo": "입대",
+      "vyslovnost": "ipdae",
+      "vyslov_hangul": "입때",
+      "cs": "nástup na vojnu",
+      "en": "to join military",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "친구{가} 다음 달{에} 입대해서 군인{이} 될 거예요.",
+      "priklad_cs": "Kamarád příští měsíc nastupuje na vojnu a bude z něj voják. (가 → 1. pád; 에 → kdy; 이 → 7. pád u 되다 „stát se“)",
+      "mnemo": "入 vstoupit + 隊 jednotka = vstoupit do armády. Srovnej 입학.",
+      "koreny": [
+        "ip-入",
+        "dae-隊"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0062",
+      "tema": "volný čas",
+      "slovo": "휴가",
+      "vyslovnost": "hyuga",
+      "cs": "dovolená",
+      "en": "break, vacation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이번 휴가{에는} 뭘 할 생각이에요?",
+      "priklad_cs": "Co plánuješ na tuhle dovolenou? (에는 → kdy + důraz)",
+      "mnemo": "休 odpočinek + 暇 volno = volno na odpočinek.",
+      "koreny": [
+        "hyu-休",
+        "ga-暇"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

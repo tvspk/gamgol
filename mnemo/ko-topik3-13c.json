@@ -1,0 +1,330 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 13 – workbook 3-2 s. 61 (어휘 확장) + 어휘 색인 workbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-0973",
+      "tema": "bydlení",
+      "slovo": "관리비",
+      "vyslovnost": "gwallibi",
+      "vyslov_hangul": "괄리비",
+      "cs": "poplatky za správu domu",
+      "en": "maintenance fee",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이 아파트{는} 관리비{가} 왜 이렇게 비싸요?",
+      "priklad_cs": "Proč jsou v tomhle domě tak vysoké poplatky za správu? (는 → téma; 가 → 1. pád)",
+      "mnemo": "管理 správa + 費 výdaj. V bytovém domě obvykle obsahuje i úklid schodiště, výtah, plyn.",
+      "koreny": [
+        "gwan-管",
+        "ri-理",
+        "bi-費"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0956",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0974",
+      "tema": "peníze",
+      "slovo": "건강보험료",
+      "vyslovnost": "geongangboheomnyo",
+      "vyslov_hangul": "건강보험뇨",
+      "cs": "zdravotní pojištění (platba)",
+      "en": "health insurance fee",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "아플 때{를} 위해서 매달 건강보험료{를} 내요.",
+      "priklad_cs": "Kvůli nemoci platím každý měsíc zdravotní pojištění. (를 → 4. pád)",
+      "mnemo": "健康 zdraví + 保險 pojištění (保 chránit + 險 riziko) + 料 poplatek. Výslovnost [건강보험뇨].",
+      "koreny": [
+        "geon-健",
+        "gang-康",
+        "bo-保",
+        "heom-險",
+        "ryo-料"
+      ],
+      "rodina": [
+        "건강보험",
+        "보험"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0975",
+      "tema": "peníze",
+      "slovo": "공과금",
+      "vyslovnost": "gonggwageum",
+      "cs": "poplatky za energie a služby, veřejné dávky",
+      "en": "utility bill",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "전기세{와} 수도세 같은 공과금{은} 매달 자동{으로} 내요.",
+      "priklad_cs": "Poplatky jako elektřina a voda platím každý měsíc automaticky. (와 → a; 은 → téma; 으로 → jak)",
+      "mnemo": "公 veřejný + 課 uložit (povinnost) + 金 peníze. Výslovnost [공과금].",
+      "koreny": [
+        "gong-公",
+        "gwa-課",
+        "geum-金"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0965",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0976",
+      "tema": "peníze",
+      "slovo": "교육비",
+      "vyslovnost": "gyoyukbi",
+      "vyslov_hangul": "교육삐",
+      "cs": "výdaje na vzdělání",
+      "en": "educational expense",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "아이{가} 둘이라서 교육비{가} 많이 들어요.",
+      "priklad_cs": "Máme dvě děti, takže vzdělání stojí hodně. (가 → 1. pád)",
+      "mnemo": "敎育 vzdělání (敎 učit + 育 vychovávat) + 費 výdaj. Patří sem 학원비, 등록금.",
+      "koreny": [
+        "gyo-敎",
+        "yuk-育",
+        "bi-費"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0977",
+      "tema": "škola",
+      "slovo": "등록금",
+      "vyslovnost": "deungnokgeum",
+      "vyslov_hangul": "등녹끔",
+      "cs": "školné (na univerzitě)",
+      "en": "tuition",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "대학교 등록금{이} 너무 비싸서 아르바이트{를} 해요.",
+      "priklad_cs": "Školné na univerzitě je moc drahé, tak brigádničím. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "登錄 zápis (登 vystoupit + 錄 zapsat) + 金 peníze = peníze za zápis. Výslovnost [등녹끔].",
+      "koreny": [
+        "deung-登",
+        "rok-錄",
+        "geum-金"
+      ],
+      "rodina": [
+        "등록하다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0978",
+      "tema": "bydlení",
+      "slovo": "수도세",
+      "vyslovnost": "sudose",
+      "cs": "poplatek za vodu",
+      "en": "water bill",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "물{을} 사용하고 나서 내는 돈{이} 수도세예요.",
+      "priklad_cs": "Peníze, které platíš za spotřebovanou vodu, jsou vodné. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "水道 vodovod (水 voda + 道 cesta) + 稅 daň. Hovorově -세 i u poplatků (správně 수도 요금).",
+      "koreny": [
+        "su-水",
+        "do-道",
+        "se-稅"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0980",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0979",
+      "tema": "bydlení",
+      "slovo": "월세",
+      "vyslovnost": "wolse",
+      "vyslov_hangul": "월쎄",
+      "cs": "měsíční nájem",
+      "en": "monthly lease, monthly rent",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저{는} 매달 월세{를} 내고 살아요.",
+      "priklad_cs": "Bydlím v podnájmu a platím měsíční nájem. (는 → téma; 를 → 4. pád)",
+      "mnemo": "月 měsíc + 貰 nájem (ne 稅 daň!). Výslovnost [월쎄]. Srovnej 전세.",
+      "koreny": [
+        "wol-月",
+        "se-貰"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0981",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0980",
+      "tema": "bydlení",
+      "slovo": "전기세",
+      "vyslovnost": "jeongise",
+      "vyslov_hangul": "전기쎄",
+      "cs": "poplatek za elektřinu",
+      "en": "electricity bill",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "에너지 효율 등급{을} 확인해야 전기세{를} 아낄 수 있어요.",
+      "priklad_cs": "Musíš kontrolovat energetickou třídu, abys ušetřil za elektřinu. (을, 를 → 4. pád)",
+      "mnemo": "電氣 elektřina + 稅 daň (hovorově místo 전기 요금). Výslovnost [전기쎄].",
+      "koreny": [
+        "jeon-電",
+        "gi-氣",
+        "se-稅"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0978",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0981",
+      "tema": "bydlení",
+      "slovo": "전세",
+      "vyslovnost": "jeonse",
+      "cs": "nájem na velkou kauci (džonse)",
+      "en": "deposit lease (jeonse)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "전세{는} 큰돈{을} 한 번{에} 내고 집{을} 나갈 때 그 돈{을} 돌려받는 거예요.",
+      "priklad_cs": "Džonse znamená, že zaplatíš najednou velkou částku a při odchodu ti ji vrátí. (는 → téma; 을 → 4. pád; 에 → najednou)",
+      "mnemo": "傳 předat + 貰 nájem. Korejský systém: místo měsíčního nájmu složíš majiteli velkou kauci (보증금) a ta se ti na konci vrátí.",
+      "koreny": [
+        "jeon-傳",
+        "se-貰"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0979",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0982",
+      "tema": "peníze",
+      "slovo": "의료비",
+      "vyslovnost": "uiryobi",
+      "cs": "výdaje na zdravotní péči",
+      "en": "healthcare fee",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "나이{가} 들면서 의료비{가} 점점 늘어요.",
+      "priklad_cs": "S věkem výdaje za zdravotní péči postupně rostou. (가 → 1. pád)",
+      "mnemo": "醫療 lékařská péče (醫 lékař + 療 léčit) + 費 výdaj. Patří sem 진료비, 약값.",
+      "koreny": [
+        "ui-醫",
+        "ryo-療",
+        "bi-費"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0983",
+      "tema": "bydlení",
+      "slovo": "주거비",
+      "vyslovnost": "jugeobi",
+      "cs": "výdaje na bydlení",
+      "en": "housing expense",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "월세{하고} 관리비{는} 주거비예요.",
+      "priklad_cs": "Nájem a poplatky za správu domu jsou výdaje na bydlení. (하고 → a; 는 → téma)",
+      "mnemo": "住居 bydliště (住 bydlet + 居 pobývat) + 費 výdaj. Rejstřík workbooku uvádí „living expense“, podle cvičení jde o bydlení.",
+      "koreny": [
+        "ju-住",
+        "geo-居",
+        "bi-費"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0984",
+      "tema": "nemocnice",
+      "slovo": "진료비",
+      "vyslovnost": "jillyobi",
+      "vyslov_hangul": "질료비",
+      "cs": "poplatek za vyšetření a ošetření",
+      "en": "medical examination fee",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "보험{이} 없어서 진료비{가} 많이 나왔어요.",
+      "priklad_cs": "Neměl jsem pojištění, tak mi naúčtovali za ošetření hodně. (이, 가 → 1. pád)",
+      "mnemo": "診療 vyšetření a léčba (診 vyšetřit + 療 léčit) + 費 výdaj. Výslovnost [질료비].",
+      "koreny": [
+        "jin-診",
+        "ryo-療",
+        "bi-費"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0985",
+      "tema": "škola",
+      "slovo": "학원비",
+      "vyslovnost": "hagwonbi",
+      "vyslov_hangul": "하권비",
+      "cs": "školné za soukromé doučování (hagwon)",
+      "en": "private academy fee",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "영어 학원비{가} 한 달{에} 30만 원이에요.",
+      "priklad_cs": "Kurz angličtiny v hagwonu stojí 300 000 wonů měsíčně. (가 → 1. pád; 에 → za)",
+      "mnemo": "學院 soukromá škola, doučování + 費 výdaj. Výslovnost [하권비].",
+      "koreny": [
+        "hak-學",
+        "won-院",
+        "bi-費"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

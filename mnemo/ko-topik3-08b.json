@@ -1,0 +1,745 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 8 – textbook s. 78–83 (Part 2 어휘, 표현 -는/-은/-ㄴ 게 어때요?, 연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepisy poslechu (s. 153–154) + 어휘 색인; workbook 3-2 s. 10",
+  "karty": [
+    {
+      "id": "ko-topik3-0581",
+      "tema": "kariéra",
+      "slovo": "직업 체험을 해 보다",
+      "vyslovnost": "jigeop cheheomeul hae boda",
+      "vyslov_hangul": "지거 체허믈 해 보다",
+      "cs": "vyzkoušet si povolání (na zkoušku)",
+      "en": "to experience a job",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "직업 체험{을} 해 볼 수 있는 곳{을} 알아보고 있어요.",
+      "priklad_cs": "Zjišťuju, kde si můžu vyzkoušet různá povolání. (을 → 4. pád)",
+      "mnemo": "職業 povolání + 體驗 zážitek na vlastní kůži + 해 보다 zkusit.",
+      "koreny": [
+        "jik-職",
+        "eop-業",
+        "che-體",
+        "heom-驗"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "직업 체험을 해 보다",
+          "직업 체험을 해 봐요",
+          "직업 체험을 해 봤어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0582",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0582",
+      "tema": "kariéra",
+      "slovo": "체험",
+      "vyslovnost": "cheheom",
+      "cs": "zážitek, vlastní zkušenost",
+      "en": "experience",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "직업 체험 박람회{에서} 여러 직업{을} 직접 체험할 수 있어요.",
+      "priklad_cs": "Na veletrhu povolání si můžeš různé profese vyzkoušet na vlastní kůži. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "體 tělo + 驗 zkouška = vyzkoušet na vlastním těle. Srovnej 경험 (zkušenost obecně).",
+      "koreny": [
+        "che-體",
+        "heom-驗"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0581",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0583",
+      "tema": "kariéra",
+      "slovo": "적성 검사",
+      "vyslovnost": "jeokseong geomsa",
+      "vyslov_hangul": "적썽 검사",
+      "cs": "test předpokladů, test profesní orientace",
+      "en": "aptitude test",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "취업 상담실{에} 가서 적성 검사{를} 한번 받아 보는 게 어때?",
+      "priklad_cs": "Co zajít do kariérní poradny a udělat si test předpokladů? (에 → kam; 를 → 4. pád)",
+      "mnemo": "適性 vlohy + 檢査 kontrola. Pokrývá i cílové spojení 적성 검사를 하다 (받다).",
+      "koreny": [
+        "jeok-適",
+        "seong-性",
+        "geom-檢",
+        "sa-査"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0561",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0584",
+      "tema": "kariéra",
+      "slovo": "검사",
+      "vyslovnost": "geomsa",
+      "cs": "kontrola, vyšetření, test",
+      "en": "checking",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "검사{를} 하고 나면 상담 선생님{이} 결과{를} 알려 줘요.",
+      "priklad_cs": "Po testu vám poradce řekne výsledek. (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "檢 prověřit + 査 zkoumat. 검사하다 / 검사를 받다 (podstoupit vyšetření).",
+      "koreny": [
+        "geom-檢",
+        "sa-査"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0583",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0585",
+      "tema": "kariéra",
+      "slovo": "유망하다",
+      "alternativy": [
+        "유망"
+      ],
+      "vyslovnost": "yumanghada",
+      "cs": "perspektivní, slibný",
+      "en": "promising",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 로봇 분야{가} 유망해요.",
+      "priklad_cs": "Dnes je obor robotiky perspektivní. (가 → 1. pád)",
+      "mnemo": "有 mít + 望 naděje = mající naději. Rejstřík uvádí kmen 유망 (유망 직종).",
+      "koreny": [
+        "yu-有",
+        "mang-望"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "유망하다",
+          "유망해요",
+          "유망했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0587",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0586",
+      "tema": "kariéra",
+      "slovo": "직종",
+      "vyslovnost": "jikjong",
+      "vyslov_hangul": "직쫑",
+      "cs": "druh zaměstnání, profese",
+      "en": "job, occupation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "앞으로 어떤 직종{이} 인기{가} 있을까요?",
+      "priklad_cs": "Které profese budou v budoucnu žádané? (이, 가 → 1. pád)",
+      "mnemo": "職 zaměstnání + 種 druh = druh zaměstnání.",
+      "koreny": [
+        "jik-職",
+        "jong-種"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0587",
+      "tema": "kariéra",
+      "slovo": "유망 직종을 찾아보다",
+      "vyslovnost": "yumang jikjongeul chajaboda",
+      "vyslov_hangul": "유망 직쫑을 차자보다",
+      "cs": "hledat perspektivní profese",
+      "en": "to search for promising occupations",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "미래{의} 유망 직종{을} 찾아봤는데 로봇 분야{가} 전망{이} 좋아요.",
+      "priklad_cs": "Hledal jsem perspektivní profese budoucnosti a robotika má dobré vyhlídky. (의 → 2. pád; 을 → 4. pád; 가, 이 → 1. pád)",
+      "mnemo": "有望 slibný + 職種 profese + 찾아보다 vyhledat.",
+      "koreny": [
+        "yu-有",
+        "mang-望",
+        "jik-職",
+        "jong-種"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "유망 직종을 찾아보다",
+          "유망 직종을 찾아봐요",
+          "유망 직종을 찾아봤어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0585",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0588",
+      "tema": "kariéra",
+      "slovo": "인턴십",
+      "vyslovnost": "inteonsip",
+      "cs": "stáž (program stáže)",
+      "en": "internship",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "방학 때 그 회사 인턴십{에} 참가해 보는 게 어때요?",
+      "priklad_cs": "Co se o prázdninách zúčastnit stáže v té firmě? (에 → čeho)",
+      "mnemo": "Pokrývá i cílové spojení 인턴십에 참가하다. 인턴 = stážista.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "internship"
+      },
+      "viz_tez": "ko-topik3-0032",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0589",
+      "tema": "práce",
+      "slovo": "무역",
+      "vyslovnost": "muyeok",
+      "cs": "obchod (zahraniční), import a export",
+      "en": "trade",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "제 전공{이} 무역이라서 무역{과} 관련된 일{을} 하고 싶어요.",
+      "priklad_cs": "Studuju zahraniční obchod, tak chci dělat práci, která s ním souvisí. (이 → 1. pád; 과 → s; 을 → 4. pád)",
+      "mnemo": "貿 obchodovat + 易 vyměnit = směna zboží. 무역 회사 = obchodní firma.",
+      "koreny": [
+        "mu-貿",
+        "yeok-易"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0590",
+      "tema": "kariéra",
+      "slovo": "조언",
+      "vyslovnost": "joeon",
+      "cs": "rada",
+      "en": "advice",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "선배{에게} 진로{에} 대해 조언{을} 구했어요.",
+      "priklad_cs": "Požádal jsem staršího spolužáka o radu ohledně dalšího směru. (에게 → 3. pád; 에 대해 → o; 을 → 4. pád)",
+      "mnemo": "助 pomoci + 言 slovo = pomocné slovo. 조언하다 = poradit, 조언을 해 주다.",
+      "koreny": [
+        "jo-助",
+        "eon-言"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0591",
+      "tema": "škola",
+      "slovo": "집중",
+      "vyslovnost": "jipjung",
+      "vyslov_hangul": "집쭝",
+      "cs": "soustředění",
+      "en": "concentration",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이번 방학{부터} 집중해서 외국어 공부{를} 해 볼 거예요.",
+      "priklad_cs": "Od těchto prázdnin se budu soustředěně učit cizí jazyk. (부터 → od; 를 → 4. pád)",
+      "mnemo": "集 shromáždit + 中 střed = soustředit do středu. Rejstřík uvádí 집중하다; 집중력 = schopnost soustředit se.",
+      "koreny": [
+        "jip-集",
+        "jung-中"
+      ],
+      "rodina": [
+        "집중력"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0592",
+      "tema": "práce",
+      "slovo": "사원",
+      "vyslovnost": "sawon",
+      "cs": "zaměstnanec (firmy)",
+      "en": "employee",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "사원 게시판{을} 보는 게 어때요? 가끔 룸메이트{를} 찾는 글들{이} 있었어요.",
+      "priklad_cs": "Co se podívat na nástěnku pro zaměstnance? Občas tam byly inzeráty na spolubydlícího. (을, 를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "社 firma + 員 člen = člen firmy. 신입 사원 = nový zaměstnanec. Srovnej 직원.",
+      "koreny": [
+        "sa-社",
+        "won-員"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0593",
+      "tema": "každodenní život",
+      "slovo": "앱",
+      "vyslovnost": "aep",
+      "cs": "aplikace (v mobilu)",
+      "en": "application, app",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "핸드폰 앱{을} 사용하는 게 어때? 미리 일정{을} 알려 줘서 정말 좋아.",
+      "priklad_cs": "Co používat aplikaci v mobilu? Připomene ti program předem, je to super. (을 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "app"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0594",
+      "tema": "každodenní život",
+      "slovo": "일정",
+      "vyslovnost": "iljeong",
+      "vyslov_hangul": "일쩡",
+      "cs": "program, rozvrh, harmonogram",
+      "en": "schedule",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 중요한 일정{을} 자꾸 잊어버려서 고민이에요.",
+      "priklad_cs": "Poslední dobou pořád zapomínám důležité termíny, a to mě trápí. (을 → 4. pád)",
+      "mnemo": "日 den + 程 úsek cesty = rozpis dní. 일정을 잡다 = naplánovat termín.",
+      "koreny": [
+        "il-日",
+        "jeong-程"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0595",
+      "tema": "kariéra",
+      "slovo": "관계되다",
+      "vyslovnost": "gwangyedoeda",
+      "cs": "souviset, týkat se",
+      "en": "to be involved in, to be related",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "저{는} 전공{과} 관계된 일{을} 하고 싶어요.",
+      "priklad_cs": "Chci dělat práci, která souvisí s mým oborem. (는 → téma; 과 → s; 을 → 4. pád)",
+      "mnemo": "關 spojení + 係 vázat = být svázán. ~와/과 관계되다 = souviset s… Srovnej 관련되다.",
+      "koreny": [
+        "gwan-關",
+        "gye-係"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "관계되다",
+          "관계돼요",
+          "관계됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0543",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0596",
+      "tema": "kariéra",
+      "slovo": "구체적",
+      "vyslovnost": "guchejeok",
+      "cs": "konkrétní (구체적으로 = konkrétně)",
+      "en": "specific",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "상담 선생님{이} 적성{과} 관련된 구체적인 직업{도} 알려 줘요.",
+      "priklad_cs": "Poradce vám řekne i konkrétní povolání, která odpovídají vašim vlohám. (이 → 1. pád; 과 → s; 도 → i)",
+      "mnemo": "具 vybavit + 體 tělo + 的 -ový = mající tělo, hmatatelný. Opak 추상적.",
+      "koreny": [
+        "gu-具",
+        "che-體",
+        "jeok-的"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0597",
+      "tema": "kariéra",
+      "slovo": "다가오다",
+      "vyslovnost": "dagaoda",
+      "cs": "blížit se, přiblížit se",
+      "en": "to approach",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "졸업{이} 다가오는데 뭘 해야 할지 모르겠어요.",
+      "priklad_cs": "Blíží se konec studia a nevím, co mám dělat. (이 → 1. pád)",
+      "mnemo": "다가 (blíž) + 오다 přijít = přijít blíž. Hodí se na čas i lidi: 시험이 다가와요.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "다가오다",
+          "다가와요",
+          "다가왔어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0598",
+      "tema": "kariéra",
+      "slovo": "박람회",
+      "vyslovnost": "bangnamhoe",
+      "vyslov_hangul": "방남회",
+      "cs": "veletrh, výstava",
+      "en": "exposition, exhibition",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "저{는} 지금 직업 체험 박람회 현장{에} 나와 있어요.",
+      "priklad_cs": "Jsem právě na místě veletrhu povolání. (는 → téma; 에 → kde)",
+      "mnemo": "博 široký + 覽 prohlížet + 會 setkání = setkání, kde si prohlížíš všechno možné. 취업 박람회 = veletrh pracovních příležitostí.",
+      "koreny": [
+        "bak-博",
+        "ram-覽",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0599",
+      "tema": "kariéra",
+      "slovo": "열기",
+      "vyslovnost": "yeolgi",
+      "cs": "nadšení, zápal; horko",
+      "en": "heat",
+      "cs_upresneni": "nadšení, žár (atmosféra)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "박람회{의} 열기{가} 뜨거워요.",
+      "priklad_cs": "Na veletrhu panuje velké nadšení. (의 → 2. pád; 가 → 1. pád)",
+      "mnemo": "熱 horko + 氣 energie = horká atmosféra. 열기가 뜨겁다 = je tam živo, panuje nadšení.",
+      "koreny": [
+        "yeol-熱",
+        "gi-氣"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0600",
+      "tema": "kariéra",
+      "slovo": "감독",
+      "vyslovnost": "gamdok",
+      "cs": "režisér; trenér; dozor",
+      "en": "director",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "드론{을} 사용하는 무인 항공 촬영 감독{을} 직접 볼 수 있어요.",
+      "priklad_cs": "Můžete tu na vlastní oči vidět kameramana, který natáčí z dronu. (을 → 4. pád)",
+      "mnemo": "監 dohlížet + 督 řídit. 영화감독 = filmový režisér, 축구 감독 = trenér.",
+      "koreny": [
+        "gam-監",
+        "dok-督"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0601",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0601",
+      "tema": "kariéra",
+      "slovo": "촬영",
+      "vyslovnost": "chwaryeong",
+      "vyslov_hangul": "촤령",
+      "cs": "natáčení, fotografování",
+      "en": "filming",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘{은} 드론{으로} 항공 촬영{을} 많이 해요.",
+      "priklad_cs": "Dnes se hodně natáčí ze vzduchu dronem. (은 → téma; 으로 → čím; 을 → 4. pád)",
+      "mnemo": "撮 zachytit + 影 obraz = zachytit obraz. Srovnej 사진 촬영.",
+      "koreny": [
+        "chwal-撮",
+        "yeong-影"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0144",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0602",
+      "tema": "kariéra",
+      "slovo": "항공",
+      "vyslovnost": "hanggong",
+      "cs": "letectví, letecký",
+      "en": "flight",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "무인 항공 촬영{은} 새로운 직업이에요.",
+      "priklad_cs": "Natáčení z bezpilotních letadel je nové povolání. (은 → téma)",
+      "mnemo": "航 plout + 空 prázdno, nebe = plavba nebem. 항공권 = letenka, 항공사 = aerolinka.",
+      "koreny": [
+        "hang-航",
+        "gong-空"
+      ],
+      "rodina": [
+        "항공권"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0603",
+      "tema": "každodenní život",
+      "slovo": "반려동물",
+      "vyslovnost": "ballyeodongmul",
+      "vyslov_hangul": "발려동물",
+      "cs": "domácí mazlíček",
+      "en": "pets",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "반려동물{을} 돌봐 주는 돌보미{도} 새로운 직업이에요.",
+      "priklad_cs": "Hlídač domácích mazlíčků je také nové povolání. (을 → 4. pád; 도 → také)",
+      "mnemo": "伴侶 společník + 動物 zvíře = zvířecí společník. Dnes se říká raději než 애완동물.",
+      "koreny": [
+        "ban-伴",
+        "ryeo-侶",
+        "dong-動",
+        "mul-物"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0604",
+      "tema": "kariéra",
+      "slovo": "회계사",
+      "vyslovnost": "hoegyesa",
+      "cs": "účetní (auditor)",
+      "en": "accountant",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "넌 성격{이} 꼼꼼하고 수학{도} 잘하니까 회계사 준비{를} 해 보는 게 어때?",
+      "priklad_cs": "Jsi pečlivý a jde ti matematika, co se připravovat na účetního? (이 → 1. pád; 도 → i; 를 → 4. pád)",
+      "mnemo": "會計 účetnictví (會 sečíst + 計 počítat) + 士 odborník.",
+      "koreny": [
+        "hoe-會",
+        "gye-計",
+        "sa-士"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0605",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0605",
+      "tema": "kariéra",
+      "slovo": "꼼꼼하다",
+      "vyslovnost": "kkomkkomhada",
+      "cs": "pečlivý, důkladný",
+      "en": "to be meticulous",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "케빈 씨{는} 성격{이} 꼼꼼해요.",
+      "priklad_cs": "Kevin je pečlivá povaha. (는 → téma; 이 → 1. pád)",
+      "mnemo": "„KOM-KOM“ – kontroluje KOMa po KOMě, každou čárku.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "꼼꼼하다",
+          "꼼꼼해요",
+          "꼼꼼했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0604",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0606",
+      "tema": "kariéra",
+      "slovo": "접하다",
+      "vyslovnost": "jeopada",
+      "vyslov_hangul": "저파다",
+      "cs": "setkat se (s čím), přijít do styku",
+      "en": "to come across, to encounter",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "우리{가} 접하는 직업들{은} 매우 한정되어 있어요.",
+      "priklad_cs": "Povolání, se kterými přicházíme do styku, jsou velmi omezená. (가 → 1. pád; 은 → téma)",
+      "mnemo": "接 dotknout se. ~을/를 접하다 = setkat se s…, poznat (kulturu, informaci).",
+      "koreny": [
+        "jeop-接"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "접하다",
+          "접해요",
+          "접했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0607",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0607",
+      "tema": "kariéra",
+      "slovo": "한정되다",
+      "vyslovnost": "hanjeongdoeda",
+      "cs": "být omezený (na)",
+      "en": "to be limited",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "참가 인원{이} 30명{으로} 한정돼 있어요.",
+      "priklad_cs": "Počet účastníků je omezen na 30. (이 → 1. pád; 으로 → na)",
+      "mnemo": "限 mez + 定 stanovit = stanovená mez. Srovnej 한정판 (limitovaná edice).",
+      "koreny": [
+        "han-限",
+        "jeong-定"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "한정되다",
+          "한정돼요",
+          "한정됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0606",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0608",
+      "tema": "kariéra",
+      "slovo": "안정적",
+      "vyslovnost": "anjeongjeok",
+      "cs": "stabilní, jistý (안정적이다)",
+      "en": "stable",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "선생님{은} 안정적이고 연금{도} 나와요.",
+      "priklad_cs": "Práce učitele je jistá a dostaneš i penzi. (은 → téma; 도 → i)",
+      "mnemo": "安定 stabilita + 的 -ový. 안정적이다 = být stabilní.",
+      "koreny": [
+        "an-安",
+        "jeong-定",
+        "jeok-的"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0566",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0609",
+      "tema": "práce",
+      "slovo": "연금",
+      "vyslovnost": "yeongeum",
+      "cs": "penze, důchod",
+      "en": "pension",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "회사{를} 고를 때 보험{이나} 연금{도} 중요해요.",
+      "priklad_cs": "Když si vybíráš firmu, je důležité i pojištění a penze. (를 → 4. pád; 이나 → nebo; 도 → i)",
+      "mnemo": "年 rok + 金 peníze = peníze vyplácené každý rok. 연금이 나오다 = dostávat penzi.",
+      "koreny": [
+        "yeon-年",
+        "geum-金"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0569",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0610",
+      "tema": "gramatika",
+      "slovo": "-는/-(으)ㄴ 게 어때요?",
+      "vyslovnost": "-neun/-(eu)n ge eottaeyo?",
+      "cs": "co kdybys …? nebylo by lepší …?",
+      "en": "how about …?",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "그럼 방학 때 그 회사 인턴십{에} 참가해 보는 게 어때요?",
+      "priklad_cs": "Co kdybyste se o prázdninách zúčastnil stáže v té firmě? (에 → čeho)",
+      "mnemo": "게 = 것이. Návrh nebo rada. Sloveso -는 (보는), přídavné jméno po souhlásce -은 (작은), po samohlásce -ㄴ (싼). ㄹ odpadá: 놀다 → 노는, 길다 → 긴. Hovorově bez -요: 어때?",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

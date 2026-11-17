@@ -1,0 +1,669 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 10 – textbook s. 92–93 (Part 1 어휘 + …마다), workbook 3-2 s. 30 + 어휘 색인 textbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-0688",
+      "tema": "kultura",
+      "slovo": "문화",
+      "vyslovnost": "munhwa",
+      "cs": "kultura",
+      "en": "culture",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "나라{마다} 문화{가} 달라요.",
+      "priklad_cs": "Každá země má jinou kulturu. (마다 → každý; 가 → 1. pád)",
+      "mnemo": "文 písmo + 化 proměna = proměna lidí písmem a vzděláním. 문화 차이 = kulturní rozdíl.",
+      "koreny": [
+        "mun-文",
+        "hwa-化"
+      ],
+      "rodina": [
+        "문화생활"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0689",
+      "tema": "kultura",
+      "slovo": "차이",
+      "vyslovnost": "chai",
+      "cs": "rozdíl",
+      "en": "difference",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "한국{과} 우리 나라{는} 문화 차이{가} 커요.",
+      "priklad_cs": "Mezi Koreou a mou zemí je velký kulturní rozdíl. (과 → a; 는 → téma; 가 → 1. pád)",
+      "mnemo": "差 rozdíl + 異 odlišný. 차이가 나다 = lišit se.",
+      "koreny": [
+        "cha-差",
+        "i-異"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0690",
+      "tema": "kultura",
+      "slovo": "인사",
+      "vyslovnost": "insa",
+      "cs": "pozdrav, pozdravení",
+      "en": "greeting",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "한국{에서는} 인사{를} 할 때 고개{를} 숙여요.",
+      "priklad_cs": "V Koreji se při pozdravu ukloní hlavou. (에서는 → kde + důraz; 를 → 4. pád)",
+      "mnemo": "人 člověk + 事 věc = věc mezi lidmi. 인사하다 = pozdravit.",
+      "koreny": [
+        "in-人",
+        "sa-事"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0755",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0691",
+      "tema": "kultura",
+      "slovo": "고개",
+      "vyslovnost": "gogae",
+      "cs": "hlava (s krkem)",
+      "en": "head",
+      "cs_upresneni": "hlava (고개를 숙이다), ne horský průsmyk",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어른{에게} 고개{를} 숙이면서 인사해요.",
+      "priklad_cs": "Staršího zdravím s úklonou hlavy. (에게 → 3. pád; 를 → 4. pád)",
+      "mnemo": "고개를 숙이다 = sklonit hlavu, 고개를 끄덕이다 = přikývnout. Stejně znějící 고개 = horský průsmyk.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0692",
+      "tema": "kultura",
+      "slovo": "숙이다",
+      "vyslovnost": "sugida",
+      "cs": "sklonit (hlavu), sehnout se",
+      "en": "to bow, to bend",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "고개{를} 숙여서 인사하세요.",
+      "priklad_cs": "Pozdravte úklonou hlavy. (를 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "숙이다",
+          "숙여요",
+          "숙였어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0693",
+      "tema": "kultura",
+      "slovo": "두 손을 모으다",
+      "vyslovnost": "du soneul moeuda",
+      "vyslov_hangul": "두 소늘 모으다",
+      "cs": "sepnout ruce (před sebou)",
+      "en": "to put one's hands together",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "두 손{을} 모으고 고개{를} 숙여서 인사해요.",
+      "priklad_cs": "Sepne ruce a ukloní se. (을, 를 → 4. pád)",
+      "mnemo": "모으다 = shromáždit: obě ruce dáš k sobě. Srovnej 돈을 모으다 (šetřit peníze).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "두 손을 모으다",
+          "두 손을 모아요",
+          "두 손을 모았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0031",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0694",
+      "tema": "kultura",
+      "slovo": "볼",
+      "vyslovnost": "bol",
+      "cs": "tvář (líce)",
+      "en": "cheek",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "어떤 나라{에서는} 인사할 때 볼{을} 맞대요.",
+      "priklad_cs": "V některých zemích se při pozdravu dotknou tvářemi. (에서는 → kde + důraz; 을 → 4. pád)",
+      "mnemo": "„BOL“ – BOLí tě tvář od samých pusinek. Pozor: 볼 je i tvar od 보다 (볼 거예요).",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0695",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0695",
+      "tema": "kultura",
+      "slovo": "볼을 맞대다",
+      "vyslovnost": "boreul matdaeda",
+      "vyslov_hangul": "보를 맏때다",
+      "cs": "přitisknout se tvářemi (při pozdravu)",
+      "en": "to touch cheeks",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "프랑스{에서는} 볼{을} 맞대고 인사하는 경우{가} 많아요.",
+      "priklad_cs": "Ve Francii se lidé často zdraví přitisknutím tváří. (에서는 → kde + důraz; 을 → 4. pád; 가 → 1. pád)",
+      "mnemo": "맞- proti sobě + 대다 přiložit = přiložit tvář k tváři.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "볼을 맞대다",
+          "볼을 맞대요",
+          "볼을 맞댔어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0694",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0696",
+      "tema": "kultura",
+      "slovo": "흔들다",
+      "vyslovnost": "heundeulda",
+      "cs": "mávat (čím), třást (čím)",
+      "en": "to shake",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "우리 나라{에서는} 손{을} 흔들면서 인사{를} 해요.",
+      "priklad_cs": "U nás se zdravíme máváním ruky. (에서는 → kde + důraz; 을, 를 → 4. pád)",
+      "mnemo": "손을 흔들다 = zamávat. 흔들리다 = třást se, kývat se.",
+      "rodina": [
+        "흔들리다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "흔들다",
+          "흔들어요",
+          "흔들었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0697",
+      "tema": "jídlo",
+      "slovo": "식사",
+      "vyslovnost": "siksa",
+      "vyslov_hangul": "식싸",
+      "cs": "jídlo (oběd, večeře), stolování",
+      "en": "meal",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "식사{를} 할 때 밥그릇{을} 들고 먹으면 안 돼요.",
+      "priklad_cs": "Při jídle se miska s rýží nezvedá. (를, 을 → 4. pád)",
+      "mnemo": "食 jíst + 事 věc. Zdvořilé 식사하셨어요? = Už jste jedl?",
+      "koreny": [
+        "sik-食",
+        "sa-事"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0698",
+      "tema": "jídlo",
+      "slovo": "밥그릇",
+      "vyslovnost": "bapgeureut",
+      "vyslov_hangul": "밥끄륻",
+      "cs": "miska na rýži",
+      "en": "rice bowl",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한국{에서는} 밥그릇{을} 들고 먹지 않아요.",
+      "priklad_cs": "V Koreji se miska s rýží při jídle nezvedá. (에서는 → kde + důraz; 을 → 4. pád)",
+      "mnemo": "밥 rýže + 그릇 miska.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0673",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0699",
+      "tema": "jídlo",
+      "slovo": "수저",
+      "vyslovnost": "sujeo",
+      "cs": "lžíce a hůlky (příbor)",
+      "en": "spoon and chopsticks",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "식사할 때 수저{를} 사용해요.",
+      "priklad_cs": "Při jídle se používá lžíce s hůlkami. (를 → 4. pád)",
+      "mnemo": "숟가락 lžíce + 젓가락 hůlky v jednom slově.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0700",
+      "tema": "kultura",
+      "slovo": "좌식",
+      "vyslovnost": "jwasik",
+      "cs": "sezení na podlaze (způsob bydlení)",
+      "en": "sedentary (sitting on the floor)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한국 사람들{은} 옛날{부터} 좌식 생활{을} 했어요.",
+      "priklad_cs": "Korejci odedávna žili tak, že se sedí na podlaze. (은 → téma; 부터 → od; 을 → 4. pád)",
+      "mnemo": "坐 sedět + 式 způsob. 좌식 생활을 하다 = žít „na podlaze“ (sedět, jíst, spát). Opak 입식.",
+      "koreny": [
+        "jwa-坐",
+        "sik-式"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0701",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0701",
+      "tema": "kultura",
+      "slovo": "입식",
+      "vyslovnost": "ipsik",
+      "vyslov_hangul": "입씩",
+      "cs": "bydlení u stolu a na židlích",
+      "en": "living with chairs (western style)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘{에는} 입식 생활{을} 하는 경우{도} 많아요.",
+      "priklad_cs": "Dnes také mnoho lidí žije „na židlích“. (에는 → kdy + důraz; 을 → 4. pád; 도 → i)",
+      "mnemo": "立 stát + 式 způsob = „vestoje“, tedy u vysokého stolu a na židlích. Opak 좌식.",
+      "koreny": [
+        "ip-立",
+        "sik-式"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0700",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0702",
+      "tema": "kultura",
+      "slovo": "신발",
+      "vyslovnost": "sinbal",
+      "cs": "obuv, boty",
+      "en": "shoes",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "한국{에서는} 신발{을} 벗고 집{에} 들어가요.",
+      "priklad_cs": "V Koreji se do domu vchází bez bot. (에서는 → kde + důraz; 을 → 4. pád; 에 → do)",
+      "mnemo": "신다 obout + 발 noha.",
+      "rodina": [
+        "신다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0703",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0703",
+      "tema": "kultura",
+      "slovo": "벗다",
+      "vyslovnost": "beotda",
+      "vyslov_hangul": "벋따",
+      "cs": "svléknout, zout, sundat",
+      "en": "to take off",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "방{에} 들어갈 때 신발{을} 벗어야 해요.",
+      "priklad_cs": "Když vcházíte do pokoje, musíte se zout. (에 → do; 을 → 4. pád)",
+      "mnemo": "„BOT-da“ – BOTY dolů! Opak: 입다 (oblečení), 신다 (boty), 쓰다 (čepice, brýle).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "벗다",
+          "벗어요",
+          "벗었어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0702",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0704",
+      "tema": "kultura",
+      "slovo": "낮잠",
+      "vyslovnost": "natjam",
+      "vyslov_hangul": "낟짬",
+      "cs": "zdřímnutí přes den, siesta",
+      "en": "nap",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어떤 나라{에는} 낮잠{을} 자는 시간{이} 있어요.",
+      "priklad_cs": "V některých zemích mají čas na odpolední spánek. (에는 → kde + důraz; 을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "낮 den + 잠 spánek. 낮잠을 자다 = zdřímnout si.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0705",
+      "tema": "kultura",
+      "slovo": "성",
+      "vyslovnost": "seong",
+      "cs": "příjmení",
+      "en": "family name, surname",
+      "cs_upresneni": "příjmení (姓), ne hrad ani pohlaví",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어떤 나라{에서는} 결혼 후{에} 성{이} 바뀌어요.",
+      "priklad_cs": "V některých zemích se po svatbě mění příjmení. (에서는 → kde + důraz; 에 → kdy; 이 → 1. pád)",
+      "mnemo": "姓 příjmení. 성이 뭐예요? = Jaké je vaše příjmení? Stejně znějící 성 = hrad, pohlaví.",
+      "koreny": [
+        "seong-姓"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0706",
+      "tema": "kultura",
+      "slovo": "바뀌다",
+      "vyslovnost": "bakkwida",
+      "cs": "změnit se, vyměnit se",
+      "en": "to be changed",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "결혼 후{에} 성{이} 바뀌었어요.",
+      "priklad_cs": "Po svatbě se mi změnilo příjmení. (에 → kdy; 이 → 1. pád)",
+      "mnemo": "Trpný tvar od 바꾸다: 바꾸다 = měním já, 바뀌다 = mění se samo.",
+      "rodina": [
+        "바꾸다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "바뀌다",
+          "바뀌어요",
+          "바뀌었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0707",
+      "tema": "zdvořilost",
+      "slovo": "야단맞다",
+      "vyslovnost": "yadanmatda",
+      "vyslov_hangul": "야단맏따",
+      "cs": "dostat vynadáno",
+      "en": "to be scolded",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "야단맞을 때 어른{의} 눈{을} 쳐다보면 안 돼요.",
+      "priklad_cs": "Když vám starší nadává, nesmíte se mu dívat do očí. (의 → 2. pád; 을 → 4. pád)",
+      "mnemo": "야단 hubování + 맞다 dostat (ránu). 야단치다 = vynadat (komu).",
+      "koreny": [
+        "ya-惹",
+        "dan-端"
+      ],
+      "rodina": [
+        "야단치다"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "야단맞다",
+          "야단맞아요",
+          "야단맞았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0708",
+      "tema": "zdvořilost",
+      "slovo": "쳐다보다",
+      "vyslovnost": "chyeodaboda",
+      "vyslov_hangul": "처다보다",
+      "cs": "podívat se (na koho), upřeně hledět",
+      "en": "to glance at, to look at",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "모르는 사람{이} 저{를} 계속 쳐다봐서 당황했어요.",
+      "priklad_cs": "Neznámý člověk na mě pořád zíral, tak jsem byl v rozpacích. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "쳐다 (vzhůru, směrem k někomu) + 보다 dívat se. ㅕ po ㅊ se vyslovuje jako ㅓ: [처다보다].",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "쳐다보다",
+          "쳐다봐요",
+          "쳐다봤어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0709",
+      "tema": "kultura",
+      "slovo": "욕실",
+      "vyslovnost": "yoksil",
+      "vyslov_hangul": "욕씰",
+      "cs": "koupelna",
+      "en": "bathroom",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "우리 나라{는} 욕실{과} 화장실{이} 분리되어 있어요.",
+      "priklad_cs": "U nás jsou koupelna a záchod oddělené. (는 → téma; 과 → a; 이 → 1. pád)",
+      "mnemo": "浴 koupat se + 室 místnost.",
+      "koreny": [
+        "yok-浴",
+        "sil-室"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0710",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0710",
+      "tema": "kultura",
+      "slovo": "화장실",
+      "vyslovnost": "hwajangsil",
+      "cs": "toaleta, záchod",
+      "en": "restroom, toilet",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "화장실{이} 어디{에} 있어요?",
+      "priklad_cs": "Kde je toaleta? (이 → 1. pád; 에 → kde)",
+      "mnemo": "化粧 líčení + 室 místnost = místnost na upravení se. V Koreji bývá záchod v koupelně.",
+      "koreny": [
+        "hwa-化",
+        "jang-粧",
+        "sil-室"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0709",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0711",
+      "tema": "kultura",
+      "slovo": "분리되다",
+      "vyslovnost": "bullidoeda",
+      "vyslov_hangul": "불리되다",
+      "cs": "být oddělený, oddělit se",
+      "en": "to detach, to be separated",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "한국{은} 보통 욕실{과} 화장실{이} 분리되어 있지 않아요.",
+      "priklad_cs": "V Koreji obvykle koupelna a záchod oddělené nejsou. (은 → téma; 과 → a; 이 → 1. pád)",
+      "mnemo": "分 dělit + 離 oddělit. ㄴ + ㄹ se čte [ㄹㄹ]: [불리]. 분리수거 = třídění odpadu.",
+      "koreny": [
+        "bun-分",
+        "ri-離"
+      ],
+      "rodina": [
+        "분리하다",
+        "분리수거"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "분리되다",
+          "분리돼요",
+          "분리됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0712",
+      "tema": "kultura",
+      "slovo": "느끼다",
+      "vyslovnost": "neukkida",
+      "cs": "cítit, pociťovat",
+      "en": "to feel",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "처음 한국{에} 왔을 때 문화 차이{를} 많이 느꼈어요.",
+      "priklad_cs": "Když jsem poprvé přijel do Koreje, hodně jsem pociťoval kulturní rozdíly. (에 → kam; 를 → 4. pád)",
+      "mnemo": "Podstatné jméno 느낌 = pocit, dojem.",
+      "rodina": [
+        "느낌"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "느끼다",
+          "느껴요",
+          "느꼈어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0713",
+      "tema": "kultura",
+      "slovo": "낯설다",
+      "vyslovnost": "natseolda",
+      "vyslov_hangul": "낟썰다",
+      "cs": "neznámý, cizí, nezvyklý",
+      "en": "to be unfamiliar",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국 문화{가} 낯설어서 힘들었어요.",
+      "priklad_cs": "Korejská kultura mi byla cizí, tak to bylo těžké. (가 → 1. pád)",
+      "mnemo": "낯 tvář + 설다 nezralý, nezvyklý = neznámá tvář. Opak 익숙하다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "낯설다",
+          "낯설어요",
+          "낯설었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0714",
+      "tema": "jídlo",
+      "slovo": "외식",
+      "vyslovnost": "oesik",
+      "cs": "jídlo venku (v restauraci)",
+      "en": "eating out",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "리나 씨{는} 외식{을} 자주 해요?",
+      "priklad_cs": "Rino, chodíš často jíst ven? (는 → téma; 을 → 4. pád)",
+      "mnemo": "外 venku + 食 jídlo.",
+      "koreny": [
+        "oe-外",
+        "sik-食"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0715",
+      "tema": "gramatika",
+      "slovo": "…마다",
+      "vyslovnost": "-mada",
+      "cs": "každý, v každém; pokaždé (když)",
+      "en": "every, each (all occurrences / recurring situation)",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "사람{마다} 얼굴{이} 다른 것처럼 성격{도} 달라요.",
+      "priklad_cs": "Stejně jako má každý člověk jiný obličej, má i jinou povahu. (마다 → každý; 이 → 1. pád; 도 → i)",
+      "mnemo": "Za podstatné jméno: 나라마다 = v každé zemi, 날마다 = každý den. S -을/ㄹ 때: 시간이 날 때마다 = pokaždé, když mám čas.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

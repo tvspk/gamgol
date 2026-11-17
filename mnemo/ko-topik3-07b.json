@@ -1,0 +1,578 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 7 본선에서 상을 탈 수 있었으면 좋겠어요 – textbook s. 66–67 (Part 2 어휘, -기는 하다) + 어휘 색인; workbook 3-1 s. 70",
+  "karty": [
+    {
+      "id": "ko-topik3-0515",
+      "tema": "pocity",
+      "slovo": "신나다",
+      "vyslovnost": "sinnada",
+      "cs": "být nadšený, mít radost (z toho, co se děje)",
+      "en": "to be excited",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "대회{에} 나간다고 생각하니까 너무 신나요.",
+      "priklad_cs": "Když si představím, že jdu do soutěže, mám hroznou radost. (에 → kam)",
+      "mnemo": "신 nadšení + 나다 vzniknout = nadšení se zvedne. 신 tu není 神 (bůh), je to původní slovo.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "신나다",
+          "신나요",
+          "신났어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0516",
+      "tema": "pocity",
+      "slovo": "설레다",
+      "vyslovnost": "seolleda",
+      "cs": "mít radostné vzrušení, chvět se očekáváním",
+      "en": "to be fluttered",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "처음{으로} 무대{에} 올라가니까 마음{이} 설레요.",
+      "priklad_cs": "Poprvé jdu na pódium a srdce se mi chvěje očekáváním. (으로 → poprvé; 에 → kam; 이 → 1. pád)",
+      "mnemo": "„SOLÉ“ (sólo) na pódiu: příjemné chvění. Strach a třes je 떨리다. Správně 설레다, ne 설레이다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "설레다",
+          "설레요",
+          "설렜어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0518",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0517",
+      "tema": "pocity",
+      "slovo": "긴장되다",
+      "alternativy": [
+        "긴장하다"
+      ],
+      "vyslovnost": "ginjangdoeda",
+      "cs": "být nervózní, mít trému",
+      "en": "to be tensed",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "발표회{가} 처음이라 긴장됐어요.",
+      "priklad_cs": "Bylo to moje první vystoupení, tak jsem měl trému. (가 → 1. pád)",
+      "mnemo": "緊 napjatý + 張 natáhnout = napnutý jako struna. 긴장하다 = znervóznět, 긴장되다 = být nervózní.",
+      "koreny": [
+        "gin-緊",
+        "jang-張"
+      ],
+      "rodina": [
+        "긴장"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "긴장되다",
+          "긴장돼요",
+          "긴장됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0518",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0518",
+      "tema": "pocity",
+      "slovo": "떨리다",
+      "vyslovnost": "tteollida",
+      "cs": "třást se (nervozitou, zimou)",
+      "en": "to shake",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "심사 위원들 앞{에서} 노래{를} 부르는데 너무 떨렸어요.",
+      "priklad_cs": "Zpíval jsem před porotou a strašně jsem se třásl. (에서 → kde; 를 → 4. pád)",
+      "mnemo": "Od 떨다 „třást“ (srov. 수다를 떨다). 목소리가 떨리다 = třese se hlas. Pozor: 털다 (vytřepat) se liší jen ㄸ/ㅌ.",
+      "rodina": [
+        "떨다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "떨리다",
+          "떨려요",
+          "떨렸어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0517",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0519",
+      "tema": "pocity",
+      "slovo": "걱정되다",
+      "alternativy": [
+        "걱정하다"
+      ],
+      "vyslovnost": "geokjeongdoeda",
+      "vyslov_hangul": "걱쩡되다",
+      "cs": "mít obavy, dělat si starosti",
+      "en": "to be worried",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "무대{에서} 실수할 것 같아서 걱정돼요.",
+      "priklad_cs": "Bojím se, že na pódiu udělám chybu. (에서 → kde)",
+      "mnemo": "걱정 starost (původní slovo) + 되다. 걱정 마세요 = nebojte se.",
+      "rodina": [
+        "걱정"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "걱정되다",
+          "걱정돼요",
+          "걱정됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0521",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0520",
+      "tema": "pocity",
+      "slovo": "기대되다",
+      "vyslovnost": "gidaedoeda",
+      "cs": "těšit se (na co), mít očekávání",
+      "en": "to be expected",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "다음 주 대회{가} 정말 기대돼요.",
+      "priklad_cs": "Na soutěž příští týden se moc těším. (가 → 1. pád)",
+      "mnemo": "期 období + 待 čekat = čekat na tu chvíli. 기대 = očekávání.",
+      "koreny": [
+        "gi-期",
+        "dae-待"
+      ],
+      "rodina": [
+        "기대"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "기대되다",
+          "기대돼요",
+          "기대됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0521",
+      "tema": "pocity",
+      "slovo": "불안하다",
+      "vyslovnost": "buranhada",
+      "vyslov_hangul": "부란하다",
+      "cs": "neklidný, úzkostný",
+      "en": "to be anxious, to be nervous",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "무대{에서} 실수할까 봐 불안했어요.",
+      "priklad_cs": "Měl jsem strach, abych na pódiu neudělal chybu. (에서 → kde)",
+      "mnemo": "不 ne + 安 klid = neklid. Opak: 안심이 되다.",
+      "koreny": [
+        "bul-不",
+        "an-安"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "불안하다",
+          "불안해요",
+          "불안했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0326",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0522",
+      "tema": "pocity",
+      "slovo": "두근거리다",
+      "vyslovnost": "dugeungeorida",
+      "cs": "bušit (o srdci)",
+      "en": "to be palpitated",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "제 이름{이} 나올 때 가슴{이} 두근거렸어요.",
+      "priklad_cs": "Když vyvolávali moje jméno, bušilo mi srdce. (이 → 1. pád)",
+      "mnemo": "두근두근 = buch-buch (zvuk srdce) + -거리다 (opakovaný děj).",
+      "rodina": [
+        "두근두근"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "두근거리다",
+          "두근거려요",
+          "두근거렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0523",
+      "tema": "pocity",
+      "slovo": "뿌듯하다",
+      "vyslovnost": "ppudeutada",
+      "vyslov_hangul": "뿌드타다",
+      "cs": "hřát u srdce (pocit hrdosti a naplnění)",
+      "en": "to be full (of pride)",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "발표{가} 끝나니까 뭔가 뿌듯해요.",
+      "priklad_cs": "Když prezentace skončila, mám takový hřejivý pocit hrdosti. (가 → 1. pád)",
+      "mnemo": "뿌듯 = nacpaný, plný: hruď se nadme po vykonané práci.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "뿌듯하다",
+          "뿌듯해요",
+          "뿌듯했어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0527",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0524",
+      "tema": "pocity",
+      "slovo": "후회되다",
+      "alternativy": [
+        "후회하다"
+      ],
+      "vyslovnost": "huhoedoeda",
+      "cs": "litovat (čeho)",
+      "en": "to be regret",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "연습{을} 많이 안 한 것{이} 정말 후회돼요.",
+      "priklad_cs": "Opravdu lituju, že jsem moc netrénoval. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "後 potom + 悔 litovat = lítost, která přijde až potom.",
+      "koreny": [
+        "hu-後",
+        "hoe-悔"
+      ],
+      "rodina": [
+        "후회"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "후회되다",
+          "후회돼요",
+          "후회됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0525",
+      "tema": "pocity",
+      "slovo": "부끄럽다",
+      "vyslovnost": "bukkeureopda",
+      "vyslov_hangul": "부끄럽따",
+      "cs": "stydět se, být v rozpacích",
+      "en": "to be ashamed",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "실수{를} 해서 부끄러웠어요.",
+      "priklad_cs": "Udělal jsem chybu, tak jsem se styděl. (를 → 4. pád)",
+      "mnemo": "Schováš se za BUKem, protože se stydíš.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "부끄럽다",
+          "부끄러워요",
+          "부끄러웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0526",
+      "tema": "pocity",
+      "slovo": "실망",
+      "vyslovnost": "silmang",
+      "cs": "zklamání",
+      "en": "to be disappointed",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "예선{에서} 떨어져서 많이 실망했어요.",
+      "priklad_cs": "Vypadl jsem v předkole, tak jsem byl hodně zklamaný. (에서 → v)",
+      "mnemo": "失 ztratit + 望 naděje = ztratit naději.",
+      "koreny": [
+        "sil-失",
+        "mang-望"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0527",
+      "tema": "pocity",
+      "slovo": "보람",
+      "vyslovnost": "boram",
+      "cs": "smysl, uspokojení (že to stálo za to)",
+      "en": "worth (보람을 느끼다 = to be fruitful)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "봉사 활동{을} 하면 보람{을} 느껴요.",
+      "priklad_cs": "Když dělám dobrovolníka, cítím, že to má smysl. (을 → 4. pád)",
+      "mnemo": "보람을 느끼다 = cítit, že to stálo za to; 보람이 있다 = vyplatit se.",
+      "rodina": [
+        "보람을 느끼다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0528",
+      "tema": "pocity",
+      "slovo": "자신감",
+      "vyslovnost": "jasingam",
+      "cs": "sebedůvěra",
+      "en": "confidence",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "예선{을} 통과하고 나니까 자신감{이} 좀 생겼어요.",
+      "priklad_cs": "Když jsem prošel předkolem, trochu jsem nabyl sebedůvěry. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "自 sám + 信 věřit + 感 pocit = pocit, že věříš sám sobě. 자신감이 생기다 = nabýt sebedůvěry.",
+      "koreny": [
+        "ja-自",
+        "sin-信",
+        "gam-感"
+      ],
+      "rodina": [
+        "자신감이 생기다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0124",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0529",
+      "tema": "soutěže a akce",
+      "slovo": "송년",
+      "vyslovnost": "songnyeon",
+      "cs": "rozloučení se starým rokem",
+      "en": "year-end",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "회사{에서} 송년 발표회{를} 했어요.",
+      "priklad_cs": "Ve firmě jsme měli vystoupení na rozloučenou s rokem. (에서 → kde; 를 → 4. pád)",
+      "mnemo": "送 vyprovodit + 年 rok = vyprovodit starý rok. 송년회 = večírek na konci roku.",
+      "koreny": [
+        "song-送",
+        "nyeon-年"
+      ],
+      "rodina": [
+        "송년회"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0513",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0530",
+      "tema": "soutěže a akce",
+      "slovo": "발표회",
+      "vyslovnost": "balpyohoe",
+      "cs": "vystoupení, přehlídka, konference",
+      "en": "recital, performance, conference, presentation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "연말{에} 피아노 발표회{가} 있어요.",
+      "priklad_cs": "Na konci roku mám klavírní vystoupení. (에 → kdy; 가 → 1. pád)",
+      "mnemo": "發表 prezentace + 會 setkání = akce, kde se něco předvádí.",
+      "koreny": [
+        "bal-發",
+        "pyo-表",
+        "hoe-會"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0285",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0531",
+      "tema": "gramatika",
+      "slovo": "-기는 하다",
+      "vyslovnost": "-gineun hada",
+      "cs": "sice ano, (ale)… – částečné přitakání",
+      "en": "used to partially acknowledge the words of the other party",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "김치{가} 좀 맵기는 하지만 건강{에} 좋아서 자주 먹어요.",
+      "priklad_cs": "Kimčchi je sice trochu pálivé, ale je zdravé, tak ho jím často. (가 → 1. pád; 에 → pro)",
+      "mnemo": "Kmen + -기는 하다: uznáš část pravdy a obvykle navážeš 하지만/-지만. Minulost: 어렵기는 했지만… Hovorově -긴 하다.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0532",
+      "tema": "média",
+      "slovo": "대사",
+      "vyslovnost": "daesa",
+      "cs": "replika, text role",
+      "en": "lines",
+      "cs_upresneni": "replika (ve filmu, hře), ne „velvyslanec“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "대사{가} 어렵기는 하지만 자막{이} 있어서 이해하는 데 문제{가} 없어요.",
+      "priklad_cs": "Repliky jsou sice těžké, ale jsou tam titulky, takže porozumět není problém. (가, 이 → 1. pád)",
+      "mnemo": "臺 jeviště + 詞 slova = slova na jevišti. Stejně znějící 대사 (大使) = velvyslanec.",
+      "koreny": [
+        "dae-臺",
+        "sa-詞"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0114",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0533",
+      "tema": "technika",
+      "slovo": "무인",
+      "vyslovnost": "muin",
+      "cs": "bez lidí, bez obsluhy",
+      "en": "manless",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "연구팀{이} 무인 자동차 개발{에} 성공했어요.",
+      "priklad_cs": "Výzkumný tým uspěl ve vývoji auta bez řidiče. (이 → 1. pád; 에 → v)",
+      "mnemo": "無 bez + 人 člověk. 무인 자동차 = auto bez řidiče, 무인 카페 = kavárna bez obsluhy.",
+      "koreny": [
+        "mu-無",
+        "in-人"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0534",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0534",
+      "tema": "technika",
+      "slovo": "개발",
+      "vyslovnost": "gaebal",
+      "cs": "vývoj, rozvoj",
+      "en": "development",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "연구 초기{에} 어려움{이} 있기는 했지만 결국 개발{에} 성공했어요.",
+      "priklad_cs": "Na začátku výzkumu sice byly potíže, ale nakonec se vývoj podařil. (에 → kdy; 이 → 1. pád; 에 → v)",
+      "mnemo": "開 otevřít + 發 vyjít = otevřít a rozvinout. 개발자 = vývojář.",
+      "koreny": [
+        "gae-開",
+        "bal-發"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0533",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0535",
+      "tema": "soutěže a akce",
+      "slovo": "수료식",
+      "vyslovnost": "suryosik",
+      "cs": "slavnostní zakončení kurzu",
+      "en": "completion ceremony",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "반 친구들{과} 수료식 공연 준비{를} 하고 있어요.",
+      "priklad_cs": "Se spolužáky připravujeme vystoupení na zakončení kurzu. (과 → s + 7. pád; 를 → 4. pád)",
+      "mnemo": "修 studovat + 了 dokončit + 式 obřad = obřad dokončení kurzu. U školy 졸업식.",
+      "koreny": [
+        "su-修",
+        "ryo-了",
+        "sik-式"
+      ],
+      "rodina": [
+        "졸업식"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0536",
+      "tema": "pocity",
+      "slovo": "헷갈리다",
+      "vyslovnost": "hetgallida",
+      "vyslov_hangul": "헫깔리다",
+      "cs": "plést si, mít v tom zmatek",
+      "en": "to be confused",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "답{이} 좀 헷갈리기는 했지만 괜찮았어요.",
+      "priklad_cs": "Odpovědi jsem si sice trochu pletl, ale dopadlo to dobře. (이 → 1. pád)",
+      "mnemo": "„HEJ, KÁLe, nebo zelí?“ – pleteš si to. Srovnej 착각하다 (splést si čas, místo).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "헷갈리다",
+          "헷갈려요",
+          "헷갈렸어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0173",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

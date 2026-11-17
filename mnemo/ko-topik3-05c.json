@@ -1,0 +1,630 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 5 – textbook s. 52–55 (연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + 어휘 색인",
+  "karty": [
+    {
+      "id": "ko-topik3-0404",
+      "tema": "cestování",
+      "slovo": "이용",
+      "vyslovnost": "iyong",
+      "cs": "využití, použití",
+      "en": "use",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "리조트 수영장 이용{이} 포함돼 있어요.",
+      "priklad_cs": "V ceně je použití bazénu v resortu. (이 → 1. pád)",
+      "mnemo": "利 užitek + 用 použít. 이용하다 = využívat (služby, dopravu).",
+      "koreny": [
+        "i-利",
+        "yong-用"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0405",
+      "tema": "cestování",
+      "slovo": "포함",
+      "vyslovnost": "poham",
+      "cs": "zahrnutí (v ceně)",
+      "en": "inclusion",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "에펠탑 입장권{이} 포함돼 있어요.",
+      "priklad_cs": "Je v tom zahrnutá vstupenka na Eiffelovku. (이 → 1. pád)",
+      "mnemo": "包 zabalit + 含 obsahovat. 포함되다 = být zahrnut, 포함하다 = zahrnovat.",
+      "koreny": [
+        "po-包",
+        "ham-含"
+      ],
+      "rodina": [
+        "포함되다"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0406",
+      "tema": "cestování",
+      "slovo": "제공",
+      "vyslovnost": "jegong",
+      "cs": "poskytnutí, nabídka",
+      "en": "offer, provision",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "넉넉한 쇼핑 시간{을} 제공해요.",
+      "priklad_cs": "Poskytujeme dostatek času na nákupy. (을 → 4. pád)",
+      "mnemo": "提 nabídnout + 供 poskytnout. 제공하다 = poskytovat, 제공되다 = být poskytnut.",
+      "koreny": [
+        "je-提",
+        "gong-供"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0407",
+      "tema": "cestování",
+      "slovo": "넉넉하다",
+      "vyslovnost": "neongneokada",
+      "vyslov_hangul": "넝너카다",
+      "cs": "dostatečný, hojný (času, peněz, místa)",
+      "en": "to be enough",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "시간{이} 넉넉하니까 천천히 구경하세요.",
+      "priklad_cs": "Času je dost, tak se v klidu rozhlížejte. (이 → 1. pád)",
+      "mnemo": "„NOK-NOK“ (knock knock) – pojď dál, místa je dost.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "넉넉하다",
+          "넉넉해요",
+          "넉넉했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0408",
+      "tema": "cestování",
+      "slovo": "무료",
+      "vyslovnost": "muryo",
+      "cs": "zdarma, bezplatný",
+      "en": "free of charge",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "루브르 박물관{은} 무료{로} 관람할 수 있어요.",
+      "priklad_cs": "Do Louvru se můžete podívat zdarma. (은 → téma; 로 → jak, 7. pád)",
+      "mnemo": "無 bez + 料 poplatek = bez poplatku. Opak 유료.",
+      "koreny": [
+        "mu-無",
+        "ryo-料"
+      ],
+      "rodina": [
+        "유료"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0409",
+      "tema": "cestování",
+      "slovo": "왕복",
+      "vyslovnost": "wangbok",
+      "cs": "zpáteční (cesta)",
+      "en": "round-trip",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "왕복 항공권{이} 포함된 상품이에요.",
+      "priklad_cs": "Je to nabídka včetně zpáteční letenky. (이 → 1. pád)",
+      "mnemo": "往 jít tam + 復 vrátit se = tam a zpět. Opak 편도 (jednosměrný).",
+      "koreny": [
+        "wang-往",
+        "bok-復"
+      ],
+      "rodina": [
+        "편도"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0410",
+      "tema": "cestování",
+      "slovo": "입장권",
+      "vyslovnost": "ipjanggwon",
+      "vyslov_hangul": "입짱꿘",
+      "cs": "vstupenka",
+      "en": "ticket (admission)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "박물관 입장권{은} 인터넷{으로} 미리 샀어요.",
+      "priklad_cs": "Vstupenku do muzea jsem koupil předem přes internet. (은 → téma; 으로 → čím, 7. pád)",
+      "mnemo": "入 vstoupit + 場 místo + 券 lístek = lístek na vstup.",
+      "koreny": [
+        "ip-入",
+        "jang-場",
+        "gwon-券"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0367",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0411",
+      "tema": "cestování",
+      "slovo": "리조트",
+      "vyslovnost": "rijoteu",
+      "cs": "resort, rekreační areál",
+      "en": "resort",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "리조트{에서} 점심{과} 저녁{을} 먹을 수 있어요.",
+      "priklad_cs": "V resortu můžete obědvat i večeřet. (에서 → kde; 과 → a; 을 → 4. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "resort"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0412",
+      "tema": "cestování",
+      "slovo": "바닷길",
+      "vyslovnost": "badatgil",
+      "vyslov_hangul": "바다낄",
+      "cs": "pobřežní stezka; námořní cesta",
+      "en": "a sea route",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "저녁{에} 바닷길{을} 산책했어요.",
+      "priklad_cs": "Večer jsem se procházel po stezce u moře. (에 → kdy; 을 → 4. pád)",
+      "mnemo": "바다 moře + 길 cesta; ㅅ mezi slovy (사이시옷) zdvojí ㄱ → [바다낄].",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0413",
+      "tema": "cestování",
+      "slovo": "야외",
+      "vyslovnost": "yaoe",
+      "cs": "venku, pod širým nebem",
+      "en": "outside, outdoors",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "야외{에서} 잠{을} 자서 그런지 좀 불편했어요.",
+      "priklad_cs": "Asi protože jsme spali venku, bylo to trochu nepohodlné. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "野 pole + 外 venek. Srovnej 야외 나들이.",
+      "koreny": [
+        "ya-野",
+        "oe-外"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0145",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0414",
+      "tema": "cestování",
+      "slovo": "아깝다",
+      "vyslovnost": "akkapda",
+      "vyslov_hangul": "아깝따",
+      "cs": "je škoda (čeho), líto",
+      "en": "to be a waste or pity",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "여행 가서 그냥 쉬면 시간{이} 좀 아깝지 않아요?",
+      "priklad_cs": "Není škoda času, když na cestách jen odpočíváš? (이 → 1. pád)",
+      "mnemo": "„A KAPka se vylila – škoda!“ 시간이 아깝다 = škoda času, 돈이 아깝다 = škoda peněz.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "아깝다",
+          "아까워요",
+          "아까웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0415",
+      "tema": "cestování",
+      "slovo": "고생",
+      "vyslovnost": "gosaeng",
+      "cs": "trápení, dřina, potíže",
+      "en": "hardship (고생하다 = to have trouble with)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어디{를} 어떻게 가야 할지 몰라서 고생했어요.",
+      "priklad_cs": "Nevěděl jsem, kam a jak jet, tak jsem se nadřel. (를 → 4. pád)",
+      "mnemo": "苦 hořký + 生 život = hořký život. 수고했어요 je poděkování za práci, 고생했어요 = to byla fuška.",
+      "koreny": [
+        "go-苦",
+        "saeng-生"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0416",
+      "tema": "cestování",
+      "slovo": "해결",
+      "vyslovnost": "haegyeol",
+      "cs": "vyřešení",
+      "en": "resolution (해결하다 = to resolve)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "문제{가} 생겼을 때 혼자서 다 해결해야 해서 힘들었어요.",
+      "priklad_cs": "Když nastal problém, musel jsem vše vyřešit sám a bylo to náročné. (가 → 1. pád)",
+      "mnemo": "解 rozvázat + 決 rozhodnout = rozvázat uzel. 해결되다 = vyřešit se.",
+      "koreny": [
+        "hae-解",
+        "gyeol-決"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0417",
+      "tema": "cestování",
+      "slovo": "문제가 생기다",
+      "vyslovnost": "munjega saenggida",
+      "cs": "nastat (vzniknout) problém",
+      "en": "a problem arises",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "여행 중{에} 문제{가} 생기면 여행사{에} 연락하세요.",
+      "priklad_cs": "Pokud na cestě nastane problém, kontaktujte cestovku. (에 → kdy; 가 → 1. pád; 에 → komu)",
+      "mnemo": "問題 otázka, problém + 생기다 vzniknout. Na str. 53 mezi 새로 나온 표현.",
+      "koreny": [
+        "mun-問",
+        "je-題"
+      ],
+      "rodina": [
+        "생기다"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "문제가 생기다",
+          "문제가 생겨요",
+          "문제가 생겼어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0418",
+      "tema": "cestování",
+      "slovo": "당일",
+      "vyslovnost": "dangil",
+      "cs": "(ten) den, týž den; jednodenní",
+      "en": "the day",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "시간{이} 없어서 당일 여행{으로} 다녀왔어요.",
+      "priklad_cs": "Neměl jsem čas, tak jsem tam jel jen na jednodenní výlet. (이 → 1. pád; 으로 → jako)",
+      "mnemo": "當 tentýž + 日 den. 당일 여행 = jednodenní výlet (pokrývá i bublinu 당일 여행 na s. 54).",
+      "koreny": [
+        "dang-當",
+        "il-日"
+      ],
+      "rodina": [
+        "당일 여행"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0419",
+      "tema": "cestování",
+      "slovo": "대표",
+      "vyslovnost": "daepyo",
+      "cs": "zástupce; ředitel (firmy); reprezentace",
+      "en": "leader, representative",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "오늘{은} 여행사 대표님{을} 모시고 이야기{를} 나눠 보겠습니다.",
+      "priklad_cs": "Dnes jsme pozvali ředitele cestovní kanceláře k rozhovoru. (은 → téma; 을, 를 → 4. pád)",
+      "mnemo": "代 zastoupit + 表 ukázat = kdo ukazuje navenek za ostatní. 대표하다 = reprezentovat; 대표님 = pan ředitel.",
+      "koreny": [
+        "dae-代",
+        "pyo-表"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0420",
+      "tema": "cestování",
+      "slovo": "던지다",
+      "vyslovnost": "deonjida",
+      "cs": "házet, hodit",
+      "en": "to throw",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "사람들{이} 토마토{를} 던지면서 축제{를} 즐겨요.",
+      "priklad_cs": "Lidé si užívají festival a házejí po sobě rajčata. (이 → 1. pád; 를 → 4. pád)",
+      "mnemo": "DON JIří hází míčem.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "던지다",
+          "던져요",
+          "던졌어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0421",
+      "tema": "cestování",
+      "slovo": "엄청나다",
+      "vyslovnost": "eomcheongnada",
+      "cs": "obrovský, ohromný",
+      "en": "to be massive",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "엄청난 양{의} 토마토{를} 던져요.",
+      "priklad_cs": "Házejí obrovské množství rajčat. (의 → 2. pád; 를 → 4. pád)",
+      "mnemo": "Příslovce 엄청 = strašně, hrozně (엄청 많다 = strašně moc).",
+      "rodina": [
+        "엄청"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "엄청나다",
+          "엄청나요",
+          "엄청났어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0422",
+      "tema": "cestování",
+      "slovo": "즐기다",
+      "vyslovnost": "jeulgida",
+      "cs": "užívat si",
+      "en": "to enjoy",
+      "slovni_druh": "sloveso",
+      "frekvence": 1,
+      "priklad": "축제{를} 즐기는 모습{이} 인상적이었어요.",
+      "priklad_cs": "Působivé bylo, jak si lidé festival užívají. (를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "Příbuzné 즐겁다 (radostný). 즐기다 je děj: užívat si něco.",
+      "rodina": [
+        "즐겁다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "즐기다",
+          "즐겨요",
+          "즐겼어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0423",
+      "tema": "cestování",
+      "slovo": "지역",
+      "vyslovnost": "jiyeok",
+      "cs": "oblast, region",
+      "en": "region",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "지역{의} 유명한 축제{를} 보러 다니는 여행{이} 인기예요.",
+      "priklad_cs": "Oblíbené jsou cesty za slavnými regionálními festivaly. (의 → 2. pád; 를 → 4. pád; 이 → 1. pád)",
+      "mnemo": "地 země + 域 území.",
+      "koreny": [
+        "ji-地",
+        "yeok-域"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0424",
+      "tema": "cestování",
+      "slovo": "취향",
+      "vyslovnost": "chwihyang",
+      "cs": "vkus, záliba, preference",
+      "en": "taste",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘{에는} 개인{의} 취향{을} 중요하게 생각해요.",
+      "priklad_cs": "Dnes se hodně dbá na osobní vkus. (에는 → kdy + důraz; 의 → 2. pád; 을 → 4. pád)",
+      "mnemo": "趣 záliba + 向 směr = kam tě táhnou záliby. Srovnej 취미 (koníček).",
+      "koreny": [
+        "chwi-趣",
+        "hyang-向"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0425",
+      "tema": "cestování",
+      "slovo": "테마",
+      "vyslovnost": "tema",
+      "cs": "téma, motiv",
+      "en": "theme",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "특별한 테마{를} 갖고 떠나는 여행{을} 많이 찾아요.",
+      "priklad_cs": "Lidé hodně hledají cesty se zvláštním tématem. (를, 을 → 4. pád)",
+      "mnemo": "Výpůjčka z němčiny Thema (angl. theme).",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "theme (z němčiny Thema)"
+      },
+      "viz_tez": "ko-topik3-0426",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0426",
+      "tema": "cestování",
+      "slovo": "테마 여행",
+      "vyslovnost": "tema yeohaeng",
+      "cs": "tematický zájezd",
+      "en": "theme travel",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "요즘 인기 있는 테마 여행{은} 뭐예요?",
+      "priklad_cs": "Jaké tematické zájezdy jsou teď oblíbené? (은 → téma)",
+      "mnemo": "테마 + 旅行. Např. cesta za festivaly nebo za jídlem.",
+      "koreny": [
+        "yeo-旅",
+        "haeng-行"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "z_anglictiny": "theme"
+      },
+      "viz_tez": "ko-topik3-0425",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0427",
+      "tema": "cestování",
+      "slovo": "휴가철",
+      "vyslovnost": "hyugacheol",
+      "cs": "období dovolených",
+      "en": "vacation season",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이제 곧 휴가철이라서 여행 계획{을} 세우는 분들{이} 많아요.",
+      "priklad_cs": "Brzy začne období dovolených, takže hodně lidí plánuje cesty. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "休暇 dovolená + 철 sezóna (původní slovo: 봄철, 여름철).",
+      "koreny": [
+        "hyu-休",
+        "ga-暇"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "viz_tez": "ko-topik3-0403",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0428",
+      "tema": "cestování",
+      "slovo": "휴양 여행",
+      "vyslovnost": "hyuyang yeohaeng",
+      "cs": "odpočinková dovolená",
+      "en": "trip of recreation",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이번{에는} 바닷가{로} 휴양 여행{을} 가고 싶어요.",
+      "priklad_cs": "Tentokrát bych chtěl jet k moři na odpočinkovou dovolenou. (에는 → kdy + důraz; 로 → kam; 을 → 4. pád)",
+      "mnemo": "休 odpočinek + 養 živit, pěstovat = zotavení. 휴양지 = rekreační místo.",
+      "koreny": [
+        "hyu-休",
+        "yang-養",
+        "yeo-旅",
+        "haeng-行"
+      ],
+      "rodina": [
+        "휴양지"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0429",
+      "tema": "cestování",
+      "slovo": "맞춤 여행",
+      "vyslovnost": "matchum yeohaeng",
+      "vyslov_hangul": "맏춤 여행",
+      "cs": "cesta na míru",
+      "en": "custom-made travel",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "개인{의} 취향{을} 중요하게 생각해서 그런지 맞춤 여행{이} 유행인 것 같아요.",
+      "priklad_cs": "Asi protože se dbá na osobní vkus, jsou v módě cesty na míru. (의 → 2. pád; 을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "맞추다 přizpůsobit → 맞춤 = (šité) na míru. 맞춤 정장 = oblek na míru.",
+      "koreny": [
+        "yeo-旅",
+        "haeng-行"
+      ],
+      "rodina": [
+        "맞추다"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

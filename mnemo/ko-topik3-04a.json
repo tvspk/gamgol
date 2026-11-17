@@ -1,0 +1,672 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 4 필요한 물건은 같이 사러 가자 – textbook s. 40–41 (Part 1 어휘, …에다(가) …도/까지) + 어휘 색인",
+  "karty": [
+    {
+      "id": "ko-topik3-0227",
+      "tema": "domácnost",
+      "slovo": "집안일",
+      "vyslovnost": "jibannil",
+      "vyslov_hangul": "지반닐",
+      "cs": "domácí práce",
+      "en": "housework",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "집안일{은} 끝{이} 없는 것 같아요.",
+      "priklad_cs": "Domácí práce jako by nikdy nekončily. (은 → téma; 이 → 1. pád)",
+      "mnemo": "집 dům + 안 vnitřek + 일 práce = práce uvnitř domu.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0228",
+      "tema": "domácnost",
+      "slovo": "청소",
+      "vyslovnost": "cheongso",
+      "cs": "úklid",
+      "en": "cleaning",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "저{는} 집안일 중{에서} 청소{가} 제일 좋아요.",
+      "priklad_cs": "Ze všech domácích prací mám nejradši úklid. (는 → téma; 에서 → z; 가 → 1. pád)",
+      "mnemo": "淸 čistý + 掃 zametat = vymést dočista.",
+      "koreny": [
+        "cheong-淸",
+        "so-掃"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0229",
+      "tema": "domácnost",
+      "slovo": "청소기",
+      "vyslovnost": "cheongsogi",
+      "cs": "vysavač",
+      "en": "vacuum",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "청소기{가} 고장 나서 새로 샀어요.",
+      "priklad_cs": "Vysavač se rozbil, tak jsem koupil nový. (가 → 1. pád)",
+      "mnemo": "淸掃 úklid + 機 stroj = uklízecí stroj.",
+      "koreny": [
+        "cheong-淸",
+        "so-掃",
+        "gi-機"
+      ],
+      "rodina": [
+        "청소기를 돌리다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0230",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0230",
+      "tema": "domácnost",
+      "slovo": "돌리다",
+      "vyslovnost": "dollida",
+      "cs": "pustit, zapnout (pračku, vysavač); roztočit",
+      "en": "to spin; to run (a machine)",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "주말{에} 세탁기{를} 돌리고 청소기{도} 돌려요.",
+      "priklad_cs": "O víkendu pustím pračku a vysaju. (에 → kdy; 를 → 4. pád; 도 → i)",
+      "mnemo": "Od 돌다 „točit se“: roztočíš buben pračky. 청소기를 돌리다 = vysávat, 세탁기를 돌리다 = vyprat v pračce.",
+      "rodina": [
+        "돌다",
+        "청소기를 돌리다",
+        "세탁기를 돌리다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "돌리다",
+          "돌려요",
+          "돌렸어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0239",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0231",
+      "tema": "domácnost",
+      "slovo": "걸레질",
+      "vyslovnost": "geollejil",
+      "cs": "vytírání (hadrem)",
+      "en": "mopping",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "깨끗하게 걸레질{을} 하고 나면 기분{까지} 좋아져요.",
+      "priklad_cs": "Když pořádně vytřu, zlepší se mi dokonce i nálada. (을 → 4. pád; 까지 → dokonce i)",
+      "mnemo": "걸레 hadr + -질 (činnost, opakovaný pohyb) = práce s hadrem.",
+      "rodina": [
+        "걸레"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0232",
+      "tema": "domácnost",
+      "slovo": "먼지",
+      "vyslovnost": "meonji",
+      "cs": "prach",
+      "en": "dirt, dust",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "책상 위{에} 먼지{가} 많아요.",
+      "priklad_cs": "Na stole je spousta prachu. (에 → kde; 가 → 1. pád)",
+      "mnemo": "„MON-dži“ – na MONitoru se usadil prach.",
+      "rodina": [
+        "먼지를 털다",
+        "먼지가 쌓이다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0234",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0233",
+      "tema": "domácnost",
+      "slovo": "털다",
+      "vyslovnost": "teolda",
+      "cs": "vytřepat, oprášit",
+      "en": "to dust off",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "창문{을} 열고 이불{의} 먼지{를} 털었어요.",
+      "priklad_cs": "Otevřel jsem okno a vytřepal z peřiny prach. (을, 를 → 4. pád; 의 → 2. pád)",
+      "mnemo": "먼지를 털다 = oprášit. Pozor: 떨다 (třást, 수다를 떨다) se liší jen ㅌ/ㄸ.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "털다",
+          "털어요",
+          "털었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "plete_se_s": [
+        "ko-topik3-0022"
+      ],
+      "viz_tez": "ko-topik3-0232",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0234",
+      "tema": "domácnost",
+      "slovo": "먼지가 쌓이다",
+      "vyslovnost": "meonjiga ssaida",
+      "vyslov_hangul": "먼지가 싸이다",
+      "cs": "nahromadit se (o prachu)",
+      "en": "dust piles up",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "겨울 동안 쌓인 먼지{를} 먼저 청소해야 해요.",
+      "priklad_cs": "Nejdřív musím uklidit prach, který se nahromadil přes zimu. (를 → 4. pád)",
+      "mnemo": "쌓다 skládat na sebe → 쌓이다 vrstvit se: prach se usazuje ve vrstvách.",
+      "rodina": [
+        "쌓다"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "먼지가 쌓이다",
+          "먼지가 쌓여요",
+          "먼지가 쌓였어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0232",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0235",
+      "tema": "domácnost",
+      "slovo": "유리창",
+      "vyslovnost": "yurichang",
+      "cs": "okno, okenní sklo",
+      "en": "window",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "주말{마다} 유리창{을} 닦아요.",
+      "priklad_cs": "Každý víkend myju okna. (마다 → každý; 을 → 4. pád)",
+      "mnemo": "琉璃 sklo + 窓 okno = skleněné okno.",
+      "koreny": [
+        "yu-琉",
+        "ri-璃",
+        "chang-窓"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0236",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0236",
+      "tema": "domácnost",
+      "slovo": "닦다",
+      "vyslovnost": "dakda",
+      "vyslov_hangul": "닥따",
+      "cs": "utřít, umýt (otřením), vyleštit",
+      "en": "to clean, to wipe",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "유리창{을} 깨끗하게 닦았어요.",
+      "priklad_cs": "Pořádně jsem umyl okna. (을 → 4. pád)",
+      "mnemo": "이를 닦다 = čistit si zuby, 유리창을 닦다 = umýt okna. Pozor: 딱 (přesně) zní podobně.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "닦다",
+          "닦아요",
+          "닦았어요"
+        ]
+      },
+      "plete_se_s": [
+        "ko-topik3-0189"
+      ],
+      "viz_tez": "ko-topik3-0235",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0237",
+      "tema": "domácnost",
+      "slovo": "분리수거",
+      "vyslovnost": "bullisugeo",
+      "vyslov_hangul": "불리수거",
+      "cs": "třídění odpadu",
+      "en": "separate garbage collection",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국{에서는} 쓰레기{를} 버릴 때 분리수거{를} 해야 해요.",
+      "priklad_cs": "V Koreji se při vyhazování odpadu musí třídit. (에서는 → kde + důraz; 를 → 4. pád)",
+      "mnemo": "分離 oddělit + 收去 sebrat a odvézt = sbírat odděleně.",
+      "koreny": [
+        "bun-分",
+        "ri-離",
+        "su-收",
+        "geo-去"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0238",
+      "tema": "domácnost",
+      "slovo": "세탁",
+      "vyslovnost": "setak",
+      "cs": "praní (prádla)",
+      "en": "washing, laundry",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "이 옷{은} 집{에서} 세탁하면 안 돼요.",
+      "priklad_cs": "Tohle oblečení se nesmí prát doma. (은 → téma; 에서 → kde)",
+      "mnemo": "洗 mýt + 濯 prát. V hovoru častěji 빨래.",
+      "koreny": [
+        "se-洗",
+        "tak-濯"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0240",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0239",
+      "tema": "domácnost",
+      "slovo": "세탁기",
+      "vyslovnost": "setakgi",
+      "vyslov_hangul": "세탁끼",
+      "cs": "pračka",
+      "en": "washing machine",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "세탁기{가} 오래돼서 소리{가} 커요.",
+      "priklad_cs": "Pračka je stará, tak je hlučná. (가 → 1. pád)",
+      "mnemo": "洗濯 praní + 機 stroj.",
+      "koreny": [
+        "se-洗",
+        "tak-濯",
+        "gi-機"
+      ],
+      "rodina": [
+        "세탁기를 돌리다"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0230",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0240",
+      "tema": "domácnost",
+      "slovo": "빨래",
+      "vyslovnost": "ppallae",
+      "cs": "prádlo; praní",
+      "en": "laundry",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "집 안 청소{에다가} 빨래{까지} 할 일{이} 정말 많아요.",
+      "priklad_cs": "Úklid bytu a k tomu ještě praní – práce je fakt hodně. (에다가 → k tomu; 까지 → ještě i; 이 → 1. pád)",
+      "mnemo": "Od 빨다 „prát“. 빨래하다 = prát, 빨래를 널다 = pověsit prádlo, 빨래를 개다 = složit prádlo.",
+      "rodina": [
+        "빨다",
+        "빨래방"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "hada": true
+      },
+      "viz_tez": "ko-topik3-0238",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0241",
+      "tema": "domácnost",
+      "slovo": "널다",
+      "vyslovnost": "neolda",
+      "cs": "pověsit (prádlo) k sušení",
+      "en": "to hang (laundry)",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "날씨{가} 좋아서 밖{에} 빨래{를} 널었어요.",
+      "priklad_cs": "Bylo hezky, tak jsem pověsil prádlo ven. (가 → 1. pád; 에 → kam; 를 → 4. pád)",
+      "mnemo": "„NEOL“ – NA LOuku (na šňůru) věšíš prádlo.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "널다",
+          "널어요",
+          "널었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "viz_tez": "ko-topik3-0240",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0242",
+      "tema": "domácnost",
+      "slovo": "개다",
+      "vyslovnost": "gaeda",
+      "cs": "složit (prádlo, peřinu)",
+      "en": "to fold",
+      "cs_upresneni": "složit (prádlo), ne „vyjasnit se“",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "마른 빨래{를} 개서 옷장{에} 넣었어요.",
+      "priklad_cs": "Suché prádlo jsem složil a dal do skříně. (를 → 4. pád; 에 → kam)",
+      "mnemo": "Pes (개) ti skládá prádlo – absurdní obraz, který si zapamatuješ. Stejně znějící 개다 = vyjasnit se (o počasí).",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "개다",
+          "개요",
+          "갰어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0240",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0243",
+      "tema": "domácnost",
+      "slovo": "다림질",
+      "vyslovnost": "darimjil",
+      "cs": "žehlení",
+      "en": "ironing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "셔츠{를} 입기 전{에} 다림질{을} 해요.",
+      "priklad_cs": "Než si vezmu košili, vyžehlím ji. (를, 을 → 4. pád; 에 → kdy)",
+      "mnemo": "다리미 žehlička + -질 činnost.",
+      "rodina": [
+        "다리미"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0244",
+      "tema": "domácnost",
+      "slovo": "식사",
+      "vyslovnost": "siksa",
+      "vyslov_hangul": "식싸",
+      "cs": "jídlo (stolování)",
+      "en": "meal",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "가족{과} 함께 식사{를} 준비했어요.",
+      "priklad_cs": "S rodinou jsme připravili jídlo. (과 → s + 7. pád; 를 → 4. pád)",
+      "mnemo": "食 jíst + 事 věc = věc jídla. Zdvořilé slovo pro jídlo: 식사하셨어요?",
+      "koreny": [
+        "sik-食",
+        "sa-事"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0245",
+      "tema": "domácnost",
+      "slovo": "장을 보다",
+      "vyslovnost": "jangeul boda",
+      "cs": "nakoupit (potraviny), jít na nákup",
+      "en": "to go grocery shopping",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "퇴근하고 마트{에서} 장{을} 봤어요.",
+      "priklad_cs": "Po práci jsem nakoupil v supermarketu. (에서 → kde; 을 → 4. pád)",
+      "mnemo": "場 trh + 보다 vidět = „obhlédnout trh“. Pokrývá heslo 장 (grocery shopping) z rejstříku.",
+      "koreny": [
+        "jang-場"
+      ],
+      "rodina": [
+        "장"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "장을 보다",
+          "장을 봐요",
+          "장을 봤어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0246",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0246",
+      "tema": "domácnost",
+      "slovo": "장보기",
+      "vyslovnost": "jangbogi",
+      "cs": "nákup (potravin)",
+      "en": "shopping",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "남성들{이} 많이 하는 집안일 3위{는} 장보기였어요.",
+      "priklad_cs": "Na třetím místě domácích prací, které muži dělají nejčastěji, byl nákup. (이 → 1. pád; 는 → téma)",
+      "mnemo": "장을 보다 → podstatné jméno 장보기.",
+      "koreny": [
+        "jang-場"
+      ],
+      "extra": {
+        "typ": "smisene"
+      },
+      "viz_tez": "ko-topik3-0245",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0247",
+      "tema": "domácnost",
+      "slovo": "음식을 만들다",
+      "vyslovnost": "eumsigeul mandeulda",
+      "vyslov_hangul": "음시글 만들다",
+      "cs": "vařit, připravovat jídlo",
+      "en": "to make food",
+      "slovni_druh": "fraze",
+      "frekvence": 1,
+      "priklad": "친구들{이} 오기 전{에} 청소{도} 하고 음식{도} 만들어야 돼요.",
+      "priklad_cs": "Než přijdou kamarádi, musím uklidit a uvařit. (이 → 1. pád; 에 → kdy; 도 → i)",
+      "mnemo": "飮食 jídlo (pití + jídlo) + 만들다 dělat.",
+      "koreny": [
+        "eum-飮",
+        "sik-食"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "음식을 만들다",
+          "음식을 만들어요",
+          "음식을 만들었어요"
+        ],
+        "nepravidelnost": "ㄹ"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0248",
+      "tema": "domácnost",
+      "slovo": "상",
+      "vyslovnost": "sang",
+      "cs": "(jídelní) stolek, stůl",
+      "en": "table",
+      "cs_upresneni": "stůl (jídelní), ne „cena, ocenění“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "손님{이} 오셔서 상{을} 차렸어요.",
+      "priklad_cs": "Přišli hosté, tak jsem prostřel stůl. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "床 lože, stolek – tradiční nízký stolek, na kterém se nosí jídlo. Stejně znějící 상 (賞) = cena, ocenění.",
+      "koreny": [
+        "sang-床"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0249",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0249",
+      "tema": "domácnost",
+      "slovo": "차리다",
+      "vyslovnost": "charida",
+      "cs": "prostřít, připravit (stůl, jídlo)",
+      "en": "to set the table",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "엄마{가} 아침 상{을} 차려 주셨어요.",
+      "priklad_cs": "Máma nám připravila snídani na stůl. (가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "„ČA-RI“ – ČARUješ a stůl je prostřený. 상을 차리다 = prostřít.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "차리다",
+          "차려요",
+          "차렸어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0250",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0250",
+      "tema": "domácnost",
+      "slovo": "치우다",
+      "vyslovnost": "chiuda",
+      "cs": "uklidit, odklidit",
+      "en": "to clean up",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "식사{가} 끝나면 상{을} 치워요.",
+      "priklad_cs": "Po jídle sklidím ze stolu. (가 → 1. pád; 을 → 4. pád)",
+      "mnemo": "„ČI-U“ – ČIstě Uklidit. 상을 치우다 = sklidit ze stolu, 방을 치우다 = uklidit pokoj.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "치우다",
+          "치워요",
+          "치웠어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0249",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0251",
+      "tema": "domácnost",
+      "slovo": "설거지",
+      "vyslovnost": "seolgeoji",
+      "cs": "mytí nádobí",
+      "en": "dish washing",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "저녁{을} 먹고 나서 제{가} 설거지{를} 할게요.",
+      "priklad_cs": "Po večeři umyju nádobí. (을, 를 → 4. pád; 가 → 1. pád)",
+      "mnemo": "설거지하다 = umýt nádobí. Ve výzkumu z lekce je to u mužů domácí práce č. 2.",
+      "extra": {
+        "typ": "puvodni",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0252",
+      "tema": "pocity",
+      "slovo": "귀찮다",
+      "vyslovnost": "gwichanta",
+      "vyslov_hangul": "귀찬타",
+      "cs": "otravný; nechce se (mi)",
+      "en": "to be tiresome",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "음식 만드는 건 좋은데 청소하는 건 좀 귀찮아요.",
+      "priklad_cs": "Vařit mě baví, ale uklízet se mi moc nechce. (bez částic)",
+      "mnemo": "Ze staršího 귀하지 아니하다 „není to vzácné“ → nestojí to za námahu, otrava.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "귀찮다",
+          "귀찮아요",
+          "귀찮았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0253",
+      "tema": "gramatika",
+      "slovo": "…에다(가) …도/까지",
+      "vyslovnost": "…eda(ga) …do/kkaji",
+      "cs": "k tomu ještě…, a navíc i…",
+      "en": "used after a noun to indicate something added to the preceding noun",
+      "slovni_druh": "ostatni",
+      "frekvence": 1,
+      "priklad": "과제{에다가} 발표 준비{까지} 해야 돼서 요즘 정말 정신{이} 없어요.",
+      "priklad_cs": "K úkolům musím ještě připravit prezentaci, takže teď nevím, kde mi hlava stojí. (에다가 → k tomu; 까지 → ještě i; 이 → 1. pád)",
+      "mnemo": "Podstatné jméno + 에다(가), pak další podstatné jméno + 도/까지. 까지 zdůrazňuje „dokonce i“, často při stížnosti: 콧물에다가 기침까지 = rýma a k tomu ještě kašel.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

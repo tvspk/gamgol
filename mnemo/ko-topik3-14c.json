@@ -1,0 +1,316 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 14 – workbook 3-2 s. 71 (어휘 확장, 문화 Tip) + 어휘 색인 workbooku",
+  "karty": [
+    {
+      "id": "ko-topik3-1038",
+      "tema": "škola",
+      "slovo": "학점이 나쁘다",
+      "vyslovnost": "hakjeomi nappeuda",
+      "vyslov_hangul": "학쩌미 나쁘다",
+      "cs": "mít špatné známky (na vysoké škole)",
+      "en": "to have a bad grade",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "대학{에서} 강의{를} 듣고 시험{을} 봤는데 학점{이} 나빠요.",
+      "priklad_cs": "Na vysoké jsem chodil na přednášky a skládal zkoušky, ale mám špatné známky. (에서 → kde; 를, 을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "學點 kredit, známka (學 učení + 點 bod) – na univerzitě. Ve škole obecně 성적. Výslovnost [학쩜].",
+      "koreny": [
+        "hak-學",
+        "jeom-點"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "학점이 나쁘다",
+          "학점이 나빠요",
+          "학점이 나빴어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0991",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1039",
+      "tema": "kariéra",
+      "slovo": "진로 결정이 어렵다",
+      "vyslovnost": "jillo gyeoljeongi eoryeopda",
+      "vyslov_hangul": "질로 결쩡이 어렵따",
+      "cs": "nevědět, jakou dráhu si zvolit",
+      "en": "to have a difficulty deciding on future career",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "졸업 후{에} 무엇{을} 해야 할지 몰라서 진로 결정{이} 어려워요.",
+      "priklad_cs": "Nevím, co budu dělat po škole, takže je pro mě těžké rozhodnout se o další dráze. (에 → kdy; 을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "進路 dráha + 決定 rozhodnutí (決 rozhodnout + 定 stanovit) + 어렵다 těžký.",
+      "koreny": [
+        "jin-進",
+        "ro-路",
+        "gyeol-決",
+        "jeong-定"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "진로 결정이 어렵다",
+          "진로 결정이 어려워요",
+          "진로 결정이 어려웠어요"
+        ],
+        "nepravidelnost": "ㅂ"
+      },
+      "viz_tez": "ko-topik3-0993",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1040",
+      "tema": "vztahy",
+      "slovo": "의견 충돌이 잦다",
+      "vyslovnost": "uigyeon chungdori jatda",
+      "vyslov_hangul": "의견 충도리 잗따",
+      "cs": "často se neshodnout, mít časté spory",
+      "en": "to have disagreements often",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "서로 생각{이} 달라서 의견 충돌{이} 잦아요.",
+      "priklad_cs": "Každý si myslíme něco jiného, takže se často přeme. (이 → 1. pád)",
+      "mnemo": "意見 názor (意 mysl + 見 vidět) + 衝突 srážka (衝 narazit + 突 vrazit) + 잦다 častý. Názory do sebe „narážejí“. Rejstřík workbooku má překlep 의견 출동.",
+      "koreny": [
+        "ui-意",
+        "gyeon-見",
+        "chung-衝",
+        "dol-突"
+      ],
+      "rodina": [
+        "의견",
+        "충돌"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "의견 충돌이 잦다",
+          "의견 충돌이 잦아요",
+          "의견 충돌이 잦았어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1041",
+      "tema": "vztahy",
+      "slovo": "마음이 잘 안 맞다",
+      "alternativy": [
+        "마음이 안 맞다"
+      ],
+      "vyslovnost": "maeumi jal an matda",
+      "vyslov_hangul": "마으미 잘 안 맏따",
+      "cs": "nerozumět si, nebýt na stejné vlně",
+      "en": "to disagree, not to get along",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "좋은 사람들인 것 같은데 나{하고는} 마음{이} 잘 안 맞아.",
+      "priklad_cs": "Asi jsou to dobří lidé, ale se mnou si moc nerozumí. (하고는 → s + důraz; 이 → 1. pád)",
+      "mnemo": "마음 srdce, nitro + 맞다 sedět. Kladně 마음이 잘 맞다 = rozumět si. Srovnej 성격이 안 맞다.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "마음이 잘 안 맞다",
+          "마음이 잘 안 맞아요",
+          "마음이 잘 안 맞았어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0997",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1042",
+      "tema": "povaha",
+      "slovo": "덜렁대다",
+      "alternativy": [
+        "덜렁거리다"
+      ],
+      "vyslovnost": "deolleongdaeda",
+      "cs": "být roztržitý, nepozorný (chovat se ledabyle)",
+      "en": "to be clumsy, careless",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "제니 씨{는} 덜렁대는 성격이라서 물건{도} 잘 잃어버려요.",
+      "priklad_cs": "Jenny je roztržitá povaha, takže taky často něco ztratí. (는 → téma; 도 → také)",
+      "mnemo": "덜렁 = zvuk něčeho, co se volně klátí. „DOLE-ONG“ – věci ti padají DOLŮ, protože nedáváš pozor. Kdo to dělá, je 덜렁이.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "덜렁대다",
+          "덜렁대요",
+          "덜렁댔어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1043",
+      "tema": "povaha",
+      "slovo": "고집이 세다",
+      "vyslovnost": "gojibi seda",
+      "vyslov_hangul": "고지비 세다",
+      "cs": "být tvrdohlavý, umíněný",
+      "en": "to be headstrong, stubborn",
+      "slovni_druh": "fraze",
+      "frekvence": 2,
+      "priklad": "민우 씨{는} 고집{이} 세서 친구들{의} 조언{을} 거의 무시해요.",
+      "priklad_cs": "Minu je tvrdohlavý, takže rady kamarádů skoro ignoruje. (는 → téma; 이 → 1. pád; 의 → 2. pád; 을 → 4. pád)",
+      "mnemo": "固 pevný + 執 držet = pevně se držet svého + 세다 silný. Korejci říkají 황소 고집 „býčí tvrdohlavost“: býk, který nechce, se nehne z místa.",
+      "koreny": [
+        "go-固",
+        "jip-執"
+      ],
+      "rodina": [
+        "고집",
+        "황소 고집"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "고집이 세다",
+          "고집이 세요",
+          "고집이 셌어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1044",
+      "tema": "povaha",
+      "slovo": "신경질적이다",
+      "vyslovnost": "singyeongjiljeogida",
+      "vyslov_hangul": "신경질쩌기다",
+      "cs": "být podrážděný, vznětlivý, nervózní",
+      "en": "to be temperamental",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 3,
+      "priklad": "너무 예민해서 작은 일{에도} 자주 화{를} 내요. 신경질적이에요.",
+      "priklad_cs": "Je moc citlivý, kvůli maličkostem se často zlobí. Je vznětlivý. (에도 → i kvůli; 를 → 4. pád)",
+      "mnemo": "神經 nervy (神 duch + 經 dráha) + 質 povaha + 的 -ový = nervózní povaha. 신경질을 내다 = vyjet na někoho.",
+      "koreny": [
+        "sin-神",
+        "gyeong-經",
+        "jil-質",
+        "jeok-的"
+      ],
+      "rodina": [
+        "신경질",
+        "신경"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "신경질적이다",
+          "신경질적이에요",
+          "신경질적이었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1045",
+      "tema": "zdraví",
+      "slovo": "건강에 이상이 있다",
+      "vyslovnost": "geongange isangi itda",
+      "vyslov_hangul": "건강에 이상이 읻따",
+      "cs": "mít zdravotní potíže, něco není v pořádku se zdravím",
+      "en": "to have a problem with health",
+      "cs_upresneni": "이상 = abnormalita (異常), ne „víc než“ ani „ideál“",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "요즘 건강{에} 이상{이} 있는 것 같아서 병원{에} 가 보려고 해요.",
+      "priklad_cs": "Teď mám pocit, že se zdravím není něco v pořádku, tak chci jít k doktorovi. (에 → s, kam; 이 → 1. pád)",
+      "mnemo": "異 jiný + 常 obvyklý = neobvyklý stav. Stejně znějící 이상 (以上) = víc než, 이상 (理想) = ideál.",
+      "koreny": [
+        "geon-健",
+        "gang-康",
+        "i-異",
+        "sang-常"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "tvary": [
+          "건강에 이상이 있다",
+          "건강에 이상이 있어요",
+          "건강에 이상이 있었어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1046",
+      "tema": "pocity",
+      "slovo": "감정 조절이 안 되다",
+      "vyslovnost": "gamjeong jojeori an doeda",
+      "vyslov_hangul": "감정 조저리 안 되다",
+      "cs": "neumět ovládat emoce",
+      "en": "emotion is uncontrollable",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "그 사람 얼굴{만} 생각해도 화{가} 나서 감정 조절{이} 안 돼.",
+      "priklad_cs": "Jen si vzpomenu na jeho obličej a už se vztekám, nedokážu ovládat emoce. (만 → jen; 가, 이 → 1. pád)",
+      "mnemo": "感情 cit (感 cítit + 情 cit) + 調節 regulace (調 ladit + 節 míra) = „ladění“ citů nejde. Srovnej 집중이 안 되다.",
+      "koreny": [
+        "gam-感",
+        "jeong-情",
+        "jo-調",
+        "jeol-節"
+      ],
+      "rodina": [
+        "감정",
+        "조절하다"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "감정 조절이 안 되다",
+          "감정 조절이 안 돼요",
+          "감정 조절이 안 됐어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-0830",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-1047",
+      "tema": "práce",
+      "slovo": "일이 손에 안 잡히다",
+      "vyslovnost": "iri sone an japida",
+      "vyslov_hangul": "이리 소네 안 자피다",
+      "cs": "nemoci se soustředit na práci (nic mi nejde od ruky)",
+      "en": "can't get the work done",
+      "slovni_druh": "fraze",
+      "frekvence": 3,
+      "priklad": "고민거리{가} 많아서 일{이} 손{에} 안 잡혀요.",
+      "priklad_cs": "Mám tolik starostí, že se nedokážu soustředit na práci. (가, 이 → 1. pád; 에 → do)",
+      "mnemo": "Doslova „práce se mi nechytá do ruky“ (잡히다 = být chycen). Česky „nic mi nejde od ruky“.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "일이 손에 안 잡히다",
+          "일이 손에 안 잡혀요",
+          "일이 손에 안 잡혔어요"
+        ]
+      },
+      "viz_tez": "ko-topik3-1000",
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

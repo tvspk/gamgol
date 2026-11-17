@@ -1,0 +1,370 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 9 – workbook 3-2 s. 21 (어휘 확장: kuchyňské nádobí) + 어휘 색인 workbooku; textbook s. 88, 90 (듣고 말해요, 새로 나온 어휘) + přepisy poslechu + 어휘 색인",
+  "karty": [
+    {
+      "id": "ko-topik3-0671",
+      "tema": "kuchyně",
+      "slovo": "프라이팬",
+      "vyslovnost": "peuraipaen",
+      "cs": "pánev",
+      "en": "frying pan, skillet",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "냄비{가} 탈 수도 있으니까 프라이팬{에} 볶아.",
+      "priklad_cs": "Hrnec by se mohl připálit, tak to orestuj na pánvi. (가 → 1. pád; 에 → na)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "frying pan"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0672",
+      "tema": "kuchyně",
+      "slovo": "냄비",
+      "vyslovnost": "naembi",
+      "cs": "hrnec",
+      "en": "pot",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "국수{를} 삶을 때 먼저 냄비{에} 물{을} 붓고 끓여요.",
+      "priklad_cs": "Když vařím nudle, nejdřív naliju vodu do hrnce a přivedu ji k varu. (를, 을 → 4. pád; 에 → do)",
+      "mnemo": "„NEM-BI“ – „NEbij mě tím hrncem!“",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0673",
+      "tema": "kuchyně",
+      "slovo": "그릇",
+      "vyslovnost": "geureut",
+      "vyslov_hangul": "그륻",
+      "cs": "miska, nádoba; nádobí",
+      "en": "plate/bowl/dish",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한국{에서는} 밥{이나} 국{을} 먹을 때 그릇{을} 사용해요.",
+      "priklad_cs": "V Koreji se na rýži nebo polévku používá miska. (에서는 → kde + důraz; 이나 → nebo; 을 → 4. pád)",
+      "mnemo": "„GRŮŠ“ – do misky házíš groše. Počítá se 그릇: 밥 한 그릇 = jedna miska rýže.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0674",
+      "tema": "kuchyně",
+      "slovo": "접시",
+      "vyslovnost": "jeopsi",
+      "vyslov_hangul": "접씨",
+      "cs": "talíř",
+      "en": "plate",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "스파게티{가} 다 됐어. 담을 수 있는 접시{를} 좀 줘.",
+      "priklad_cs": "Špagety jsou hotové. Podej mi talíř, na který je dám. (가 → 1. pád; 를 → 4. pád)",
+      "mnemo": "„ČEPši“ – obrácená ČEPice jako talíř.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0675",
+      "tema": "kuchyně",
+      "slovo": "도마",
+      "vyslovnost": "doma",
+      "cs": "krájecí prkénko",
+      "en": "cutting board",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "도마 위{에} 고기{나} 채소{를} 놓고 썰어요.",
+      "priklad_cs": "Na prkénko položím maso nebo zeleninu a krájím. (에 → na; 나 → nebo; 를 → 4. pád)",
+      "mnemo": "Prkénko má každý DOMA.",
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0676",
+      "tema": "kuchyně",
+      "slovo": "주전자",
+      "vyslovnost": "jujeonja",
+      "cs": "konvice",
+      "en": "kettle",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "차{를} 마시기 전{에} 주전자{에} 물{을} 끓여요.",
+      "priklad_cs": "Než si dám čaj, uvařím vodu v konvici. (를, 을 → 4. pád; 에 → kdy / v)",
+      "mnemo": "酒 alkohol + 煎 ohřívat + 子 věc = původně nádoba na ohřívání vína.",
+      "koreny": [
+        "ju-酒",
+        "jeon-煎",
+        "ja-子"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0677",
+      "tema": "kuchyně",
+      "slovo": "찻잔",
+      "vyslovnost": "chatjan",
+      "vyslov_hangul": "차짠",
+      "cs": "šálek na čaj",
+      "en": "teacup",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "차{를} 마실 때 이 찻잔{을} 사용해요.",
+      "priklad_cs": "Na čaj používám tenhle šálek. (를, 을 → 4. pád)",
+      "mnemo": "茶 čaj + 盞 šálek. ㅅ mezi slovy zdvojí ㅈ: [차짠].",
+      "koreny": [
+        "cha-茶",
+        "jan-盞"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0678",
+      "tema": "kuchyně",
+      "slovo": "가스레인지",
+      "vyslovnost": "gaseureinji",
+      "cs": "plynový sporák",
+      "en": "stove",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "가스레인지{에} 냄비{를} 올려 주세요.",
+      "priklad_cs": "Postavte hrnec na sporák. (에 → na; 를 → 4. pád)",
+      "mnemo": "Gas + range (sporák) – korejská angličtina.",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "gas range"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0679",
+      "tema": "kuchyně",
+      "slovo": "오븐",
+      "vyslovnost": "obeun",
+      "cs": "trouba",
+      "en": "oven",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "오븐{으로} 생선{도} 구울 수 있고 빵{도} 만들 수 있어요.",
+      "priklad_cs": "V troubě můžete péct rybu i chléb. (으로 → čím; 도 → i)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "oven"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0680",
+      "tema": "kuchyně",
+      "slovo": "전자레인지",
+      "vyslovnost": "jeonjareinji",
+      "cs": "mikrovlnná trouba",
+      "en": "microwave",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "냉동 식품{을} 전자레인지{에} 넣고 돌려요.",
+      "priklad_cs": "Mražené jídlo dám do mikrovlnky a pustím ji. (을 → 4. pád; 에 → do)",
+      "mnemo": "電子 elektronový (電 elektřina + 子 částice) + range (sporák). 돌리다 = pustit (mikrovlnku).",
+      "koreny": [
+        "jeon-電",
+        "ja-子"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "z_anglictiny": "(electronic) range"
+      },
+      "viz_tez": "ko-topik3-0230",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0681",
+      "tema": "jídlo",
+      "slovo": "한식",
+      "vyslovnost": "hansik",
+      "cs": "korejská kuchyně, korejské jídlo",
+      "en": "Korean food",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 한식{을} 좋아하는 외국인들{이} 늘고 있어요.",
+      "priklad_cs": "V poslední době přibývá cizinců, kteří mají rádi korejské jídlo. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "韓 Korea + 食 jídlo. Srovnej 양식 (západní), 중식 (čínské), 일식 (japonské).",
+      "koreny": [
+        "han-韓",
+        "sik-食"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0682",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0682",
+      "tema": "jídlo",
+      "slovo": "양식",
+      "vyslovnost": "yangsik",
+      "cs": "západní jídlo, evropská kuchyně",
+      "en": "western food",
+      "cs_upresneni": "západní jídlo, ne „formulář“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "한식{은} 튀기거나 볶는 양식{과} 다르게 삶거나 찌는 조리법{을} 많이 써요.",
+      "priklad_cs": "Na rozdíl od západní kuchyně, která smaží a restuje, korejská kuchyně často vaří ve vodě nebo v páře. (은 → téma; 과 → od; 을 → 4. pád)",
+      "mnemo": "洋 oceán, západní + 食 jídlo = jídlo ze zámoří. Stejně znějící 양식 (樣式) = formulář, styl.",
+      "koreny": [
+        "yang-洋",
+        "sik-食"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0681",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0683",
+      "tema": "práce",
+      "slovo": "전문가",
+      "vyslovnost": "jeonmunga",
+      "cs": "odborník, expert",
+      "en": "expert",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "오늘{은} 한식 전문가 이수미 선생님{을} 모셨습니다.",
+      "priklad_cs": "Dnes jsme pozvali odbornici na korejskou kuchyni paní I Sumi. (은 → téma; 을 → 4. pád)",
+      "mnemo": "專門 obor (專 výhradní + 門 brána) + 家 člověk (znalec).",
+      "koreny": [
+        "jeon-專",
+        "mun-門",
+        "ga-家"
+      ],
+      "rodina": [
+        "전문"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0684",
+      "tema": "obecné",
+      "slovo": "특징",
+      "vyslovnost": "teukjing",
+      "vyslov_hangul": "특찡",
+      "cs": "charakteristický rys, zvláštnost",
+      "en": "characteristic",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한식{의} 특징{은} 뭐예요?",
+      "priklad_cs": "Jaké jsou typické rysy korejské kuchyně? (의 → 2. pád; 은 → téma)",
+      "mnemo": "特 zvláštní + 徵 znak = zvláštní znak.",
+      "koreny": [
+        "teuk-特",
+        "jing-徵"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0685",
+      "tema": "obecné",
+      "slovo": "점",
+      "vyslovnost": "jeom",
+      "cs": "bod, stránka (věci), ohled",
+      "en": "point, aspect",
+      "cs_upresneni": "bod, stránka věci (좋은 점), ne „piha“",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한식{의} 어떤 점 때문일까요?",
+      "priklad_cs": "Kvůli jaké vlastnosti korejské kuchyně to asi je? (의 → 2. pád)",
+      "mnemo": "點 bod, tečka. 좋은 점 = výhoda, 나쁜 점 = nevýhoda. Stejně znějící 점 = piha, skvrna.",
+      "koreny": [
+        "jeom-點"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0686",
+      "tema": "jídlo",
+      "slovo": "끼",
+      "vyslovnost": "kki",
+      "cs": "počitadlo jídel (snídaně, oběd…)",
+      "en": "counter for meals",
+      "slovni_druh": "ostatni",
+      "frekvence": 2,
+      "priklad": "한 끼{의} 식사{에} 다양한 재료{를} 먹을 수 있어요.",
+      "priklad_cs": "Při jednom jídle můžete sníst mnoho různých surovin. (의 → 2. pád; 에 → při; 를 → 4. pád)",
+      "mnemo": "Tři jídla denně = 세 끼. 끼니 = jídlo (část dne). S původními číslovkami: 한 끼, 두 끼, 세 끼.",
+      "rodina": [
+        "끼니"
+      ],
+      "extra": {
+        "typ": "puvodni",
+        "rada": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0687",
+      "tema": "zdraví",
+      "slovo": "칼로리",
+      "vyslovnost": "kallori",
+      "cs": "kalorie",
+      "en": "calorie",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "한식{은} 칼로리{가} 높지 않은 편이에요.",
+      "priklad_cs": "Korejská jídla mívají spíš méně kalorií. (은 → téma; 가 → 1. pád)",
+      "mnemo": "",
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "calorie"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}

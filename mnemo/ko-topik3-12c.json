@@ -1,0 +1,530 @@
+{
+  "jazyk": "ko",
+  "uroven": "TOPIK 3",
+  "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
+  "verze_schematu": 1,
+  "verze": 1,
+  "zdroj": "Sejong Korean 3, kap. 12 – textbook s. 112–115 (연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepisy poslechu (s. 157) + 어휘 색인",
+  "karty": [
+    {
+      "id": "ko-topik3-0892",
+      "tema": "místa",
+      "slovo": "주위",
+      "vyslovnost": "juwi",
+      "cs": "okolí, kolem",
+      "en": "around",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "눈{이} 따갑고 눈 주위{가} 가려워요.",
+      "priklad_cs": "Pálí mě oči a svědí mě kolem očí. (이, 가 → 1. pád)",
+      "mnemo": "周 kolem + 圍 obklopit = to, co obklopuje. 주위 사람들 = lidé kolem.",
+      "koreny": [
+        "ju-周",
+        "wi-圍"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0893",
+      "tema": "čas",
+      "slovo": "평소",
+      "vyslovnost": "pyeongso",
+      "cs": "obvykle, běžně; běžné dny",
+      "en": "usual day",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "유미 씨, 평소{에} 자주 아픈 데{가} 있어요?",
+      "priklad_cs": "Jumi, máte něco, co vás obvykle často bolí? (에 → kdy; 가 → 1. pád)",
+      "mnemo": "平 běžný + 素 prostý. 평소에 = normálně, 평소보다 = než obvykle.",
+      "koreny": [
+        "pyeong-平",
+        "so-素"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0894",
+      "tema": "tělo",
+      "slovo": "손목",
+      "vyslovnost": "sonmok",
+      "cs": "zápěstí",
+      "en": "wrist",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "양치질{을} 못 할 정도로 손목{이} 아파.",
+      "priklad_cs": "Zápěstí mě bolí tak, že si ani nemůžu vyčistit zuby. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "손 ruka + 목 krk = „krk ruky“. 손목시계 = náramkové hodinky.",
+      "rodina": [
+        "발목",
+        "손목시계"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "viz_tez": "ko-topik3-0837",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0895",
+      "tema": "každodenní život",
+      "slovo": "양치질",
+      "vyslovnost": "yangchijil",
+      "cs": "čištění zubů",
+      "en": "brushing teeth",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "아침{에} 양치질{을} 못 할 정도로 아파서 병원{에} 갔다 왔어.",
+      "priklad_cs": "Ráno to bolelo tak, že jsem si nemohl vyčistit zuby, tak jsem zašel k doktorovi. (에 → kdy; 을 → 4. pád; 에 → kam)",
+      "mnemo": "양치 čištění zubů + -질 (činnost). 양치질하다 = čistit si zuby, běžněji i 이를 닦다.",
+      "koreny": [
+        "yang-養",
+        "chi-齒"
+      ],
+      "extra": {
+        "typ": "smisene",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": true
+    },
+    {
+      "id": "ko-topik3-0896",
+      "tema": "zdraví",
+      "slovo": "무리",
+      "vyslovnost": "muri",
+      "cs": "přepínání sil, přehnaná námaha",
+      "en": "to be impractical (무리하다)",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "어제 무리하게 운동{을} 해서 그런 것 같아.",
+      "priklad_cs": "Asi je to tím, že jsem včera přehnal cvičení. (을 → 4. pád)",
+      "mnemo": "無 bez + 理 rozum = bez rozumu, přes míru. 무리하다 = přepínat se, 무리하지 마세요 = nepřepínejte se.",
+      "koreny": [
+        "mu-無",
+        "ri-理"
+      ],
+      "extra": {
+        "typ": "sino",
+        "hada": true
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0897",
+      "tema": "zdraví",
+      "slovo": "저리다",
+      "vyslovnost": "jeorida",
+      "cs": "brnět, trnout",
+      "en": "to be numb",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "스마트폰{을} 한쪽 손{으로만} 계속 사용하면 손가락{이} 저릴 수 있어요.",
+      "priklad_cs": "Když používáte mobil pořád jen jednou rukou, můžou vám brnět prsty. (을 → 4. pád; 으로만 → jen čím; 이 → 1. pád)",
+      "mnemo": "„ČO-RI“ – noha brní, ČORí ti z ní cit. 다리가 저리다 = brní mě noha.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "저리다",
+          "저려요",
+          "저렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0898",
+      "tema": "zdraví",
+      "slovo": "통증",
+      "vyslovnost": "tongjeung",
+      "vyslov_hangul": "통쯩",
+      "cs": "bolest",
+      "en": "pain",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "손가락{이} 저리고 물건{을} 잡기 힘들 정도로 통증{이} 생길 수 있습니다.",
+      "priklad_cs": "Prsty mohou brnět a může se objevit bolest tak silná, že je těžké něco uchopit. (이 → 1. pád; 을 → 4. pád)",
+      "mnemo": "痛 bolest + 症 příznak. Odborněji než 아픔. 통증이 심하다 = silná bolest.",
+      "koreny": [
+        "tong-痛",
+        "jeung-症"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0899",
+      "tema": "tělo",
+      "slovo": "구부리다",
+      "vyslovnost": "guburida",
+      "cs": "ohnout, shrbit",
+      "en": "to bend",
+      "slovni_druh": "sloveso",
+      "frekvence": 2,
+      "priklad": "장시간 고개{를} 숙이고 구부린 자세{로} 사용하면 목{에} 무리{가} 가요.",
+      "priklad_cs": "Když ho dlouho používáte s hlavou skloněnou a v shrbeném postoji, zatěžuje to krk. (를 → 4. pád; 로 → jak; 에 → na; 가 → 1. pád)",
+      "mnemo": "„KU-BU-RI“ – KUBUla se shrbila. 허리를 구부리다 = ohnout se v pase.",
+      "extra": {
+        "typ": "puvodni",
+        "tvary": [
+          "구부리다",
+          "구부려요",
+          "구부렸어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0900",
+      "tema": "zdraví",
+      "slovo": "디스크",
+      "alternativy": [
+        "허리 디스크"
+      ],
+      "vyslovnost": "diseukeu",
+      "cs": "výhřez ploténky (lidově); ploténka; disk",
+      "en": "disk",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "이런 자세{가} 오래 지속되면 목{과} 허리{에} 디스크{가} 생길 수 있어요.",
+      "priklad_cs": "Když takový postoj trvá dlouho, může vzniknout výhřez ploténky v krku a v bedrech. (가 → 1. pád; 과 → a; 에 → v)",
+      "mnemo": "Z angl. disk. Korejsky 디스크 = hlavně „vyhřezlá ploténka“. 허리 디스크에 걸리다 = mít výhřez ploténky v bedrech.",
+      "rodina": [
+        "허리 디스크에 걸리다"
+      ],
+      "extra": {
+        "typ": "vypujcka",
+        "z_anglictiny": "disk"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0901",
+      "tema": "tělo",
+      "slovo": "안구",
+      "vyslovnost": "angu",
+      "cs": "oční bulva, oko",
+      "en": "eyeball",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "화면{을} 오래 보면 안구 건조증{이} 생길 수 있어요.",
+      "priklad_cs": "Když se dlouho díváte na obrazovku, můžete mít syndrom suchého oka. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "眼 oko + 球 koule = oční koule. Odborné slovo; běžně 눈.",
+      "koreny": [
+        "an-眼",
+        "gu-球"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0902",
+      "tema": "zdraví",
+      "slovo": "건조하다",
+      "vyslovnost": "geonjohada",
+      "cs": "suchý, vysušený",
+      "en": "to be dry",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 2,
+      "priklad": "눈{이} 건조하고 쉽게 피로해져요.",
+      "priklad_cs": "Mám suché oči a rychle se unaví. (이 → 1. pád)",
+      "mnemo": "乾 suchý + 燥 vyprahlý. 공기가 건조하다 = suchý vzduch, 피부가 건조하다 = suchá pleť.",
+      "koreny": [
+        "geon-乾",
+        "jo-燥"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "건조하다",
+          "건조해요",
+          "건조했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0903",
+      "tema": "zdraví",
+      "slovo": "건조증",
+      "vyslovnost": "geonjojeung",
+      "vyslov_hangul": "건조쯩",
+      "cs": "syndrom suchosti (např. suchého oka)",
+      "en": "xerophthalmia",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "눈{이} 쉽게 피로해져서 안구 건조증{이} 생겼어요.",
+      "priklad_cs": "Oči se mi snadno unaví, mám syndrom suchého oka. (이 → 1. pád)",
+      "mnemo": "乾燥 suchý + 症 příznak, onemocnění. 안구 건조증 = suché oko.",
+      "koreny": [
+        "geon-乾",
+        "jo-燥",
+        "jeung-症"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0902",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0904",
+      "tema": "zdraví",
+      "slovo": "시력",
+      "vyslovnost": "siryeok",
+      "cs": "zrak (ostrost)",
+      "en": "eyesight",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "스마트폰 화면{을} 오래 보면 시력{이} 나빠질 수{도} 있어요.",
+      "priklad_cs": "Když se dlouho díváte na displej, může se vám i zhoršit zrak. (을 → 4. pád; 이 → 1. pád; 도 → i)",
+      "mnemo": "視 dívat se + 力 síla = síla zraku. 시력이 나쁘다 = špatně vidět.",
+      "koreny": [
+        "si-視",
+        "ryeok-力"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0905",
+      "tema": "čas",
+      "slovo": "장시간",
+      "vyslovnost": "jangsigan",
+      "cs": "dlouhá doba, dlouho",
+      "en": "long time",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "스마트폰{을} 장시간 사용하면 목{이} 아플 수 있어요.",
+      "priklad_cs": "Když používáte mobil dlouhou dobu, může vás bolet krk. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "長 dlouhý + 時間 čas. Opak 단시간.",
+      "koreny": [
+        "jang-長",
+        "si-時",
+        "gan-間"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0906",
+      "tema": "technika",
+      "slovo": "화면",
+      "vyslovnost": "hwamyeon",
+      "cs": "obrazovka, displej",
+      "en": "screen",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "스마트폰 화면{을} 오래 보면 눈{이} 쉽게 피로해져요.",
+      "priklad_cs": "Když se dlouho díváte na displej mobilu, oči se rychle unaví. (을 → 4. pád; 이 → 1. pád)",
+      "mnemo": "畫 obraz + 面 plocha = plocha s obrazem.",
+      "koreny": [
+        "hwa-畫",
+        "myeon-面"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0907",
+      "tema": "čas",
+      "slovo": "지속되다",
+      "alternativy": [
+        "지속하다"
+      ],
+      "vyslovnost": "jisokdoeda",
+      "vyslov_hangul": "지속뙤다",
+      "cs": "trvat, pokračovat",
+      "en": "to be lasted",
+      "slovni_druh": "sloveso",
+      "frekvence": 3,
+      "priklad": "이런 자세{가} 오래 지속되면 목{과} 허리{가} 아플 수 있어요.",
+      "priklad_cs": "Když takový postoj trvá dlouho, může bolet krk a záda. (가 → 1. pád; 과 → a)",
+      "mnemo": "持 držet + 續 pokračovat. 지속하다 = udržovat (co), 지속되다 = trvat (samo).",
+      "koreny": [
+        "ji-持",
+        "sok-續"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "지속되다",
+          "지속돼요",
+          "지속됐어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0908",
+      "tema": "popis",
+      "slovo": "편리하다",
+      "vyslovnost": "pyeollihada",
+      "vyslov_hangul": "펼리하다",
+      "cs": "pohodlný, praktický",
+      "en": "to be convenient",
+      "slovni_druh": "pridavne_jmeno",
+      "frekvence": 1,
+      "priklad": "스마트폰{은} 편리하지만 너무 오래 사용하면 건강{에} 문제{가} 생길 수{도} 있습니다.",
+      "priklad_cs": "Chytrý telefon je praktický, ale když ho používáte příliš dlouho, mohou nastat zdravotní problémy. (은 → téma; 에 → s; 가 → 1. pád; 도 → i)",
+      "mnemo": "便 pohodlný + 利 užitek. ㄴ+ㄹ se čte [ㄹㄹ]: [펼리하다]. Opak 불편하다.",
+      "koreny": [
+        "pyeon-便",
+        "ri-利"
+      ],
+      "extra": {
+        "typ": "sino",
+        "tvary": [
+          "편리하다",
+          "편리해요",
+          "편리했어요"
+        ]
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0909",
+      "tema": "každodenní život",
+      "slovo": "문제",
+      "vyslovnost": "munje",
+      "cs": "problém; otázka, úloha",
+      "en": "problem",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 1,
+      "priklad": "스마트폰{을} 너무 오래 사용하면 건강{에} 문제{가} 생길 수 있어요.",
+      "priklad_cs": "Když používáte mobil příliš dlouho, můžete mít zdravotní problémy. (을 → 4. pád; 에 → s; 가 → 1. pád)",
+      "mnemo": "問 ptát se + 題 téma = položená otázka. 시험 문제 = otázka v testu, 문제가 생기다 = nastat problém.",
+      "koreny": [
+        "mun-問",
+        "je-題"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "viz_tez": "ko-topik3-0417",
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0910",
+      "tema": "zdraví",
+      "slovo": "증후군",
+      "vyslovnost": "jeunghugun",
+      "cs": "syndrom",
+      "en": "syndrome",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 3,
+      "priklad": "다음{은} 스마트폰 증후군{의} 증상입니다.",
+      "priklad_cs": "Toto jsou příznaky syndromu chytrého telefonu. (은 → téma; 의 → 2. pád)",
+      "mnemo": "症 příznak + 候 projev + 群 skupina = skupina příznaků.",
+      "koreny": [
+        "jeung-症",
+        "hu-候",
+        "gun-群"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0911",
+      "tema": "zdraví",
+      "slovo": "기억력",
+      "vyslovnost": "gieongnyeok",
+      "vyslov_hangul": "기엉녁",
+      "cs": "paměť (schopnost pamatovat si)",
+      "en": "the faculty of memory",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "요즘 기억력{이} 떨어졌어요.",
+      "priklad_cs": "Poslední dobou se mi zhoršila paměť. (이 → 1. pád)",
+      "mnemo": "記憶 paměť (記 zapsat + 憶 vzpomínat) + 力 síla. Výslovnost [기엉녁]. Srovnej 집중력.",
+      "koreny": [
+        "gi-記",
+        "eok-憶",
+        "ryeok-力"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0912",
+      "tema": "technika",
+      "slovo": "알림",
+      "vyslovnost": "allim",
+      "cs": "upozornění, notifikace",
+      "en": "notice",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 2,
+      "priklad": "알림{이} 오지 않았는데도 환청{이} 들려요.",
+      "priklad_cs": "I když žádné upozornění nepřišlo, slyším ho (zdá se mi to). (이 → 1. pád)",
+      "mnemo": "Od 알리다 „oznámit“. 알림이 오다 = přijde notifikace, 알림을 끄다 = vypnout upozornění.",
+      "rodina": [
+        "알리다"
+      ],
+      "extra": {
+        "typ": "puvodni"
+      },
+      "vyrazeno": false,
+      "overit": false
+    },
+    {
+      "id": "ko-topik3-0913",
+      "tema": "zdraví",
+      "slovo": "환청",
+      "vyslovnost": "hwancheong",
+      "cs": "sluchový přelud, halucinace",
+      "en": "auditory hallucination",
+      "slovni_druh": "podstatne_jmeno",
+      "frekvence": 4,
+      "priklad": "알림{이} 오지 않았는데도 환청{이} 들려요.",
+      "priklad_cs": "I když upozornění nepřišlo, slyším ho, jako by přišlo. (이 → 1. pád)",
+      "mnemo": "幻 přelud + 聽 slyšet = slyšet přelud. Zrakový přelud je 환각 / 환시.",
+      "koreny": [
+        "hwan-幻",
+        "cheong-聽"
+      ],
+      "extra": {
+        "typ": "sino"
+      },
+      "vyrazeno": false,
+      "overit": false
+    }
+  ]
+}
