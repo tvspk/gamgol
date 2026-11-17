@@ -133,6 +133,54 @@
    "hangul": "표",
    "hanja": "票",
    "cs": "lístek"
+  },
+  {
+   "id": "chang-創",
+   "hangul": "창",
+   "hanja": "創",
+   "cs": "rána, začít"
+  },
+  {
+   "id": "mae-每",
+   "hangul": "매",
+   "hanja": "每",
+   "cs": "každý"
+  },
+  {
+   "id": "eun-銀",
+   "hangul": "은",
+   "hanja": "銀",
+   "cs": "stříbro"
+  },
+  {
+   "id": "ryeok-曆",
+   "hangul": "력",
+   "hanja": "曆",
+   "cs": "kalendář"
+  },
+  {
+   "id": "gong-工",
+   "hangul": "공",
+   "hanja": "工",
+   "cs": "práce, řemeslo"
+  },
+  {
+   "id": "bu-夫",
+   "hangul": "부",
+   "hanja": "夫",
+   "cs": "muž"
+  },
+  {
+   "id": "yeon-練",
+   "hangul": "연",
+   "hanja": "練",
+   "cs": "cvičit"
+  },
+  {
+   "id": "jung-重",
+   "hangul": "중",
+   "hanja": "重",
+   "cs": "těžký, důležitý"
   }
  ]
 }

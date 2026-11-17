@@ -1,0 +1,620 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 14 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d1401",
+   "tema": "starosti",
+   "slovo": "걱정거리",
+   "cs": "starost (věc k obavám)",
+   "en": "something to worry about",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "까망이는 복순 할머니의 가장 큰 걱정거리예요.",
+   "priklad_cs": "Kkamangi je největší starost babičky Poksun.",
+   "mnemo": "걱정 (obava) + 거리 (látka k něčemu; 이야깃거리 = námět k hovoru).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1402",
+   "tema": "starosti",
+   "slovo": "고민 상담소",
+   "cs": "poradna pro trápení",
+   "en": "advice bureau for people's worries",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "오늘부터 우리 파출소는 고민 상담소입니다!",
+   "priklad_cs": "Od dneška je naše stanice poradna pro trápení!",
+   "mnemo": "苦悶 trápení + 相談所 poradna.",
+   "koreny": [
+    "go-苦",
+    "min-悶",
+    "sang-相",
+    "dam-談",
+    "so-所"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1403",
+   "tema": "starosti",
+   "slovo": "상담",
+   "cs": "konzultace, poradenství",
+   "en": "consultation, counselling",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "상담은 무료입니다! 언제든지 오십시오!",
+   "priklad_cs": "Konzultace zdarma! Přijďte kdykoli!",
+   "mnemo": "相 vzájemně + 談 rozhovor = vzájemný rozhovor.",
+   "koreny": [
+    "sang-相",
+    "dam-談"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1404",
+   "tema": "škola",
+   "slovo": "실력이 늘다",
+   "cs": "zlepšit se (v dovednosti)",
+   "en": "one's skill improves",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "나는 아무리 바빠도 매일 연습해. 그래서 실력이 많이 늘었어.",
+   "priklad_cs": "Trénuju každý den, i když mám sebevíc práce. Proto jsem se hodně zlepšil.",
+   "mnemo": "實力 skutečná síla, schopnost + 늘다 (přibýt).",
+   "koreny": [
+    "sil-實",
+    "ryeok-力"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1405",
+   "tema": "peníze",
+   "slovo": "돈을 모으다",
+   "cs": "šetřit (střádat) peníze",
+   "en": "to save up money",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 자전거를 사려고 돈을 모으고 있어요.",
+   "priklad_cs": "Haram šetří peníze, aby si koupil kolo.",
+   "mnemo": "돈 (peníze) + 모으다 (shromáždit, nastřádat).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1406",
+   "tema": "povaha",
+   "slovo": "자신감이 부족하다",
+   "cs": "chybí sebevědomí",
+   "en": "to lack confidence",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "자신감이 부족해도 괜찮아요. 천천히 하세요.",
+   "priklad_cs": "Nevadí, že vám chybí sebevědomí. Dělejte to pomalu.",
+   "mnemo": "自信感 pocit důvěry v sebe + 不足 nedostatek + 하다.",
+   "koreny": [
+    "ja-自",
+    "sin-信",
+    "gam-感",
+    "bu-不",
+    "jok-足"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1407",
+   "tema": "povaha",
+   "slovo": "인내심이 부족하다",
+   "cs": "chybí trpělivost",
+   "en": "to lack patience",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 인내심이 부족해서 5분도 못 기다려요.",
+   "priklad_cs": "Tojunovi chybí trpělivost, nevydrží čekat ani pět minut.",
+   "mnemo": "忍耐心 trpělivost („srdce, které snese“) + 不足 nedostatek + 하다.",
+   "koreny": [
+    "in-忍",
+    "nae-耐",
+    "sim-心",
+    "bu-不",
+    "jok-足"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1408",
+   "tema": "práce",
+   "slovo": "일이 잘되다",
+   "cs": "práce se daří",
+   "en": "things go well",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 요즘 일이 잘돼서 표정이 밝아요.",
+   "priklad_cs": "Sodžin se poslední dobou v práci daří, a tak se tváří vesele.",
+   "mnemo": "일 (práce) + 잘되다 (dařit se, dobře se vyvíjet).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1409",
+   "tema": "zdraví",
+   "slovo": "불면증이 심하다",
+   "cs": "mít silnou nespavost",
+   "en": "to have bad insomnia",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 감골에 온 후부터 불면증이 심해졌어요.",
+   "priklad_cs": "Od té doby, co jsem přišel do Gamgolu, se mi nespavost zhoršila.",
+   "mnemo": "不眠症 nespavost („nemoc ne-spánku“) + 甚 silný, krajní + 하다.",
+   "koreny": [
+    "bul-不",
+    "myeon-眠",
+    "jeung-症",
+    "sim-甚"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1410",
+   "tema": "práce",
+   "slovo": "실수가 많다",
+   "cs": "dělat hodně chyb",
+   "en": "to make a lot of mistakes",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 처음에 보고서에 실수가 많았어요.",
+   "priklad_cs": "Ze začátku jsem v hlášeních dělal hodně chyb.",
+   "mnemo": "失手 chyba („ztracená ruka“) + 많다 (hodně).",
+   "koreny": [
+    "sil-失",
+    "su-手"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1411",
+   "tema": "starosti",
+   "slovo": "조언을 구하다",
+   "cs": "požádat o radu",
+   "en": "to ask for advice",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 노래 때문에 덕배 할아버지께 조언을 구했어요.",
+   "priklad_cs": "Tojun kvůli zpěvu požádal o radu dědu Tokpeho.",
+   "mnemo": "助言 rada („pomocné slovo“) + 求 hledat, žádat + 하다.",
+   "koreny": [
+    "jo-助",
+    "eon-言",
+    "gu-求"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1412",
+   "tema": "vztahy",
+   "slovo": "솔직하게 이야기하다",
+   "cs": "mluvit upřímně",
+   "en": "to speak frankly",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "힘든 일이 있으면 솔직하게 이야기해도 돼요.",
+   "priklad_cs": "Když vás něco trápí, klidně o tom mluvte upřímně.",
+   "mnemo": "率直 přímý, upřímný + -하게 + 이야기하다 (vyprávět).",
+   "koreny": [
+    "sol-率",
+    "jik-直"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1413",
+   "tema": "starosti",
+   "slovo": "단순하게 생각하다",
+   "cs": "brát to jednoduše",
+   "en": "to think of it simply",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "너무 고민하지 말고 단순하게 생각해 보지 그래요?",
+   "priklad_cs": "Moc se netrapte a zkuste to brát jednoduše, ne?",
+   "mnemo": "單純 jednoduchý + -하게 + 생각하다 (myslet).",
+   "koreny": [
+    "dan-單",
+    "sun-純"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1414",
+   "tema": "plány",
+   "slovo": "꾸준히 노력하다",
+   "cs": "vytrvale se snažit",
+   "en": "to keep working at it steadily",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 아무리 힘들어도 꾸준히 노력해요.",
+   "priklad_cs": "Tojun se vytrvale snaží, i když je to sebetěžší.",
+   "mnemo": "꾸준히 (vytrvale, soustavně) + 努力 úsilí + 하다.",
+   "koreny": [
+    "no-努",
+    "ryeok-力"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1415",
+   "tema": "plány",
+   "slovo": "우선순위를 정하다",
+   "cs": "stanovit priority",
+   "en": "to set priorities",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 아침마다 그날 일의 우선순위를 정해요.",
+   "priklad_cs": "Kolegyně si každé ráno stanoví priority práce na ten den.",
+   "mnemo": "優先 přednost + 順位 pořadí + 定 určit + 하다.",
+   "koreny": [
+    "u-優",
+    "seon-先",
+    "sun-順",
+    "wi-位",
+    "jeong-定"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1416",
+   "tema": "plány",
+   "slovo": "구체적으로 계획을 세우다",
+   "cs": "udělat konkrétní plán",
+   "en": "to make a detailed plan",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "축제 전에 구체적으로 계획을 세웁시다!",
+   "priklad_cs": "Před festivalem si udělejme konkrétní plán!",
+   "mnemo": "具體的 konkrétní („mající tělo“) + 計劃 plán + 세우다 (postavit).",
+   "koreny": [
+    "gu-具",
+    "che-體",
+    "jeok-的",
+    "gye-計",
+    "hoek-劃"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1417",
+   "tema": "starosti",
+   "slovo": "다른 데 관심을 가지다",
+   "cs": "začít se zajímat o něco jiného",
+   "en": "to take an interest in something else",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "고민만 하지 말고 다른 데 관심을 가져 보세요.",
+   "priklad_cs": "Netrapte se pořád jen tím a zkuste se začít zajímat o něco jiného.",
+   "mnemo": "다른 데 (jinam, o jiné) + 關心 zájem + 가지다 (mít).",
+   "koreny": [
+    "gwan-關",
+    "sim-心"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1418",
+   "tema": "vztahy",
+   "slovo": "공감하다",
+   "cs": "soucítit, cítit stejně",
+   "en": "to sympathise, to feel the same",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "선배는 하람이의 고민에 공감해 줬어요.",
+   "priklad_cs": "Kolegyně s Haramovým trápením soucítila.",
+   "mnemo": "共 společný + 感 cit = společný cit + 하다.",
+   "koreny": [
+    "gong-共",
+    "gam-感"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1419",
+   "tema": "ostatní",
+   "slovo": "나타나다",
+   "cs": "objevit se",
+   "en": "to appear, to show up",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "까망이는 저녁마다 버스 정류장에 나타나요.",
+   "priklad_cs": "Kkamangi se každý večer objeví na autobusové zastávce.",
+   "mnemo": "„NA-TA-NA-DA“ – NAjednou TAdy! Objevit se. Opak 사라지다 (zmizet).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1420",
+   "tema": "škola",
+   "slovo": "공부를 안 해서 성적이 떨어지다",
+   "cs": "zhoršit se ve známkách, protože se člověk neučí",
+   "en": "grades drop because one doesn't study",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "게임만 하고 공부를 안 해서 성적이 떨어졌어요.",
+   "priklad_cs": "Jen jsem hrál hry a neučil se, tak se mi zhoršily známky.",
+   "mnemo": "工夫 učení + 안 하다 (nedělat) + 成績 výsledky + 떨어지다 (spadnout).",
+   "koreny": [
+    "gong-工",
+    "bu-夫",
+    "seong-成",
+    "jeok-績"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1421",
+   "tema": "škola",
+   "slovo": "매일 연습하니까 실력이 늘다",
+   "cs": "každodenním cvičením se zlepšovat",
+   "en": "skill improves because one practises daily",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이가 매일 연습하니까 노래 실력이 늘었어요.",
+   "priklad_cs": "Tojun trénuje každý den, a tak se ve zpěvu zlepšil.",
+   "mnemo": "每日 každý den + 練習 cvičení + 實力 schopnost + 늘다 (přibýt).",
+   "koreny": [
+    "mae-每",
+    "il-日",
+    "yeon-練",
+    "seup-習",
+    "sil-實",
+    "ryeok-力"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1422",
+   "tema": "práce",
+   "slovo": "선배에게 조언을 구하다",
+   "cs": "požádat staršího kolegu o radu",
+   "en": "to ask a senior for advice",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "잘 모르면 선배에게 조언을 구하지 그래?",
+   "priklad_cs": "Když něco nevíš, co takhle požádat kolegyni o radu?",
+   "mnemo": "先輩 starší kolega + 助言 rada + 求 žádat + 하다.",
+   "koreny": [
+    "seon-先",
+    "bae-輩",
+    "jo-助",
+    "eon-言",
+    "gu-求"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1423",
+   "tema": "plány",
+   "slovo": "중요한 일부터 우선순위를 정하다",
+   "cs": "stanovit priority od nejdůležitějšího",
+   "en": "to set priorities, important things first",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "할 일이 많으면 중요한 일부터 우선순위를 정해 보세요.",
+   "priklad_cs": "Když máte hodně práce, zkuste si stanovit priority od nejdůležitějších věcí.",
+   "mnemo": "重要 důležitý + 일부터 (od věcí) + 優先順位 priority + 定 určit.",
+   "koreny": [
+    "jung-重",
+    "yo-要",
+    "u-優",
+    "seon-先",
+    "sun-順",
+    "wi-位",
+    "jeong-定"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1424",
+   "tema": "peníze",
+   "slovo": "여행을 가려고 돈을 모으다",
+   "cs": "šetřit peníze na cestu",
+   "en": "to save up money for a trip",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 제주도로 여행을 가려고 돈을 모으고 있어요.",
+   "priklad_cs": "Tojun šetří peníze, aby mohl jet na výlet na ostrov Čedžu.",
+   "mnemo": "旅行 cesta + 가려고 (aby jel) + 돈 + 모으다 (střádat).",
+   "koreny": [
+    "yeo-旅",
+    "haeng-行"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1425",
+   "tema": "plány",
+   "slovo": "새로운 취미에 관심을 가지다",
+   "cs": "začít se zajímat o nový koníček",
+   "en": "to take an interest in a new hobby",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "복순 할머니가 요즘 새로운 취미에 관심을 가지셨어요. 요가예요!",
+   "priklad_cs": "Babička Poksun se poslední dobou začala zajímat o nový koníček. O jógu!",
+   "mnemo": "새롭다 (nový) + 趣味 záliba + 關心 zájem + 가지다 (mít).",
+   "koreny": [
+    "chwi-趣",
+    "mi-味",
+    "gwan-關",
+    "sim-心"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1426",
+   "tema": "povaha",
+   "slovo": "아직 자신감이 부족하다",
+   "cs": "ještě chybí sebevědomí",
+   "en": "to be short of confidence still",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 신입이라서 아직 자신감이 부족해요.",
+   "priklad_cs": "Jsem nováček, a tak mi ještě chybí sebevědomí.",
+   "mnemo": "아직 (ještě) + 自信感 sebedůvěra + 不足 nedostatek + 하다.",
+   "koreny": [
+    "ja-自",
+    "sin-信",
+    "gam-感",
+    "bu-不",
+    "jok-足"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1427",
+   "tema": "vztahy",
+   "slovo": "두 사람은 성격이 안 맞다",
+   "cs": "ti dva si povahově nesedí",
+   "en": "the two don't match in character",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "두 사람은 성격이 안 맞아도 사이는 좋아요.",
+   "priklad_cs": "I když si ti dva povahově nesedí, vycházejí spolu dobře.",
+   "mnemo": "두 사람 (dva lidé) + 性格 povaha + 안 맞다 (nesedět).",
+   "koreny": [
+    "seong-性",
+    "gyeok-格"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1428",
+   "tema": "zdraví",
+   "slovo": "요즘 불면증이 심하다",
+   "cs": "mít poslední dobou silnou nespavost",
+   "en": "insomnia is bad these days",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 요즘 불면증이 심해서 밤마다 산책을 해요.",
+   "priklad_cs": "Sodžin má poslední dobou silnou nespavost, a tak se každou noc chodí procházet.",
+   "mnemo": "요즘 (poslední dobou) + 不眠症 nespavost + 甚 silný + 하다.",
+   "koreny": [
+    "bul-不",
+    "myeon-眠",
+    "jeung-症",
+    "sim-甚"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 13 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d1301",
+   "tema": "peníze",
+   "slovo": "의류 구입비",
+   "cs": "výdaje za oblečení",
+   "en": "spending on clothes",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "서진 씨는 의류 구입비가 거의 안 드는 편이에요.",
+   "priklad_cs": "Sodžin za oblečení skoro nic neutrácí.",
+   "mnemo": "衣類 oděvy + 購入費 výdaje na nákup.",
+   "koreny": [
+    "ui-衣",
+    "ryu-類",
+    "gu-購",
+    "ip-入",
+    "bi-費"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1302",
+   "tema": "peníze",
+   "slovo": "화장품 구입비",
+   "cs": "výdaje za kosmetiku",
+   "en": "spending on cosmetics",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "가계부를 보니까 화장품 구입비가 생각보다 많더라고요.",
+   "priklad_cs": "Když jsem se podíval do sešitu výdajů, za kosmetiku šlo víc, než jsem čekal.",
+   "mnemo": "化粧品 kosmetika + 購入費 výdaje na nákup.",
+   "koreny": [
+    "hwa-化",
+    "jang-粧",
+    "pum-品",
+    "gu-購",
+    "ip-入",
+    "bi-費"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1303",
+   "tema": "bydlení",
+   "slovo": "전기 요금",
+   "cs": "poplatek za elektřinu",
+   "en": "electricity charges",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "전기 요금이 두 배나 나왔어요!",
+   "priklad_cs": "Za elektřinu přišlo dvakrát tolik!",
+   "mnemo": "電氣 elektřina + 料金 poplatek.",
+   "koreny": [
+    "jeon-電",
+    "gi-氣",
+    "yo-料",
+    "geum-金"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1304",
+   "tema": "peníze",
+   "slovo": "저금을 하다",
+   "cs": "spořit (ukládat peníze)",
+   "en": "to save money (put it in the bank)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 아르바이트비를 받으면 바로 저금을 해요.",
+   "priklad_cs": "Haram peníze z brigády hned po výplatě uloží.",
+   "mnemo": "貯金 uložené peníze + 하다.",
+   "koreny": [
+    "jeo-貯",
+    "geum-金"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1305",
+   "tema": "nakupování",
+   "slovo": "가격을 비교하다",
+   "cs": "porovnávat ceny",
+   "en": "to compare prices",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 물건을 사기 전에 가격을 꼼꼼하게 비교하는 편이에요.",
+   "priklad_cs": "Kolegyně před nákupem vždycky pečlivě porovnává ceny.",
+   "mnemo": "價格 cena + 比較 porovnání + 하다.",
+   "koreny": [
+    "ga-價",
+    "gyeok-格",
+    "bi-比",
+    "gyo-較"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1306",
+   "tema": "peníze",
+   "slovo": "가계부를 쓰다",
+   "cs": "vést si sešit výdajů",
+   "en": "to keep household accounts",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "가계부를 써 보니까 과자에 쓴 돈이 제일 많더라고요.",
+   "priklad_cs": "Když jsem si začal zapisovat výdaje, ukázalo se, že nejvíc utrácím za sladkosti.",
+   "mnemo": "家計簿 sešit domácích financí + 쓰다 (psát).",
+   "koreny": [
+    "ga-家",
+    "gye-計",
+    "bu-簿"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1307",
+   "tema": "nakupování",
+   "slovo": "충동구매를 하다",
+   "cs": "nakupovat impulzivně",
+   "en": "to buy on impulse",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 슈퍼에만 가면 충동구매를 하는 편이에요.",
+   "priklad_cs": "Tojun, jakmile vejde do obchodu, nakupuje impulzivně.",
+   "mnemo": "衝動 popud, nutkání + 購買 nákup + 하다.",
+   "koreny": [
+    "chung-衝",
+    "dong-動",
+    "gu-購",
+    "mae-買"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1308",
+   "tema": "peníze",
+   "slovo": "돈을 아껴 쓰다",
+   "cs": "šetrně utrácet",
+   "en": "to spend money sparingly",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "이장님은 마을 돈을 정말 아껴 쓰시는 편이에요.",
+   "priklad_cs": "Starosta s obecními penězi opravdu šetří.",
+   "mnemo": "돈 (peníze) + 아끼다 (šetřit, hýčkat) + 쓰다 (utrácet).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1309",
+   "tema": "nakupování",
+   "slovo": "할인 상품",
+   "cs": "zlevněné zboží",
+   "en": "discounted goods",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "선배는 감골슈퍼에서 할인 상품만 골라서 사요.",
+   "priklad_cs": "Kolegyně v Gamgolském obchodě vybírá jen zlevněné zboží.",
+   "mnemo": "割引 sleva + 商品 zboží.",
+   "koreny": [
+    "hal-割",
+    "in-引",
+    "sang-商",
+    "pum-品"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1310",
+   "tema": "peníze",
+   "slovo": "절약되다",
+   "cs": "ušetřit se (o penězích, čase)",
+   "en": "to be saved (of money, time)",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "자전거로 다니니까 교통비가 많이 절약되더라고요.",
+   "priklad_cs": "Když jezdím na kole, hodně ušetřím za dopravu.",
+   "mnemo": "節約 šetrnost + 되다 (stát se).",
+   "koreny": [
+    "jeol-節",
+    "yak-約"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1311",
+   "tema": "peníze",
+   "slovo": "물가가 오르다",
+   "cs": "ceny stoupají",
+   "en": "prices go up",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "물가가 올라서 과자 한 봉지에 삼천 원이에요.",
+   "priklad_cs": "Ceny stouply, sáček sušenek stojí tři tisíce wonů.",
+   "mnemo": "物價 ceny zboží + 오르다 (stoupat).",
+   "koreny": [
+    "mul-物",
+    "ga-價"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1312",
+   "tema": "peníze",
+   "slovo": "매일 가계부를 쓰다",
+   "cs": "každý den si zapisovat výdaje",
+   "en": "to keep accounts every day",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 매일 가계부를 써요. 저는 매일 잊어버려요.",
+   "priklad_cs": "Kolegyně si každý den zapisuje výdaje. Já to každý den zapomenu.",
+   "mnemo": "每日 každý den + 家計簿 sešit výdajů + 쓰다.",
+   "koreny": [
+    "mae-每",
+    "il-日",
+    "ga-家",
+    "gye-計",
+    "bu-簿"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1313",
+   "tema": "nakupování",
+   "slovo": "쇼핑하기 전에 계획을 세우다",
+   "cs": "před nákupem si udělat plán",
+   "en": "to make a plan before shopping",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "쇼핑하기 전에 계획을 세웠는데 슈퍼에서 다 잊어버렸어요.",
+   "priklad_cs": "Před nákupem jsem si udělal plán, ale v obchodě jsem všechno zapomněl.",
+   "mnemo": "쇼핑 (z angl. shopping) + 전에 (před) + 計劃 plán + 세우다 (postavit).",
+   "koreny": [
+    "gye-計",
+    "hoek-劃"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1314",
+   "tema": "peníze",
+   "slovo": "요즘 물가가 많이 오르다",
+   "cs": "ceny poslední dobou hodně stouply",
+   "en": "prices have gone up a lot lately",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "요즘 물가가 많이 올라서 장미숙 사장님도 걱정이 많으세요.",
+   "priklad_cs": "Ceny poslední dobou hodně stouply, a tak má i paní Čang velké starosti.",
+   "mnemo": "요즘 (poslední dobou) + 物價 ceny + 많이 오르다 (hodně stoupnout).",
+   "koreny": [
+    "mul-物",
+    "ga-價"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1315",
+   "tema": "peníze",
+   "slovo": "필요 없는 지출이 줄다",
+   "cs": "zbytečné výdaje se sníží",
+   "en": "unnecessary spending goes down",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "가계부를 쓰고 나서 필요 없는 지출이 많이 줄었어요.",
+   "priklad_cs": "Od té doby, co si zapisuju výdaje, ubylo hodně zbytečných výdajů.",
+   "mnemo": "必要 potřeba + 없다 + 支出 výdaj + 줄다 (ubýt).",
+   "koreny": [
+    "pil-必",
+    "yo-要",
+    "ji-支",
+    "chul-出"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1316",
+   "tema": "peníze",
+   "slovo": "매달 은행에 저금을 하다",
+   "cs": "každý měsíc ukládat peníze do banky",
+   "en": "to save money in the bank every month",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "소장님은 매달 은행에 저금을 하시는데 얼마인지는 비밀이에요.",
+   "priklad_cs": "Velitel si každý měsíc ukládá peníze do banky, ale kolik, je tajemství.",
+   "mnemo": "每 každý + 달 (měsíc) + 銀行 banka + 貯金 úspory + 하다.",
+   "koreny": [
+    "mae-每",
+    "eun-銀",
+    "haeng-行",
+    "jeo-貯",
+    "geum-金"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1317",
+   "tema": "peníze",
+   "slovo": "이번 달에는 생활비가 부족하다",
+   "cs": "tento měsíc nestačí peníze na živobytí",
+   "en": "this month the living expenses are short",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "이번 달에는 파출소 생활비가 부족해서 과자를 못 사요.",
+   "priklad_cs": "Tento měsíc stanici nestačí peníze na provoz, takže si nemůžeme koupit sušenky.",
+   "mnemo": "이번 달 (tento měsíc) + 生活費 výdaje na život + 不足 nedostatek + 하다.",
+   "koreny": [
+    "saeng-生",
+    "hwal-活",
+    "bi-費",
+    "bu-不",
+    "jok-足"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1318",
+   "tema": "peníze",
+   "slovo": "달력에 주머니를 달다",
+   "cs": "připevnit na kalendář kapsičky",
+   "en": "to fix pockets to a calendar",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배가 달력에 주머니를 달고 날마다 쓸 돈을 넣었어요.",
+   "priklad_cs": "Kolegyně připevnila na kalendář kapsičky a dávala do nich peníze na každý den.",
+   "mnemo": "달력 (kalendář: 달 měsíc + 曆) + 주머니 (kapsa, měšec) + 달다 (pověsit, připevnit).",
+   "koreny": [
+    "ryeok-曆"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}
