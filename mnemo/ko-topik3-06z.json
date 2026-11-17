@@ -1,0 +1,96 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 6 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d0601",
+   "tema": "nakupování",
+   "slovo": "할인 여부",
+   "cs": "zda je sleva (či není)",
+   "en": "whether it is discounted or not",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "장 사장님께 할인 여부를 물어보려고 슈퍼에 갔어요.",
+   "priklad_cs": "Šla jsem do supermarketu zeptat se paní Čang, jestli je sleva.",
+   "mnemo": "割引 sleva + 與否 ano či ne.",
+   "koreny": [
+    "hal-割",
+    "in-引",
+    "yeo-與",
+    "bu-否"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0602",
+   "tema": "nakupování",
+   "slovo": "반품하다",
+   "cs": "vrátit zboží",
+   "en": "to send goods back",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "도윤이는 인터넷으로 산 스피커를 반품하려고 다시 상자에 넣었어요.",
+   "priklad_cs": "Tojun dal reproduktor koupený přes internet zpátky do krabice, aby ho vrátil.",
+   "mnemo": "返 vrátit + 品 zboží.",
+   "koreny": [
+    "ban-返",
+    "pum-品"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0603",
+   "tema": "nakupování",
+   "slovo": "가격표를 떼다",
+   "cs": "odstranit cenovku",
+   "en": "to take the price tag off",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "가격표를 떼지 말고 먼저 입어 보세요.",
+   "priklad_cs": "Cenovku neodstraňujte, nejdřív si to vyzkoušejte.",
+   "mnemo": "價格表 cenový lístek + 떼다 (odlepit).",
+   "koreny": [
+    "ga-價",
+    "gyeok-格",
+    "pyo-表"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0604",
+   "tema": "nakupování",
+   "slovo": "쇼핑 품목",
+   "cs": "položka nákupu",
+   "en": "shopping item (a thing on one's shopping list)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "오늘 쇼핑 품목은 우유, 달걀, 그리고 까망이 간식이에요.",
+   "priklad_cs": "Dnes nakupuju mléko, vejce a pamlsky pro Kkamangi.",
+   "mnemo": "쇼핑 (z angl. shopping) + 品目 druh zboží.",
+   "koreny": [
+    "pum-品",
+    "mok-目"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

@@ -37,6 +37,30 @@
    "hangul": "조",
    "hanja": "操",
    "cs": "ovládat, cvičit"
+  },
+  {
+   "id": "cheol-鐵",
+   "hangul": "철",
+   "hanja": "鐵",
+   "cs": "železo"
+  },
+  {
+   "id": "gi-紀",
+   "hangul": "기",
+   "hanja": "紀",
+   "cs": "zaznamenat"
+  },
+  {
+   "id": "gung-宮",
+   "hangul": "궁",
+   "hanja": "宮",
+   "cs": "palác"
+  },
+  {
+   "id": "ban-返",
+   "hangul": "반",
+   "hanja": "返",
+   "cs": "vrátit"
   }
  ]
 }
