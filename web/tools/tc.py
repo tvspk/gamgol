@@ -15,7 +15,7 @@ async def main():
                 if o: ov.append(t)
             await chk('home')
             for ch in ('ch1','ch7','ch14'):
-                await pg.evaluate('s=>document.querySelector(s).click()', f'[data-cards="{ch}"]')
+                await pg.evaluate('id=>__game.startCards(__game.C.chapters.find(c=>c.id===id))', ch)   # Card index is hidden on the board (17 Nov 2026); the code stays
                 for rnd in range(3):
                     for i in range(10):
                         await pg.click('#fc'); await chk(f'{ch} {rnd} {i}')

@@ -276,7 +276,7 @@ function startBrief() {
   };
   step();
 }
-/* Attendance book: ten answers or rated index cards in a day earn that day's stamp. Days in a row make the streak; a day of
+/* Attendance book: ten answers or rated Mnemo Hooks cards in a day earn that day's stamp. Days in a row make the streak; a day of
    annual leave (one earned per seven stamps, two at most) quietly covers a missed day. */
 const ATT_NEED = 10, ATT_MARKS = [
   { n: 3, ko: "작심삼일", en: "“a resolution lasts three days”", pay: 3000, line: "Koreans have a four-syllable phrase for resolutions that die on day three. Yours has not. The phrase is disappointed." },
@@ -318,7 +318,7 @@ function attCard() {
       <div class="aweek">${days}</div>
       <svg class="moon" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="28" fill="#fbeeb0"/><g fill="#e3cf82"><ellipse cx="27" cy="20" rx="3" ry="9" transform="rotate(-12 27 20)"/><ellipse cx="35" cy="20" rx="3" ry="9" transform="rotate(10 35 20)"/><circle cx="31" cy="31" r="7"/><ellipse cx="29" cy="44" rx="10" ry="9"/><circle cx="20" cy="47" r="3"/><rect x="42" y="30" width="3" height="16" rx="1.5" transform="rotate(14 43 38)"/><path d="M40 46h14l-2 8H42z"/></g></svg></div>
     <p class="aline">${esc(line)}</p>
-    <details class="amore"><summary>How the book works</summary><p>${ATT_NEED} answers or index cards in a day (any mix) light that day's lantern; the row shows the last seven days, today on the right. ${next ? `Next: day ${next.n}, <span class="ko" lang="ko">${next.ko}</span> (${esc(next.en)}), worth ${won(next.pay)}.` : "No milestones left. You have outlasted the stationery."} A small moon is a day of annual leave, <span class="ko" lang="ko">연차</span>: one is earned every seventh lantern and spent automatically on a missed day. In hand: ${A.leave}.</p></details></section>`;
+    <details class="amore"><summary>How the book works</summary><p>${ATT_NEED} answers or Mnemo Hooks cards in a day (any mix) light that day's lantern; the row shows the last seven days, today on the right. ${next ? `Next: day ${next.n}, <span class="ko" lang="ko">${next.ko}</span> (${esc(next.en)}), worth ${won(next.pay)}.` : "No milestones left. You have outlasted the stationery."} A small moon is a day of annual leave, <span class="ko" lang="ko">연차</span>: one is earned every seventh lantern and spent automatically on a missed day. In hand: ${A.leave}.</p></details></section>`;
 }
 const weakSkills = chs => chs.flatMap(c => c.skills).filter(s => S.skills[s] && S.skills[s].weak);
 const closedChapters = () => C.chapters.filter(c => c.cases.some(k => S.cases[k.id]));
@@ -819,7 +819,7 @@ function home(scrollTo) {
       <div class="cc-r"><button class="btn" type="button" id="night2" ${wait ? "disabled" : ""}>Night duty</button></div></section>`;
   const jump = `<nav class="jump" aria-label="Jump to a chapter">${C.chapters.map(ch => `<button type="button" data-open="${ch.id}" class="${ch === open ? "on" : ""} ${chDone(ch) ? "done" : ""} ${ch === cur ? "cur" : ""}" aria-label="Chapter ${ch.no}">${String(ch.no).padStart(2, "0")}</button>`).join("")}</nav>`;
   const chapters = C.chapters.map(ch => {
-    const st = vstat(ch), cs = cstat(ch), isOpen = ch === open;
+    const st = vstat(ch), isOpen = ch === open;   // Card index (startCards) is no longer on the board: Mnemo Hooks replace it (user, 17 Nov 2026)
     const dots = ch.cases.map(k => `<i class="${S.cases[k.id] ? "c" : ""} ${/optional/i.test(k.kind) ? "o" : ""}" title="FILE ${k.no}${S.cases[k.id] ? ": closed" : ""}"></i>`).join("");
     const body = `<div class="cbody" ${isOpen ? "" : "hidden"}>${ch.grammar ? `<details class="gram"><summary>Grammar notes for this chapter</summary>${ch.grammar.map(g => `<section><h3 class="ko" lang="ko">${esc(g.pattern)}</h3><p>${esc(g.gist)}</p>
       <div class="gt">${g.rows.map(r => `<div><span>${esc(r[0])}</span><b class="ko" lang="ko">${esc(r[1])}</b><span class="ko" lang="ko">${esc(r[2])}</span></div>`).join("")}</div>
@@ -831,8 +831,7 @@ function home(scrollTo) {
         <span class="tag"><span>${k.kind}</span><span>${S.resume && S.resume.cs === k.id ? "Resume: " + PH[S.resume.phase].toLowerCase() : cl ? "Play again" : op ? "Open" : "Locked: close the file before it"}</span></span></button>`; }).join("")}
       <button class="note" type="button" data-vocab="${ch.id}" ${wait ? "disabled" : ""}><b>Lost &amp; found</b><span>Ten tagged items a round. ${st.f + st.g} of ${st.n} words filed, ${st.g} gold.</span>
         <span class="meter"><i class="g" style="width:${st.g / st.n * 100}%"></i><i style="width:${st.f / st.n * 100}%"></i></span></button>
-      <button class="note idx" type="button" data-cards="${ch.id}" ${wait ? "disabled" : ""}><b>Card index</b><span>Flashcards, both ways. ${cs.n} cards: ${cs.b[2]} closed, ${cs.b[1]} pending, ${cs.b[0]} open or new.</span>
-        <span class="meter"><i style="width:${cs.b[2] / cs.n * 100}%"></i><i class="g" style="width:${cs.b[1] / cs.n * 100}%"></i></span></button>${mnCards(ch).length ? (() => { const m = mnStat(mnCards(ch));
+      ${mnCards(ch).length ? (() => { const m = mnStat(mnCards(ch));
         return `<button class="note mh" type="button" data-mnemo="${ch.id}" ${wait ? "disabled" : ""}><b>Mnemo Hooks</b><span lang="cs">Slovíčka s českými háčky, kořeny a SRS. ${m.n} slov: ${m.b[2]} umím, ${m.b[1]} učím se, ${m.b[0]} nových.${m.due ? ` K opakování: ${m.due}.` : ""}</span>
         <span class="meter"><i style="width:${m.b[2] / m.n * 100}%"></i><i class="g" style="width:${m.b[1] / m.n * 100}%"></i></span></button>`; })() : ""}${ch.reads ? (() => { const nr = ch.reads.filter(r => (S.reads || {})[r.id]).length;
         return `<button class="note news" type="button" data-read="${ch.id}" ${wait ? "disabled" : ""}><b>Village newsletter</b><span>A short column in Korean and three questions on it. ${nr} of ${ch.reads.length} read.</span>
@@ -841,7 +840,7 @@ function home(scrollTo) {
       <button class="chead" type="button" data-open="${ch.id}" aria-expanded="${isOpen}"><span class="cno">${String(ch.no).padStart(2, "0")}</span>
       <span class="chap"><b class="ko" lang="ko">${esc(ch.title)}</b><span>${esc(ch.sub)}</span></span>
       <span class="cstat"><span class="dots" aria-label="${ch.cases.filter(k => S.cases[k.id]).length} of ${ch.cases.length} files closed">${dots}</span>
-        <span class="mm" title="Words filed"><i style="width:${(st.f + st.g) / st.n * 100}%"></i></span><span class="mm k" title="Cards closed"><i style="width:${cs.b[2] / cs.n * 100}%"></i></span></span>
+        <span class="mm" title="Words filed"><i style="width:${(st.f + st.g) / st.n * 100}%"></i></span>${mnCards(ch).length ? (m => `<span class="mm k" title="Mnemo Hooks: known"><i style="width:${m.b[2] / m.n * 100}%"></i></span>`)(mnStat(mnCards(ch))) : ""}</span>
       <span class="chev" aria-hidden="true"></span></button>${body}</section>`;
   }).join("");
   const ev = allCh().flatMap(c => c.cases).filter(k => S.souvenirs.includes(k.souvenir.id)).map(k => k.souvenir)

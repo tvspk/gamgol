@@ -59,6 +59,7 @@ Uživateli odpovídej **česky**. Uživatel není programátor: kroky na GitHubu
 - Časování sloves je předgenerované a zkontrolované ručně. Nikdy ho neodhaduj podle pravopisu.
 - Jazykový obsah prošel korekturou, ale ne rodilým mluvčím.
 - Po každé změně obsahu spusť `audio_list.py` a `record.py`, aby nové věty dostaly zvuk.
+- **Card index** (kartičky `startCards`) je od 2.7 **skrytý** (uživatel, 17. 11. 2026): kartičky jsou jen Mnemo Hooks. Kód i uložený postup `S.cards` zůstaly (synchronizují se dál), nevracet bez dohody.
 - Karta „Continue“ na úvodní obrazovce je **záměrně vyřazená** (uživatel, 23. 10. 2026). Kód `cont` v `home()` a styly `.contcard` zůstaly, nevracet ji.
 
 ---

@@ -117,3 +117,4 @@ Karta „Continue“ (`cont` v `home()`, styly `.contcard`) se sestavuje, ale ne
 - Projekt je v repozitáři `tvspk/gamgol`; APK staví a vydává GitHub Actions (klíč v Secrets), web běží na GitHub Pages.
 - Synchronizace přes soukromou schránku `tvspk/gamgol-sync` (pravidla v `CLAUDE.md` a v `web/src/sync.js`).
 - Ověřeno uživatelem na skutečných zařízeních (telefon, tablet, web): párování kódem i QR, přenos postupu. Další versionCode = 18.
+- APK 2.7 (versionCode 18): Card index skrytý, kartičky jen Mnemo Hooks; docházka počítá odpovědi a karty Mnemo Hooks; v záhlaví kapitoly ukazatel „Mnemo Hooks: known“ místo „Cards closed“. Další versionCode = 19.
