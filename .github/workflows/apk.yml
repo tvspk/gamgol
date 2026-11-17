@@ -46,7 +46,10 @@ jobs:
           read VC VN < android/verze.txt
           echo "$VN" > /tmp/version
           if [ -n "$KS_B64" ] && [ -n "$KS_PASS" ]; then
-            echo "$KS_B64" | base64 -d > /tmp/gamgol.jks; echo yes > /tmp/release
+            printf '%s' "$KS_B64" | tr -d ' \r\n\t' | base64 -d > /tmp/gamgol.jks; echo yes > /tmp/release
+            KS_PASS="$(printf '%s' "$KS_PASS" | tr -d '\r\n')"
+            # fingerprints only (no secret is printed): compare with the handoff copy when the key does not load
+            echo "key file sha256: $(sha256sum /tmp/gamgol.jks | cut -c1-16), bytes $(wc -c < /tmp/gamgol.jks); password length ${#KS_PASS}"
             export GAMGOL_KS_PASS="$KS_PASS"
           else
             echo "::warning::No key in Secrets: test build with a throw-away key, no release."
