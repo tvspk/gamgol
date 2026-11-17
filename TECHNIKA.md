@@ -118,3 +118,4 @@ Karta „Continue“ (`cont` v `home()`, styly `.contcard`) se sestavuje, ale ne
 - Synchronizace přes soukromou schránku `tvspk/gamgol-sync` (pravidla v `CLAUDE.md` a v `web/src/sync.js`).
 - Ověřeno uživatelem na skutečných zařízeních (telefon, tablet, web): párování kódem i QR, přenos postupu. Další versionCode = 18.
 - APK 2.7 (versionCode 18): Card index skrytý, kartičky jen Mnemo Hooks; docházka počítá odpovědi a karty Mnemo Hooks; v záhlaví kapitoly ukazatel „Mnemo Hooks: known“ místo „Cards closed“. Další versionCode = 19.
+- APK 2.8 (versionCode 19), 17. 11. 2026: **doplňkové karty Mnemo Hooks**: 288 slovíček a spojení hry, která v balíčcích Mnemo Korean chyběla (`mnemo/doplnky/chNN.tsv` → `web/tools/mnemo_doplnky.py`), s nahrávkami (569 nových v balících m1–m14, Supertonic 3 F1/M1 0.85, otisky onnx ověřené). Celkem 4 716 nahrávek ve 43 balících. Další versionCode = 20.
