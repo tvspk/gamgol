@@ -15,7 +15,7 @@
    "frekvence": 2,
    "priklad": "까망이는 복순 할머니의 가장 큰 걱정거리예요.",
    "priklad_cs": "Kkamangi je největší starost babičky Poksun.",
-   "mnemo": "걱정 (obava) + 거리 (látka k něčemu; 이야깃거리 = námět k hovoru).",
+   "mnemo": "걱정 (obava) + 거리 (materiál, námět k něčemu; 이야깃거리 = námět k hovoru).",
    "extra": {
     "typ": "puvodni"
    },
@@ -31,7 +31,7 @@
    "slovni_druh": "podstatne_jmeno",
    "frekvence": 2,
    "priklad": "오늘부터 우리 파출소는 고민 상담소입니다!",
-   "priklad_cs": "Od dneška je naše stanice poradna pro trápení!",
+   "priklad_cs": "Od dneška je naše služebna poradna pro trápení!",
    "mnemo": "苦悶 trápení + 相談所 poradna.",
    "koreny": [
     "go-苦",
@@ -179,7 +179,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "저는 감골에 온 후부터 불면증이 심해졌어요.",
-   "priklad_cs": "Od té doby, co jsem přišel do Gamgolu, se mi nespavost zhoršila.",
+   "priklad_cs": "Od té doby, co jsem přišla do Gamgolu, se mi nespavost zhoršila.",
    "mnemo": "不眠症 nespavost („nemoc ne-spánku“) + 甚 silný, krajní + 하다.",
    "koreny": [
     "bul-不",
@@ -202,7 +202,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "저는 처음에 보고서에 실수가 많았어요.",
-   "priklad_cs": "Ze začátku jsem v hlášeních dělal hodně chyb.",
+   "priklad_cs": "Ze začátku jsem v hlášeních dělala hodně chyb.",
    "mnemo": "失手 chyba („ztracená ruka“) + 많다 (hodně).",
    "koreny": [
     "sil-失",
@@ -384,7 +384,7 @@
     "gam-感"
    ],
    "extra": {
-    "typ": "smisene"
+    "typ": "sino"
    },
    "vyrazeno": false,
    "overit": true

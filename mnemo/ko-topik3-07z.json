@@ -14,7 +14,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "덕배 할아버지께서 노래 대회 예선에 나가셨어요.",
-   "priklad_cs": "Děda Tokpe se přihlásil do předkola pěvecké soutěže.",
+   "priklad_cs": "Děda Tokpe šel do předkola pěvecké soutěže.",
    "mnemo": "豫選 předběžný výběr + 나가다 (vyjít, nastoupit).",
    "koreny": [
     "ye-豫",
@@ -35,7 +35,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "까망이가 예선을 통과했으면 좋겠어요.",
-   "priklad_cs": "Kéž by Kkamangi prošel předkolem.",
+   "priklad_cs": "Kéž by Kkamangi prošla předkolem.",
    "mnemo": "豫選 předkolo + 通過 projít skrz.",
    "koreny": [
     "ye-豫",
@@ -81,7 +81,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "하람이가 복순 할머니 부탁으로 까망이 신청서를 작성했어요.",
-   "priklad_cs": "Haram na prosbu babičky Poksun vyplnil přihlášku za Kkamangiho.",
+   "priklad_cs": "Haram na prosbu babičky Poksun vyplnil přihlášku za Kkamangi.",
    "mnemo": "申請書 písemná žádost + 作成 sestavit.",
    "koreny": [
     "sin-申",
@@ -232,7 +232,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "까망이도 감골 주민이라서 대회에 참가해도 돼요.",
-   "priklad_cs": "I Kkamangi je obyvatel Gamgolu, takže se soutěže zúčastnit smí.",
+   "priklad_cs": "I Kkamangi je obyvatelka Gamgolu, takže se soutěže zúčastnit smí.",
    "mnemo": "大會 velké setkání + 參加 přidat se.",
    "koreny": [
     "dae-大",
@@ -255,7 +255,7 @@
    "slovni_druh": "podstatne_jmeno",
    "frekvence": 2,
    "priklad": "이번 장기 자랑의 심사 위원은 이장님하고 소장님, 그리고 장미숙 사장님이세요.",
-   "priklad_cs": "Porotci letošní přehlídky talentů jsou starosta, velitel a paní Čang.",
+   "priklad_cs": "Porotci této přehlídky talentů jsou starosta, velitel a paní Čang.",
    "mnemo": "審査 posouzení + 委員 člen výboru.",
    "koreny": [
     "sim-審",
@@ -278,7 +278,7 @@
    "slovni_druh": "podstatne_jmeno",
    "frekvence": 2,
    "priklad": "할아버지, 상을 타신 소감이 어떠세요?",
-   "priklad_cs": "Dědo, jaké to je, dostat cenu?",
+   "priklad_cs": "Dědo, jaký je to pocit, dostat cenu?",
    "mnemo": "所 to, co + 感 cítit = co člověk cítí.",
    "koreny": [
     "so-所",

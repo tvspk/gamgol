@@ -1,5 +1,5 @@
 /* Gamgol Substation on GitHub Pages: network first, offline from the cache. Made by web/tools/build_site.py. */
-const V = 'gamgol-e2b1e5c73bb065b3', CORE = ['./', 'index.html', 'manifest.webmanifest', 'web/site/icon-192.png', 'web/site/icon-512.png'];
+const V = 'gamgol-f07a86a2f25440d0', CORE = ['./', 'index.html', 'manifest.webmanifest', 'web/site/icon-192.png', 'web/site/icon-512.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener('fetch', e => {

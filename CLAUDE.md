@@ -52,7 +52,7 @@ V chatu 1–4: vyplň v TSV sloupce `cs, druh, typ, tema, priklad_cs, mnemo, kor
 && sh web/build.sh && python3 -I web/tools/build_site.py`, testy t1 a tc, commit + push (verzi APK nezvyšuj; web se tím
 aktualizuje, nové karty jsou do nahrání zvuku bez nahrávky, hraje je hlas zařízení).
 Pravidla karet: česky, bez romanizace; český překlad věty ze hry (jména: 서진 Sodžin, 도윤 Tojun, 하람 Haram, 지수 선배 Čisu,
-선배 kolegyně, 소장님 velitel, 이장님 starosta, 덕배 할아버지 děda Tokpe, 복순 할머니 babička Poksun, 까망이 Kkamangi,
+선배 kolegyně, 소장님 velitel, 이장님 starosta, 덕배 할아버지 děda Tokpe, 복순 할머니 babička Poksun, 까망이 Kkamangi (koza: ženský rod, nesklonné),
 장미숙 사장님 paní Čang (majitelka), 김 순경 strážnice Kim, 감골 Gamgol); háček krátký jako v balíčcích
 (sino slova rozklad hanja, spojení = složky, původní slova zvuková asociace); témata podle balíčků té kapitoly; vše `overit: true`.
 Chat 5: `python3 web/tools/audio_list.py && python3 web/tools/record.py --only m1,…,m14` (model Supertonic 3, balíček `supertonic` 1.3.1; před nahráváním porovnej otisky SHA-256 souborů onnx s TECHNIKA.md, aby hlas zněl stejně jako dosavadní nahrávky),

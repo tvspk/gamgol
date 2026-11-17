@@ -148,7 +148,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "지수 선배는 매운 떡볶이를 먹고 나면 스트레스가 풀려요.",
-   "priklad_cs": "Když Čisu sní pálivé tteokpokki, stres ji přejde.",
+   "priklad_cs": "Když Čisu sní pálivé rýžové koláčky, stres ji přejde.",
    "mnemo": "스트레스 (stres) + 풀리다 (rozvázat se) = stres se rozváže.",
    "extra": {
     "typ": "smisene"
@@ -227,12 +227,12 @@
    "id": "ko-topik3-d0211",
    "tema": "pocity",
    "slovo": "몸과 마음이 재충전되다",
-   "cs": "dobít si tělo i duši",
+   "cs": "nabrat nové síly na těle i na duši",
    "en": "body and mind are recharged",
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "서진 씨는 감골에서 쉬면서 몸과 마음이 재충전됐어요.",
-   "priklad_cs": "Sodžin si odpočinkem v Gamgolu dobila tělo i duši.",
+   "priklad_cs": "Sodžin si v Gamgolu odpočinula a nabrala nové síly na těle i na duši.",
    "mnemo": "몸 (tělo) + 마음 (mysl); 再 znovu + 充 naplnit + 電 elektřina = znovu nabít.",
    "koreny": [
     "jae-再",
@@ -271,7 +271,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "도윤이는 매일 파출소 계단을 뛰어 올라가서 체력이 좋아졌어요.",
-   "priklad_cs": "Tojun každý den vybíhá schody na stanici, a tak se mu zlepšila fyzička.",
+   "priklad_cs": "Tojun každý den vybíhá schody na služebně, a tak se mu zlepšila fyzička.",
    "mnemo": "體 tělo + 力 síla = fyzička; 좋아지다 = zlepšit se.",
    "koreny": [
     "che-體",

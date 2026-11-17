@@ -192,7 +192,7 @@
    "slovni_druh": "podstatne_jmeno",
    "frekvence": 2,
    "priklad": "선배는 감골슈퍼에서 할인 상품만 골라서 사요.",
-   "priklad_cs": "Kolegyně v Gamgolském obchodě vybírá jen zlevněné zboží.",
+   "priklad_cs": "Kolegyně v gamgolském supermarketu vybírá jen zlevněné zboží.",
    "mnemo": "割引 sleva + 商品 zboží.",
    "koreny": [
     "hal-割",
@@ -222,7 +222,7 @@
     "yak-約"
    ],
    "extra": {
-    "typ": "smisene"
+    "typ": "sino"
    },
    "vyrazeno": false,
    "overit": true
@@ -370,7 +370,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "이번 달에는 파출소 생활비가 부족해서 과자를 못 사요.",
-   "priklad_cs": "Tento měsíc stanici nestačí peníze na provoz, takže si nemůžeme koupit sušenky.",
+   "priklad_cs": "Tento měsíc služebně nestačí peníze na provoz, takže si nemůžeme koupit sušenky.",
    "mnemo": "이번 달 (tento měsíc) + 生活費 výdaje na život + 不足 nedostatek + 하다.",
    "koreny": [
     "saeng-生",

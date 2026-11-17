@@ -201,7 +201,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "도윤이가 까망이 다리에 붕대를 감아 줬어요.",
-   "priklad_cs": "Tojun ovázal Kkamangimu nohu obvazem.",
+   "priklad_cs": "Tojun ovázal Kkamangi nohu obvazem.",
    "mnemo": "繃帶 obvaz („ovinutý pás“) + 감다 (navinout, ovinout).",
    "koreny": [
     "bung-繃",
@@ -506,7 +506,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "하람이는 양치질을 하다가 전화를 받았어요.",
-   "priklad_cs": "Haram si zrovna čistil zuby, když mu zazvonil telefon a on ho vzal.",
+   "priklad_cs": "Haram zvedl telefon uprostřed čištění zubů.",
    "mnemo": "Z 楊枝 vrbová větvička (dřívější kartáček) + -질 (opakovaná činnost) + 하다.",
    "extra": {
     "typ": "smisene"

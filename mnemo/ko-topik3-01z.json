@@ -35,7 +35,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "저는 아르바이트를 하면서 돈을 모으고 있어요.",
-   "priklad_cs": "Při brigádě si šetřím peníze.",
+   "priklad_cs": "Chodím na brigádu a šetřím si peníze.",
    "mnemo": "아르바이트 (z němčiny Arbeit = brigáda) + 하다 (dělat).",
    "extra": {
     "typ": "smisene"
@@ -96,7 +96,7 @@
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "이장님은 올해 새로운 일을 시작하셨어요.",
-   "priklad_cs": "Starosta letos začal s novou prací.",
+   "priklad_cs": "Starosta se letos pustil do nové práce.",
    "mnemo": "새로운 (nový) + 일 (práce) + 시작 (始 začít + 作 dělat) = pustit se do něčeho nového.",
    "koreny": [
     "si-始",
@@ -503,7 +503,7 @@
    "slovni_druh": "podstatne_jmeno",
    "frekvence": 2,
    "priklad": "금메달을 딴 소감이 어때요?",
-   "priklad_cs": "Jaké to je, získat zlatou medaili?",
+   "priklad_cs": "Jaký je to pocit, získat zlatou medaili?",
    "mnemo": "所 to, co + 感 cítit = to, co cítíš.",
    "koreny": [
     "so-所",
@@ -812,12 +812,12 @@
    "id": "ko-topik3-d0141",
    "tema": "škola",
    "slovo": "대학원에 진학하다",
-   "cs": "pokračovat ve studiu na postgraduálním stupni",
+   "cs": "jít na navazující studium (magisterské, doktorské)",
    "en": "to go on to graduate school",
    "slovni_druh": "fraze",
    "frekvence": 2,
    "priklad": "선배 동생은 내년에 대학원에 진학하려고 해요.",
-   "priklad_cs": "Mladší bratr kolegyně chce příští rok pokračovat ve studiu na postgraduálním stupni.",
+   "priklad_cs": "Kolegynin mladší bratr chce příští rok jít na navazující studium.",
    "mnemo": "大學院 vysoká škola + ústav; 進 vpřed + 學 učení = postoupit ve studiu.",
    "koreny": [
     "dae-大",
