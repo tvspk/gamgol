@@ -112,3 +112,8 @@ Karta „Continue“ (`cont` v `home()`, styly `.contcard`) se sestavuje, ale ne
 
 - APK 2.4 (versionCode 15), 11. 11. 2026: z Mnemo Hooks vyřazeno cvičení základních částic (을/를, 이/가, 은/는, 과/와, 으로/로): na této úrovni zbytečně jednoduché (uživatel). Nevracet. Kód `mnParticle` zůstal, nikde se nevolá.
 - APK 2.5 (versionCode 16), 15. 11. 2026: **Mnemo Hooks · všechna slovíčka** (podle Gorsafu): lístek na nástěnce za závěrečným spisem, `startMnemo(null)`. Všech 1 047 karet na jedné stránce: hledání (korejsky/česky/anglicky), filtry kapitola/téma/druh, řazení podle kapitol nebo 가나다, procvičování napříč kapitolami, kořeny všech kapitol. Postup je společný s kapitolami (stejné klíče S.mh). Seznam ukazuje nejvýš 300 položek, tělo karty se vykreslí až po rozkliknutí.
+
+## Synchronizace a GitHub (17. 11. 2026, APK 2.6, versionCode 17)
+- Projekt je v repozitáři `tvspk/gamgol`; APK staví a vydává GitHub Actions (klíč v Secrets), web běží na GitHub Pages.
+- Synchronizace přes soukromou schránku `tvspk/gamgol-sync` (pravidla v `CLAUDE.md` a v `web/src/sync.js`).
+- Ověřeno uživatelem na skutečných zařízeních (telefon, tablet, web): párování kódem i QR, přenos postupu. Další versionCode = 18.
