@@ -1,0 +1,254 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 8 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d0801",
+   "tema": "práce",
+   "slovo": "근무 환경",
+   "cs": "pracovní prostředí",
+   "en": "working conditions",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "감골 파출소는 근무 환경이 좋아요. 창문으로 염소가 보여요.",
+   "priklad_cs": "Na gamgolské služebně je dobré pracovní prostředí. Z okna je vidět koza.",
+   "mnemo": "勤務 služba + 環境 prostředí.",
+   "koreny": [
+    "geun-勤",
+    "mu-務",
+    "hwan-環",
+    "gyeong-境"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0802",
+   "tema": "kariéra",
+   "slovo": "자격증을 따다",
+   "cs": "získat osvědčení (certifikát)",
+   "en": "to get a qualification (certificate)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 요리 자격증을 따려고 매일 연습해요.",
+   "priklad_cs": "Tojun každý den trénuje, aby získal kuchařské osvědčení.",
+   "mnemo": "資格證 doklad o způsobilosti + 따다 (utrhnout, získat).",
+   "koreny": [
+    "ja-資",
+    "gyeok-格",
+    "jeung-證"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0803",
+   "tema": "kariéra",
+   "slovo": "적성 검사를 하다",
+   "cs": "udělat si test předpokladů",
+   "en": "to take an aptitude test",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람아, 학교에서 적성 검사를 해 보는 게 어때?",
+   "priklad_cs": "Harame, co kdyby sis ve škole udělal test předpokladů?",
+   "mnemo": "適性 vhodné vlohy + 檢査 prověrka.",
+   "koreny": [
+    "jeok-適",
+    "seong-性",
+    "geom-檢",
+    "sa-査"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0804",
+   "tema": "kariéra",
+   "slovo": "인턴십에 참가하다",
+   "cs": "absolvovat stáž",
+   "en": "to do an internship",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 대학생 때 서울에 있는 회사의 인턴십에 참가했어요.",
+   "priklad_cs": "Sodžin byla na vysoké na stáži ve firmě v Soulu.",
+   "mnemo": "인턴십 (z angl. internship) + 參加 přidat se.",
+   "koreny": [
+    "cham-參",
+    "ga-加"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0805",
+   "tema": "práce",
+   "slovo": "다양한 아르바이트를 하다",
+   "cs": "dělat různé brigády",
+   "en": "to do all sorts of part-time jobs",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이는 대학생 때 다양한 아르바이트를 해 봤어요.",
+   "priklad_cs": "Tojun si na vysoké vyzkoušel různé brigády.",
+   "mnemo": "多樣 mnoho podob + 아르바이트 (z něm. Arbeit, brigáda).",
+   "koreny": [
+    "da-多",
+    "yang-樣"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0806",
+   "tema": "škola",
+   "slovo": "어학연수를 준비하다",
+   "cs": "připravovat se na jazykový pobyt",
+   "en": "to prepare for a language course abroad",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 요즘 어학연수를 준비하면서 영어 공부를 해요.",
+   "priklad_cs": "Sodžin se teď připravuje na jazykový pobyt v cizině a učí se při tom angličtinu.",
+   "mnemo": "語學 jazyky + 硏修 studijní pobyt + 準備 příprava.",
+   "koreny": [
+    "eo-語",
+    "hak-學",
+    "yeon-硏",
+    "su-修",
+    "jun-準",
+    "bi-備"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0807",
+   "tema": "kariéra",
+   "slovo": "적성에 맞다",
+   "cs": "sedět něčím vlohám",
+   "en": "to suit one's aptitude",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "저는 적성에 맞는 일을 하고 있어요. 그래서 즐거워요.",
+   "priklad_cs": "Dělám práci, která mi sedí. Proto mě baví.",
+   "mnemo": "適性 vhodné vlohy + 맞다 (pasovat).",
+   "koreny": [
+    "jeok-適",
+    "seong-性"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0808",
+   "tema": "kariéra",
+   "slovo": "꿈을 이루다",
+   "cs": "splnit si sen",
+   "en": "to make one's dream come true",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "덕배 할아버지가 꼭 가수의 꿈을 이루셨으면 좋겠어요.",
+   "priklad_cs": "Kéž si děda Tokpe splní sen stát se zpěvákem.",
+   "mnemo": "꿈 (sen) + 이루다 (uskutečnit).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0809",
+   "tema": "kariéra",
+   "slovo": "취업 박람회",
+   "cs": "veletrh pracovních příležitostí",
+   "en": "job fair",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "도윤이는 대학생 때 취업 박람회에 가 본 적이 있어요.",
+   "priklad_cs": "Tojun byl na vysoké na veletrhu pracovních příležitostí.",
+   "mnemo": "就業 nastoupit do práce + 博覽會 velká výstava.",
+   "koreny": [
+    "chwi-就",
+    "eop-業",
+    "bak-博",
+    "ram-覽",
+    "hoe-會"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0810",
+   "tema": "kariéra",
+   "slovo": "자기소개서",
+   "cs": "motivační dopis (k životopisu)",
+   "en": "personal statement (the letter that goes with a CV)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "자기소개서를 어떻게 써야 할지 모르겠어요.",
+   "priklad_cs": "Nevím, jak mám napsat motivační dopis.",
+   "mnemo": "自己 sám sebe + 紹介 představit + 書 spis.",
+   "koreny": [
+    "ja-自",
+    "gi-己",
+    "so-紹",
+    "gae-介",
+    "seo-書"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0811",
+   "tema": "škola",
+   "slovo": "한국어 실력이 늘다",
+   "cs": "korejština se zlepší",
+   "en": "one's Korean improves",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "마을 사람들하고 매일 이야기해서 그런지 한국어 실력이 많이 늘었어요.",
+   "priklad_cs": "Asi protože si každý den povídám s lidmi z vesnice, moje korejština se hodně zlepšila.",
+   "mnemo": "韓國語 korejština + 實力 skutečná schopnost + 늘다 (přibývat).",
+   "koreny": [
+    "han-韓",
+    "guk-國",
+    "eo-語",
+    "sil-實",
+    "ryeok-力"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

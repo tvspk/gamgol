@@ -1,0 +1,338 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 7 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d0701",
+   "tema": "soutěže a akce",
+   "slovo": "예선에 나가다",
+   "cs": "jít do předkola",
+   "en": "to enter the preliminary round",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "덕배 할아버지께서 노래 대회 예선에 나가셨어요.",
+   "priklad_cs": "Děda Tokpe se přihlásil do předkola pěvecké soutěže.",
+   "mnemo": "豫選 předběžný výběr + 나가다 (vyjít, nastoupit).",
+   "koreny": [
+    "ye-豫",
+    "seon-選"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0702",
+   "tema": "soutěže a akce",
+   "slovo": "예선을 통과하다",
+   "cs": "projít předkolem",
+   "en": "to get through the preliminary round",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "까망이가 예선을 통과했으면 좋겠어요.",
+   "priklad_cs": "Kéž by Kkamangi prošel předkolem.",
+   "mnemo": "豫選 předkolo + 通過 projít skrz.",
+   "koreny": [
+    "ye-豫",
+    "seon-選",
+    "tong-通",
+    "gwa-過"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0703",
+   "tema": "soutěže a akce",
+   "slovo": "본선에 진출하다",
+   "cs": "postoupit do finále",
+   "en": "to go through to the final",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "덕배 할아버지께서 노래 대회 본선에 진출하셨어요!",
+   "priklad_cs": "Děda Tokpe postoupil do finále pěvecké soutěže!",
+   "mnemo": "本選 hlavní výběr + 進出 postoupit ven.",
+   "koreny": [
+    "bon-本",
+    "seon-選",
+    "jin-進",
+    "chul-出"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0704",
+   "tema": "soutěže a akce",
+   "slovo": "신청서를 작성하다",
+   "cs": "vyplnit přihlášku",
+   "en": "to fill in an application form",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이가 복순 할머니 부탁으로 까망이 신청서를 작성했어요.",
+   "priklad_cs": "Haram na prosbu babičky Poksun vyplnil přihlášku za Kkamangiho.",
+   "mnemo": "申請書 písemná žádost + 作成 sestavit.",
+   "koreny": [
+    "sin-申",
+    "cheong-請",
+    "seo-書",
+    "jak-作",
+    "seong-成"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0705",
+   "tema": "soutěže a akce",
+   "slovo": "신청서를 제출하다",
+   "cs": "odevzdat přihlášku",
+   "en": "to hand in an application form",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "마을 회관에 신청서를 제출하십시오.",
+   "priklad_cs": "Přihlášku odevzdejte v obecním domě.",
+   "mnemo": "申請書 žádost + 提出 předložit.",
+   "koreny": [
+    "sin-申",
+    "cheong-請",
+    "seo-書",
+    "je-提",
+    "chul-出"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0706",
+   "tema": "soutěže a akce",
+   "slovo": "수상을 하다",
+   "cs": "získat cenu (být oceněn)",
+   "en": "to be awarded a prize",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "장미숙 사장님은 작년 김치 대회에서 수상을 하셨어요.",
+   "priklad_cs": "Paní Čang loni získala cenu v soutěži o nejlepší kimčchi.",
+   "mnemo": "受賞 přijmout cenu + 하다.",
+   "koreny": [
+    "su-受",
+    "sang-賞"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0707",
+   "tema": "soutěže a akce",
+   "slovo": "부상을 받다",
+   "cs": "dostat věcnou cenu (navíc k ocenění)",
+   "en": "to receive an extra prize (goods given with the award)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "우승한 사람은 부상으로 꽃병을 받아요.",
+   "priklad_cs": "Vítěz dostane jako věcnou cenu vázu.",
+   "mnemo": "副賞 vedlejší cena + 받다 (dostat).",
+   "koreny": [
+    "bu-副",
+    "sang-賞"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0708",
+   "tema": "pocity",
+   "slovo": "보람을 느끼다",
+   "cs": "mít pocit, že to mělo smysl",
+   "en": "to find something rewarding",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "주민들이 즐거워해서 저도 보람을 느꼈어요.",
+   "priklad_cs": "Obyvatelé se dobře bavili, takže to i pro mě mělo smysl.",
+   "mnemo": "보람 (odměna za námahu) + 느끼다 (cítit).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0709",
+   "tema": "pocity",
+   "slovo": "자신감이 생기다",
+   "cs": "získat sebedůvěru",
+   "en": "to gain confidence",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "무대에 한 번 서 보니까 자신감이 생겼어요.",
+   "priklad_cs": "Stačilo jednou stát na pódiu a sebedůvěra přišla.",
+   "mnemo": "自信感 pocit víry v sebe + 생기다 (vzniknout).",
+   "koreny": [
+    "ja-自",
+    "sin-信",
+    "gam-感"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0710",
+   "tema": "pocity",
+   "slovo": "성취감을 느끼다",
+   "cs": "mít pocit úspěchu",
+   "en": "to feel a sense of achievement",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 처음으로 시를 끝까지 써서 성취감을 느꼈어요.",
+   "priklad_cs": "Sodžin poprvé dopsala báseň až do konce a měla pocit úspěchu.",
+   "mnemo": "成就感 pocit dosažení cíle + 느끼다 (cítit).",
+   "koreny": [
+    "seong-成",
+    "chwi-就",
+    "gam-感"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0711",
+   "tema": "soutěže a akce",
+   "slovo": "대회에 참가하다",
+   "cs": "zúčastnit se soutěže",
+   "en": "to take part in a contest",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "까망이도 감골 주민이라서 대회에 참가해도 돼요.",
+   "priklad_cs": "I Kkamangi je obyvatel Gamgolu, takže se soutěže zúčastnit smí.",
+   "mnemo": "大會 velké setkání + 參加 přidat se.",
+   "koreny": [
+    "dae-大",
+    "hoe-會",
+    "cham-參",
+    "ga-加"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0712",
+   "tema": "soutěže a akce",
+   "slovo": "심사 위원",
+   "cs": "porotce",
+   "en": "judge (of a contest)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "이번 장기 자랑의 심사 위원은 이장님하고 소장님, 그리고 장미숙 사장님이세요.",
+   "priklad_cs": "Porotci letošní přehlídky talentů jsou starosta, velitel a paní Čang.",
+   "mnemo": "審査 posouzení + 委員 člen výboru.",
+   "koreny": [
+    "sim-審",
+    "sa-査",
+    "wi-委",
+    "won-員"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0713",
+   "tema": "soutěže a akce",
+   "slovo": "소감",
+   "cs": "dojmy (jaké to bylo)",
+   "en": "one's impressions, how it felt",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "할아버지, 상을 타신 소감이 어떠세요?",
+   "priklad_cs": "Dědo, jaké to je, dostat cenu?",
+   "mnemo": "所 to, co + 感 cítit = co člověk cítí.",
+   "koreny": [
+    "so-所",
+    "gam-感"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0714",
+   "tema": "soutěže a akce",
+   "slovo": "장기 자랑",
+   "cs": "přehlídka talentů",
+   "en": "talent show",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "순경님, 다음 주에 ‘제1회 감골 장기 자랑’을 해요.",
+   "priklad_cs": "Paní strážnice, příští týden bude „1. gamgolská přehlídka talentů“.",
+   "mnemo": "長技 silná dovednost + 자랑 (chlubení).",
+   "koreny": [
+    "jang-長",
+    "gi-技"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0715",
+   "tema": "soutěže a akce",
+   "slovo": "합창 대회",
+   "cs": "soutěž pěveckých sborů",
+   "en": "choir contest",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "이장님은 합창 대회에 나가려고 마을 사람들을 모으고 계세요.",
+   "priklad_cs": "Starosta shání lidi z vesnice, aby mohli jít do soutěže sborů.",
+   "mnemo": "合唱 společný zpěv + 大會 soutěž.",
+   "koreny": [
+    "hap-合",
+    "chang-唱",
+    "dae-大",
+    "hoe-會"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

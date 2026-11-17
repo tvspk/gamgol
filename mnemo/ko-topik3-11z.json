@@ -1,0 +1,325 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 11 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d1101",
+   "tema": "kultura",
+   "slovo": "스포츠 경기",
+   "cs": "sportovní utkání",
+   "en": "a sports match",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "도윤이는 스포츠 경기를 볼 때 소리를 너무 크게 질러요.",
+   "priklad_cs": "Tojun při sledování sportovních utkání strašně hlasitě křičí.",
+   "mnemo": "스포츠 (z angl. sports) + 競技 soutěžení.",
+   "koreny": [
+    "gyeong-競",
+    "gi-技"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1102",
+   "tema": "kultura",
+   "slovo": "공연장",
+   "cs": "místo konání představení (sál)",
+   "en": "a venue (for performances)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "공연장이 좁을 테니까 일찍 가서 자리를 잡으세요.",
+   "priklad_cs": "Sál bude asi malý, tak běžte brzy a zaberte si místa.",
+   "mnemo": "公演 veřejné vystoupení + 場 místo.",
+   "koreny": [
+    "gong-公",
+    "yeon-演",
+    "jang-場"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1103",
+   "tema": "kultura",
+   "slovo": "배우",
+   "cs": "herec, herečka",
+   "en": "actor",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "덕배 할아버지는 젊었을 때 배우가 되고 싶으셨다고 해요.",
+   "priklad_cs": "Děda Tokpe prý chtěl za mlada být hercem.",
+   "mnemo": "俳 hra, komedie + 優 výborný (herec).",
+   "koreny": [
+    "bae-俳",
+    "u-優"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1104",
+   "tema": "kultura",
+   "slovo": "예매하다",
+   "cs": "koupit (lístky) předem",
+   "en": "to book (tickets) in advance",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "표는 제가 예매할 테니까 선배는 시간만 알려 주세요.",
+   "priklad_cs": "Lístky koupím předem já, ty mi jen řekni čas.",
+   "mnemo": "豫 předem + 買 koupit.",
+   "koreny": [
+    "ye-豫",
+    "mae-買"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1105",
+   "tema": "kultura",
+   "slovo": "열리다",
+   "cs": "konat se; otevřít se",
+   "en": "to be held (of an event); to open",
+   "slovni_druh": "sloveso",
+   "frekvence": 2,
+   "priklad": "토요일에 마을 회관에서 노래 대회가 열린다고 해요.",
+   "priklad_cs": "Prý se v sobotu v obecním domě koná pěvecká soutěž.",
+   "mnemo": "Od 열다 (otevřít): otevřít se, akce se „otevře“.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1106",
+   "tema": "hodnocení",
+   "slovo": "평을 쓰다",
+   "cs": "napsat recenzi",
+   "en": "to write a review",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이가 마을 연극 평을 써서 학교 신문에 냈어요.",
+   "priklad_cs": "Haram napsal recenzi na vesnické divadlo a dal ji do školních novin.",
+   "mnemo": "評 hodnocení + 쓰다 (psát).",
+   "koreny": [
+    "pyeong-評"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1107",
+   "tema": "hodnocení",
+   "slovo": "연기를 잘하다",
+   "cs": "dobře hrát (herecky)",
+   "en": "to act well",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "이장님이 생각보다 연기를 잘하셨어요.",
+   "priklad_cs": "Starosta hrál líp, než se čekalo.",
+   "mnemo": "演技 herecký výkon + 잘하다 (dělat dobře).",
+   "koreny": [
+    "yeon-演",
+    "gi-技"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1108",
+   "tema": "hodnocení",
+   "slovo": "연주를 잘하다",
+   "cs": "dobře hrát (na nástroj)",
+   "en": "to play (an instrument) well",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 기타 연주를 정말 잘해요.",
+   "priklad_cs": "Haram opravdu dobře hraje na kytaru.",
+   "mnemo": "演奏 hra na nástroj + 잘하다 (dělat dobře).",
+   "koreny": [
+    "yeon-演",
+    "ju-奏"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1109",
+   "tema": "hodnocení",
+   "slovo": "표현력이 뛰어나다",
+   "cs": "mít výjimečný výrazový projev",
+   "en": "to be outstandingly expressive",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "그 배우는 표현력이 뛰어나다고 해요.",
+   "priklad_cs": "Ten herec má prý výjimečný výrazový projev.",
+   "mnemo": "表現力 síla vyjádření + 뛰어나다 (vyskočit nad ostatní).",
+   "koreny": [
+    "pyo-表",
+    "hyeon-現",
+    "ryeok-力"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1110",
+   "tema": "hodnocení",
+   "slovo": "작품성이 뛰어나다",
+   "cs": "mít vynikající uměleckou hodnotu",
+   "en": "to be of outstanding artistic quality",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "그 영화는 재미있고 작품성도 뛰어나다고 해요.",
+   "priklad_cs": "Ten film je prý zábavný a má i vynikající uměleckou hodnotu.",
+   "mnemo": "作品性 kvalita díla + 뛰어나다 (vyniknout).",
+   "koreny": [
+    "jak-作",
+    "pum-品",
+    "seong-性"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1111",
+   "tema": "hodnocení",
+   "slovo": "줄거리가 흥미롭다",
+   "cs": "děj je zajímavý",
+   "en": "the plot is interesting",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "줄거리가 흥미로워서 끝까지 재미있게 봤어요.",
+   "priklad_cs": "Děj byl zajímavý, takže mě to bavilo až do konce.",
+   "mnemo": "줄거리 (děj) + 興味 zájem + -롭다 (plný).",
+   "koreny": [
+    "heung-興",
+    "mi-味"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1112",
+   "tema": "kultura",
+   "slovo": "나들이",
+   "cs": "výlet (vyjít si)",
+   "en": "an outing",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "날씨가 좋을 테니까 주말에 다 같이 나들이 가요.",
+   "priklad_cs": "Bude asi hezky, tak o víkendu pojďme všichni spolu na výlet.",
+   "mnemo": "Od 나들다 (vycházet a vcházet): vyrazit z domu ven.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1113",
+   "tema": "hodnocení",
+   "slovo": "영화를 보고 인터넷에 평을 쓰다",
+   "cs": "napsat po filmu recenzi na internet",
+   "en": "to write a review online after seeing a film",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 영화를 보고 꼭 인터넷에 평을 써요.",
+   "priklad_cs": "Sodžin po každém filmu napíše recenzi na internet.",
+   "mnemo": "映畫 film + 인터넷 (z angl. internet) + 評 hodnocení + 쓰다.",
+   "koreny": [
+    "yeong-映",
+    "hwa-畫",
+    "pyeong-評"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1114",
+   "tema": "kultura",
+   "slovo": "이번 주말에 전시회가 열리다",
+   "cs": "tento víkend se koná výstava",
+   "en": "an exhibition is being held this weekend",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "이번 주말에 마을 회관에서 사진 전시회가 열린다고 해요.",
+   "priklad_cs": "Prý se tento víkend v obecním domě koná výstava fotografií.",
+   "mnemo": "週末 víkend + 展示會 výstava + 열리다 (konat se).",
+   "koreny": [
+    "ju-週",
+    "mal-末",
+    "jeon-展",
+    "si-示",
+    "hoe-會"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1115",
+   "tema": "kultura",
+   "slovo": "공연 표를 미리 예매하다",
+   "cs": "koupit si lístky na představení předem",
+   "en": "to book tickets for the show in advance",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "자리가 없을 테니까 공연 표를 미리 예매하세요.",
+   "priklad_cs": "Asi nebudou místa, tak si lístky na představení kupte předem.",
+   "mnemo": "公演 představení + 票 lístek + 미리 (předem) + 豫買 koupit předem.",
+   "koreny": [
+    "gong-公",
+    "yeon-演",
+    "pyo-票",
+    "ye-豫",
+    "mae-買"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

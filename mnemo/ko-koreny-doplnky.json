@@ -61,6 +61,78 @@
    "hangul": "반",
    "hanja": "返",
    "cs": "vrátit"
+  },
+  {
+   "id": "sim-審",
+   "hangul": "심",
+   "hanja": "審",
+   "cs": "posoudit"
+  },
+  {
+   "id": "wi-委",
+   "hangul": "위",
+   "hanja": "委",
+   "cs": "svěřit"
+  },
+  {
+   "id": "yang-樣",
+   "hangul": "양",
+   "hanja": "樣",
+   "cs": "podoba, způsob"
+  },
+  {
+   "id": "gi-己",
+   "hangul": "기",
+   "hanja": "己",
+   "cs": "sám"
+  },
+  {
+   "id": "so-紹",
+   "hangul": "소",
+   "hanja": "紹",
+   "cs": "přivést, představit"
+  },
+  {
+   "id": "gae-介",
+   "hangul": "개",
+   "hanja": "介",
+   "cs": "prostředník"
+  },
+  {
+   "id": "yak-弱",
+   "hangul": "약",
+   "hanja": "弱",
+   "cs": "slabý"
+  },
+  {
+   "id": "seok-席",
+   "hangul": "석",
+   "hanja": "席",
+   "cs": "sedadlo, místo"
+  },
+  {
+   "id": "ye-禮",
+   "hangul": "예",
+   "hanja": "禮",
+   "cs": "obřad, úcta"
+  },
+  {
+   "id": "ui-儀",
+   "hangul": "의",
+   "hanja": "儀",
+   "cs": "způsob, obřad"
+  },
+  {
+   "id": "bae-俳",
+   "hangul": "배",
+   "hanja": "俳",
+   "cs": "herec, komedie"
+  },
+  {
+   "id": "pyo-票",
+   "hangul": "표",
+   "hanja": "票",
+   "cs": "lístek"
   }
  ]
 }

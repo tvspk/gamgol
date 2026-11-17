@@ -1,0 +1,342 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 10 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d1001",
+   "tema": "zdvořilost",
+   "slovo": "고개를 숙이다",
+   "cs": "sklonit hlavu (uklonit se)",
+   "en": "to bow one's head",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 소장님을 만날 때마다 고개를 숙여요.",
+   "priklad_cs": "Haram se pokaždé, když potká velitele, ukloní.",
+   "mnemo": "고개 (hlava, šíje) + 숙이다 (sklonit).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1002",
+   "tema": "zdvořilost",
+   "slovo": "눈인사를 하다",
+   "cs": "pozdravit pohledem a kývnutím",
+   "en": "to greet with the eyes (a nod and a look)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "도윤이가 버스 정류장에서 덕배 할아버지께 눈인사를 했어요.",
+   "priklad_cs": "Tojun na autobusové zastávce pozdravil dědu Tokpeho kývnutím.",
+   "mnemo": "눈 (oko) + 人事 pozdrav.",
+   "koreny": [
+    "in-人",
+    "sa-事"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1003",
+   "tema": "kultura",
+   "slovo": "밥그릇을 들고 먹다",
+   "cs": "jíst s miskou rýže v ruce",
+   "en": "to eat holding the rice bowl in one's hand",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "일본에서는 밥그릇을 들고 먹지만 한국에서는 보통 안 그래요.",
+   "priklad_cs": "V Japonsku se jí s miskou rýže v ruce, ale v Koreji se to obvykle nedělá.",
+   "mnemo": "밥그릇 (miska na rýži) + 들고 (zvednout a) + 먹다 (jíst).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1004",
+   "tema": "kultura",
+   "slovo": "수저를 사용하다",
+   "cs": "používat lžíci a hůlky",
+   "en": "to use a spoon and chopsticks",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "이장님 댁 손님은 수저를 사용할 줄 몰라서 포크를 썼어요.",
+   "priklad_cs": "Host u starosty neuměl používat lžíci a hůlky, tak jedl vidličkou.",
+   "mnemo": "수저 (lžíce a hůlky dohromady) + 使用 použít.",
+   "koreny": [
+    "sa-使",
+    "yong-用"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1005",
+   "tema": "kultura",
+   "slovo": "좌식 생활을 하다",
+   "cs": "žít na zemi (sedět a spát na podlaze)",
+   "en": "to live at floor level (sitting and sleeping on the floor)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "복순 할머니는 지금도 좌식 생활을 하세요. 침대가 없어요.",
+   "priklad_cs": "Babička Poksun dodnes žije na zemi. Postel nemá.",
+   "mnemo": "坐式 způsob sezení + 生活 život.",
+   "koreny": [
+    "jwa-坐",
+    "sik-式",
+    "saeng-生",
+    "hwal-活"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1006",
+   "tema": "kultura",
+   "slovo": "입식 생활을 하다",
+   "cs": "žít se židlemi a postelí",
+   "en": "to live with chairs and beds",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "서진 씨는 입식 생활을 해서 그런지 바닥에 오래 못 앉아요.",
+   "priklad_cs": "Sodžin je zvyklá na židle a postel, asi proto nevydrží dlouho sedět na podlaze.",
+   "mnemo": "立式 způsob stání + 生活 život.",
+   "koreny": [
+    "ip-立",
+    "sik-式",
+    "saeng-生",
+    "hwal-活"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1007",
+   "tema": "kultura",
+   "slovo": "신발을 벗다",
+   "cs": "zout se",
+   "en": "to take one's shoes off",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "마을 회관에 들어갈 때는 신발을 벗어야 해요.",
+   "priklad_cs": "Když vcházíte do obecního domu, musíte se zout.",
+   "mnemo": "신발 (obuv) + 벗다 (svléknout).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1008",
+   "tema": "kultura",
+   "slovo": "눈을 쳐다보다",
+   "cs": "dívat se do očí",
+   "en": "to look someone in the eye",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 어른하고 이야기할 때 눈을 잘 못 쳐다봐요.",
+   "priklad_cs": "Haram se při rozhovoru s dospělými nedokáže moc dívat do očí.",
+   "mnemo": "눈 (oko) + 쳐다보다 (upřeně se podívat nahoru).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1009",
+   "tema": "pocity",
+   "slovo": "가슴이 두근거리다",
+   "cs": "bušit srdce",
+   "en": "one's heart pounds",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "첫 순찰 날에는 가슴이 너무 두근거렸어요.",
+   "priklad_cs": "První den hlídky mi strašně bušilo srdce.",
+   "mnemo": "가슴 (hruď) + 두근거리다 (z 두근두근, buch buch).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1010",
+   "tema": "kultura",
+   "slovo": "혼잣말을 하다",
+   "cs": "mluvit sám se sebou",
+   "en": "to talk to oneself",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "덕배 할아버지는 버스를 기다리실 때마다 혼잣말을 하세요.",
+   "priklad_cs": "Děda Tokpe pokaždé, když čeká na autobus, mluví sám se sebou.",
+   "mnemo": "혼자 (sám) + 말 (řeč) = řeč o samotě.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1011",
+   "tema": "vztahy",
+   "slovo": "나이가 어리다",
+   "cs": "být mladý (mladší)",
+   "en": "to be young, younger",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이는 나이가 어리지만 일을 정말 잘해요.",
+   "priklad_cs": "Haram je mladý, ale pracuje opravdu dobře.",
+   "mnemo": "나이 (věk) + 어리다 (mladý, nedospělý).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1012",
+   "tema": "zdvořilost",
+   "slovo": "자리를 양보하다",
+   "cs": "uvolnit místo",
+   "en": "to give up one's seat",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이가 버스에서 복순 할머니께 자리를 양보했어요.",
+   "priklad_cs": "Haram v autobuse uvolnil místo babičce Poksun.",
+   "mnemo": "자리 (místo) + 讓步 ustoupit o krok.",
+   "koreny": [
+    "yang-讓",
+    "bo-步"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1013",
+   "tema": "zdvořilost",
+   "slovo": "가방을 들어주다",
+   "cs": "ponést někomu tašku",
+   "en": "to carry someone's bag for them",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이가 버스 정류장까지 서진 씨 가방을 들어줬어요.",
+   "priklad_cs": "Haram nesl Sodžin tašku až na autobusovou zastávku.",
+   "mnemo": "가방 (taška) + 들어 주다 (zvednout pro někoho).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1014",
+   "tema": "doprava",
+   "slovo": "노약자석",
+   "cs": "místo pro seniory a nemocné",
+   "en": "priority seat (for the old and the frail)",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "까망이가 버스 노약자석에 앉을 뻔했어요.",
+   "priklad_cs": "Kkamangi si v autobuse málem sedl na místo pro seniory.",
+   "mnemo": "老 starý + 弱 slabý + 者 člověk + 席 sedadlo.",
+   "koreny": [
+    "no-老",
+    "yak-弱",
+    "ja-者",
+    "seok-席"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1015",
+   "tema": "zdvořilost",
+   "slovo": "예의",
+   "cs": "slušnost, zdvořilost",
+   "en": "manners, courtesy",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "하람이는 정말 예의가 바른 학생이에요.",
+   "priklad_cs": "Haram je opravdu slušně vychovaný student.",
+   "mnemo": "禮 obřad, úcta + 儀 způsob.",
+   "koreny": [
+    "ye-禮",
+    "ui-儀"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1016",
+   "tema": "kultura",
+   "slovo": "문화 차이",
+   "cs": "kulturní rozdíl",
+   "en": "cultural difference",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "나라마다 문화 차이가 있어요.",
+   "priklad_cs": "Každá země má své kulturní rozdíly.",
+   "mnemo": "文化 kultura + 差異 rozdíl.",
+   "koreny": [
+    "mun-文",
+    "hwa-化",
+    "cha-差",
+    "i-異"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d1017",
+   "tema": "pocity",
+   "slovo": "다행이다",
+   "cs": "to je úleva, ještě že",
+   "en": "to be a relief, a mercy",
+   "slovni_druh": "pridavne_jmeno",
+   "frekvence": 2,
+   "priklad": "다행입니다! ‘넘어질 뻔한 사람: 세 명. 넘어진 사람: 없음.’",
+   "priklad_cs": "To je úleva! „Málem upadli: tři lidé. Upadli: nikdo.“",
+   "mnemo": "多 mnoho + 幸 štěstí.",
+   "koreny": [
+    "da-多",
+    "haeng-幸"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}

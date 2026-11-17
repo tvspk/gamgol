@@ -1,0 +1,254 @@
+{
+ "jazyk": "ko",
+ "uroven": "TOPIK 3",
+ "verze_schematu": 1,
+ "verze": 1,
+ "zdroj": "Gamgol Substation: doplňky ke kapitole 9 (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)",
+ "karty": [
+  {
+   "id": "ko-topik3-d0901",
+   "tema": "vaření",
+   "slovo": "기름을 두르다",
+   "cs": "rozlít olej po pánvi",
+   "en": "to coat the pan with oil",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "기름을 조금만 두르세요. 많이 두르면 느끼하거든요.",
+   "priklad_cs": "Olej dejte jen trochu. Když ho dáte moc, bude to mastné.",
+   "mnemo": "기름 (olej) + 두르다 (obtočit kolem dokola).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0902",
+   "tema": "vaření",
+   "slovo": "껍질을 벗기다",
+   "cs": "oloupat",
+   "en": "to peel",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "할머니는 감자 껍질을 아주 빨리 벗기세요.",
+   "priklad_cs": "Babička loupe brambory hrozně rychle.",
+   "mnemo": "껍질 (slupka) + 벗기다 (svléknout).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0903",
+   "tema": "vaření",
+   "slovo": "간을 하다",
+   "cs": "dochutit (solí, sójovou omáčkou)",
+   "en": "to season (with salt or soy sauce)",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "소고기가 익고 나서 간을 했어. 소금은 조금만 넣었어.",
+   "priklad_cs": "Až když bylo hovězí hotové, přišlo dochucení. Soli jen trochu.",
+   "mnemo": "간 (slanost, chuť jídla) + 하다.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0904",
+   "tema": "vaření",
+   "slovo": "재료",
+   "cs": "suroviny",
+   "en": "ingredients",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "재료는 감골슈퍼에서 다 살 수 있어요.",
+   "priklad_cs": "Všechny suroviny se dají koupit v gamgolském supermarketu.",
+   "mnemo": "材 materiál + 料 přísada.",
+   "koreny": [
+    "jae-材",
+    "ryo-料"
+   ],
+   "extra": {
+    "typ": "sino"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0905",
+   "tema": "vaření",
+   "slovo": "살짝",
+   "cs": "lehce, zlehka, trošku",
+   "en": "lightly, just a little",
+   "slovni_druh": "ostatni",
+   "frekvence": 2,
+   "priklad": "문을 살짝 닫아 주세요. 까망이가 자고 있거든요.",
+   "priklad_cs": "Zavřete prosím dveře zlehka. Kkamangi totiž spí.",
+   "mnemo": "Příbuzné 살살 (opatrně, zlehka): jen lehce a nenápadně.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0906",
+   "tema": "jídlo",
+   "slovo": "찜",
+   "cs": "jídlo vařené v páře (dušené)",
+   "en": "a steamed dish",
+   "slovni_druh": "podstatne_jmeno",
+   "frekvence": 2,
+   "priklad": "오늘은 계란찜이에요. 어제는 생선찜이었어요.",
+   "priklad_cs": "Dnes jsou vejce v páře. Včera byla ryba v páře.",
+   "mnemo": "Od 찌다 (vařit v páře) + -ㅁ = co se vaří v páře.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0907",
+   "tema": "vaření",
+   "slovo": "프라이팬에 기름을 두르다",
+   "cs": "rozlít olej na pánev",
+   "en": "to coat the pan with oil",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "프라이팬에 기름을 두르고 나서 계란을 넣으세요.",
+   "priklad_cs": "Rozlijte olej na pánev a pak přidejte vejce.",
+   "mnemo": "프라이팬 (z angl. frying pan) + 기름 (olej) + 두르다 (obtočit).",
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0908",
+   "tema": "vaření",
+   "slovo": "감자 껍질을 벗기다",
+   "cs": "oloupat brambory",
+   "en": "to peel a potato",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "하람이가 감자 껍질을 벗기면서 노래를 불렀어요.",
+   "priklad_cs": "Haram loupal brambory a přitom zpíval.",
+   "mnemo": "감자 (brambora) + 껍질 (slupka) + 벗기다 (svléknout).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0909",
+   "tema": "vaření",
+   "slovo": "냄비에 물을 붓다",
+   "cs": "nalít vodu do hrnce",
+   "en": "to pour water into the pot",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "냄비에 물을 붓고 나서 불을 켜세요.",
+   "priklad_cs": "Nalijte vodu do hrnce a pak zapněte plotýnku.",
+   "mnemo": "냄비 (hrnec) + 물 (voda) + 붓다 (lít; časuje se 부어요).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0910",
+   "tema": "vaření",
+   "slovo": "소금으로 간을 하다",
+   "cs": "dochutit solí",
+   "en": "to season with salt",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "국이 싱거우면 소금으로 간을 하세요.",
+   "priklad_cs": "Když je polévka mdlá, dochuťte ji solí.",
+   "mnemo": "소금 (sůl) + 간 (slanost) + 하다.",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0911",
+   "tema": "vaření",
+   "slovo": "뜨거운 물에 살짝 데치다",
+   "cs": "krátce spařit v horké vodě",
+   "en": "to blanch in hot water",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "콩나물은 뜨거운 물에 살짝 데치면 돼요.",
+   "priklad_cs": "Sójové klíčky stačí krátce spařit v horké vodě.",
+   "mnemo": "뜨거운 물 (horká voda) + 살짝 (zlehka) + 데치다 (spařit).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0912",
+   "tema": "vaření",
+   "slovo": "기름에 넣어서 튀기다",
+   "cs": "smažit v oleji",
+   "en": "to deep-fry in oil",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "새우는 뜨거운 기름에 넣어서 튀겨요.",
+   "priklad_cs": "Krevety se smaží v rozpáleném oleji.",
+   "mnemo": "기름 (olej) + 넣어서 (vložit a) + 튀기다 (smažit; od 튀다 = prskat).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0913",
+   "tema": "vaření",
+   "slovo": "뜨거운 김으로 찌다",
+   "cs": "vařit v páře",
+   "en": "to steam",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "만두는 뜨거운 김으로 십 분 동안 쪄요.",
+   "priklad_cs": "Knedlíčky mandu se vaří v horké páře deset minut.",
+   "mnemo": "뜨거운 김 (horká pára) + 찌다 (vařit v páře).",
+   "extra": {
+    "typ": "puvodni"
+   },
+   "vyrazeno": false,
+   "overit": true
+  },
+  {
+   "id": "ko-topik3-d0914",
+   "tema": "vaření",
+   "slovo": "도마 위에서 양파를 썰다",
+   "cs": "krájet cibuli na prkénku",
+   "en": "to chop an onion on the board",
+   "slovni_druh": "fraze",
+   "frekvence": 2,
+   "priklad": "선배는 도마 위에서 양파를 아주 빨리 썰어요.",
+   "priklad_cs": "Kolegyně krájí cibuli na prkénku hrozně rychle.",
+   "mnemo": "도마 (prkénko) + 洋 západní + 파 (pórek) = cibule + 썰다 (krájet).",
+   "koreny": [
+    "yang-洋"
+   ],
+   "extra": {
+    "typ": "smisene"
+   },
+   "vyrazeno": false,
+   "overit": true
+  }
+ ]
+}
