@@ -439,11 +439,18 @@ function wire(root) {
 }
 let koVoice = null;
 function findVoice() { try { koVoice = speechSynthesis.getVoices().find(v => /^ko/i.test(v.lang)) || null; document.body.classList.toggle("tts-ok", !!koVoice); } catch (e) {} }
-function speak(t) { return new Promise(res => { try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(sayText(t)); u.lang = "ko-KR"; u.voice = koVoice; u.rate = .9; u.onend = u.onerror = () => res(); speechSynthesis.speak(u); } catch (e) { res(); } }); }
+function speak(t) { return new Promise(res => { try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(sayText(t)); u.lang = "ko-KR"; u.voice = koVoice; u.rate = .9 * VRATE; u.onend = u.onerror = () => res(); speechSynthesis.speak(u); } catch (e) { res(); } }); }
 /* One shared <audio> for every clip. Safari, iOS and Android WebView let an element play only after a tap,
    and remember that per element: the first tap unlocks it (with a few ms of silence), so a whole column can
    then play sentence after sentence. A new Audio() per sentence would be blocked after the first one. */
 const SILENT = "data:audio/mpeg;base64,//NwwAAAAAAAAAAAAEluZm8AAAAPAAAABAAAAlgAenp6enp6enp6enp6enp6enp6enp6enp6pqampqampqampqampqampqampqampqamptPT09PT09PT09PT09PT09PT09PT09PT09P/////////////////////////////////AAAAAExhdmM2MC4zMQAAAAAAAAAAAAAAACQCcQAAAAAAAAJY+/rsqgAAAAAAAAAAAAAAAAD/80DEAAAAA0gAAAAATEFNRTMuMTAwVVVVVVVVVVVVVUxBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQsRbAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQMSkAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NCxKMAAANIAAAAAFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV";
+/* Voice speed for every recording (one shared player) and the system voice: kept per device in localStorage, not in S
+   (not synced). Pitch stays. Cycled by the link in the footer of the home screen. */
+const VRATES = [1, 0.9, 0.8, 0.7];
+let VRATE = (() => { try { const r = +localStorage.getItem("gamgol-voice-rate"); return VRATES.includes(r) ? r : 1; } catch (e) { return 1; } })();
+function setVRate(r) { VRATE = r; try { localStorage.setItem("gamgol-voice-rate", String(r)); } catch (e) {} }
+/* app version for the footer: the APK says its own versionName, the web page gets window.GG_WEB_VER from build_site.py */
+function appVer() { try { if (window.AndroidApp && AndroidApp.version) { const v = String(AndroidApp.version() || ""); if (v) return v; } } catch (e) {} return typeof window.GG_WEB_VER === "string" ? window.GG_WEB_VER + " (web)" : ""; }
 const AU = { el: null, url: "", tok: 0, btn: null, bundles: {}, unlocked: false };
 const player = () => AU.el || (AU.el = new Audio());
 function unlockAudio() {                                      // call synchronously inside the tap
@@ -466,7 +473,7 @@ async function playOne(v, t, tok) {                          // resolves when th
   const url = await clipUrl(audioKey(v, t)); if (tok !== AU.tok) return;
   if (!url) return koVoice ? speak(t) : undefined;
   if (url.startsWith("blob:")) AU.url = url;
-  const a = player(); a.src = url;
+  const a = player(); try { a.preservesPitch = a.webkitPreservesPitch = true; a.defaultPlaybackRate = VRATE; } catch (e) {} a.src = url; try { a.playbackRate = VRATE; } catch (e) {}
   await new Promise(res => { a.onended = a.onerror = () => res(); a.play().catch(() => res()); });
   if (AU.url === url) { URL.revokeObjectURL(url); AU.url = ""; }
 }
@@ -864,8 +871,9 @@ function home(scrollTo) {
     <details class="shelf"><summary><h2>Evidence shelf</h2><span>${ev.length + gv.length} item${ev.length + gv.length === 1 ? "" : "s"}</span></summary><div class="plank">${ev.length + gv.length ? ev.map(k => `<div class="ev"><b class="ko" lang="ko">${esc(k.tag)}</b>${esc(k.name)}<em>${esc(k.line)}</em></div>`).join("") + gv.map(x => `<div class="ev gift"><b class="ko" lang="ko">${esc(x.ko)}</b>A present for ${esc(x.to)}<em>${esc(x.line)}</em></div>`).join("") : '<div class="ev empty">Empty. Close a file and something will end up here with a label on it.</div>'}</div></details>
     <div class="movebox"><b>Your progress</b><span>${store.state === "on" ? (store.local ? "Saved on this device automatically." : "Saved to your account automatically.") : store.state === "off" ? "This view cannot save on its own, so a transfer code is the way to keep it." : ""} Back it up, or move it to another device (or between the browser and the phone app), with a transfer code.</span>
       <div class="row"><button class="btn alt sm" type="button" id="mvout">Get a transfer code</button><button class="btn alt sm" type="button" id="mvin">Load from a code</button></div></div>
-    <p class="foot">${S.resume ? '<button class="link" id="drop" type="button">Start the half-finished file over</button> · ' : ""}<button class="link" id="reset" type="button">Erase all progress</button></p>${Object.keys(AUD).length ? '<p class="foot" style="margin-top:4px">Korean audio is machine-generated with Supertonic 3 by Supertone Inc. (OpenRAIL-M licence), voices F1 and M1.</p>' : ""}`);
+    <p class="foot">${S.resume ? '<button class="link" id="drop" type="button">Start the half-finished file over</button> · ' : ""}<button class="link" id="reset" type="button">Erase all progress</button></p><p class="foot" style="margin-top:4px">Voice speed: ${VRATE}× <button class="link" id="vrate" type="button">change to ${VRATES[(VRATES.indexOf(VRATE) + 1) % VRATES.length]}×</button>${appVer() ? ` · <span id="appver">Version ${esc(appVer())}</span>` : ""}</p>${Object.keys(AUD).length ? '<p class="foot" style="margin-top:4px">Korean audio is machine-generated with Supertonic 3 by Supertone Inc. (OpenRAIL-M licence), voices F1 and M1.</p>' : ""}`);
   if ($("#mhall")) $("#mhall").onclick = () => startMnemo(null);
+  $("#vrate").onclick = () => { setVRate(VRATES[(VRATES.indexOf(VRATE) + 1) % VRATES.length]); const y = window.scrollY; home(); window.scrollTo(0, y); };
   $("#mvout").onclick = () => backupScreen("out"); $("#mvin").onclick = () => backupScreen("in");
   if ($("#drop")) $("#drop").onclick = () => { delete S.resume; save(); home(); };
   drawSave();

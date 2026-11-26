@@ -33,6 +33,10 @@ public class Bridge implements TextToSpeech.OnInitListener {
     @JavascriptInterface
     public void say(String text) { if (ttsOk && tts != null) tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, "mh"); }
 
+    /** Speech rate of the phone's Korean voice relative to the default 0.9 (the page's voice speed setting: 1, 0.9, 0.8, 0.7). */
+    @JavascriptInterface
+    public void rate(float r) { if (tts != null && r >= 0.5f && r <= 1.5f) tts.setSpeechRate(0.9f * r); }
+
     @JavascriptInterface
     public void hush() { if (tts != null) tts.stop(); }
 

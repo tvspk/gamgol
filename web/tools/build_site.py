@@ -36,7 +36,7 @@ def page():
             '<meta name="referrer" content="no-referrer"><meta name="theme-color" content="#28475b">'
             '<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="web/site/icon-192.png">'
             '<link rel="apple-touch-icon" href="web/site/icon-192.png"><title>Gamgol Substation</title>'
-            '<script>window.GG_LOCAL=1;window.GG_AUDIO_BASE="audio/bundles/";'
+            '<script>window.GG_WEB_VER="' + open(os.path.join(ROOT, 'android', 'verze.txt'), encoding='utf-8').read().split()[1] + '";window.GG_LOCAL=1;window.GG_AUDIO_BASE="audio/bundles/";'
             'if("serviceWorker" in navigator&&location.protocol==="https:")addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})})</script>'
             '<style>' + css + 'body{margin:0}[hidden]{display:none!important}</style></head><body>')
     return head + g + '</body></html>'

@@ -37,7 +37,7 @@ const mnCanSay = t => !!mnRecV(t) || mnDroid() || !!koVoice;
 function mnSay(t, btn) {
   const v = mnRecV(t);
   if (v || !mnDroid()) return say(t, v || MN_VW, btn);
-  stopSay(); try { AndroidApp.say(sayText(t)); } catch (e) {}
+  stopSay(); try { if (AndroidApp.rate) AndroidApp.rate(VRATE); AndroidApp.say(sayText(t)); } catch (e) {}
 }
 const mnStop = () => { stopSay(); try { if (window.AndroidApp && AndroidApp.hush) AndroidApp.hush(); } catch (e) {} };
 const mnTts = (t, cls) => mnCanSay(t) ? `<button class="tts rec mhs ${cls || ""}" type="button" data-mh-say="${esc(t)}" aria-label="Přehrát">${SPK}</button>` : "";

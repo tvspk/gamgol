@@ -34,7 +34,7 @@ Uživateli odpovídej **česky**. Uživatel není programátor: kroky na GitHubu
   štítky Lost & found, kola kartiček. Maximum: rekord rychlého kola, poslední ranní porada. Docházka: pozdější den vyhrává.
   Naposledy změněné vyhrává po položkách: stav dovednosti (série, slabé místo, vrácení k opakování), plán opakování `rv`,
   krabička každé kartičky, každá karta Mnemo Hooks `mh.c`, rozehraný spis, rozbalená kapitola.
-  **Jen v zařízení:** světlý/tmavý vzhled, klávesnice na obrazovce, psaní vs. dlaždice, pořadí slov v Lost & found.
+  **Jen v zařízení:** rychlost hlasu (`localStorage['gamgol-voice-rate']`, od 2.9), světlý/tmavý vzhled, klávesnice na obrazovce, psaní vs. dlaždice, pořadí slov v Lost & found.
 - **Nové pole v `S`** = rozhodni pravidlo a doplň ho do `syCount`/`sySetCount`, `sySets`/`syUnion` nebo
   `syItems`/`syNorm`/`syPut`. Stav a `localStorage['gamgol-sync']` se ukládají vždy spolu (`syPersist`).
   Formát ve schránce má `v:1`; při nekompatibilní změně ho zvyš.
@@ -67,4 +67,6 @@ Uživateli odpovídej **česky**. Uživatel není programátor: kroky na GitHubu
 
 ## Zvuk
 Podrobnosti (hlasy, nahrávání, balíky, historie verzí) v `TECHNIKA.md`. Hlasy Supertonic 3 F1/M1, rychlost 0.92
-(Mnemo Hooks 0.85), zvolené uživatelem; neměnit. `python3 web/tools/record.py` nahraje jen chybějící věty.
+(Mnemo Hooks 0.85), zvolené uživatelem; neměnit.
+Od 2.9 si uživatel volí rychlost přehrávání v patičce úvodní obrazovky (1 / 0.9 / 0.8 / 0.7, `VRATE` v `engine.js`, platí
+pro všechny nahrávky i hlas telefonu přes `AndroidApp.rate`); tamtéž je verze aplikace (`appVer`, web: `GG_WEB_VER` z `android/verze.txt`). `python3 web/tools/record.py` nahraje jen chybějící věty.
