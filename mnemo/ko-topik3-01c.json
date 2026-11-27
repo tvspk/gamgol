@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 3,
+  "verze": 4,
   "zdroj": "Sejong Korean 3, kap. 1 – workbook 세종한국어 회화 익힘책 3-1, s. 11 (어휘 확장)",
   "karty": [
     {
@@ -108,7 +108,7 @@
       "priklad": "친구{가} 보고 싶을 때 휴대폰{으로} 영상통화{를} 해요.",
       "priklad_cs": "Když se mi stýská po kamarádovi, voláme si přes video na mobilu. (가 → 1. pád; 으로 → čím, 7. pád; 를 → 4. pád)",
       "mnemo": "映像 obraz + 通話 hovor = obrazový hovor.",
-      "mnemo_zvuk": "„YOUNG SANG TO HWA“: mladík zpívá přes videohovor své dívce Hwa.",
+      "mnemo_zvuk": "„YOUNG SONG, TO FAJN!“: mladík zazpívá dívce přes videohovor novou písničku a ona na displeji tleská: „To fajn!“",
       "koreny": [
         "yeong-映",
         "sang-像",

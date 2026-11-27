@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 4,
+  "verze": 5,
   "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 1 열심히 배우면서 일하고 있어요 – textbook s. 16–17 (Part 1)",
   "karty": [
     {
@@ -324,7 +324,7 @@
       "priklad": "언니{가} 다음 주{에} 결혼해요.",
       "priklad_cs": "Sestra se příští týden vdává. (가 → 1. pád; 에 → kdy)",
       "mnemo": "結 spojit + 婚 sňatek = spojit se sňatkem.",
-      "mnemo_zvuk": "„GIRL! HON(ey)!“ volá ženich přes celý kostel.",
+      "mnemo_zvuk": "„GIRL! HONEY!“: ženich na svatbě volá na nevěstu přes celý kostel: „Girl! Honey!“",
       "koreny": [
         "gyeol-結",
         "hon-婚"

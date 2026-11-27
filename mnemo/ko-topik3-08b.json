@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 3,
+  "verze": 4,
   "zdroj": "Sejong Korean 3, kap. 8 – textbook s. 78–83 (Part 2 어휘, 표현 -는/-은/-ㄴ 게 어때요?, 연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepisy poslechu (s. 153–154) + 어휘 색인; workbook 3-2 s. 10",
   "karty": [
     {
@@ -11,7 +11,7 @@
       "tema": "kariéra",
       "slovo": "직업 체험을 해 보다",
       "vyslovnost": "čigŏp čchehŏmŭl he boda",
-      "vyslov_hangul": "지거 체허믈 해 보다",
+      "vyslov_hangul": "지겁 체허믈 해 보다",
       "cs": "vyzkoušet si povolání (na zkoušku)",
       "en": "to experience a job",
       "slovni_druh": "fraze",

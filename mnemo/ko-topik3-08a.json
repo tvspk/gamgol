@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 3,
   "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 8 한국어로 할 수 있는 즐거운 활동들을 찾아보는 게 어때? – textbook s. 76–77 (Part 1 어휘 + 표현 -을지/-ㄹ지) + 새로 나온 어휘 s. 81 (늘다) + přepis poslechu (s. 153) + 어휘 색인; workbook 3-2 s. 10 (어휘 연습)",
   "karty": [
     {
@@ -43,7 +43,7 @@
       "priklad": "전공{을} 선택할 때 전망{이} 좋은 분야{를} 선택해요.",
       "priklad_cs": "Když si vybírám obor, volím takový, který má dobré vyhlídky. (을, 를 → 4. pád; 이 → 1. pád)",
       "mnemo": "展 rozvinout + 望 vyhlížet = vyhlížet, kam se to rozvine. 전망이 좋다 = mít dobré vyhlídky (i „hezký výhled“).",
-      "mnemo_zvuk": "„ČUM, MANHATTAN!“: z mrakodrapu čumíš na Manhattan – nádherný výhled a skvělé vyhlídky.",
+      "mnemo_zvuk": "„JOHN, MANHATTAN!“: John stojí na střeše mrakodrapu a kouká na Manhattan – nádherný výhled a skvělé vyhlídky.",
       "koreny": [
         "jeon-展",
         "mang-望"

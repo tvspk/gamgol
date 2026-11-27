@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 13 – workbook 3-2 s. 61 (어휘 확장) + 어휘 색인 workbooku",
   "karty": [
     {
@@ -125,7 +125,7 @@
       "priklad": "대학교 등록금{이} 너무 비싸서 아르바이트{를} 해요.",
       "priklad_cs": "Školné na univerzitě je moc drahé, tak brigádničím. (이 → 1. pád; 를 → 4. pád)",
       "mnemo": "登錄 zápis (登 vystoupit + 錄 zapsat) + 金 peníze = peníze za zápis. Výslovnost [등녹끔].",
-      "mnemo_zvuk": "„TUNG, NOK(aut)!“: účet za školné tě praští „tung“ a jsi v knokautu.",
+      "mnemo_zvuk": "„TUNG, KNOCK!“: účet za školné tě praští „tung“ a jsi v knokautu.",
       "koreny": [
         "deung-登",
         "rok-錄",

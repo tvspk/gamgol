@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 2 – textbook s. 31 (더 말해 봐요) + workbook 3-1 s. 21 (어휘 확장)",
   "karty": [
     {
@@ -243,7 +243,7 @@
       "priklad": "축구장{에} 직접 가서 경기 관람{을} 해요.",
       "priklad_cs": "Chodím přímo na stadion sledovat zápasy. (에 → kam; 을 → 4. pád)",
       "mnemo": "競技 soutěž, zápas + 觀覽 sledování.",
-      "mnemo_zvuk": "„KING, GO! – KVA! LAMA!“: na tribuně stadionu fandí žába s lamou a sledují zápas naživo.",
+      "mnemo_zvuk": "„KING, GO! – KVA! LAMA!“: žába s lamou sedí na tribuně stadionu, sledují zápas naživo a řvou: „King, go!“",
       "koreny": [
         "gyeong-競",
         "gi-技",
@@ -317,7 +317,7 @@
       "priklad": "우리 주말{에} 맛집 탐방{을} 할까요?",
       "priklad_cs": "Co kdybychom o víkendu vyrazili po dobrých podnicích? (에 → kdy; 을 → 4. pád)",
       "mnemo": "맛집 + 探 pátrat + 訪 navštívit = pátrací návštěva dobrých podniků.",
-      "mnemo_zvuk": "„MÁ ČIPSY? TAM, BANG!“: na gastro výpravě ukážeš na další podnik a – bang – už jste uvnitř.",
+      "mnemo_zvuk": "„MÁ ČIPSY? TAM, BANG!“: „Kdo tu má nejlepší čipsy?“ – „Tam!“ – a bang, na gastro výpravě už jste v dalším vyhlášeném podniku.",
       "koreny": [
         "tam-探",
         "bang-訪"

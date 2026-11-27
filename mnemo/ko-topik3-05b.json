@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 3,
   "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 5 Part 2 – textbook s. 50–51 (어휘, 표현 -아서/어서/여서 그런지) + 어휘 색인",
   "karty": [
     {
@@ -88,7 +88,7 @@
       "priklad": "그 나라{는} 물가{가} 저렴해서 여행하기 좋아요.",
       "priklad_cs": "V té zemi jsou nízké ceny, takže se tam dobře cestuje. (는 → téma; 가 → 1. pád)",
       "mnemo": "物 věc + 價 cena = ceny věcí. 물가가 비싸다/싸다.",
-      "mnemo_zvuk": "„MŮL? KAČKA!“: na trhu chtějí za mula jen kačku, tady jsou ceny nízké.",
+      "mnemo_zvuk": "„MUL? KAČKA!“: na trhu chtějí za mula jen kačku, tady jsou ceny nízké.",
       "koreny": [
         "mul-物",
         "ga-價"

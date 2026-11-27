@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 3,
+  "verze": 4,
   "zdroj": "Sejong Korean 3, kap. 12 양치질을 못 할 정도로 손목이 아파 – textbook s. 108–109 (Part 1 어휘, -다(가)) + přepisy poslechu (s. 157) + 어휘 색인; workbook 3-2 s. 50",
   "karty": [
     {
@@ -573,7 +573,7 @@
       "priklad": "일주일 후{에} 병원{에서} 검사해 보고 괜찮으면 깁스{를} 풀 거예요.",
       "priklad_cs": "Za týden mě v nemocnici vyšetří, a když to bude dobré, sundají mi sádru. (에 → kdy; 에서 → kde; 를 → 4. pád)",
       "mnemo": "檢 prověřit + 査 zkoumat. 검사를 받다 = jít na vyšetření, 건강 검사 = prohlídka.",
-      "mnemo_zvuk": "„KOMSA(ř)“: komisař přijde na kontrolu a lupou vyšetří úplně všechno.",
+      "mnemo_zvuk": "„COME, SIR!“: lékařka otevře dveře ordinace, „Come, sir!“, a začne vyšetření od hlavy k patě.",
       "koreny": [
         "geom-檢",
         "sa-査"

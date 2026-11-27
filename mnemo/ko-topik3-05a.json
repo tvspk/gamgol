@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 3,
+  "verze": 4,
   "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 5 Part 1 – textbook s. 48–49 (어휘, 표현 -(으)ㄴ 적이 있다/없다) + 어휘 색인",
   "karty": [
     {
@@ -276,7 +276,7 @@
       "priklad": "기차 여행{을} 하면서 창밖 경치{를} 구경했어요.",
       "priklad_cs": "Cestou vlakem jsem se díval na krajinu za oknem. (을, 를 → 4. pád)",
       "mnemo": "汽 pára + 車 vůz = parní vůz, vlak.",
-      "mnemo_zvuk": "„KÝČ ČCHA-ČCHA“: kýčovitě pomalovaný vláček supí čcha-čcha po kolejích.",
+      "mnemo_zvuk": "„KÝČ“: kýčovitě pomalovaný vláček supí po kolejích a veze turisty krajinou.",
       "koreny": [
         "gi-汽",
         "cha-車",

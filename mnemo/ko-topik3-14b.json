@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 3,
+  "verze": 4,
   "zdroj": "Sejong Korean 3, kap. 14 Part 2–3 – textbook s. 126–127 (어휘, 표현 -지 그래요?), s. 128–131 (연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepis poslechu s. 159 + 어휘 색인; workbook 3-2 s. 70 (어휘 연습)",
   "karty": [
     {
@@ -361,7 +361,7 @@
       "priklad": "그럼 인터넷{에서} 중고 제품{을} 한번 알아보지 그래요?",
       "priklad_cs": "Tak co kdybyste se na internetu poohlédl po použitém zboží? (에서 → kde; 을 → 4. pád)",
       "mnemo": "中 střed + 古 starý = „napůl staré“. Stojí před podstatným jménem: 중고 제품, 중고차, 중고 책.",
-      "mnemo_zvuk": "„DJANGO“: Django jezdí na koni z druhé ruky a nosí obnošený klobouk.",
+      "mnemo_zvuk": "„JUNK? GO!“: bazarník ukáže na hromadu věcí z druhé ruky, „Junk? Go!“, a ty odcházíš s ojetým gaučem.",
       "koreny": [
         "jung-中",
         "go-古"
@@ -710,7 +710,7 @@
       "priklad": "가장 만족스러운 고민 해결 방법{을} 알려 준 상담소{를} 골라 보세요.",
       "priklad_cs": "Vyberte poradnu, která vám dala nejuspokojivější řešení. (을, 를 → 4. pád)",
       "mnemo": "滿 plný + 足 dost = mít dost do plna + -스럽다 (budící dojem). ㅂ nepravidelnost: 만족스러워요. 만족하다 = být spokojen.",
-      "mnemo_zvuk": "„MAN-ŽOKEJ“: žokej projede cílem první a spokojeně se usmívá.",
+      "mnemo_zvuk": "„MAN, ŽOKEJ!“: žokej po závodě leží ve vaně s pivem a spokojeně vzdychne: „Man, tohle je život.“",
       "koreny": [
         "man-滿",
         "jok-足"

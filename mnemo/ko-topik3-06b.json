@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 3,
+  "verze": 4,
   "zdroj": "Sejong Korean 3, kap. 6 – textbook s. 60–63 (연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepisy poslechu + 어휘 색인; workbook 3-1 s. 61 (어휘 확장) + 어휘 색인 workbooku",
   "karty": [
     {
@@ -188,7 +188,7 @@
       "priklad": "할인 기간{에} 사도 개봉{을} 하지 않으면 환불{이} 될 거예요.",
       "priklad_cs": "I když jsi to koupil ve slevě, když to neotevřeš, peníze ti vrátí. (에 → kdy; 을 → 4. pád; 이 → 1. pád)",
       "mnemo": "開 otevřít + 封 pečeť = rozpečetit. 영화가 개봉하다 = film má premiéru.",
-      "mnemo_zvuk": "„KE BONBONU“: rozbalíš celofán a konečně se dostaneš ke bonbonu.",
+      "mnemo_zvuk": "„KDE BONBON?“: rozbaluješ celofán jako o závod a hledáš, kde je ten bonbon.",
       "koreny": [
         "gae-開",
         "bong-封"

@@ -72,7 +72,7 @@
    "priklad": "전기 요금이 두 배나 나왔어요!",
    "priklad_cs": "Za elektřinu přišlo dvakrát tolik!",
    "mnemo": "電氣 elektřina + 料金 poplatek.",
-   "mnemo_zvuk": "„JOHN GEEK + JÓ, GUMU?“: nerd John chce zaplatit účet za elektřinu žvýkačkou.",
+   "mnemo_zvuk": "„DŽINGIS + JÓ, GUMU?“: Džingischán chce zaplatit účet za elektřinu žvýkačkou.",
    "koreny": [
     "jeon-電",
     "gi-氣",
@@ -266,7 +266,7 @@
    "priklad": "물가가 올라서 과자 한 봉지에 삼천 원이에요.",
    "priklad_cs": "Ceny stouply, sáček sušenek stojí tři tisíce wonů.",
    "mnemo": "物價 ceny zboží + 오르다 (stoupat).",
-   "mnemo_zvuk": "„MŮL? KAČKA!“: včera stál mul kačku, dneska už stovku, ceny letí nahoru.",
+   "mnemo_zvuk": "„MUL? KAČKA!“: včera stál mul kačku, dneska už stovku, ceny letí nahoru.",
    "koreny": [
     "mul-物",
     "ga-價"
@@ -341,7 +341,7 @@
    "priklad": "요즘 물가가 많이 올라서 장미숙 사장님도 걱정이 많으세요.",
    "priklad_cs": "Ceny poslední dobou hodně stouply, a tak má i paní Čang velké starosti.",
    "mnemo": "요즘 (poslední dobou) + 物價 ceny + 많이 오르다 (hodně stoupnout).",
-   "mnemo_zvuk": "„MŮL? KAČKA!“: kdysi stál mul kačku, dnes za kačku nekoupíš ani podkovu.",
+   "mnemo_zvuk": "„MUL? KAČKA!“: kdysi stál mul kačku, dnes za kačku nekoupíš ani podkovu.",
    "koreny": [
     "mul-物",
     "ga-價"
