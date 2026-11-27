@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 8 – workbook 3-2 s. 10–11 (어휘 연습, 어휘 확장: životopis) + 어휘 색인 workbooku",
   "karty": [
     {
       "id": "ko-topik3-0611",
       "tema": "práce",
       "slovo": "이력서",
-      "vyslovnost": "iryeokseo",
+      "vyslovnost": "irjŏkssŏ",
       "vyslov_hangul": "이력써",
       "cs": "životopis",
       "en": "résumé, CV",
@@ -19,6 +19,7 @@
       "priklad": "이력서{에} 학력{과} 경력{을} 써요.",
       "priklad_cs": "Do životopisu se píše vzdělání a praxe. (에 → do; 과 → a; 을 → 4. pád)",
       "mnemo": "履 šlapat + 歷 minulost + 書 písemnost = písemnost o tom, kudy jsi šel. 이력서를 내다 = podat životopis.",
+      "mnemo_zvuk": "„IRÁK, SO(fie)“: Sofie si do životopisu píše rok praxe v Iráku.",
       "koreny": [
         "i-履",
         "ryeok-歷",
@@ -35,7 +36,7 @@
       "id": "ko-topik3-0612",
       "tema": "práce",
       "slovo": "인적 사항",
-      "vyslovnost": "injeok sahang",
+      "vyslovnost": "inččŏk ssahang",
       "vyslov_hangul": "인쩍 싸항",
       "cs": "osobní údaje",
       "en": "personal information",
@@ -60,7 +61,7 @@
       "id": "ko-topik3-0613",
       "tema": "práce",
       "slovo": "성명",
-      "vyslovnost": "seongmyeong",
+      "vyslovnost": "sŏngmjŏng",
       "cs": "jméno a příjmení (úředně)",
       "en": "name",
       "slovni_druh": "podstatne_jmeno",
@@ -68,6 +69,7 @@
       "priklad": "신청서{의} 성명 칸{에} 이름{을} 쓰세요.",
       "priklad_cs": "Do kolonky „jméno“ v přihlášce napište své jméno. (의 → 2. pád; 에 → kam; 을 → 4. pád)",
       "mnemo": "姓 příjmení + 名 jméno. Úřední slovo pro 이름 ve formulářích.",
+      "mnemo_zvuk": "„SONG MÉHO JMÉNA“: zpěvák zpívá song, ve kterém je jen jeho jméno a příjmení.",
       "koreny": [
         "seong-姓",
         "myeong-名"
@@ -82,7 +84,7 @@
       "id": "ko-topik3-0614",
       "tema": "práce",
       "slovo": "연락처",
-      "vyslovnost": "yeollakcheo",
+      "vyslovnost": "jŏllakčchŏ",
       "vyslov_hangul": "열락처",
       "cs": "kontakt (telefon, e-mail)",
       "en": "contact information",
@@ -106,7 +108,7 @@
       "id": "ko-topik3-0615",
       "tema": "škola",
       "slovo": "학력",
-      "vyslovnost": "hangnyeok",
+      "vyslovnost": "hangnjŏk",
       "vyslov_hangul": "항녁",
       "cs": "dosažené vzdělání",
       "en": "educational background",
@@ -115,6 +117,7 @@
       "priklad": "학력{이} 어떻게 되십니까?",
       "priklad_cs": "Jaké máte vzdělání? (이 → 1. pád)",
       "mnemo": "學 učení + 歷 minulost = studijní minulost. Pozor: 학력 [항녁] × 실력 (schopnost).",
+      "mnemo_zvuk": "„HANG NEW YORK“: diplom z New Yorku visí (hang) na zdi – tvoje vzdělání.",
       "koreny": [
         "hak-學",
         "ryeok-歷"
@@ -139,6 +142,7 @@
       "priklad": "한국대학교{에서} 학사{와} 석사 학위{를} 받았습니다.",
       "priklad_cs": "Na Korejské univerzitě jsem získal bakalářský a magisterský titul. (에서 → kde; 와 → a; 를 → 4. pád)",
       "mnemo": "學 učení + 位 pozice = pozice ve vzdělání. 학위를 받다 = získat titul.",
+      "mnemo_zvuk": "„HA, KIWI!“: kiwi v taláru přebírá akademický titul.",
       "koreny": [
         "hak-學",
         "wi-位"
@@ -154,7 +158,7 @@
       "id": "ko-topik3-0617",
       "tema": "škola",
       "slovo": "학사",
-      "vyslovnost": "haksa",
+      "vyslovnost": "hakssa",
       "vyslov_hangul": "학싸",
       "cs": "bakalář (titul)",
       "en": "(B.A) bachelor's degree",
@@ -163,6 +167,7 @@
       "priklad": "학사 때{는} 한국학{을} 전공했어요.",
       "priklad_cs": "Na bakaláři jsem studoval koreanistiku. (는 → téma; 을 → 4. pád)",
       "mnemo": "學 učení + 士 vzdělanec. Řada: 학사 → 석사 → 박사.",
+      "mnemo_zvuk": "„HACKSAW“: čerstvý bakalář si pilkou uřízne první, nejnižší příčku žebříku titulů.",
       "koreny": [
         "hak-學",
         "sa-士"
@@ -178,7 +183,7 @@
       "id": "ko-topik3-0618",
       "tema": "škola",
       "slovo": "석사",
-      "vyslovnost": "seoksa",
+      "vyslovnost": "sŏkssa",
       "vyslov_hangul": "석싸",
       "cs": "magistr (titul)",
       "en": "(M.A) Master's degree",
@@ -187,6 +192,7 @@
       "priklad": "석사 때{는} 한국 문화학{을} 전공했어요.",
       "priklad_cs": "Na magistru jsem studoval korejská kulturní studia. (는 → téma; 을 → 4. pád)",
       "mnemo": "碩 velký + 士 vzdělanec = velký vzdělanec. Řada: 학사 → 석사 → 박사.",
+      "mnemo_zvuk": "„SOCKS“: magistr dostane k diplomu ponožky s vyšitým „Mgr.“.",
       "koreny": [
         "seok-碩",
         "sa-士"
@@ -202,7 +208,7 @@
       "id": "ko-topik3-0619",
       "tema": "škola",
       "slovo": "한국학",
-      "vyslovnost": "hangukak",
+      "vyslovnost": "hangukchak",
       "vyslov_hangul": "한구칵",
       "cs": "koreanistika",
       "en": "Korean studies",
@@ -227,7 +233,7 @@
       "id": "ko-topik3-0620",
       "tema": "škola",
       "slovo": "한국 문화학",
-      "vyslovnost": "hanguk munhwahak",
+      "vyslovnost": "hangung munhwahak",
       "vyslov_hangul": "한궁 문화학",
       "cs": "korejská kulturní studia",
       "en": "Korean cultural studies",
@@ -254,7 +260,7 @@
       "id": "ko-topik3-0621",
       "tema": "práce",
       "slovo": "경력",
-      "vyslovnost": "gyeongnyeok",
+      "vyslovnost": "kjŏngnjŏk",
       "vyslov_hangul": "경녁",
       "cs": "praxe, pracovní zkušenosti",
       "en": "(work) experiences",
@@ -263,6 +269,7 @@
       "priklad": "무역 회사{에서} 3년 일한 경력{이} 있어요.",
       "priklad_cs": "Mám tři roky praxe v obchodní firmě. (에서 → kde; 이 → 1. pád)",
       "mnemo": "經 projít + 歷 minulost = co jsi prošel. 경력자 = zkušený uchazeč. Srovnej 학력 (vzdělání).",
+      "mnemo_zvuk": "„KONG, NEW YORK“: King Kong má v životopise roky praxe v lezení po newyorských mrakodrapech.",
       "koreny": [
         "gyeong-經",
         "ryeok-歷"
@@ -278,7 +285,7 @@
       "id": "ko-topik3-0622",
       "tema": "práce",
       "slovo": "부서",
-      "vyslovnost": "buseo",
+      "vyslovnost": "pusŏ",
       "cs": "oddělení (ve firmě)",
       "en": "department/team",
       "slovni_druh": "podstatne_jmeno",
@@ -286,6 +293,7 @@
       "priklad": "무역 회사 영업 부서{에서} 일했습니다.",
       "priklad_cs": "Pracoval jsem v obchodním oddělení exportní firmy. (에서 → kde)",
       "mnemo": "部 část + 署 úřad = úřední část firmy. 부서를 옮기다 = přejít na jiné oddělení.",
+      "mnemo_zvuk": "„PŮSO(biště)“: tvoje působiště ve firmě je tvoje oddělení.",
       "koreny": [
         "bu-部",
         "seo-署"
@@ -301,7 +309,7 @@
       "id": "ko-topik3-0623",
       "tema": "práce",
       "slovo": "직위",
-      "vyslovnost": "jigwi",
+      "vyslovnost": "čigwi",
       "vyslov_hangul": "지귀",
       "cs": "funkce, pracovní pozice",
       "en": "rank/position",
@@ -310,6 +318,7 @@
       "priklad": "최근{에} 일한 회사{에서는} 직위{가} 팀장이었어요.",
       "priklad_cs": "Ve firmě, kde jsem pracoval naposledy, jsem měl pozici vedoucího týmu. (에 → kdy; 에서는 → kde + téma; 가 → 1. pád)",
       "mnemo": "職 zaměstnání + 位 pozice. Hodnosti: 사원 → 대리 → 과장 → 부장; 팀장 = vedoucí týmu.",
+      "mnemo_zvuk": "„ČÍ GUY?“: „Čí je ten chlápek?“ – „Náš šéf, má nejvyšší pozici.“",
       "koreny": [
         "jik-職",
         "wi-位"
@@ -325,7 +334,7 @@
       "id": "ko-topik3-0624",
       "tema": "kariéra",
       "slovo": "희망",
-      "vyslovnost": "huimang",
+      "vyslovnost": "himang",
       "vyslov_hangul": "히망",
       "cs": "naděje; přání (희망 직업 = vysněné povolání)",
       "en": "hope, wish",
@@ -334,6 +343,7 @@
       "priklad": "우리 아이{는} 희망 직업{이} 자주 바뀌어요.",
       "priklad_cs": "Našemu dítěti se pořád mění, čím chce být. (는 → téma; 이 → 1. pád)",
       "mnemo": "希 doufat + 望 vyhlížet. 희망하다 = přát si. 희망 직업 = povolání, které by člověk chtěl dělat.",
+      "mnemo_zvuk": "„HI, MAN!“: trosečník mává na loď „Hi, man!“ – poslední naděje.",
       "koreny": [
         "hui-希",
         "mang-望"
