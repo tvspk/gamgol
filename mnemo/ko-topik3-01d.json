@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 4,
   "zdroj": "Sejong Korean 3, kap. 1 – doplněk: slova z 어휘 색인 textbooku (s. 16–17) a workbooku 3-1 (s. 11) dříve vynechaná",
   "karty": [
     {
@@ -34,7 +34,7 @@
       "id": "ko-topik3-0064",
       "tema": "plány",
       "slovo": "준비",
-      "vyslovnost": "junbi",
+      "vyslovnost": "čunbi",
       "cs": "příprava",
       "en": "preparation",
       "slovni_druh": "podstatne_jmeno",
@@ -42,6 +42,7 @@
       "priklad": "요즘 여행 준비{를} 하고 있어요.",
       "priklad_cs": "Teď se připravuju na cestu. (를 → 4. pád)",
       "mnemo": "準 norma + 備 vybavit = vybavit se, jak se má.",
+      "mnemo_zvuk": "„JUNE BEE“: včelka celý květen chystá úl, aby byla v červnu připravená.",
       "koreny": [
         "jun-準",
         "bi-備"
@@ -57,7 +58,7 @@
       "id": "ko-topik3-0065",
       "tema": "vztahy",
       "slovo": "초대",
-      "vyslovnost": "chodae",
+      "vyslovnost": "čchode",
       "cs": "pozvání",
       "en": "to invite",
       "slovni_druh": "podstatne_jmeno",
@@ -65,6 +66,7 @@
       "priklad": "친구{를} 생일 파티{에} 초대했어요.",
       "priklad_cs": "Pozval jsem kamaráda na narozeninovou oslavu. (를 → 4. pád; 에 → kam)",
       "mnemo": "招 pozvat + 待 hostit = pozvat a pohostit.",
+      "mnemo_zvuk": "„ČOUDÍ“: soused tě pozve na grilovačku – u něj na zahradě už to čoudí.",
       "koreny": [
         "cho-招",
         "dae-待"
@@ -80,7 +82,7 @@
       "id": "ko-topik3-0066",
       "tema": "vztahy",
       "slovo": "축하",
-      "vyslovnost": "chuka",
+      "vyslovnost": "čchukcha",
       "vyslov_hangul": "추카",
       "cs": "blahopřání, gratulace",
       "en": "to celebrate, to congratulate",
@@ -89,6 +91,7 @@
       "priklad": "졸업{을} 축하해요!",
       "priklad_cs": "Gratuluju k absolvování! (을 → 4. pád; česky „k“ + 3. pád)",
       "mnemo": "祝 oslavovat + 賀 blahopřát. Srovnej 축제 (festival).",
+      "mnemo_zvuk": "„ŤUKÁ“: celá oslava ťuká skleničkami a gratuluje.",
       "koreny": [
         "chuk-祝",
         "ha-賀"
@@ -104,7 +107,7 @@
       "id": "ko-topik3-0067",
       "tema": "zdraví",
       "slovo": "스트레스",
-      "vyslovnost": "seuteureseu",
+      "vyslovnost": "sŭtchŭresŭ",
       "cs": "stres",
       "en": "stress",
       "slovni_druh": "podstatne_jmeno",
@@ -123,7 +126,7 @@
       "id": "ko-topik3-0068",
       "tema": "škola",
       "slovo": "수업 후",
-      "vyslovnost": "sueop hu",
+      "vyslovnost": "suŏp hu",
       "cs": "po vyučování",
       "en": "after school",
       "slovni_druh": "fraze",
@@ -131,6 +134,7 @@
       "priklad": "수업 후{에} 친구{하고} 영상통화{를} 해요.",
       "priklad_cs": "Po vyučování si s kamarádem volám přes video. (에 → kdy; 하고 → s + 7. pád; 를 → 4. pád)",
       "mnemo": "授 vyučovat + 業 práce = vyučování; 後 = po.",
+      "mnemo_zvuk": "„SOUP, HŮ!“: po vyučování studenti utíkají na horkou polévku – „hů, pálí!“",
       "koreny": [
         "su-授",
         "eop-業",
@@ -146,8 +150,8 @@
       "id": "ko-topik3-0069",
       "tema": "škola",
       "slovo": "졸업 후",
-      "vyslovnost": "joreop hu",
-      "vyslov_hangul": "조러푸",
+      "vyslovnost": "čorŏp hu",
+      "vyslov_hangul": "조럽 후",
       "cs": "po absolvování (školy)",
       "en": "after graduation",
       "slovni_druh": "fraze",
@@ -155,6 +159,7 @@
       "priklad": "졸업 후{에} 프리랜서{로} 일하고 싶어요.",
       "priklad_cs": "Po škole chci pracovat na volné noze. (에 → kdy; 로 → jako + 1. pád)",
       "mnemo": "卒業 absolvování + 後 po.",
+      "mnemo_zvuk": "„JOE, RUB IT… HŮ!“: Joe vyleštil diplom a po absolvování si úlevně vydechne.",
       "koreny": [
         "jol-卒",
         "eop-業",

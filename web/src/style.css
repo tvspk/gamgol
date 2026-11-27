@@ -525,6 +525,11 @@ body.dragging,body.dragging *{cursor:grabbing!important}
 .mhrow .ko{font-size:16px}
 .mhhook{background:var(--hook);border-left:4px solid var(--gold);padding:8px 10px;margin:10px 0 0;font-size:15px;line-height:1.5;text-align:left;border-radius:0 4px 4px 0}
 .mhhook i{display:block;font-style:normal;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:2px}
+.mhhz{margin:10px 0 0;text-align:left}
+.mhhz>summary{cursor:pointer;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);padding:4px 0}
+.mhhz .mhhook{margin-top:4px}
+.mhrow .mhcz{background:none;border:0;padding:0;color:var(--link);text-decoration:underline;text-underline-offset:2px;font-size:13px}
+.mhczt{font-size:15px}
 .mhroots{display:grid;gap:6px;margin:10px 0 0}
 .mhroot{display:grid;grid-template-columns:auto auto 1fr;gap:2px 8px;align-items:baseline;text-align:left;font-size:14px}
 .mhroot .hz{font-size:24px;line-height:1;font-family:"Noto Serif TC","Noto Sans KR",serif}

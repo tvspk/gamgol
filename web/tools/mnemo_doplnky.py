@@ -12,6 +12,11 @@ Sloupce, které vyplňuje Claude (řádek s prázdným „cs“ se přeskočí, 
   tema        téma jako v balíčcích kapitoly      priklad_cs  český překlad věty ze hry
   mnemo       háček (krátce, česky)               koreny  slabiky=hanja oddělené mezerou, např. „업무=業務 정=定“;
               nový kořen (není v ko-koreny.json) s českým významem: „무=務:povinnost, služba“
+  mnemo_zvuk  hook podle zvuku bez hanja (postup: 01-HOOKY-postup.md v projektu Mnemo Korean); prázdné = bez hooku
+  vyslov_hangul  výslovnost hangulem, jen když se liší od zápisu (학년 → 항년)
+  vyslovnost  česká transkripce; prázdné = vypočte se z vyslov_hangul / slovo (web/tools/cs_transkripce.py),
+              vyplň jen jako ruční opravu (plynulá výslovnost ve frázích, gramatické vzorce)
+Kapitola, jejíž hlavička obsahuje sloupec mnemo_zvuk, je zpracovaná: dostane českou výslovnost a verzi 2.
 Id karet: ko-topik3-d<kapitola 2 číslice><pořadí řádku 2 číslice>; pořadí řádků proto neměnit (postup hráčů visí na id).
 """
 import json, os, re, sys, glob
@@ -20,7 +25,9 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 M = os.environ.get('GG_MNEMO_DIR') or os.path.join(ROOT, 'mnemo')
 DRUH = {'n': 'podstatne_jmeno', 'v': 'sloveso', 'a': 'pridavne_jmeno', 'f': 'fraze', 'o': 'ostatni'}
 TYP = {'k': 'puvodni', 's': 'sino', 'e': 'vypujcka', 'm': 'smisene'}
-COLS = ['slovo', 'en', 'priklad', 'cs', 'druh', 'typ', 'tema', 'priklad_cs', 'mnemo', 'koreny']
+COLS = ['slovo', 'en', 'priklad', 'cs', 'druh', 'typ', 'tema', 'priklad_cs', 'mnemo', 'koreny', 'mnemo_zvuk', 'vyslov_hangul', 'vyslovnost']
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cs_transkripce import cs as cs_trans
 
 # romanizace jedné slabiky (Revised Romanization, jen pro id kořene, např. "mu-務")
 I = ['g', 'kk', 'n', 'd', 'tt', 'r', 'm', 'b', 'pp', 's', 'ss', '', 'j', 'jj', 'ch', 'k', 't', 'p', 'h']
@@ -41,7 +48,9 @@ def main():
     bad, total = [], 0
     for p in sorted(glob.glob(os.path.join(M, 'doplnky', 'ch*.tsv'))):
         ch = int(re.search(r'ch(\d\d)\.tsv$', p).group(1))
-        rows = [l.rstrip('\n').split('\t') for l in open(p, encoding='utf-8') if l.strip() and not l.startswith('#')]
+        lines = open(p, encoding='utf-8').readlines()
+        done = any(l.startswith('#') and 'mnemo_zvuk' in l for l in lines)   # kapitola už má hooky a zkontrolovanou výslovnost
+        rows = [l.rstrip('\n').split('\t') for l in lines if l.strip() and not l.startswith('#')]
         karty = []
         for i, r in enumerate(rows, 1):
             r += [''] * (len(COLS) - len(r)); d = dict(zip(COLS, r))
@@ -59,15 +68,20 @@ def main():
                         rid = rom(syl) + '-' + han; by[(syl, han)] = rid
                         extra.append({'id': rid, 'hangul': syl, 'hanja': han, 'cs': m.group(3).replace('_', ' ')})
                     if rid not in ks: ks.append(rid)
-            k = {'id': cid, 'tema': d['tema'] or 'ostatní', 'slovo': d['slovo'], 'cs': d['cs'], 'en': d['en'],
+            vh = d['vyslov_hangul'].strip()
+            k = {'id': cid, 'tema': d['tema'] or 'ostatní', 'slovo': d['slovo']}
+            if done: k['vyslovnost'] = d['vyslovnost'].strip() or cs_trans(vh or d['slovo'])
+            if vh: k['vyslov_hangul'] = vh
+            k.update({'cs': d['cs'], 'en': d['en'],
                  'slovni_druh': DRUH[d['druh']], 'frekvence': 2, 'priklad': d['priklad'], 'priklad_cs': d['priklad_cs'],
-                 'mnemo': d['mnemo']}
+                 'mnemo': d['mnemo']})
+            if d['mnemo_zvuk'].strip(): k['mnemo_zvuk'] = d['mnemo_zvuk'].strip()
             if ks: k['koreny'] = ks
             k.update({'extra': {'typ': TYP[d['typ']]}, 'vyrazeno': False, 'overit': True})
             karty.append(k)
         out = os.path.join(M, 'ko-topik3-%02dz.json' % ch)
         if karty:
-            json.dump({'jazyk': 'ko', 'uroven': 'TOPIK 3', 'verze_schematu': 1, 'verze': 1,
+            json.dump({'jazyk': 'ko', 'uroven': 'TOPIK 3', 'verze_schematu': 1, 'verze': 2 if done else 1,
                        'zdroj': f'Gamgol Substation: doplňky ke kapitole {ch} (slovíčka hry, která v balíčcích Mnemo Korean chybějí; napsal Claude, k ověření)',
                        'karty': karty}, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
             total += len(karty)

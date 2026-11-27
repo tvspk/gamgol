@@ -3,7 +3,8 @@
 
 Použití:  python3 web/tools/mnemo_build.py [složka]   (výchozí: mnemo/ v kořeni balíčku, tam jsou balíčky z projektu)
 Balíček ko-topik3-NNx.json patří ke kapitole NN. Vyřazené karty (vyrazeno: true) se vynechají,
-romanizace se do hry nepřenáší (pravidlo hry). Id karet zůstávají, takže postup přežije opravy.
+česká výslovnost (vyslovnost, latinkou) se přenáší jen jako "cz" a hra ji ukáže až po ťuknutí
+(dohoda s uživatelem 27. 11. 2026; revidovaná romanizace se do hry nepřenáší). Id karet zůstávají, takže postup přežije opravy.
 """
 import json, re, sys, glob, os
 
@@ -51,6 +52,8 @@ for p in files:
         put("ex", c.get("priklad"))
         put("exc", c.get("priklad_cs"))
         put("m", c.get("mnemo"))
+        put("mz", c.get("mnemo_zvuk"))
+        put("cz", c.get("vyslovnost"))
         put("r", c.get("koreny"))
         put("fam", c.get("rodina"))
         put("pl", c.get("plete_se_s"))
