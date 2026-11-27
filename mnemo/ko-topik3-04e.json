@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 2,
   "zdroj": "Sejong Korean 3, kap. 4 – textbook s. 46–47 (듣고 말해요, 더 말해 봐요) + 어휘 색인; workbook 3-1 s. 41 (어휘 확장)",
   "karty": [
     {
       "id": "ko-topik3-0334",
       "tema": "svátky a zvyky",
       "slovo": "대나무",
-      "vyslovnost": "daenamu",
+      "vyslovnost": "tenamu",
       "cs": "bambus",
       "en": "bamboo",
       "slovni_druh": "podstatne_jmeno",
@@ -57,6 +57,7 @@
       "priklad": "일 년 동안 가족{을} 돌봐 줄 신{을} 기다린다는 의미예요.",
       "priklad_cs": "Znamená to, že čekáme na boha, který bude rok ochraňovat rodinu. (을 → 4. pád)",
       "mnemo": "神 bůh, duch. Stejně znějící 신 = obuv.",
+      "mnemo_zvuk": "„SIN“: bůh v oblacích přísně počítá každý tvůj hřích (SIN).",
       "koreny": [
         "sin-神"
       ],
@@ -70,7 +71,7 @@
       "id": "ko-topik3-0337",
       "tema": "bydlení",
       "slovo": "종류",
-      "vyslovnost": "jongnyu",
+      "vyslovnost": "čongnju",
       "vyslov_hangul": "종뉴",
       "cs": "druh, typ",
       "en": "kind, variety",
@@ -93,7 +94,7 @@
       "id": "ko-topik3-0338",
       "tema": "bydlení",
       "slovo": "개수",
-      "vyslovnost": "gaesu",
+      "vyslovnost": "kessu",
       "vyslov_hangul": "개쑤",
       "cs": "počet (kusů)",
       "en": "the number",
@@ -102,6 +103,7 @@
       "priklad": "방{의} 개수{는} 세 개면 좋겠어요.",
       "priklad_cs": "Chtěl bych tři pokoje. (의 → 2. pád; 는 → téma)",
       "mnemo": "個 kus + 數 počet.",
+      "mnemo_zvuk": "„KEŠU“: počítáš KEŠU oříšky v misce, kolik jich tam je?",
       "koreny": [
         "gae-個",
         "su-數"
@@ -116,7 +118,7 @@
       "id": "ko-topik3-0339",
       "tema": "bydlení",
       "slovo": "인테리어",
-      "vyslovnost": "interieo",
+      "vyslovnost": "intcheriŏ",
       "cs": "interiér, bytový design",
       "en": "interior design",
       "slovni_druh": "podstatne_jmeno",
@@ -138,7 +140,7 @@
       "alternativy": [
         "여름옷을 정리하다"
       ],
-      "vyslovnost": "gyeourosseul jeongnihada",
+      "vyslovnost": "kjŏurosŭl čŏngnihada",
       "vyslov_hangul": "겨우로슬 정니하다",
       "cs": "uklidit zimní oblečení (při změně sezóny)",
       "en": "to organize (winter/summer) clothes",
@@ -147,6 +149,7 @@
       "priklad": "날씨{가} 따뜻해져서 겨울옷{을} 정리했어요.",
       "priklad_cs": "Oteplilo se, tak jsem uklidil zimní oblečení. (가 → 1. pád; 을 → 4. pád)",
       "mnemo": "Při 환절기 (střídání ročních období) se uklízí oblečení z minulé sezóny. 여름옷 = letní oblečení.",
+      "mnemo_zvuk": "„JOHNNY“: na jaře JOHNNY skládá zimní bundy do krabic a uklízí je na půdu.",
       "koreny": [
         "jeong-整",
         "ri-理"
@@ -167,7 +170,7 @@
       "id": "ko-topik3-0341",
       "tema": "domácnost",
       "slovo": "빨래방에 가다",
-      "vyslovnost": "ppallaebange gada",
+      "vyslovnost": "ppallebange kada",
       "cs": "jít do (samoobslužné) prádelny",
       "en": "to go to the laundry room (coin laundry)",
       "slovni_druh": "fraze",
@@ -175,6 +178,7 @@
       "priklad": "시험 기간{에는} 빨래방{에} 가서 빨래{를} 해요.",
       "priklad_cs": "Ve zkouškovém chodím prát do samoobslužné prádelny. (에는 → kdy + důraz; 에 → kam; 를 → 4. pád)",
       "mnemo": "빨래 prádlo + 房 místnost. Korejská „kultura 방“: PC방, 노래방, 찜질방, 빨래방.",
+      "mnemo_zvuk": "„PALE BANG“: v samoobslužné prádelně bouchne (BANG) pračka a celé prádlo je bledé (PALE).",
       "koreny": [
         "bang-房"
       ],
@@ -194,7 +198,7 @@
       "id": "ko-topik3-0342",
       "tema": "domácnost",
       "slovo": "애완동물을 돌보다",
-      "vyslovnost": "aewandongmureul dolboda",
+      "vyslovnost": "ewandongmurŭl tolboda",
       "vyslov_hangul": "애완동무를 돌보다",
       "cs": "starat se o domácí zvíře",
       "en": "to take care of pets",
@@ -203,6 +207,7 @@
       "priklad": "저{는} 매일 아침 애완동물{을} 돌봐요.",
       "priklad_cs": "Každé ráno se starám o domácí zvíře. (는 → téma; 을 → 4. pád)",
       "mnemo": "愛玩 milovat a hrát si + 動物 zvíře; 돌보다 = pečovat. Dnes častěji 반려동물.",
+      "mnemo_zvuk": "„IVAN, DONG, MULA“: IVAN pečuje o domácího mazlíčka, malou MULU se zvonečkem (DONG).",
       "koreny": [
         "ae-愛",
         "wan-玩",
@@ -228,7 +233,7 @@
       "id": "ko-topik3-0343",
       "tema": "domácnost",
       "slovo": "에어컨을 청소하다",
-      "vyslovnost": "eeokeoneul cheongsohada",
+      "vyslovnost": "eŏkchŏnŭl čchŏngsohada",
       "vyslov_hangul": "에어커늘 청소하다",
       "cs": "vyčistit klimatizaci",
       "en": "to clean the air conditioner",
@@ -237,6 +242,7 @@
       "priklad": "더 더워지기 전{에} 에어컨{을} 청소해야겠어요.",
       "priklad_cs": "Než bude větší horko, musím vyčistit klimatizaci. (에 → kdy; 을 → 4. pád)",
       "mnemo": "에어컨 (air con) + 淸掃 úklid.",
+      "mnemo_zvuk": "„AIR CON + CHUNK SOAP“: klimatizaci (AIR CON) drhneš obřím kusem mýdla (CHUNK SOAP).",
       "koreny": [
         "cheong-淸",
         "so-掃"
@@ -258,7 +264,7 @@
       "id": "ko-topik3-0344",
       "tema": "domácnost",
       "slovo": "욕실을 청소하다",
-      "vyslovnost": "yoksireul cheongsohada",
+      "vyslovnost": "jokssirŭl čchŏngsohada",
       "vyslov_hangul": "욕씨를 청소하다",
       "cs": "uklidit koupelnu",
       "en": "to clean the bathroom",
@@ -267,6 +273,7 @@
       "priklad": "주말{에} 욕실{을} 청소했어요.",
       "priklad_cs": "O víkendu jsem uklidil koupelnu. (에 → kdy; 을 → 4. pád)",
       "mnemo": "浴 koupat se + 室 místnost = koupelna.",
+      "mnemo_zvuk": "„YAK, SEAL“: ve vaně se vykoupali jak (YAK) a tuleň (SEAL), teď drhneš koupelnu.",
       "koreny": [
         "yok-浴",
         "sil-室",
@@ -289,7 +296,7 @@
       "id": "ko-topik3-0345",
       "tema": "domácnost",
       "slovo": "음식물 쓰레기를 버리다",
-      "vyslovnost": "eumsingmul sseuregireul beorida",
+      "vyslovnost": "ŭmsingmul ssŭregirŭl pŏrida",
       "vyslov_hangul": "음싱물 쓰레기를 버리다",
       "cs": "vynést bioodpad (zbytky jídla)",
       "en": "to take out food waste",
@@ -319,7 +326,7 @@
       "id": "ko-topik3-0346",
       "tema": "domácnost",
       "slovo": "이불을 교체하다",
-      "vyslovnost": "ibureul gyochehada",
+      "vyslovnost": "iburŭl kjočchehada",
       "vyslov_hangul": "이부를 교체하다",
       "cs": "vyměnit přikrývku (peřinu)",
       "en": "to change the bedding",
@@ -328,6 +335,7 @@
       "priklad": "날씨{가} 추워져서 두꺼운 이불{로} 교체했어요.",
       "priklad_cs": "Ochladilo se, tak jsem vyměnil peřinu za teplejší. (가 → 1. pád; 로 → za co)",
       "mnemo": "交 vyměnit + 替 nahradit. 이불 = peřina, přikrývka.",
+      "mnemo_zvuk": "„KOČCE“: přikrývku vyměníš i KOČCE, ta stará je celá od chlupů.",
       "koreny": [
         "gyo-交",
         "che-替"
@@ -348,7 +356,7 @@
       "id": "ko-topik3-0347",
       "tema": "domácnost",
       "slovo": "잔디를 깎다",
-      "vyslovnost": "jandireul kkakda",
+      "vyslovnost": "čandirŭl kkaktta",
       "vyslov_hangul": "잔디를 깍따",
       "cs": "posekat trávník",
       "en": "to mow the lawn",
@@ -372,7 +380,7 @@
       "id": "ko-topik3-0348",
       "tema": "domácnost",
       "slovo": "책을 정리하다",
-      "vyslovnost": "chaegeul jeongnihada",
+      "vyslovnost": "čchegŭl čŏngnihada",
       "vyslov_hangul": "채글 정니하다",
       "cs": "uspořádat knihy",
       "en": "to organize books",
@@ -381,6 +389,7 @@
       "priklad": "이사하고 나서 책{을} 정리했어요.",
       "priklad_cs": "Po stěhování jsem si uspořádal knihy. (을 → 4. pád)",
       "mnemo": "冊 kniha + 整理 uspořádat.",
+      "mnemo_zvuk": "„JOHNNY“: knihomol JOHNNY řadí všechny knihy v knihovně podle barev.",
       "koreny": [
         "chaek-冊",
         "jeong-整",
@@ -402,7 +411,7 @@
       "id": "ko-topik3-0349",
       "tema": "domácnost",
       "slovo": "화초에 물을 주다",
-      "vyslovnost": "hwachoe mureul juda",
+      "vyslovnost": "hwačchoe murŭl čuda",
       "vyslov_hangul": "화초에 무를 주다",
       "cs": "zalít květiny",
       "en": "to water plants",
@@ -431,7 +440,7 @@
       "id": "ko-topik3-0350",
       "tema": "domácnost",
       "slovo": "환기를 시키다",
-      "vyslovnost": "hwangireul sikida",
+      "vyslovnost": "hwangirŭl sikchida",
       "cs": "vyvětrat",
       "en": "to ventilate",
       "slovni_druh": "fraze",
@@ -439,6 +448,7 @@
       "priklad": "춥지만 하루{에} 한 번{은} 환기{를} 시켜요.",
       "priklad_cs": "I když je zima, jednou denně vyvětrám. (에 → za; 은 → důraz; 를 → 4. pád)",
       "mnemo": "換 vyměnit + 氣 vzduch = vyměnit vzduch.",
+      "mnemo_zvuk": "„FANGIRL“: po koncertu otevře FANGIRL okna dokořán, aby vyvětrala pokoj.",
       "koreny": [
         "hwan-換",
         "gi-氣"

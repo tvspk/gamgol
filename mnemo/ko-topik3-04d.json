@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 4 – textbook s. 44–46 (연습해요, 이야기해 봐요, 듣고 말해요) + přepisy poslechu + 어휘 색인",
   "karty": [
     {
       "id": "ko-topik3-0310",
       "tema": "společnost",
       "slovo": "남성",
-      "vyslovnost": "namseong",
+      "vyslovnost": "namsŏng",
       "cs": "muž (mužské pohlaví)",
       "en": "male",
       "slovni_druh": "podstatne_jmeno",
@@ -18,6 +18,7 @@
       "priklad": "요즘 집안일{을} 하는 남성들{이} 늘고 있어요.",
       "priklad_cs": "Přibývá mužů, kteří dělají domácí práce. (을 → 4. pád; 이 → 1. pád)",
       "mnemo": "男 muž + 性 pohlaví. Opak 여성.",
+      "mnemo_zvuk": "„NÁM SONG“: chlapský sbor zpívá jen NÁM, mužům, svůj SONG.",
       "koreny": [
         "nam-男",
         "seong-性"
@@ -33,7 +34,7 @@
       "id": "ko-topik3-0311",
       "tema": "společnost",
       "slovo": "여성가족부",
-      "vyslovnost": "yeoseonggajokbu",
+      "vyslovnost": "jŏsŏnggadžokppu",
       "vyslov_hangul": "여성가족뿌",
       "cs": "Ministerstvo pro rovnost žen a rodinu",
       "en": "Ministry of Gender Equality and Family",
@@ -60,7 +61,7 @@
       "id": "ko-topik3-0312",
       "tema": "společnost",
       "slovo": "대상",
-      "vyslovnost": "daesang",
+      "vyslovnost": "tesang",
       "cs": "cílová skupina, objekt",
       "en": "object",
       "slovni_druh": "podstatne_jmeno",
@@ -82,7 +83,7 @@
       "id": "ko-topik3-0313",
       "tema": "společnost",
       "slovo": "실시",
-      "vyslovnost": "silsi",
+      "vyslovnost": "silssi",
       "vyslov_hangul": "실씨",
       "cs": "provedení, uskutečnění",
       "en": "implementation (rejstřík: to enforce)",
@@ -91,6 +92,7 @@
       "priklad": "회사{에서} 직원 설문 조사{를} 실시했어요.",
       "priklad_cs": "Firma provedla dotazníkový průzkum mezi zaměstnanci. (에서 → kdo/kde; 를 → 4. pád)",
       "mnemo": "實 skutečnost + 施 provést = uvést do praxe.",
+      "mnemo_zvuk": "„CELSIUS“: pan CELSIUS provedl pokus s teploměrem a uvedl stupnici do praxe.",
       "koreny": [
         "sil-實",
         "si-施"
@@ -106,7 +108,7 @@
       "id": "ko-topik3-0314",
       "tema": "společnost",
       "slovo": "설문",
-      "vyslovnost": "seolmun",
+      "vyslovnost": "sŏlmun",
       "cs": "dotazník",
       "en": "survey",
       "slovni_druh": "podstatne_jmeno",
@@ -114,6 +116,7 @@
       "priklad": "설문 조사 결과{를} 발표했어요.",
       "priklad_cs": "Zveřejnili výsledky dotazníkového průzkumu. (를 → 4. pád)",
       "mnemo": "設 sestavit + 問 otázka = sestavené otázky. 설문 조사 = dotazníkové šetření.",
+      "mnemo_zvuk": "„SOLOMON“: moudrý král SOLOMON rozdá poddaným DOTAZNÍK, než rozsoudí jejich spor.",
       "koreny": [
         "seol-設",
         "mun-問"
@@ -129,7 +132,7 @@
       "id": "ko-topik3-0315",
       "tema": "společnost",
       "slovo": "응답",
-      "vyslovnost": "eungdap",
+      "vyslovnost": "ŭngdap",
       "cs": "odpověď (v průzkumu)",
       "en": "to respond",
       "slovni_druh": "podstatne_jmeno",
@@ -137,6 +140,7 @@
       "priklad": "남성{의} 60%{가} 아내{와} 함께 집안일{을} 한다고 응답했어요.",
       "priklad_cs": "60 % mužů odpovědělo, že dělají domácí práce spolu s manželkou. (의 → 2. pád; 가 → 1. pád; 와 → s + 7. pád; 을 → 4. pád)",
       "mnemo": "應 reagovat + 答 odpověď.",
+      "mnemo_zvuk": "„ÚNG, DÁ PALEC“: respondent v průzkumu místo odpovědi jen zabručí „úng“ a DÁ PALEC nahoru.",
       "koreny": [
         "eung-應",
         "dap-答"
@@ -152,7 +156,7 @@
       "id": "ko-topik3-0316",
       "tema": "společnost",
       "slovo": "기회",
-      "vyslovnost": "gihoe",
+      "vyslovnost": "kihwe",
       "cs": "příležitost",
       "en": "chance",
       "slovni_druh": "podstatne_jmeno",
@@ -160,6 +164,7 @@
       "priklad": "기회{가} 되면 집안일{을} 더 많이 하고 싶어요.",
       "priklad_cs": "Kdyby se naskytla příležitost, chtěl bych dělat víc domácích prací. (가 → 1. pád; 을 → 4. pád)",
       "mnemo": "機 příhodná chvíle + 會 setkání = setkání vhodných okolností.",
+      "mnemo_zvuk": "„KIWI“: na stole leží poslední KIWI, příležitost, rychle ho chňapni!",
       "koreny": [
         "gi-機",
         "hoe-會"
@@ -174,7 +179,7 @@
       "id": "ko-topik3-0317",
       "tema": "vztahy",
       "slovo": "거짓말쟁이",
-      "vyslovnost": "geojinmaljaengi",
+      "vyslovnost": "kŏdžinmaldžengi",
       "vyslov_hangul": "거진말쟁이",
       "cs": "lhář",
       "en": "liar",
@@ -196,7 +201,7 @@
       "id": "ko-topik3-0318",
       "tema": "svátky a zvyky",
       "slovo": "새해",
-      "vyslovnost": "saehae",
+      "vyslovnost": "sehe",
       "cs": "Nový rok",
       "en": "new year",
       "slovni_druh": "podstatne_jmeno",
@@ -215,7 +220,7 @@
       "id": "ko-topik3-0319",
       "tema": "vztahy",
       "slovo": "어른",
-      "vyslovnost": "eoreun",
+      "vyslovnost": "ŏrŭn",
       "cs": "dospělý; starší (osoba)",
       "en": "adult",
       "slovni_druh": "podstatne_jmeno",
@@ -234,7 +239,7 @@
       "id": "ko-topik3-0320",
       "tema": "vztahy",
       "slovo": "아랫사람",
-      "vyslovnost": "araetsaram",
+      "vyslovnost": "aressaram",
       "vyslov_hangul": "아래싸람",
       "cs": "mladší, podřízený (níže postavený)",
       "en": "one's junior, one's subordinate",
@@ -257,7 +262,7 @@
       "id": "ko-topik3-0321",
       "tema": "svátky a zvyky",
       "slovo": "덕담",
-      "vyslovnost": "deokdam",
+      "vyslovnost": "tŏkttam",
       "vyslov_hangul": "덕땀",
       "cs": "přání (k Novému roku), požehnání",
       "en": "words of blessing",
@@ -266,6 +271,7 @@
       "priklad": "할머니{께서} 손주들{에게} 덕담{을} 해 주셨어요.",
       "priklad_cs": "Babička popřála vnoučatům. (께서 → 1. pád, uctivě; 에게 → 3. pád; 을 → 4. pád)",
       "mnemo": "德 ctnost + 談 řeč = dobrá slova. Typicky 새해에는 더욱 건강해라.",
+      "mnemo_zvuk": "„TOK TAM“: babiččina novoroční přání plynou proudem (TOK) TAM k vnoučatům.",
       "koreny": [
         "deok-德",
         "dam-談"
@@ -281,7 +287,7 @@
       "id": "ko-topik3-0322",
       "tema": "život a změny",
       "slovo": "걸리다",
-      "vyslovnost": "geollida",
+      "vyslovnost": "kŏllida",
       "cs": "trvat (o čase)",
       "en": "to take (time)",
       "cs_upresneni": "trvat (o čase), ne „onemocnět“",
@@ -306,7 +312,7 @@
       "id": "ko-topik3-0323",
       "tema": "domácnost",
       "slovo": "세제",
-      "vyslovnost": "seje",
+      "vyslovnost": "sedže",
       "cs": "prací/mycí prostředek, saponát",
       "en": "detergent",
       "slovni_druh": "podstatne_jmeno",
@@ -328,7 +334,7 @@
       "id": "ko-topik3-0324",
       "tema": "domácnost",
       "slovo": "휴지",
-      "vyslovnost": "hyuji",
+      "vyslovnost": "hjudži",
       "cs": "toaletní papír; papírový kapesník",
       "en": "tissue, toilet paper (rejstřík: waste paper)",
       "slovni_druh": "podstatne_jmeno",
@@ -336,6 +342,7 @@
       "priklad": "휴지{가} 다 떨어져서 사러 가요.",
       "priklad_cs": "Došel toaletní papír, jdu ho koupit. (가 → 1. pád)",
       "mnemo": "休 odpočívat + 紙 papír = „papír, co už dosloužil“ (původně odpadní papír).",
+      "mnemo_zvuk": "„HUGE“: na záchodě visí obří (HUGE) role toaletního papíru.",
       "koreny": [
         "hyu-休",
         "ji-紙"
@@ -350,7 +357,7 @@
       "id": "ko-topik3-0325",
       "tema": "domácnost",
       "slovo": "두껍다",
-      "vyslovnost": "dukkeopda",
+      "vyslovnost": "tukkŏptta",
       "vyslov_hangul": "두껍따",
       "cs": "tlustý, silný (o věci)",
       "en": "to be thick",
@@ -375,7 +382,7 @@
       "id": "ko-topik3-0326",
       "tema": "pocity",
       "slovo": "안심이 되다",
-      "vyslovnost": "ansimi doeda",
+      "vyslovnost": "ansimi tweda",
       "vyslov_hangul": "안시미 되다",
       "cs": "uklidnit se, ulevit se",
       "en": "to feel relieved",
@@ -403,7 +410,7 @@
       "id": "ko-topik3-0327",
       "tema": "domácnost",
       "slovo": "공간",
-      "vyslovnost": "gonggan",
+      "vyslovnost": "konggan",
       "cs": "prostor",
       "en": "space",
       "slovni_druh": "podstatne_jmeno",
@@ -411,6 +418,7 @@
       "priklad": "페인트칠{을} 새로 하면 공간{에} 큰 변화{를} 줄 수 있어요.",
       "priklad_cs": "Nový nátěr může prostor výrazně proměnit. (을, 를 → 4. pád; 에 → 3. pád)",
       "mnemo": "空 prázdný + 間 mezi = prázdné místo mezi.",
+      "mnemo_zvuk": "„KONĚ, GANG“: obrovským prázdným prostorem haly se prohání GANG divokých KONÍ.",
       "koreny": [
         "gong-空",
         "gan-間"
@@ -433,6 +441,7 @@
       "priklad": "커튼{을} 화사한 색깔{로} 바꾸면 봄 분위기{가} 나요.",
       "priklad_cs": "Když vyměníš závěsy za veselou barvu, je tu hned jarní atmosféra. (을 → 4. pád; 로 → za co; 가 → 1. pád)",
       "mnemo": "華 nádherný + 奢 přepychový.",
+      "mnemo_zvuk": "„VÁZA HADA“: na stole svítí zářivě barevná VÁZA ve tvaru HADA.",
       "koreny": [
         "hwa-華",
         "sa-奢"
@@ -452,7 +461,7 @@
       "id": "ko-topik3-0329",
       "tema": "domácnost",
       "slovo": "걸다",
-      "vyslovnost": "geolda",
+      "vyslovnost": "kŏlda",
       "cs": "pověsit",
       "en": "to hang",
       "slovni_druh": "sloveso",
@@ -489,6 +498,7 @@
       "priklad": "작은 화분{을} 이용해서 집{을} 꾸며요.",
       "priklad_cs": "Zdobím byt malými květináči. (을 → 4. pád)",
       "mnemo": "花 květ + 盆 mísa.",
+      "mnemo_zvuk": "„HAVE A BUN“: z květináče místo kytky vyrostla houska (BUN).",
       "koreny": [
         "hwa-花",
         "bun-盆"
@@ -504,7 +514,7 @@
       "id": "ko-topik3-0331",
       "tema": "svátky a zvyky",
       "slovo": "맞다",
-      "vyslovnost": "matda",
+      "vyslovnost": "matta",
       "vyslov_hangul": "맏따",
       "cs": "přivítat (období, hosta)",
       "en": "to greet",
@@ -533,7 +543,7 @@
       "id": "ko-topik3-0332",
       "tema": "domácnost",
       "slovo": "장식",
-      "vyslovnost": "jangsik",
+      "vyslovnost": "čangsik",
       "cs": "dekorace, ozdoba",
       "en": "decoration",
       "slovni_druh": "podstatne_jmeno",
@@ -541,6 +551,7 @@
       "priklad": "설날{에} 현관 앞{에} 장식{을} 둬요.",
       "priklad_cs": "O lunárním Novém roce dáváme před vchod ozdobu. (에 → kdy, kde; 을 → 4. pád)",
       "mnemo": "裝 vybavit + 飾 zdobit.",
+      "mnemo_zvuk": "„JUNK CHIC“: ze starého harampádí (JUNK) vyrobíš ozdoby a byt je rázem CHIC.",
       "koreny": [
         "jang-裝",
         "sik-飾"
@@ -556,7 +567,7 @@
       "id": "ko-topik3-0333",
       "tema": "bydlení",
       "slovo": "현관",
-      "vyslovnost": "hyeongwan",
+      "vyslovnost": "hjŏngwan",
       "cs": "vstupní dveře, zádveří",
       "en": "front door",
       "slovni_druh": "podstatne_jmeno",
@@ -564,6 +575,7 @@
       "priklad": "현관{에서} 신발{을} 벗으세요.",
       "priklad_cs": "Boty si zujte u vchodu. (에서 → kde; 을 → 4. pád)",
       "mnemo": "玄 tajemný + 關 brána = brána do domu.",
+      "mnemo_zvuk": "„HYUN(DAI) VAN“: dodávka HYUNDAI couvne až ke vstupním dveřím a zablokuje vchod.",
       "koreny": [
         "hyeon-玄",
         "gwan-關"

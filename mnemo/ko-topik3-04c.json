@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 4 – textbook s. 41 a 43 (cvičení k gramatice) + 어휘 색인",
   "karty": [
     {
       "id": "ko-topik3-0284",
       "tema": "škola",
       "slovo": "과제",
-      "vyslovnost": "gwaje",
+      "vyslovnost": "kwadže",
       "cs": "úkol (školní), zadání",
       "en": "task",
       "slovni_druh": "podstatne_jmeno",
@@ -18,6 +18,7 @@
       "priklad": "과제{가} 많아서 주말{에도} 못 쉬어요.",
       "priklad_cs": "Mám hodně úkolů, takže ani o víkendu nemůžu odpočívat. (가 → 1. pád; 에도 → ani v)",
       "mnemo": "課 lekce, úloha + 題 téma.",
+      "mnemo_zvuk": "„KVÁ, DŽEM!“: žába dělá domácí úkol a celý sešit zamaže DŽEMEM.",
       "koreny": [
         "gwa-課",
         "je-題"
@@ -32,7 +33,7 @@
       "id": "ko-topik3-0285",
       "tema": "škola",
       "slovo": "발표",
-      "vyslovnost": "balpyo",
+      "vyslovnost": "palpchjo",
       "cs": "prezentace, přednes; oznámení",
       "en": "presentation",
       "slovni_druh": "podstatne_jmeno",
@@ -40,6 +41,7 @@
       "priklad": "다음 주 수업 시간{에} 발표해야 돼요.",
       "priklad_cs": "Příští týden musím mít v hodině prezentaci. (에 → kdy)",
       "mnemo": "發 vyslat + 表 ukázat = vystoupit a ukázat.",
+      "mnemo_zvuk": "„PULPIT“: při prezentaci se nervózně držíš řečnického PULPITU.",
       "koreny": [
         "bal-發",
         "pyo-表"
@@ -55,7 +57,7 @@
       "id": "ko-topik3-0286",
       "tema": "zdraví",
       "slovo": "기침",
-      "vyslovnost": "gichim",
+      "vyslovnost": "kičchim",
       "cs": "kašel",
       "en": "cough",
       "slovni_druh": "podstatne_jmeno",
@@ -74,7 +76,7 @@
       "id": "ko-topik3-0287",
       "tema": "zdraví",
       "slovo": "열",
-      "vyslovnost": "yeol",
+      "vyslovnost": "jŏl",
       "cs": "horečka; teplo",
       "en": "fever",
       "cs_upresneni": "horečka, ne číslo „deset“",
@@ -83,6 +85,7 @@
       "priklad": "열{이} 나서 병원{에} 갔어요.",
       "priklad_cs": "Měl jsem horečku, tak jsem šel k lékaři. (이 → 1. pád; 에 → kam)",
       "mnemo": "熱 horko. 열이 나다 = mít horečku. Stejně znějící 열 = deset (původní číslovka).",
+      "mnemo_zvuk": "„YELL“: s horečkou čtyřicet jen křičíš (YELL): „Je mi horko!“",
       "koreny": [
         "yeol-熱"
       ],
@@ -96,7 +99,7 @@
       "id": "ko-topik3-0288",
       "tema": "jídlo",
       "slovo": "반찬",
-      "vyslovnost": "banchan",
+      "vyslovnost": "pančchan",
       "cs": "přílohy (malé pokrmy k rýži)",
       "en": "side dish",
       "slovni_druh": "podstatne_jmeno",
@@ -104,6 +107,7 @@
       "priklad": "엄마{가} 반찬{을} 많이 만들어 주셨어요.",
       "priklad_cs": "Máma nám udělala spoustu příloh. (가 → 1. pád; 을 → 4. pád)",
       "mnemo": "飯 rýže, jídlo + 饌 pokrm = pokrmy k rýži.",
+      "mnemo_zvuk": "„PANČO“: mexický kuchař PANČO ti kolem misky rýže rozestaví deset misek příloh.",
       "koreny": [
         "ban-飯",
         "chan-饌"
@@ -118,7 +122,7 @@
       "id": "ko-topik3-0289",
       "tema": "domácnost",
       "slovo": "베개",
-      "vyslovnost": "begae",
+      "vyslovnost": "pege",
       "cs": "polštář",
       "en": "pillow",
       "slovni_druh": "podstatne_jmeno",
@@ -139,7 +143,7 @@
       "id": "ko-topik3-0290",
       "tema": "domácnost",
       "slovo": "수건",
-      "vyslovnost": "sugeon",
+      "vyslovnost": "sugŏn",
       "cs": "ručník",
       "en": "towel",
       "slovni_druh": "podstatne_jmeno",
@@ -161,7 +165,7 @@
       "id": "ko-topik3-0291",
       "tema": "jazyky",
       "slovo": "베트남어",
-      "vyslovnost": "beteunameo",
+      "vyslovnost": "petchŭnamŏ",
       "vyslov_hangul": "베트나머",
       "cs": "vietnamština",
       "en": "Vietnamese language",
@@ -184,7 +188,7 @@
       "id": "ko-topik3-0292",
       "tema": "jazyky",
       "slovo": "언어",
-      "vyslovnost": "eoneo",
+      "vyslovnost": "ŏnŏ",
       "vyslov_hangul": "어너",
       "cs": "jazyk (řeč)",
       "en": "language",
@@ -193,6 +197,7 @@
       "priklad": "리나 씨{는} 언어 공부{에} 소질{이} 있는 것 같아요.",
       "priklad_cs": "Zdá se, že Rina má na jazyky talent. (는 → téma; 에 → na; 이 → 1. pád)",
       "mnemo": "言 slovo + 語 řeč. Srovnej 외국어 (cizí jazyk).",
+      "mnemo_zvuk": "„ONO“: batole se učí cizí jazyk a na všechno ukazuje: „ONO!“",
       "koreny": [
         "eon-言",
         "eo-語"
@@ -208,7 +213,7 @@
       "id": "ko-topik3-0293",
       "tema": "škola",
       "slovo": "소질",
-      "vyslovnost": "sojil",
+      "vyslovnost": "sodžil",
       "cs": "nadání, talent (vrozený)",
       "en": "talent",
       "slovni_druh": "podstatne_jmeno",
@@ -216,6 +221,7 @@
       "priklad": "그 아이{는} 음악{에} 소질{이} 있어요.",
       "priklad_cs": "To dítě má hudební nadání. (는 → téma; 에 → na; 이 → 1. pád)",
       "mnemo": "素 základ + 質 povaha = vrozená povaha. ~에 소질이 있다 = mít talent na.",
+      "mnemo_zvuk": "„SO, JILL!“: porotce v talentové soutěži: „So, JILL, ukaž nám svůj talent!“",
       "koreny": [
         "so-素",
         "jil-質"
@@ -230,7 +236,7 @@
       "id": "ko-topik3-0294",
       "tema": "škola",
       "slovo": "부족하다",
-      "vyslovnost": "bujokada",
+      "vyslovnost": "pudžokchada",
       "vyslov_hangul": "부조카다",
       "cs": "nedostatečný; chybí (čeho)",
       "en": "to be insufficient",
@@ -239,6 +245,7 @@
       "priklad": "한국어{는} 아직 많이 부족해요.",
       "priklad_cs": "V korejštině mám ještě hodně mezer. (는 → téma)",
       "mnemo": "不 ne + 足 dost = nedostatek.",
+      "mnemo_zvuk": "„PŮJČKA DÁ“: peněz je nedostatek, na nájem chybí, a to zachrání jen PŮJČKA, kterou ti banka DÁ.",
       "koreny": [
         "bu-不",
         "jok-足"
@@ -258,7 +265,7 @@
       "id": "ko-topik3-0295",
       "tema": "pocity",
       "slovo": "정신",
-      "vyslovnost": "jeongsin",
+      "vyslovnost": "čŏngsin",
       "cs": "mysl, duch",
       "en": "mind",
       "slovni_druh": "podstatne_jmeno",
@@ -266,6 +273,7 @@
       "priklad": "요즘 일{이} 많아서 정신{이} 없어요.",
       "priklad_cs": "Teď je hodně práce a nevím, kde mi hlava stojí. (이 → 1. pád)",
       "mnemo": "精 esence + 神 duch. 정신이 없다 = nestíhat, mít zmatek v hlavě.",
+      "mnemo_zvuk": "„JUNG SIN“: psycholog JUNG se ti hrabe v mysli a hledá tam hřích (SIN).",
       "koreny": [
         "jeong-精",
         "sin-神"
@@ -291,6 +299,7 @@
       "priklad": "감기{가} 심해서 회사{에} 못 갔어요.",
       "priklad_cs": "Měl jsem silné nachlazení, tak jsem nemohl do práce. (가 → 1. pád; 에 → kam)",
       "mnemo": "甚 krajně + 하다.",
+      "mnemo_zvuk": "„SIM HADA“: had spolkl tvou SIM kartu, vážný problém.",
       "koreny": [
         "sim-甚"
       ],
@@ -309,7 +318,7 @@
       "id": "ko-topik3-0297",
       "tema": "nakupování",
       "slovo": "브랜드",
-      "vyslovnost": "beuraendeu",
+      "vyslovnost": "pŭrendŭ",
       "cs": "značka",
       "en": "brand",
       "slovni_druh": "podstatne_jmeno",
@@ -328,7 +337,7 @@
       "id": "ko-topik3-0298",
       "tema": "peníze",
       "slovo": "상금",
-      "vyslovnost": "sanggeum",
+      "vyslovnost": "sanggŭm",
       "cs": "peněžitá odměna, výhra",
       "en": "cash prize",
       "slovni_druh": "podstatne_jmeno",
@@ -351,7 +360,7 @@
       "id": "ko-topik3-0299",
       "tema": "peníze",
       "slovo": "상품",
-      "vyslovnost": "sangpum",
+      "vyslovnost": "sangpchum",
       "cs": "věcná cena (výhra)",
       "en": "prize",
       "cs_upresneni": "věcná cena (賞品), ne „zboží“",
@@ -360,6 +369,7 @@
       "priklad": "퀴즈{를} 맞히면 상품{을} 줘요.",
       "priklad_cs": "Když uhodneš kvíz, dostaneš cenu. (를, 을 → 4. pád)",
       "mnemo": "賞 cena + 品 věc. Stejně znějící 상품 (商品) = zboží.",
+      "mnemo_zvuk": "„SHAMPOO“: v soutěži vyhraješ jako věcnou cenu obří ŠAMPON.",
       "koreny": [
         "sang-賞",
         "pum-品"
@@ -375,7 +385,7 @@
       "id": "ko-topik3-0300",
       "tema": "nakupování",
       "slovo": "쿠폰",
-      "vyslovnost": "kupon",
+      "vyslovnost": "kchupchon",
       "cs": "kupon, slevový poukaz",
       "en": "coupon",
       "slovni_druh": "podstatne_jmeno",
@@ -404,6 +414,7 @@
       "priklad": "회원{은} 10% 할인{을} 받을 수 있어요.",
       "priklad_cs": "Členové mohou dostat slevu 10 %. (은 → téma; 을 → 4. pád)",
       "mnemo": "割 odříznout + 引 táhnout = ukrojit z ceny.",
+      "mnemo_zvuk": "„HERYNEK“: dneska jsou HERYNKY ve SLEVĚ, půl ceny.",
       "koreny": [
         "hal-割",
         "in-引"
@@ -420,7 +431,7 @@
       "id": "ko-topik3-0302",
       "tema": "nakupování",
       "slovo": "회원",
-      "vyslovnost": "hoewon",
+      "vyslovnost": "hwewŏn",
       "cs": "člen",
       "en": "member",
       "slovni_druh": "podstatne_jmeno",
@@ -428,6 +439,7 @@
       "priklad": "헬스클럽 회원{이} 되면 할인{을} 받아요.",
       "priklad_cs": "Když se staneš členem posilovny, dostaneš slevu. (이 → 7. pád u 되다; 을 → 4. pád)",
       "mnemo": "會 spolek + 員 člen.",
+      "mnemo_zvuk": "„HÉ, VONÍŠ!“: vyhazovač pouští do klubu jen členy, kteří voní.",
       "koreny": [
         "hoe-會",
         "won-員"
@@ -442,7 +454,7 @@
       "id": "ko-topik3-0303",
       "tema": "vztahy",
       "slovo": "친척",
-      "vyslovnost": "chincheok",
+      "vyslovnost": "čchinčchŏk",
       "cs": "příbuzný",
       "en": "relative",
       "slovni_druh": "podstatne_jmeno",
@@ -450,6 +462,7 @@
       "priklad": "아버지 생신 잔치{에} 친척들{이} 많이 왔어요.",
       "priklad_cs": "Na oslavu otcových narozenin přišlo hodně příbuzných. (에 → na; 이 → 1. pád)",
       "mnemo": "親 blízký + 戚 příbuzný.",
+      "mnemo_zvuk": "„CHIN, CHUCK!“: všichni příbuzní mají stejnou obří bradu (CHIN) jako strejda CHUCK.",
       "koreny": [
         "chin-親",
         "cheok-戚"
@@ -465,7 +478,7 @@
       "id": "ko-topik3-0304",
       "tema": "vztahy",
       "slovo": "잔치",
-      "vyslovnost": "janchi",
+      "vyslovnost": "čančchi",
       "cs": "hostina, oslava",
       "en": "party",
       "slovni_druh": "podstatne_jmeno",
@@ -487,7 +500,7 @@
       "alternativy": [
         "환갑"
       ],
-      "vyslovnost": "hoegap",
+      "vyslovnost": "hwegap",
       "cs": "šedesáté narozeniny",
       "en": "one's 60th birthday",
       "slovni_druh": "podstatne_jmeno",
@@ -495,6 +508,7 @@
       "priklad": "부모님 회갑{에} 가족 여행{을} 갔어요.",
       "priklad_cs": "K šedesátinám rodičů jsme jeli na rodinný výlet. (에 → ke; 을 → 4. pád)",
       "mnemo": "回 vrátit se + 甲 první cyklický znak = šedesátiletý cyklus se vrátil na začátek. Častěji 환갑.",
+      "mnemo_zvuk": "„HÉ, KAPR!“: k dědovým šedesátinám přinese babička obřího KAPRA se šedesáti svíčkami.",
       "koreny": [
         "hoe-回",
         "gap-甲"
@@ -510,7 +524,7 @@
       "id": "ko-topik3-0306",
       "tema": "práce",
       "slovo": "취업",
-      "vyslovnost": "chwieop",
+      "vyslovnost": "čchwiŏp",
       "cs": "získání zaměstnání",
       "en": "find employment",
       "slovni_druh": "podstatne_jmeno",
@@ -534,7 +548,7 @@
       "id": "ko-topik3-0307",
       "tema": "práce",
       "slovo": "프로젝트",
-      "vyslovnost": "peurojekteu",
+      "vyslovnost": "pchŭrodžektchŭ",
       "cs": "projekt",
       "en": "project",
       "slovni_druh": "podstatne_jmeno",
@@ -553,7 +567,7 @@
       "id": "ko-topik3-0308",
       "tema": "škola",
       "slovo": "규칙",
-      "vyslovnost": "gyuchik",
+      "vyslovnost": "kjučchik",
       "cs": "pravidlo",
       "en": "rule",
       "slovni_druh": "podstatne_jmeno",
@@ -561,6 +575,7 @@
       "priklad": "교실{에서는} 한국어{로만} 말하자는 규칙{을} 만들었어요.",
       "priklad_cs": "Udělali jsme pravidlo, že ve třídě budeme mluvit jen korejsky. (에서는 → kde + důraz; 로만 → jen čím, 7. pád; 을 → 4. pád)",
       "mnemo": "規 měřítko + 則 zákon.",
+      "mnemo_zvuk": "„KLÍČEK“: podle školního PRAVIDLA musí mít každý žák vlastní KLÍČEK od skříňky.",
       "koreny": [
         "gyu-規",
         "chik-則"
@@ -575,7 +590,7 @@
       "id": "ko-topik3-0309",
       "tema": "peníze",
       "slovo": "값",
-      "vyslovnost": "gap",
+      "vyslovnost": "kap",
       "vyslov_hangul": "갑",
       "cs": "cena",
       "en": "price",
