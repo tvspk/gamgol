@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 2,
   "zdroj": "Sejong Korean 3, kap. 10 – textbook s. 94–96 (Part 2 어휘 + -을/ㄹ 뻔하다, 연습해요), workbook 3-2 s. 30 + 어휘 색인 textbooku",
   "karty": [
     {
       "id": "ko-topik3-0716",
       "tema": "pocity",
       "slovo": "실수",
-      "vyslovnost": "silsu",
+      "vyslovnost": "silssu",
       "vyslov_hangul": "실쑤",
       "cs": "chyba, omyl, přehmat",
       "en": "mistake",
@@ -19,6 +19,7 @@
       "priklad": "한국어{를} 배우면서 실수{를} 많이 했어요.",
       "priklad_cs": "Když jsem se učil korejsky, udělal jsem spoustu chyb. (를 → 4. pád)",
       "mnemo": "失 ztratit + 手 ruka = ruka ti ujela. 실수로 = omylem.",
+      "mnemo_zvuk": "„SILLY SUE“: popletená Sue zase udělala chybu.",
       "koreny": [
         "sil-失",
         "su-手"
@@ -60,7 +61,7 @@
       "id": "ko-topik3-0718",
       "tema": "pocity",
       "slovo": "당황하다",
-      "vyslovnost": "danghwanghada",
+      "vyslovnost": "tanghwanghada",
       "cs": "být zaskočený, nevědět si rady",
       "en": "to be embarrassed, to be flustered",
       "slovni_druh": "sloveso",
@@ -68,6 +69,7 @@
       "priklad": "식당{에서} 팁{을} 내야 해서 좀 당황했어요.",
       "priklad_cs": "V restauraci jsem musel dát spropitné, tak jsem byl trochu zaskočený. (에서 → kde; 을 → 4. pád)",
       "mnemo": "唐 + 慌 zmatek, spěch. Pozor na zrcadlové 황당하다 (absurdní)!",
+      "mnemo_zvuk": "„TANGO? WHAT?“: vyzvali tě k tangu a ty zaskočeně nevíš, kam s nohama.",
       "koreny": [
         "dang-唐",
         "hwang-慌"
@@ -96,6 +98,7 @@
       "priklad": "영화 내용{이} 너무 황당하네요.",
       "priklad_cs": "Děj filmu je úplně absurdní. (이 → 1. pád)",
       "mnemo": "荒 pustý, divoký + 唐 přehnaný. Zrcadlo k 당황하다: z 황당한 일 je člověk 당황.",
+      "mnemo_zvuk": "„WRONG, DANG!“: ve filmu je všechno obráceně a špatně, naprostý nesmysl.",
       "koreny": [
         "hwang-荒",
         "dang-唐"
@@ -116,7 +119,7 @@
       "id": "ko-topik3-0720",
       "tema": "pocity",
       "slovo": "창피하다",
-      "vyslovnost": "changpihada",
+      "vyslovnost": "čchangpchihada",
       "cs": "stydět se, být ztrapněný (před lidmi)",
       "en": "to be embarrassed, ashamed",
       "slovni_druh": "pridavne_jmeno",
@@ -124,6 +127,7 @@
       "priklad": "슬리퍼{를} 신고 회사{에} 가서 너무 창피했어요.",
       "priklad_cs": "Šel jsem do práce v pantoflích a bylo mi to strašně trapné. (를 → 4. pád; 에 → kam)",
       "mnemo": "„ČAN-PI“ – trapně stojíš na jedné noze jako ČÁP. 창피를 당하다 = ztrapnit se.",
+      "mnemo_zvuk": "„ČÁP PÍ(chá)“: čáp tě před celou třídou píchne zobákem do zadku, hrozná ostuda.",
       "koreny": [
         "chang-猖",
         "pi-披"
@@ -152,6 +156,7 @@
       "priklad": "모두 제 대답{을} 듣고 웃어서 정말 민망했어요.",
       "priklad_cs": "Všichni se mé odpovědi smáli, bylo mi to opravdu trapné. (을 → 4. pád)",
       "mnemo": "憫 soucit + 惘 zmatek: trapnost, kterou cítíš i za druhého.",
+      "mnemo_zvuk": "„MINI MANGA“: učitel před třídou nahlas čte tvou tajnou mini mangu, trapné pro všechny.",
       "koreny": [
         "min-憫",
         "mang-惘"
@@ -172,7 +177,7 @@
       "id": "ko-topik3-0722",
       "tema": "pocity",
       "slovo": "어색하다",
-      "vyslovnost": "eosaekada",
+      "vyslovnost": "ŏsekchada",
       "vyslov_hangul": "어새카다",
       "cs": "rozpačitý, toporný, nezvyklý",
       "en": "to feel awkward",
@@ -181,6 +186,7 @@
       "priklad": "처음{에는} 고개{를} 숙이면서 인사하는 것{이} 어색했어요.",
       "priklad_cs": "Zpočátku mi zdravení úklonou připadalo nezvyklé. (에는 → kdy + důraz; 를 → 4. pád; 이 → 1. pád)",
       "mnemo": "語 řeč + 塞 ucpat = řeč se zadrhne. 어색한 분위기 = trapná atmosféra.",
+      "mnemo_zvuk": "„Ó, SEKÁ!“: na plese tančí tak toporně, jako by sekal dříví, a všichni jsou v rozpacích.",
       "koreny": [
         "eo-語",
         "saek-塞"
@@ -200,7 +206,7 @@
       "id": "ko-topik3-0723",
       "tema": "pocity",
       "slovo": "웃음이 나다",
-      "vyslovnost": "useumi nada",
+      "vyslovnost": "usŭmi nada",
       "vyslov_hangul": "우스미 나다",
       "cs": "musím se smát, popadne mě smích",
       "en": "to burst into laughter",
@@ -252,7 +258,7 @@
       "id": "ko-topik3-0725",
       "tema": "pocity",
       "slovo": "얼굴이 빨개지다",
-      "vyslovnost": "eolguri ppalgaejida",
+      "vyslovnost": "ŏlguri ppalgedžida",
       "vyslov_hangul": "얼구리 빨개지다",
       "cs": "zčervenat, začervenat se",
       "en": "to blush",
@@ -280,7 +286,7 @@
       "id": "ko-topik3-0726",
       "tema": "gramatika",
       "slovo": "-을/ㄹ 뻔하다",
-      "vyslovnost": "-eul/-l ppeonhada",
+      "vyslovnost": "-ŭl/-l ppŏnhada",
       "cs": "málem, skoro (stalo by se, ale nestalo)",
       "en": "to almost happen (but it did not)",
       "slovni_druh": "ostatni",
@@ -298,7 +304,7 @@
       "id": "ko-topik3-0727",
       "tema": "pocity",
       "slovo": "다행히",
-      "vyslovnost": "dahaenghi",
+      "vyslovnost": "tahenghi",
       "cs": "naštěstí",
       "en": "fortunately",
       "slovni_druh": "ostatni",
@@ -306,6 +312,7 @@
       "priklad": "다행히 제시간{에} 왔네요.",
       "priklad_cs": "Naštěstí jste přišel včas. (에 → kdy)",
       "mnemo": "多 mnoho + 幸 štěstí. 다행이다 = to je štěstí, ještě že.",
+      "mnemo_zvuk": "„TAHEJ!“: naštěstí ti kamarád hodí lano a vytáhne tě z jámy.",
       "koreny": [
         "da-多",
         "haeng-幸"
@@ -323,7 +330,7 @@
       "id": "ko-topik3-0728",
       "tema": "nehody",
       "slovo": "쏟다",
-      "vyslovnost": "ssotda",
+      "vyslovnost": "ssotta",
       "vyslov_hangul": "쏟따",
       "cs": "rozlít, vysypat",
       "en": "to spill",
@@ -378,7 +385,7 @@
       "id": "ko-topik3-0730",
       "tema": "doprava",
       "slovo": "퇴근길",
-      "vyslovnost": "toegeungil",
+      "vyslovnost": "tchwegŭnkkil",
       "vyslov_hangul": "퇴근낄",
       "cs": "cesta z práce",
       "en": "the way home from work",
@@ -405,7 +412,7 @@
       "id": "ko-topik3-0731",
       "tema": "čas",
       "slovo": "제시간",
-      "vyslovnost": "jesigan",
+      "vyslovnost": "česigan",
       "cs": "správný čas (včas)",
       "en": "appropriate time, on time",
       "slovni_druh": "podstatne_jmeno",
@@ -413,6 +420,7 @@
       "priklad": "버스{가} 늦게 와서 제시간{에} 도착하지 못했어요.",
       "priklad_cs": "Autobus přijel pozdě, tak jsem nedorazil včas. (가 → 1. pád; 에 → kdy)",
       "mnemo": "제 (náležitý, svůj) + 時間 čas. 제시간에 = včas, 제때 = ve správnou chvíli.",
+      "mnemo_zvuk": "„JESSIE, GO ON!“: trenér žene Jessie k cíli, ať doběhne včas.",
       "koreny": [
         "si-時",
         "gan-間"
@@ -427,7 +435,7 @@
       "id": "ko-topik3-0732",
       "tema": "nehody",
       "slovo": "깨우다",
-      "vyslovnost": "kkaeuda",
+      "vyslovnost": "kkeuda",
       "cs": "vzbudit (koho)",
       "en": "to wake (someone) up",
       "slovni_druh": "sloveso",
@@ -453,7 +461,7 @@
       "id": "ko-topik3-0733",
       "tema": "nehody",
       "slovo": "소방차",
-      "vyslovnost": "sobangcha",
+      "vyslovnost": "sobangčcha",
       "cs": "hasičské auto",
       "en": "fire truck",
       "slovni_druh": "podstatne_jmeno",
@@ -461,6 +469,7 @@
       "priklad": "소방차{가} 늦게 왔으면 불{이} 더 크게 날 뻔했어요.",
       "priklad_cs": "Kdyby hasiči přijeli pozdě, oheň by se málem víc rozhořel. (가, 이 → 1. pád)",
       "mnemo": "消 uhasit + 防 bránit + 車 vůz. 소방관 = hasič, 소방서 = hasičská stanice.",
+      "mnemo_zvuk": "„SO, BANG!“: v kuchyni bouchlo a už houká hasičské auto.",
       "koreny": [
         "so-消",
         "bang-防",
@@ -476,7 +485,7 @@
       "id": "ko-topik3-0734",
       "tema": "nehody",
       "slovo": "불합격",
-      "vyslovnost": "bulhapgyeok",
+      "vyslovnost": "pulhapkkjŏk",
       "vyslov_hangul": "불합껵",
       "cs": "neúspěch u zkoušky, nepřijetí",
       "en": "failure (to fail an exam)",
