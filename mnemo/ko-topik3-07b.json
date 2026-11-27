@@ -3,7 +3,7 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 3,
   "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 7 본선에서 상을 탈 수 있었으면 좋겠어요 – textbook s. 66–67 (Part 2 어휘, -기는 하다) + 어휘 색인; workbook 3-1 s. 70",
   "karty": [
     {
@@ -18,6 +18,7 @@
       "priklad": "대회{에} 나간다고 생각하니까 너무 신나요.",
       "priklad_cs": "Když si představím, že jdu do soutěže, mám hroznou radost. (에 → kam)",
       "mnemo": "신 nadšení + 나다 vzniknout = nadšení se zvedne. 신 tu není 神 (bůh), je to původní slovo.",
+      "mnemo_zvuk": "„SYN NADskakuje“: syn nadšeně poskakuje u stromečku.",
       "extra": {
         "typ": "puvodni",
         "tvary": [
@@ -33,7 +34,7 @@
       "id": "ko-topik3-0516",
       "tema": "pocity",
       "slovo": "설레다",
-      "vyslovnost": "seolleda",
+      "vyslovnost": "sŏlleda",
       "cs": "mít radostné vzrušení, chvět se očekáváním",
       "en": "to be fluttered",
       "slovni_druh": "sloveso",
@@ -60,7 +61,7 @@
       "alternativy": [
         "긴장하다"
       ],
-      "vyslovnost": "ginjangdoeda",
+      "vyslovnost": "kindžangdweda",
       "cs": "být nervózní, mít trému",
       "en": "to be tensed",
       "slovni_druh": "sloveso",
@@ -68,6 +69,7 @@
       "priklad": "발표회{가} 처음이라 긴장됐어요.",
       "priklad_cs": "Bylo to moje první vystoupení, tak jsem měl trému. (가 → 1. pád)",
       "mnemo": "緊 napjatý + 張 natáhnout = napnutý jako struna. 긴장하다 = znervóznět, 긴장되다 = být nervózní.",
+      "mnemo_zvuk": "„KINDŽÁL“: v zákulisí tě píchá tréma, jako by ti někdo mířil kindžálem na záda.",
       "koreny": [
         "gin-緊",
         "jang-張"
@@ -91,7 +93,7 @@
       "id": "ko-topik3-0518",
       "tema": "pocity",
       "slovo": "떨리다",
-      "vyslovnost": "tteollida",
+      "vyslovnost": "ttŏllida",
       "cs": "třást se (nervozitou, zimou)",
       "en": "to shake",
       "slovni_druh": "sloveso",
@@ -121,7 +123,7 @@
       "alternativy": [
         "걱정하다"
       ],
-      "vyslovnost": "geokjeongdoeda",
+      "vyslovnost": "kŏkččŏngdweda",
       "vyslov_hangul": "걱쩡되다",
       "cs": "mít obavy, dělat si starosti",
       "en": "to be worried",
@@ -149,7 +151,7 @@
       "id": "ko-topik3-0520",
       "tema": "pocity",
       "slovo": "기대되다",
-      "vyslovnost": "gidaedoeda",
+      "vyslovnost": "kidedweda",
       "cs": "těšit se (na co), mít očekávání",
       "en": "to be expected",
       "slovni_druh": "sloveso",
@@ -157,6 +159,7 @@
       "priklad": "다음 주 대회{가} 정말 기대돼요.",
       "priklad_cs": "Na soutěž příští týden se moc těším. (가 → 1. pád)",
       "mnemo": "期 období + 待 čekat = čekat na tu chvíli. 기대 = očekávání.",
+      "mnemo_zvuk": "„KDE DĚDA?“: děti se nemůžou dočkat, až přijede děda s dárky.",
       "koreny": [
         "gi-期",
         "dae-待"
@@ -179,7 +182,7 @@
       "id": "ko-topik3-0521",
       "tema": "pocity",
       "slovo": "불안하다",
-      "vyslovnost": "buranhada",
+      "vyslovnost": "puranhada",
       "vyslov_hangul": "부란하다",
       "cs": "neklidný, úzkostný",
       "en": "to be anxious, to be nervous",
@@ -188,6 +191,7 @@
       "priklad": "무대{에서} 실수할까 봐 불안했어요.",
       "priklad_cs": "Měl jsem strach, abych na pódiu neudělal chybu. (에서 → kde)",
       "mnemo": "不 ne + 安 klid = neklid. Opak: 안심이 되다.",
+      "mnemo_zvuk": "„PO RÁNU HADA“: po ránu najdeš v posteli hada a jsi celý den neklidný.",
       "koreny": [
         "bul-不",
         "an-安"
@@ -208,7 +212,7 @@
       "id": "ko-topik3-0522",
       "tema": "pocity",
       "slovo": "두근거리다",
-      "vyslovnost": "dugeungeorida",
+      "vyslovnost": "tugŭngŏrida",
       "cs": "bušit (o srdci)",
       "en": "to be palpitated",
       "slovni_druh": "sloveso",
@@ -234,7 +238,7 @@
       "id": "ko-topik3-0523",
       "tema": "pocity",
       "slovo": "뿌듯하다",
-      "vyslovnost": "ppudeutada",
+      "vyslovnost": "ppudŭtchada",
       "vyslov_hangul": "뿌드타다",
       "cs": "hřát u srdce (pocit hrdosti a naplnění)",
       "en": "to be full (of pride)",
@@ -262,7 +266,7 @@
       "alternativy": [
         "후회하다"
       ],
-      "vyslovnost": "huhoedoeda",
+      "vyslovnost": "huhwedweda",
       "cs": "litovat (čeho)",
       "en": "to be regret",
       "slovni_druh": "sloveso",
@@ -270,6 +274,7 @@
       "priklad": "연습{을} 많이 안 한 것{이} 정말 후회돼요.",
       "priklad_cs": "Opravdu lituju, že jsem moc netrénoval. (을 → 4. pád; 이 → 1. pád)",
       "mnemo": "後 potom + 悔 litovat = lítost, která přijde až potom.",
+      "mnemo_zvuk": "„HUHU, VĚDĚL jsem to!“: naříkáš a lituješ, že jsi neposlechl.",
       "koreny": [
         "hu-後",
         "hoe-悔"
@@ -292,7 +297,7 @@
       "id": "ko-topik3-0525",
       "tema": "pocity",
       "slovo": "부끄럽다",
-      "vyslovnost": "bukkeureopda",
+      "vyslovnost": "pukkŭrŏptta",
       "vyslov_hangul": "부끄럽따",
       "cs": "stydět se, být v rozpacích",
       "en": "to be ashamed",
@@ -325,6 +330,7 @@
       "priklad": "예선{에서} 떨어져서 많이 실망했어요.",
       "priklad_cs": "Vypadl jsem v předkole, tak jsem byl hodně zklamaný. (에서 → v)",
       "mnemo": "失 ztratit + 望 naděje = ztratit naději.",
+      "mnemo_zvuk": "„SEAL, MANGO?“: tuleň čekal mango, dostal shnilou rybu – zklamání.",
       "koreny": [
         "sil-失",
         "mang-望"
@@ -340,7 +346,7 @@
       "id": "ko-topik3-0527",
       "tema": "pocity",
       "slovo": "보람",
-      "vyslovnost": "boram",
+      "vyslovnost": "poram",
       "cs": "smysl, uspokojení (že to stálo za to)",
       "en": "worth (보람을 느끼다 = to be fruitful)",
       "slovni_druh": "podstatne_jmeno",
@@ -361,7 +367,7 @@
       "id": "ko-topik3-0528",
       "tema": "pocity",
       "slovo": "자신감",
-      "vyslovnost": "jasingam",
+      "vyslovnost": "časingam",
       "cs": "sebedůvěra",
       "en": "confidence",
       "slovni_druh": "podstatne_jmeno",
@@ -369,6 +375,7 @@
       "priklad": "예선{을} 통과하고 나니까 자신감{이} 좀 생겼어요.",
       "priklad_cs": "Když jsem prošel předkolem, trochu jsem nabyl sebedůvěry. (을 → 4. pád; 이 → 1. pád)",
       "mnemo": "自 sám + 信 věřit + 感 pocit = pocit, že věříš sám sobě. 자신감이 생기다 = nabýt sebedůvěry.",
+      "mnemo_zvuk": "„CHASING GAME“: lovec stopuje zvěř s naprostou sebedůvěrou – ví, že ji dostane.",
       "koreny": [
         "ja-自",
         "sin-信",
@@ -388,7 +395,7 @@
       "id": "ko-topik3-0529",
       "tema": "soutěže a akce",
       "slovo": "송년",
-      "vyslovnost": "songnyeon",
+      "vyslovnost": "songnjŏn",
       "cs": "rozloučení se starým rokem",
       "en": "year-end",
       "slovni_druh": "podstatne_jmeno",
@@ -396,6 +403,7 @@
       "priklad": "회사{에서} 송년 발표회{를} 했어요.",
       "priklad_cs": "Ve firmě jsme měli vystoupení na rozloučenou s rokem. (에서 → kde; 를 → 4. pád)",
       "mnemo": "送 vyprovodit + 年 rok = vyprovodit starý rok. 송년회 = večírek na konci roku.",
+      "mnemo_zvuk": "„SONG NEON“: pod neonem se zpívá poslední song a starý rok odchází.",
       "koreny": [
         "song-送",
         "nyeon-年"
@@ -414,7 +422,7 @@
       "id": "ko-topik3-0530",
       "tema": "soutěže a akce",
       "slovo": "발표회",
-      "vyslovnost": "balpyohoe",
+      "vyslovnost": "palpchjohwe",
       "cs": "vystoupení, přehlídka, konference",
       "en": "recital, performance, conference, presentation",
       "slovni_druh": "podstatne_jmeno",
@@ -422,6 +430,7 @@
       "priklad": "연말{에} 피아노 발표회{가} 있어요.",
       "priklad_cs": "Na konci roku mám klavírní vystoupení. (에 → kdy; 가 → 1. pád)",
       "mnemo": "發表 prezentace + 會 setkání = akce, kde se něco předvádí.",
+      "mnemo_zvuk": "„PÁL PO HVĚZDĚ“: reflektor pálí po hvězdě, která právě vystupuje.",
       "koreny": [
         "bal-發",
         "pyo-表",
@@ -438,7 +447,7 @@
       "id": "ko-topik3-0531",
       "tema": "gramatika",
       "slovo": "-기는 하다",
-      "vyslovnost": "-gineun hada",
+      "vyslovnost": "-kinŭn hada",
       "cs": "sice ano, (ale)… – částečné přitakání",
       "en": "used to partially acknowledge the words of the other party",
       "slovni_druh": "ostatni",
@@ -456,7 +465,7 @@
       "id": "ko-topik3-0532",
       "tema": "média",
       "slovo": "대사",
-      "vyslovnost": "daesa",
+      "vyslovnost": "tesa",
       "cs": "replika, text role",
       "en": "lines",
       "cs_upresneni": "replika (ve filmu, hře), ne „velvyslanec“",
@@ -465,6 +474,7 @@
       "priklad": "대사{가} 어렵기는 하지만 자막{이} 있어서 이해하는 데 문제{가} 없어요.",
       "priklad_cs": "Repliky jsou sice těžké, ale jsou tam titulky, takže porozumět není problém. (가, 이 → 1. pád)",
       "mnemo": "臺 jeviště + 詞 slova = slova na jevišti. Stejně znějící 대사 (大使) = velvyslanec.",
+      "mnemo_zvuk": "„TESA“: herec má repliky přilepené izolepou Tesa na dlani.",
       "koreny": [
         "dae-臺",
         "sa-詞"
@@ -488,6 +498,7 @@
       "priklad": "연구팀{이} 무인 자동차 개발{에} 성공했어요.",
       "priklad_cs": "Výzkumný tým uspěl ve vývoji auta bez řidiče. (이 → 1. pád; 에 → v)",
       "mnemo": "無 bez + 人 člověk. 무인 자동차 = auto bez řidiče, 무인 카페 = kavárna bez obsluhy.",
+      "mnemo_zvuk": "„MOOING“: v kavárně bez obsluhy není ani noha, jen u automatu bučí kráva.",
       "koreny": [
         "mu-無",
         "in-人"
@@ -503,7 +514,7 @@
       "id": "ko-topik3-0534",
       "tema": "technika",
       "slovo": "개발",
-      "vyslovnost": "gaebal",
+      "vyslovnost": "kebal",
       "cs": "vývoj, rozvoj",
       "en": "development",
       "slovni_druh": "podstatne_jmeno",
@@ -511,6 +522,7 @@
       "priklad": "연구 초기{에} 어려움{이} 있기는 했지만 결국 개발{에} 성공했어요.",
       "priklad_cs": "Na začátku výzkumu sice byly potíže, ale nakonec se vývoj podařil. (에 → kdy; 이 → 1. pád; 에 → v)",
       "mnemo": "開 otevřít + 發 vyjít = otevřít a rozvinout. 개발자 = vývojář.",
+      "mnemo_zvuk": "„KEBAB“: vývojáři celé noci vyvíjejí aplikaci a jedí jen kebab.",
       "koreny": [
         "gae-開",
         "bal-發"
@@ -527,7 +539,7 @@
       "id": "ko-topik3-0535",
       "tema": "soutěže a akce",
       "slovo": "수료식",
-      "vyslovnost": "suryosik",
+      "vyslovnost": "surjosik",
       "cs": "slavnostní zakončení kurzu",
       "en": "completion ceremony",
       "slovni_druh": "podstatne_jmeno",
@@ -535,6 +547,7 @@
       "priklad": "반 친구들{과} 수료식 공연 준비{를} 하고 있어요.",
       "priklad_cs": "Se spolužáky připravujeme vystoupení na zakončení kurzu. (과 → s + 7. pád; 를 → 4. pád)",
       "mnemo": "修 studovat + 了 dokončit + 式 obřad = obřad dokončení kurzu. U školy 졸업식.",
+      "mnemo_zvuk": "„SÝR, JO, SEKT“: na slavnostním zakončení kurzu se podává sýr a sekt.",
       "koreny": [
         "su-修",
         "ryo-了",
@@ -553,7 +566,7 @@
       "id": "ko-topik3-0536",
       "tema": "pocity",
       "slovo": "헷갈리다",
-      "vyslovnost": "hetgallida",
+      "vyslovnost": "hetkkallida",
       "vyslov_hangul": "헫깔리다",
       "cs": "plést si, mít v tom zmatek",
       "en": "to be confused",

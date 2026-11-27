@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 3,
   "zdroj": "Sejong Korean 3 (세종학당 실용 한국어 3), kap. 6 – textbook s. 56–59 (어휘 Part 1–2, 표현) + 어휘 색인; workbook 3-1 s. 60 (어휘 연습)",
   "karty": [
     {
       "id": "ko-topik3-0441",
       "tema": "nakupování",
       "slovo": "가격",
-      "vyslovnost": "gagyeok",
+      "vyslovnost": "kagjŏk",
       "cs": "cena",
       "en": "price",
       "slovni_druh": "podstatne_jmeno",
@@ -18,6 +18,7 @@
       "priklad": "가격{도} 저렴해서 이걸{로} 샀어요.",
       "priklad_cs": "Byl i levný, tak jsem koupil tenhle. (도 → také; 로 → za co, 7. pád)",
       "mnemo": "價 cena, hodnota + 格 úroveň. Hovorově 값.",
+      "mnemo_zvuk": "„KAJAK“: na kajaku visí cenovka tak vysoká, že bys za tu cenu koupil jachtu.",
       "koreny": [
         "ga-價",
         "gyeok-格"
@@ -36,7 +37,7 @@
       "id": "ko-topik3-0442",
       "tema": "nakupování",
       "slovo": "실용성",
-      "vyslovnost": "siryongseong",
+      "vyslovnost": "sirjongssŏng",
       "vyslov_hangul": "시룡썽",
       "cs": "praktičnost, užitečnost",
       "en": "practicality",
@@ -45,6 +46,7 @@
       "priklad": "저{는} 가방{을} 살 때 실용성{을} 중요하게 생각해요.",
       "priklad_cs": "Když kupuji tašku, záleží mi na praktičnosti. (는 → téma; 을 → 4. pád)",
       "mnemo": "實 skutečný + 用 použít + 性 vlastnost = vlastnost skutečně se dát použít.",
+      "mnemo_zvuk": "„SIR YOUNG SONG“: mladý rytíř zpívá ódu na praktičnost svého švýcarského nožíku.",
       "koreny": [
         "sil-實",
         "yong-用",
@@ -60,7 +62,7 @@
       "id": "ko-topik3-0443",
       "tema": "nakupování",
       "slovo": "유행",
-      "vyslovnost": "yuhaeng",
+      "vyslovnost": "juheng",
       "cs": "móda, trend",
       "en": "trend",
       "slovni_druh": "podstatne_jmeno",
@@ -68,6 +70,7 @@
       "priklad": "요즘 유행하는 제품이네요.",
       "priklad_cs": "To je výrobek, který je teď v módě. (이 → 1. pád, u 이다)",
       "mnemo": "流 téct + 行 jít = co právě proudí mezi lidmi. 유행하다 = být v módě.",
+      "mnemo_zvuk": "„YOU HANG“: co pověsíš do výlohy, je hned v módě a všichni to chtějí.",
       "koreny": [
         "yu-流",
         "haeng-行"
@@ -83,7 +86,7 @@
       "id": "ko-topik3-0444",
       "tema": "nakupování",
       "slovo": "색상",
-      "vyslovnost": "saeksang",
+      "vyslovnost": "sekssang",
       "vyslov_hangul": "색쌍",
       "cs": "barva, barevné provedení (výrobku)",
       "en": "color",
@@ -92,6 +95,7 @@
       "priklad": "이 신발{은} 색상{이} 다양해요.",
       "priklad_cs": "Tyhle boty jsou v různých barvách. (은 → téma; 이 → 1. pád)",
       "mnemo": "色 barva + 相 vzhled. Úřednější než 색깔.",
+      "mnemo_zvuk": "„SEKT A SANGRIA“: zlatý sekt a rudá sangria – dvě barevná provedení na jednom stole.",
       "koreny": [
         "saek-色",
         "sang-相"
@@ -109,7 +113,7 @@
       "id": "ko-topik3-0445",
       "tema": "nakupování",
       "slovo": "여부",
-      "vyslovnost": "yeobu",
+      "vyslovnost": "jŏbu",
       "cs": "zda, či ne (je/není)",
       "en": "whether or not",
       "slovni_druh": "podstatne_jmeno",
@@ -117,6 +121,7 @@
       "priklad": "물건{을} 살 때 할인 여부{를} 꼭 확인해요.",
       "priklad_cs": "Při nákupu si vždy ověřím, zda je na to sleva. (을, 를 → 4. pád)",
       "mnemo": "與 ano + 否 ne = ano-či-ne. Stojí za podstatným jménem: 할인 여부, 참석 여부.",
+      "mnemo_zvuk": "„JO, BŮ?“: kráva odpovídá, zda ano či ne: jo, nebo bů?",
       "koreny": [
         "yeo-與",
         "bu-否"
@@ -131,7 +136,7 @@
       "id": "ko-topik3-0446",
       "tema": "nakupování",
       "slovo": "품질",
-      "vyslovnost": "pumjil",
+      "vyslovnost": "pchumdžil",
       "cs": "kvalita",
       "en": "quality",
       "slovni_druh": "podstatne_jmeno",
@@ -139,6 +144,7 @@
       "priklad": "이 가방{은} 비싸지만 품질{이} 좋아요.",
       "priklad_cs": "Tahle taška je drahá, ale kvalitní. (은 → téma; 이 → 1. pád)",
       "mnemo": "品 výrobek + 質 povaha = povaha výrobku.",
+      "mnemo_zvuk": "„PUMP, JILL!“: Jill pumpuje nový člun až k prasknutí – a on vydrží, to je kvalita.",
       "koreny": [
         "pum-品",
         "jil-質"
@@ -153,7 +159,7 @@
       "id": "ko-topik3-0447",
       "tema": "nakupování",
       "slovo": "성능",
-      "vyslovnost": "seongneung",
+      "vyslovnost": "sŏngnŭng",
       "cs": "výkon, funkčnost (přístroje)",
       "en": "performance",
       "slovni_druh": "podstatne_jmeno",
@@ -161,6 +167,7 @@
       "priklad": "성능{도} 좋고 가격{도} 저렴해서 이걸{로} 샀어요.",
       "priklad_cs": "Má dobrý výkon a je levný, tak jsem koupil tenhle. (도 → také; 로 → za co)",
       "mnemo": "性 vlastnost + 能 schopnost = co přístroj dokáže.",
+      "mnemo_zvuk": "„SONG, NUN“: jeptiška (nun) zazpívá song do mikrofonu a reprák ukáže, jaký má výkon.",
       "koreny": [
         "seong-性",
         "neung-能"
@@ -183,6 +190,7 @@
       "priklad": "구입 후 1년 동안{은} 무상{으로} 고쳐 줘요.",
       "priklad_cs": "Rok po koupi to opraví zdarma. (은 → důraz; 으로 → jak, 7. pád)",
       "mnemo": "無 bez + 償 náhrada, platba. Srovnej 무료 (bez poplatku).",
+      "mnemo_zvuk": "„MU SÁŇKY“: soused mu dal sáňky úplně zdarma.",
       "koreny": [
         "mu-無",
         "sang-償"
@@ -198,7 +206,7 @@
       "id": "ko-topik3-0449",
       "tema": "nakupování",
       "slovo": "기간",
-      "vyslovnost": "gigan",
+      "vyslovnost": "kigan",
       "cs": "období, lhůta",
       "en": "term",
       "slovni_druh": "podstatne_jmeno",
@@ -206,6 +214,7 @@
       "priklad": "교환·환불 기간{이} 지나면 못 하니까 빨리 교환하세요.",
       "priklad_cs": "Když lhůta na výměnu a vrácení uplyne, už to nepůjde, tak to rychle vyměňte. (이 → 1. pád)",
       "mnemo": "期 období + 間 mezi = časový úsek.",
+      "mnemo_zvuk": "„GIGANT“: obr si odměřuje lhůtu na kalendáři velkém jako dům.",
       "koreny": [
         "gi-期",
         "gan-間"
@@ -224,7 +233,7 @@
       "id": "ko-topik3-0450",
       "tema": "nakupování",
       "slovo": "무상 수리 기간",
-      "vyslovnost": "musang suri gigan",
+      "vyslovnost": "musang suri kigan",
       "cs": "záruční doba (bezplatné opravy)",
       "en": "free repair period",
       "slovni_druh": "podstatne_jmeno",
@@ -251,7 +260,7 @@
       "id": "ko-topik3-0451",
       "tema": "nakupování",
       "slovo": "교환",
-      "vyslovnost": "gyohwan",
+      "vyslovnost": "kjohwan",
       "cs": "výměna (zboží)",
       "en": "exchange",
       "slovni_druh": "podstatne_jmeno",
@@ -259,6 +268,7 @@
       "priklad": "사이즈{가} 작아서 교환하려고요.",
       "priklad_cs": "Velikost je malá, tak bych to chtěl vyměnit. (가 → 1. pád)",
       "mnemo": "交 vyměnit + 換 vyměnit. Srovnej 환불 (vrácení peněz).",
+      "mnemo_zvuk": "„KÝHO VANA?!“: koupená vana se nevejde do koupelny, tak ji táta veze vyměnit.",
       "koreny": [
         "gyo-交",
         "hwan-換"
@@ -283,6 +293,7 @@
       "priklad": "며칠 전{에} 산 티셔츠{를} 환불하려고요.",
       "priklad_cs": "Chtěl bych vrátit tričko, které jsem koupil před pár dny. (에 → kdy; 를 → 4. pád)",
       "mnemo": "還 vrátit + 拂 zaplatit = vrátit zaplacené. 환불을 받다 = dostat peníze zpět.",
+      "mnemo_zvuk": "„ONE BULL“: koupil jsem jednoho býka, je vadný, chci zpátky peníze!",
       "koreny": [
         "hwan-還",
         "bul-拂"
@@ -299,7 +310,7 @@
       "id": "ko-topik3-0453",
       "tema": "nakupování",
       "slovo": "사이즈",
-      "vyslovnost": "saijeu",
+      "vyslovnost": "saidžŭ",
       "cs": "velikost (oblečení, bot)",
       "en": "size",
       "slovni_druh": "podstatne_jmeno",
@@ -318,7 +329,7 @@
       "id": "ko-topik3-0454",
       "tema": "nakupování",
       "slovo": "사이즈가 맞지 않다",
-      "vyslovnost": "saijeuga matji anta",
+      "vyslovnost": "saidžŭga mačči antcha",
       "vyslov_hangul": "사이즈가 맏찌 안타",
       "cs": "nesedí velikost",
       "en": "the size doesn't fit",
@@ -344,7 +355,7 @@
       "id": "ko-topik3-0455",
       "tema": "nakupování",
       "slovo": "사용법",
-      "vyslovnost": "sayongbeop",
+      "vyslovnost": "sajongppŏp",
       "vyslov_hangul": "사용뻡",
       "cs": "návod k použití, způsob použití",
       "en": "directions, instructions",
@@ -353,6 +364,7 @@
       "priklad": "사용법{을} 잘 모르면 설명서{를} 읽어 보세요.",
       "priklad_cs": "Když nevíte, jak se to používá, přečtěte si návod. (을, 를 → 4. pád)",
       "mnemo": "使用 použití + 法 způsob.",
+      "mnemo_zvuk": "„SAY, YOUNG POP!“: syn prosí mladého tátu: řekni mi, jak se to používá – přečti návod!",
       "koreny": [
         "sa-使",
         "yong-用",
@@ -368,7 +380,7 @@
       "id": "ko-topik3-0456",
       "tema": "nakupování",
       "slovo": "사용법이 불편하다",
-      "vyslovnost": "sayongbeobi bulpyeonhada",
+      "vyslovnost": "sajongppŏbi pulpchjŏnhada",
       "vyslov_hangul": "사용뻐비 불편하다",
       "cs": "složité (nepohodlné) ovládání",
       "en": "the instructions are inconvenient",
@@ -400,7 +412,7 @@
       "id": "ko-topik3-0457",
       "tema": "nakupování",
       "slovo": "품질에 문제가 있다",
-      "vyslovnost": "pumjire munjega itda",
+      "vyslovnost": "pchumdžire mundžega itta",
       "vyslov_hangul": "품지레 문제가 읻따",
       "cs": "výrobek je vadný (problém s kvalitou)",
       "en": "there is a problem with the quality",
@@ -433,7 +445,7 @@
       "alternativy": [
         "디자인이 마음에 안 들다"
       ],
-      "vyslovnost": "saeksangi maeume an deulda",
+      "vyslovnost": "sekssangi maŭme an tŭlda",
       "vyslov_hangul": "색쌍이 마으메 안 들다",
       "cs": "nelíbí se barva",
       "en": "do not like the color",
@@ -462,7 +474,7 @@
       "id": "ko-topik3-0459",
       "tema": "nakupování",
       "slovo": "전원",
-      "vyslovnost": "jeonwon",
+      "vyslovnost": "čŏnwŏn",
       "vyslov_hangul": "저눤",
       "cs": "napájení, vypínač (zařízení)",
       "en": "power supply",
@@ -471,6 +483,7 @@
       "priklad": "전원{을} 켜도 화면{이} 안 나와요.",
       "priklad_cs": "I když to zapnu, obrazovka se nerozsvítí. (을 → 4. pád; 이 → 1. pád)",
       "mnemo": "電 elektřina + 源 zdroj = zdroj proudu.",
+      "mnemo_zvuk": "„JOHN WON“: John vyhrál, protože jako jediný našel vypínač napájení.",
       "koreny": [
         "jeon-電",
         "won-源"
@@ -488,7 +501,7 @@
       "alternativy": [
         "전원이 안 켜지다"
       ],
-      "vyslovnost": "jeonwoni kyeojiji anta",
+      "vyslovnost": "čŏnwŏni kchjŏdžidži antcha",
       "vyslov_hangul": "저눠니 켜지지 안타",
       "cs": "nejde zapnout",
       "en": "it does not turn on",
@@ -517,7 +530,7 @@
       "id": "ko-topik3-0461",
       "tema": "nakupování",
       "slovo": "마음이 바뀌다",
-      "vyslovnost": "maeumi bakkwida",
+      "vyslovnost": "maŭmi pakkwida",
       "vyslov_hangul": "마으미 바뀌다",
       "cs": "rozmyslet si to",
       "en": "to change one's mind",
@@ -544,7 +557,7 @@
       "alternativy": [
         "소리가 안 나다"
       ],
-      "vyslovnost": "soriga naji anta",
+      "vyslovnost": "soriga nadži antcha",
       "vyslov_hangul": "소리가 나지 안타",
       "cs": "nejde zvuk",
       "en": "it makes no sound",
@@ -568,7 +581,7 @@
       "id": "ko-topik3-0463",
       "tema": "nakupování",
       "slovo": "물건이 생각과 다르다",
-      "vyslovnost": "mulgeoni saenggakgwa dareuda",
+      "vyslovnost": "mulgŏni senggakkwa tarŭda",
       "vyslov_hangul": "물거니 생각꽈 다르다",
       "cs": "zboží je jiné, než jsem čekal",
       "en": "the item is different than expected",
@@ -593,7 +606,7 @@
       "id": "ko-topik3-0464",
       "tema": "gramatika",
       "slovo": "-아도/어도/여도 되다",
-      "vyslovnost": "-ado/eodo/yeodo doeda",
+      "vyslovnost": "-ado/ŏdo/jŏdo tweda",
       "cs": "smět, je dovoleno (udělat)",
       "en": "may, to be allowed to",
       "slovni_druh": "ostatni",
@@ -611,7 +624,7 @@
       "id": "ko-topik3-0465",
       "tema": "gramatika",
       "slovo": "-으려고(요)/려고(요)",
-      "vyslovnost": "-euryeogo(yo)/ryeogo(yo)",
+      "vyslovnost": "-ŭrjŏgo(jo)/rjŏgo(jo)",
       "cs": "abych…, chci/hodlám (záměr)",
       "en": "intention, plan",
       "slovni_druh": "ostatni",
@@ -629,7 +642,7 @@
       "id": "ko-topik3-0466",
       "tema": "nakupování",
       "slovo": "탈의실",
-      "vyslovnost": "taruisil",
+      "vyslovnost": "tcharisil",
       "vyslov_hangul": "타리실",
       "cs": "zkušební kabinka, převlékárna",
       "en": "fitting room",
@@ -638,6 +651,7 @@
       "priklad": "탈의실{에서} 입어 보세요.",
       "priklad_cs": "Zkuste si to v kabince. (에서 → kde)",
       "mnemo": "脫 svléknout + 衣 oděv + 室 místnost = místnost na svlékání.",
+      "mnemo_zvuk": "„TERRY, SEAL!“: Terry se ve zkušební kabince převléká do kostýmu tuleně.",
       "koreny": [
         "tal-脫",
         "ui-衣",
@@ -653,7 +667,7 @@
       "id": "ko-topik3-0467",
       "tema": "nakupování",
       "slovo": "입구",
-      "vyslovnost": "ipgu",
+      "vyslovnost": "ipkku",
       "vyslov_hangul": "입꾸",
       "cs": "vchod, vstup",
       "en": "entrance",
@@ -662,6 +676,7 @@
       "priklad": "여기{는} 식당 입구라서 주차하면 안 돼요.",
       "priklad_cs": "Tady je vchod do restaurace, takže tu parkovat nesmíte. (는 → téma)",
       "mnemo": "入 vstoupit + 口 ústa, otvor. Opak 출구 (východ).",
+      "mnemo_zvuk": "„I PUK“: i hokejový puk vletí do haly hlavním vchodem.",
       "koreny": [
         "ip-入",
         "gu-口"
@@ -679,7 +694,7 @@
       "id": "ko-topik3-0468",
       "tema": "nakupování",
       "slovo": "전시실",
-      "vyslovnost": "jeonsisil",
+      "vyslovnost": "čŏnsisil",
       "cs": "výstavní síň, expozice",
       "en": "exhibit hall",
       "slovni_druh": "podstatne_jmeno",
@@ -687,6 +702,7 @@
       "priklad": "한국미술관{에서는} 전시실 내{에서} 사진{을} 찍어도 돼요.",
       "priklad_cs": "V Korejském muzeu umění se smí fotit i uvnitř výstavních sálů. (에서는 → kde + důraz; 에서 → kde; 을 → 4. pád)",
       "mnemo": "展 rozvinout, vystavit + 示 ukázat + 室 místnost.",
+      "mnemo_zvuk": "„JOHN SEES SEAL“: John si ve výstavní síni prohlíží vycpaného tuleně.",
       "koreny": [
         "jeon-展",
         "si-示",
@@ -702,7 +718,7 @@
       "id": "ko-topik3-0469",
       "tema": "nakupování",
       "slovo": "지퍼",
-      "vyslovnost": "jipeo",
+      "vyslovnost": "čipchŏ",
       "cs": "zip",
       "en": "zipper",
       "slovni_druh": "podstatne_jmeno",
@@ -721,7 +737,7 @@
       "id": "ko-topik3-0470",
       "tema": "nakupování",
       "slovo": "실제로",
-      "vyslovnost": "siljero",
+      "vyslovnost": "silččero",
       "vyslov_hangul": "실쩨로",
       "cs": "ve skutečnosti, naživo",
       "en": "actually",
