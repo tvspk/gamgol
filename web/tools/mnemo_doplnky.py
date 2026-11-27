@@ -10,7 +10,7 @@ Sloupce, které vyplňuje Claude (řádek s prázdným „cs“ se přeskočí, 
   cs          český význam                       druh  n (podst. jméno) | v (sloveso) | a (příd. jméno) | f (fráze) | o (ostatní)
   typ         k (původní korejské) | s (sino) | e (výpůjčka) | m (smíšené)
   tema        téma jako v balíčcích kapitoly      priklad_cs  český překlad věty ze hry
-  mnemo       háček (krátce, česky)               koreny  slabiky=hanja oddělené mezerou, např. „업무=業務 정=定“;
+  mnemo       hook (krátce, česky)                 koreny  slabiky=hanja oddělené mezerou, např. „업무=業務 정=定“;
               nový kořen (není v ko-koreny.json) s českým významem: „무=務:povinnost, služba“
   mnemo_zvuk  hook podle zvuku bez hanja (postup: 01-HOOKY-postup.md v projektu Mnemo Korean); prázdné = bez hooku
   vyslov_hangul  výslovnost hangulem, jen když se liší od zápisu (학년 → 항년)

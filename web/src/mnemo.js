@@ -73,7 +73,7 @@ function mnBody(k, o) {                                      // everything but t
     ${k.poc ? `<p class="mhrow"><b>Počitadlo</b><span class="ko" lang="ko">${esc(k.poc)}</span></p>` : ""}
     ${k.rada ? `<p class="mhrow"><b>Řada číslovek</b>${k.rada === "sino" ? "sino-korejská" : "původní korejská"}</p>` : ""}
     ${k.zen ? `<p class="mhrow"><b>Z angličtiny</b>${esc(k.zen)}</p>` : ""}
-    ${k.mz ? `<div class="mhhook"><i>Háček</i>${esc(k.mz)}</div>` : ""}
+    ${k.mz ? `<div class="mhhook"><i>Hook</i>${esc(k.mz)}</div>` : ""}
     ${k.m || mnRoots(k) ? `<details class="mhhz" ${k.mz ? "" : "open"}><summary>Hook přes hanja</summary>${k.m ? `<div class="mhhook">${esc(k.m)}</div>` : ""}${mnRoots(k)}</details>` : ""}
     ${k.fam ? `<p class="mhrow"><b>Rodina</b><span class="ko" lang="ko">${k.fam.map(esc).join(", ")}</span></p>` : ""}
     ${k.ex ? `<div class="mhex"><p class="ko" lang="ko">${mnEx(k.ex)} ${mnTts(mnPlain(k.ex))}</p>${k.exc ? `<p class="mhdim">${esc(k.exc)}</p>` : ""}</div>` : ""}
@@ -159,7 +159,7 @@ function mnList() {
   const topics = [...new Set(all.map(k => k.t).filter(Boolean))].sort((a, b) => a.localeCompare(b, "cs")), poss = ["n", "v", "a", "f", "o"].filter(p => all.some(k => k.p === p));
   const sel = (id, label, opts, v) => `<label class="mhsel"><span>${label}</span><select id="${id}"><option value="">vše</option>${opts.map(([a, b]) => `<option value="${esc(a)}" ${v === a ? "selected" : ""}>${esc(b)}</option>`).join("")}</select></label>`;
   setMain(`<div class="casehead"><h2>Mnemo Hooks</h2><span>${mnPlace()} · ${st.n} slov</span></div>
-    <div class="card mhtop"><p class="narr" lang="cs">${mnAll() ? "Všechna slovíčka ze všech kapitol na jednom místě. Hledej, filtruj podle kapitoly, tématu a druhu a procvičuj napříč kapitolami. Postup je společný s kapitolami: co umíš tady, umíš i tam." : "Česká slovíčka s háčky na zapamatování."} Nejdřív se zkus rozpomenout, pak se podívej a ohodnoť se poctivě: Znovu, Těžké, Dobré, Snadné. Karta se vrátí podle toho.</p>
+    <div class="card mhtop"><p class="narr" lang="cs">${mnAll() ? "Všechna slovíčka ze všech kapitol na jednom místě. Hledej, filtruj podle kapitoly, tématu a druhu a procvičuj napříč kapitolami. Postup je společný s kapitolami: co umíš tady, umíš i tam." : "Česká slovíčka s hooky na zapamatování."} Nejdřív se zkus rozpomenout, pak se podívej a ohodnoť se poctivě: Znovu, Těžké, Dobré, Snadné. Karta se vrátí podle toho.</p>
       <div class="boxes mhb"><div class="open"><b>${st.b[0]}</b><span>nová</span></div><div class="pend"><b>${st.b[1]}</b><span>učím se</span></div><div class="shut"><b>${st.b[2]}</b><span>umím</span></div></div>
       <div class="row" style="margin-top:12px"><button class="btn" id="mhgo" type="button"></button>
       ${st.roots.length ? `<button class="btn alt sm" id="mhrt" type="button">Kořeny (${st.roots.length})</button>` : ""}</div>

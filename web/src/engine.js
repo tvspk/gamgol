@@ -839,7 +839,7 @@ function home(scrollTo) {
       <button class="note" type="button" data-vocab="${ch.id}" ${wait ? "disabled" : ""}><b>Lost &amp; found</b><span>Ten tagged items a round. ${st.f + st.g} of ${st.n} words filed, ${st.g} gold.</span>
         <span class="meter"><i class="g" style="width:${st.g / st.n * 100}%"></i><i style="width:${st.f / st.n * 100}%"></i></span></button>
       ${mnCards(ch).length ? (() => { const m = mnStat(mnCards(ch));
-        return `<button class="note mh" type="button" data-mnemo="${ch.id}" ${wait ? "disabled" : ""}><b>Mnemo Hooks</b><span lang="cs">Slovíčka s českými háčky, kořeny a SRS. ${m.n} slov: ${m.b[2]} umím, ${m.b[1]} učím se, ${m.b[0]} nových.${m.due ? ` K opakování: ${m.due}.` : ""}</span>
+        return `<button class="note mh" type="button" data-mnemo="${ch.id}" ${wait ? "disabled" : ""}><b>Mnemo Hooks</b><span lang="cs">Slovíčka s českými hooky, kořeny a SRS. ${m.n} slov: ${m.b[2]} umím, ${m.b[1]} učím se, ${m.b[0]} nových.${m.due ? ` K opakování: ${m.due}.` : ""}</span>
         <span class="meter"><i style="width:${m.b[2] / m.n * 100}%"></i><i class="g" style="width:${m.b[1] / m.n * 100}%"></i></span></button>`; })() : ""}${ch.reads ? (() => { const nr = ch.reads.filter(r => (S.reads || {})[r.id]).length;
         return `<button class="note news" type="button" data-read="${ch.id}" ${wait ? "disabled" : ""}><b>Village newsletter</b><span>A short column in Korean and three questions on it. ${nr} of ${ch.reads.length} read.</span>
         <span class="meter"><i style="width:${nr / ch.reads.length * 100}%"></i></span></button>`; })() : ""}</div></div>`;

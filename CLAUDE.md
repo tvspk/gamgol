@@ -49,7 +49,7 @@ Uživateli odpovídej **česky**. Uživatel není programátor: kroky na GitHubu
 ## Pravidla obsahu (dodržovat při úpravách)
 
 - Podklad: učebnice **세종한국어 회화 3**, 14 kapitol. Skeny učebnice v balíčku **nejsou**. Pro nový obsah je přilož do konverzace.
-- Hra je **v korejštině a angličtině**. Žádná čeština a **žádná romanizace**. Výjimka: sekce Mnemo Hooks je česky, zdroj jsou balíčky z projektu Mnemo Korean, data se generují `web/tools/mnemo_build.py`. Česká výslovnost latinkou (pole `vyslovnost`, „čorŏp“) se v kartě ukáže **až po ťuknutí** (uživatel, 27. 11. 2026); revidovaná romanizace nikde. Háček = `mnemo_zvuk` (hook podle zvuku); `mnemo` + kořeny jsou sbalené pod „Hook přes hanja“, bez `mnemo_zvuk` rozbalené. Odpověď napsaná latinkou se odmítá.
+- Hra je **v korejštině a angličtině**. Žádná čeština a **žádná romanizace**. Výjimka: sekce Mnemo Hooks je česky, zdroj jsou balíčky z projektu Mnemo Korean, data se generují `web/tools/mnemo_build.py`. Česká výslovnost latinkou (pole `vyslovnost`, „čorŏp“) se v kartě ukáže **až po ťuknutí** (uživatel, 27. 11. 2026); revidovaná romanizace nikde. Hook = `mnemo_zvuk` (hook podle zvuku); `mnemo` + kořeny jsou sbalené pod „Hook přes hanja“, bez `mnemo_zvuk` rozbalené. Odpověď napsaná latinkou se odmítá.
 - Všechno korejské patří do obsahových souborů. `engine.js` obsahuje jen logiku.
 - Zdvořilost je pevně daná postavou (`CAST` v `content.js`): 소장님 합쇼체, 선배 a občané 해요체, 동기 a 하람 반말, starší lidé 해요체 + -(으)시-. Sám sebe nikdy neuctívej.
 - Nová postava potřebuje v `CAST` i `g: "m"`, pokud je to muž. Hlas se podle toho vybere sám.
