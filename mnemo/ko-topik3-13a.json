@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 13 Part 1 – textbook s. 116–117 (어휘, 표현 -는/-은/-ㄴ 편이다) + s. 119 (표현 -더라고요) + 어휘 색인; workbook 3-2 s. 60 (어휘 연습)",
   "karty": [
     {
       "id": "ko-topik3-0925",
       "tema": "peníze",
       "slovo": "생활비",
-      "vyslovnost": "saenghwalbi",
+      "vyslovnost": "senghwalbi",
       "cs": "životní náklady, peníze na živobytí",
       "en": "living cost",
       "slovni_druh": "podstatne_jmeno",
@@ -18,6 +18,7 @@
       "priklad": "생활비{를} 주로 어디{에} 써요?",
       "priklad_cs": "Za co nejčastěji utrácíš peníze na živobytí? (를 → 4. pád; 에 → na co)",
       "mnemo": "生活 život (生 žít + 活 činnost) + 費 výdaj. Přípona -비 = „náklady na …“: 식비, 교통비, 통신비 …",
+      "mnemo_zvuk": "„SEN CHVALBY“: sníš, jak tě chválí za spořivost, pak se probudíš a čekají účty za celé živobytí.",
       "koreny": [
         "saeng-生",
         "hwal-活",
@@ -37,7 +38,7 @@
       "id": "ko-topik3-0926",
       "tema": "peníze",
       "slovo": "식비",
-      "vyslovnost": "sikbi",
+      "vyslovnost": "sikppi",
       "vyslov_hangul": "식삐",
       "cs": "výdaje za jídlo",
       "en": "food expenses",
@@ -46,6 +47,7 @@
       "priklad": "저{는} 식비{에} 많이 쓰는 편이에요.",
       "priklad_cs": "Za jídlo utrácím spíš hodně. (는 → téma; 에 → na co)",
       "mnemo": "食 jídlo + 費 výdaj.",
+      "mnemo_zvuk": "„SICK PIE“ (zkažený koláč): celé peníze na jídlo padly na jeden zkažený koláč.",
       "koreny": [
         "sik-食",
         "bi-費"
@@ -60,7 +62,7 @@
       "id": "ko-topik3-0927",
       "tema": "peníze",
       "slovo": "의류",
-      "vyslovnost": "uiryu",
+      "vyslovnost": "ŭirju",
       "cs": "oblečení, oděvy (souhrnně)",
       "en": "clothing",
       "slovni_druh": "podstatne_jmeno",
@@ -68,6 +70,7 @@
       "priklad": "의류 구입비{가} 생각보다 많이 나왔어요.",
       "priklad_cs": "Výdaje za oblečení vyšly víc, než jsem čekal. (가 → 1. pád)",
       "mnemo": "衣 oděv + 類 druh = druhy oděvů. Úřední slovo pro 옷 (obchody, statistiky).",
+      "mnemo_zvuk": "„U IRŮ“: u Irů v obchodě visí jen zelené oblečení, od ponožek po kabáty.",
       "koreny": [
         "ui-衣",
         "ryu-類"
@@ -82,7 +85,7 @@
       "id": "ko-topik3-0928",
       "tema": "peníze",
       "slovo": "구입비",
-      "vyslovnost": "guipbi",
+      "vyslovnost": "kuippi",
       "vyslov_hangul": "구입삐",
       "cs": "výdaje na nákup (čeho)",
       "en": "purchased cost",
@@ -91,6 +94,7 @@
       "priklad": "화장품 구입비{를} 좀 줄여야겠어요.",
       "priklad_cs": "Musím trochu omezit výdaje za kosmetiku. (를 → 4. pád)",
       "mnemo": "購入 nákup (購 koupit + 入 vstoupit) + 費 výdaj. Stojí za předmětem: 의류 구입비, 화장품 구입비.",
+      "mnemo_zvuk": "„KUP, PÍP!“: každý nákup pokladna odpípne a výdaje za nakupování rostou.",
       "koreny": [
         "gu-購",
         "ip-入",
@@ -107,7 +111,7 @@
       "id": "ko-topik3-0929",
       "tema": "nakupování",
       "slovo": "화장품",
-      "vyslovnost": "hwajangpum",
+      "vyslovnost": "hwadžangpchum",
       "cs": "kosmetika",
       "en": "cosmetics",
       "slovni_druh": "podstatne_jmeno",
@@ -115,6 +119,7 @@
       "priklad": "스킨, 로션, 선크림{은} 모두 화장품이에요.",
       "priklad_cs": "Pleťová voda, mléko a opalovací krém jsou všechno kosmetika. (은 → téma)",
       "mnemo": "化粧 líčení (化 proměna + 粧 zdobit) + 品 výrobek. 화장하다 = líčit se.",
+      "mnemo_zvuk": "„FAJN ŠAMPÓN“: na poličce stojí fajn šampón, krémy a rtěnky, samá kosmetika.",
       "koreny": [
         "hwa-化",
         "jang-粧",
@@ -133,7 +138,7 @@
       "id": "ko-topik3-0930",
       "tema": "peníze",
       "slovo": "교통비",
-      "vyslovnost": "gyotongbi",
+      "vyslovnost": "kjotchongbi",
       "cs": "výdaje za dopravu, jízdné",
       "en": "transportation expense",
       "slovni_druh": "podstatne_jmeno",
@@ -141,6 +146,7 @@
       "priklad": "회사{가} 멀어서 교통비{가} 많이 들어요.",
       "priklad_cs": "Firma je daleko, takže za dopravu utratím hodně. (가 → 1. pád)",
       "mnemo": "交通 doprava (交 střídat + 通 projít) + 費 výdaj. Patří sem 지하철 요금, 택시 요금, 기름값.",
+      "mnemo_zvuk": "„KJÓTO, TONGA, BÍDA“: letenky do Kjóta a na Tongu spolknou výdaje za dopravu a pak je bída.",
       "koreny": [
         "gyo-交",
         "tong-通",
@@ -156,7 +162,7 @@
       "id": "ko-topik3-0931",
       "tema": "peníze",
       "slovo": "요금",
-      "vyslovnost": "yogeum",
+      "vyslovnost": "jogŭm",
       "cs": "poplatek, jízdné, tarif",
       "en": "fee, charge, fare",
       "slovni_druh": "podstatne_jmeno",
@@ -164,6 +170,7 @@
       "priklad": "다음 달{부터} 지하철 요금{이} 오른대요.",
       "priklad_cs": "Prý od příštího měsíce zdraží jízdné v metru. (부터 → od; 이 → 1. pád)",
       "mnemo": "料 poplatek + 金 peníze. Za službu: 지하철 요금, 택시 요금, 핸드폰 요금, 인터넷 요금, 전기 요금.",
+      "mnemo_zvuk": "„JÓ, GUMU?“: řidič autobusu kroutí hlavou, když mu jízdné platíš žvýkačkou.",
       "koreny": [
         "yo-料",
         "geum-金"
@@ -182,7 +189,7 @@
       "id": "ko-topik3-0932",
       "tema": "peníze",
       "slovo": "기름값",
-      "vyslovnost": "gireumgap",
+      "vyslovnost": "kirŭmkkap",
       "vyslov_hangul": "기름깝",
       "cs": "cena benzínu, výdaje za palivo",
       "en": "oil price",
@@ -204,7 +211,7 @@
       "alternativy": [
         "문화 생활비"
       ],
-      "vyslovnost": "munhwasaenghwalbi",
+      "vyslovnost": "munhwasenghwalbi",
       "cs": "výdaje za kulturu",
       "en": "cultural expenses",
       "slovni_druh": "podstatne_jmeno",
@@ -212,6 +219,7 @@
       "priklad": "영화 관람{이나} 뮤지컬 관람{은} 문화생활비{에} 들어가요.",
       "priklad_cs": "Kino a muzikály patří do výdajů za kulturu. (이나 → nebo; 은 → téma; 에 → kam)",
       "mnemo": "文化生活 kulturní život + 費 výdaj. Workbook píše 문화 생활비 s mezerou.",
+      "mnemo_zvuk": "„MUNCH + SEN CHVALBY“: za lístek na Munchův Výkřik dáš celý rozpočet na kulturu a pak sníš o chvále znalců.",
       "koreny": [
         "mun-文",
         "hwa-化",
@@ -230,7 +238,7 @@
       "id": "ko-topik3-0934",
       "tema": "peníze",
       "slovo": "통신비",
-      "vyslovnost": "tongsinbi",
+      "vyslovnost": "tchongsinbi",
       "cs": "výdaje za telefon a internet",
       "en": "communication expense",
       "slovni_druh": "podstatne_jmeno",
@@ -238,6 +246,7 @@
       "priklad": "핸드폰 요금{하고} 인터넷 요금{은} 통신비예요.",
       "priklad_cs": "Poplatky za mobil a internet jsou výdaje za komunikaci. (하고 → a; 은 → téma)",
       "mnemo": "通信 spojení, komunikace (通 projít + 信 zpráva) + 費 výdaj.",
+      "mnemo_zvuk": "„TO SYN BYL!“: účet za mobil a internet je obří, to byl syn, celý měsíc streamoval.",
       "koreny": [
         "tong-通",
         "sin-信",
@@ -253,7 +262,7 @@
       "id": "ko-topik3-0935",
       "tema": "ostatní",
       "slovo": "기타",
-      "vyslovnost": "gita",
+      "vyslovnost": "kitcha",
       "cs": "ostatní, jiné",
       "en": "etc., others",
       "cs_upresneni": "ostatní, jiné (其他), ne kytara",
@@ -262,6 +271,7 @@
       "priklad": "식비, 교통비, 통신비 외{에} 기타 비용{도} 있어요.",
       "priklad_cs": "Kromě jídla, dopravy a telefonu jsou i jiné výdaje. (에 → kromě; 도 → také)",
       "mnemo": "其 to + 他 jiný = „to ostatní“. V tabulkách a formulářích.",
+      "mnemo_zvuk": "„KITCHEN“ (kuchyně): v každé kuchyni je šuplík „ostatní“, kam padá všechno jiné.",
       "koreny": [
         "gi-其",
         "ta-他"
@@ -276,7 +286,7 @@
       "id": "ko-topik3-0936",
       "tema": "peníze",
       "slovo": "경제",
-      "vyslovnost": "gyeongje",
+      "vyslovnost": "kjŏngdže",
       "cs": "ekonomika, hospodářství",
       "en": "economy",
       "slovni_druh": "podstatne_jmeno",
@@ -284,6 +294,7 @@
       "priklad": "저{는} 경제 관련 기사{를} 많이 읽는 편이에요.",
       "priklad_cs": "Čtu spíš hodně článků o ekonomice. (는 → téma; 를 → 4. pád)",
       "mnemo": "經 řídit + 濟 pomoci, přejít řeku = „spravovat svět a pomáhat lidem“. 경제생활 = hospodaření, finanční život.",
+      "mnemo_zvuk": "„GONG, DŽEZ!“: burzu otevře úder gongu, spustí se džez a celá ekonomika se roztančí.",
       "koreny": [
         "gyeong-經",
         "je-濟"
@@ -302,7 +313,7 @@
       "id": "ko-topik3-0937",
       "tema": "nakupování",
       "slovo": "서비스",
-      "vyslovnost": "seobiseu",
+      "vyslovnost": "sŏbisŭ",
       "cs": "služba, obsluha; něco navíc zdarma",
       "en": "service",
       "slovni_druh": "podstatne_jmeno",
@@ -321,7 +332,7 @@
       "id": "ko-topik3-0938",
       "tema": "bydlení",
       "slovo": "시설",
-      "vyslovnost": "siseol",
+      "vyslovnost": "sisŏl",
       "cs": "zařízení, vybavení (budovy)",
       "en": "facilities",
       "slovni_druh": "podstatne_jmeno",
@@ -329,6 +340,7 @@
       "priklad": "이 아파트{는} 시설{이} 좋아요.",
       "priklad_cs": "Tenhle byt má dobré vybavení. (는 → téma; 이 → 1. pád)",
       "mnemo": "施 provádět + 設 zřídit = to, co je zřízeno. 편의 시설, 운동 시설.",
+      "mnemo_zvuk": "„SEESAW“ (houpačka): nový dům má na dvoře houpačky, posilovnu a další vybavení.",
       "koreny": [
         "si-施",
         "seol-設"
@@ -344,7 +356,7 @@
       "id": "ko-topik3-0939",
       "tema": "nakupování",
       "slovo": "편의",
-      "vyslovnost": "pyeonui",
+      "vyslovnost": "pchjŏni",
       "vyslov_hangul": "펴니",
       "cs": "pohodlí, výhoda, služby (pro zákazníka)",
       "en": "convenience",
@@ -353,6 +365,7 @@
       "priklad": "편의 시설{이} 많아서 주로 백화점{에서} 쇼핑해요.",
       "priklad_cs": "Je tam spousta služeb pro zákazníky, tak nakupuji hlavně v obchodním domě. (이 → 1. pád; 에서 → kde)",
       "mnemo": "便 pohodlný + 宜 vhodný. 편의점 = večerka (obchod „pro pohodlí“), 편의 시설 = vybavení pro pohodlí.",
+      "mnemo_zvuk": "„PONY“: v obchodním domě tě po patrech vozí poník, to je pohodlí!",
       "koreny": [
         "pyeon-便",
         "ui-宜"
@@ -371,7 +384,7 @@
       "id": "ko-topik3-0940",
       "tema": "ostatní",
       "slovo": "꾸준히",
-      "vyslovnost": "kkujunhi",
+      "vyslovnost": "kkudžunhi",
       "cs": "vytrvale, soustavně, pravidelně",
       "en": "steadily",
       "slovni_druh": "ostatni",
@@ -397,7 +410,7 @@
         "-은 편이다",
         "-ㄴ 편이다"
       ],
-      "vyslovnost": "-neun/-eun/-n pyeonida",
+      "vyslovnost": "-nŭn/-ŭn/-n pchjŏnida",
       "cs": "spíš (bývá), dá se říct, že …",
       "en": "tends to be, rather",
       "slovni_druh": "ostatni",
@@ -405,6 +418,7 @@
       "priklad": "저{는} 식비{에} 많이 쓰는 편이에요.",
       "priklad_cs": "Za jídlo utrácím spíš hodně. (는 → téma; 에 → na co)",
       "mnemo": "편 = strana: „patří na tu stranu“. Zmírní tvrzení. Sloveso v přítomném čase -는 편이다 (쓰는 편), minulém -은/-ㄴ 편이다 (먹은 편); přídavné jméno -은/-ㄴ 편이다 (비싼 편, 많은 편).",
+      "mnemo_zvuk": "„PONY DÁ(vá)“: poník dává spíš přednost senu než běhu, prostě bývá spíš líný.",
       "koreny": [
         "pyeon-便"
       ],
@@ -418,7 +432,7 @@
       "id": "ko-topik3-0942",
       "tema": "kultura",
       "slovo": "감동적",
-      "vyslovnost": "gamdongjeok",
+      "vyslovnost": "kamdongdžŏk",
       "vyslov_hangul": "감동적",
       "cs": "dojemný, působivý",
       "en": "moving, touching",
@@ -427,6 +441,7 @@
       "priklad": "결말{이} 너무 감동적이더라고요.",
       "priklad_cs": "Konec byl opravdu dojemný. (이 → 1. pád)",
       "mnemo": "感動 dojetí (感 cítit + 動 pohnout) + 的 -ový: „co pohne citem“. 감동적이다 / 감동적인 영화.",
+      "mnemo_zvuk": "„KAM, DONE, DŽOKEJI?“: džokej Don dojede do cíle na kulhavém koni a celá tribuna pláče dojetím.",
       "koreny": [
         "gam-感",
         "dong-動",
@@ -446,7 +461,7 @@
       "id": "ko-topik3-0943",
       "tema": "kultura",
       "slovo": "결말",
-      "vyslovnost": "gyeolmal",
+      "vyslovnost": "kjŏlmal",
       "cs": "konec, závěr (příběhu)",
       "en": "conclusion, ending",
       "slovni_druh": "podstatne_jmeno",
@@ -454,6 +469,7 @@
       "priklad": "지루하다는 사람{도} 있지만 저{는} 결말{이} 좋더라고요.",
       "priklad_cs": "Někdo říká, že je to nuda, ale mně se líbil konec. (도 → i; 는 → téma; 이 → 1. pád)",
       "mnemo": "結 uzavřít + 末 konec. Srovnej 결과 (výsledek).",
+      "mnemo_zvuk": "„GÓL, MÁLO!“: konec filmu přinese jen jeden gól, na velké finále málo.",
       "koreny": [
         "gyeol-結",
         "mal-末"
@@ -472,7 +488,7 @@
         "-더라고",
         "-더라고요"
       ],
-      "vyslovnost": "-deorago(yo)",
+      "vyslovnost": "-dŏrago(jo)",
       "cs": "(viděl jsem / zjistil jsem, že) …",
       "en": "(I saw/found that) …",
       "slovni_druh": "ostatni",

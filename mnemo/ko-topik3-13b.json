@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 2,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 13 Part 2 – textbook s. 118 (어휘), s. 120–123 (연습, 이야기, 듣고 말해요, 더 말해 봐요) + 어휘 색인; workbook 3-2 s. 60",
   "karty": [
     {
       "id": "ko-topik3-0945",
       "tema": "peníze",
       "slovo": "가계부",
-      "vyslovnost": "gagyebu",
+      "vyslovnost": "kagebu",
       "vyslov_hangul": "가게부",
       "cs": "domácí rozpočet, kniha výdajů",
       "en": "household ledger",
@@ -19,6 +19,7 @@
       "priklad": "저{는} 가계부 앱{을} 쓰고 있어요.",
       "priklad_cs": "Používám aplikaci na vedení rozpočtu. (는 → téma; 을 → 4. pád)",
       "mnemo": "家計 rodinné účty (家 dům + 計 počítat) + 簿 kniha záznamů. 가계부를 쓰다 = vést si rozpočet. Výslovnost [가게부].",
+      "mnemo_zvuk": "„KGB“ (ká-gé-bé): babička vede domácí rozpočet jako KGB, každou korunu zapisuje do složky.",
       "koreny": [
         "ga-家",
         "gye-計",
@@ -37,7 +38,7 @@
       "id": "ko-topik3-0946",
       "tema": "peníze",
       "slovo": "저금",
-      "vyslovnost": "jeogeum",
+      "vyslovnost": "čŏgŭm",
       "cs": "spoření, úspory",
       "en": "saving",
       "slovni_druh": "podstatne_jmeno",
@@ -45,6 +46,7 @@
       "priklad": "남는 돈{은} 은행{에} 저금{을} 해요.",
       "priklad_cs": "Peníze, které zbydou, si ukládám v bance. (은 → téma; 에 → kam; 을 → 4. pád)",
       "mnemo": "貯 hromadit + 金 peníze. 저금하다 = šetřit, ukládat. Srovnej 저축 (spoření).",
+      "mnemo_zvuk": "„ŠOGUN“: šogun ukládá každou minci do truhly, spoří na nový hrad.",
       "koreny": [
         "jeo-貯",
         "geum-金"
@@ -64,7 +66,7 @@
       "id": "ko-topik3-0947",
       "tema": "nakupování",
       "slovo": "구입",
-      "vyslovnost": "guip",
+      "vyslovnost": "kuip",
       "cs": "koupě, nákup",
       "en": "purchase",
       "slovni_druh": "podstatne_jmeno",
@@ -72,6 +74,7 @@
       "priklad": "가격{을} 비교한 후{에} 구입해요.",
       "priklad_cs": "Kupuji až po porovnání cen. (을 → 4. pád; 에 → kdy)",
       "mnemo": "購 koupit + 入 vstoupit = „koupit dovnitř“. 구입하다 = koupit (formálně, jako 구매하다).",
+      "mnemo_zvuk": "„KUP!“: prodavač tě postrčí k pokladně, „kup!“, a koupě je hotová.",
       "koreny": [
         "gu-購",
         "ip-入"
@@ -91,7 +94,7 @@
       "alternativy": [
         "신용카드"
       ],
-      "vyslovnost": "sinyong kadeu",
+      "vyslovnost": "sinjong kchadŭ",
       "vyslov_hangul": "시뇽 카드",
       "cs": "kreditní karta",
       "en": "credit card",
@@ -100,6 +103,7 @@
       "priklad": "현금{만} 쓰려고 신용 카드{를} 쓰지 않아요.",
       "priklad_cs": "Chci platit jen hotově, tak nepoužívám kreditku. (를 → 4. pád)",
       "mnemo": "信用 důvěra, úvěr (信 věřit + 用 použít) + 카드 card.",
+      "mnemo_zvuk": "„SYN JONG(a) + karta“: syn pana Jonga má tátovu kreditní kartu a platí s ní na dluh.",
       "koreny": [
         "sin-信",
         "yong-用"
@@ -115,7 +119,7 @@
       "id": "ko-topik3-0949",
       "tema": "nakupování",
       "slovo": "충동구매",
-      "vyslovnost": "chungdonggumae",
+      "vyslovnost": "čchungdonggume",
       "cs": "impulzivní nákup",
       "en": "impulse buying",
       "slovni_druh": "podstatne_jmeno",
@@ -123,6 +127,7 @@
       "priklad": "제{가} 충동구매{가} 심한 편이에요.",
       "priklad_cs": "Dost často nakupuji impulzivně. (가 → 1. pád)",
       "mnemo": "衝動 popud (衝 narazit + 動 pohnout) + 購買 nákup. 충동구매를 하다.",
+      "mnemo_zvuk": "„ČUNĚ, DONG! KUP MĚ!“: prasátko-kasička cinkne „dong“, zboží volá „kup mě!“ a už je to impulzivní nákup.",
       "koreny": [
         "chung-衝",
         "dong-動",
@@ -167,7 +172,7 @@
       "id": "ko-topik3-0951",
       "tema": "nakupování",
       "slovo": "상품",
-      "vyslovnost": "sangpum",
+      "vyslovnost": "sangpchum",
       "cs": "zboží",
       "en": "goods, product",
       "cs_upresneni": "zboží (商品), ne výhra",
@@ -176,6 +181,7 @@
       "priklad": "할인 상품{을} 구매하면 돈{을} 아낄 수 있어요.",
       "priklad_cs": "Když kupuješ zboží ve slevě, můžeš ušetřit. (을 → 4. pád)",
       "mnemo": "商 obchod + 品 věc = věc na prodej. Stejně zní 상품 (賞品) = věcná cena.",
+      "mnemo_zvuk": "„SANĚ + PUMA“: puma táhne saně naložené zbožím na trh.",
       "koreny": [
         "sang-商",
         "pum-品"
@@ -191,7 +197,7 @@
       "id": "ko-topik3-0952",
       "tema": "peníze",
       "slovo": "계획을 세우다",
-      "vyslovnost": "gyehoegeul seuuda",
+      "vyslovnost": "kehwegŭl seuda",
       "vyslov_hangul": "게회글 세우다",
       "cs": "udělat si plán, naplánovat",
       "en": "to make a plan",
@@ -200,6 +206,7 @@
       "priklad": "쇼핑하기 전{에} 무엇{을} 살지 계획{을} 세워요.",
       "priklad_cs": "Před nákupem si naplánuji, co koupím. (에 → kdy; 을 → 4. pád)",
       "mnemo": "세우다 = postavit: plán „postavíš“. 계획을 세워 돈을 쓰다 = utrácet podle plánu.",
+      "mnemo_zvuk": "„KEY HOOK, SE UDÁ“: klíče visí na háčku, plán je postavený a všechno se udá podle něj.",
       "koreny": [
         "gye-計",
         "hoek-劃"
@@ -220,7 +227,7 @@
       "id": "ko-topik3-0953",
       "tema": "peníze",
       "slovo": "계획 없이 돈을 쓰다",
-      "vyslovnost": "gyehoek eopsi doneul sseuda",
+      "vyslovnost": "kehwegŏpssi donŭl ssŭda",
       "vyslov_hangul": "게회겁씨 도늘 쓰다",
       "cs": "utrácet bez plánu",
       "en": "to spend money without a plan",
@@ -229,6 +236,7 @@
       "priklad": "계획 없이 돈{을} 쓰면 월말{에} 돈{이} 없어요.",
       "priklad_cs": "Když utrácíš bez plánu, na konci měsíce nemáš peníze. (을 → 4. pád; 에 → kdy; 이 → 1. pád)",
       "mnemo": "없이 = bez. Opak: 계획을 세워 돈을 쓰다.",
+      "mnemo_zvuk": "„KEY HOOK? OOPSIE!“: klíče nejsou na háčku, plán žádný, a peníze utíkají jen tak.",
       "koreny": [
         "gye-計",
         "hoek-劃"
@@ -249,7 +257,7 @@
       "id": "ko-topik3-0954",
       "tema": "nakupování",
       "slovo": "필요한 것만 사다",
-      "vyslovnost": "piryohan geonman sada",
+      "vyslovnost": "pchirjohan gŏnman sada",
       "vyslov_hangul": "피료한 건만 사다",
       "cs": "kupovat jen to, co je potřeba",
       "en": "to buy only what is needed",
@@ -258,6 +266,7 @@
       "priklad": "계획{을} 세우면 필요한 것{만} 사게 돼요.",
       "priklad_cs": "Když si uděláš plán, koupíš jen to, co potřebuješ. (을 → 4. pád; 만 → jen)",
       "mnemo": "必要 potřeba + 것 věc + 만 jen.",
+      "mnemo_zvuk": "„PIRÁT JOHAN“: pirát Johan kupuje jen to, co potřebuje: rum a mapu.",
       "koreny": [
         "pil-必",
         "yo-要"
@@ -277,7 +286,7 @@
       "id": "ko-topik3-0955",
       "tema": "peníze",
       "slovo": "지출",
-      "vyslovnost": "jichul",
+      "vyslovnost": "čičchul",
       "cs": "výdaj, výdaje",
       "en": "expense",
       "slovni_druh": "podstatne_jmeno",
@@ -303,7 +312,7 @@
       "id": "ko-topik3-0956",
       "tema": "peníze",
       "slovo": "관리",
-      "vyslovnost": "gwalli",
+      "vyslovnost": "kwalli",
       "vyslov_hangul": "괄리",
       "cs": "správa, péče, hospodaření (s čím)",
       "en": "management, supervision",
@@ -312,6 +321,7 @@
       "priklad": "현수 씨{는} 생활비 관리{를} 어떻게 해요?",
       "priklad_cs": "Jak hospodaříš s penězi na živobytí, Hjonsu? (는 → téma; 를 → 4. pád)",
       "mnemo": "管 trubka, spravovat + 理 uspořádat. Výslovnost [괄리]. 건강 관리, 시간 관리, 관리비.",
+      "mnemo_zvuk": "„KVALI(ta)“: dobrý správce hlídá kvalitu všeho, o co pečuje.",
       "koreny": [
         "gwan-管",
         "ri-理"
@@ -328,7 +338,7 @@
       "id": "ko-topik3-0957",
       "tema": "peníze",
       "slovo": "절약",
-      "vyslovnost": "jeoryak",
+      "vyslovnost": "čŏrjak",
       "vyslov_hangul": "저략",
       "cs": "šetření, úspora",
       "en": "saving, economizing",
@@ -356,7 +366,7 @@
       "id": "ko-topik3-0958",
       "tema": "peníze",
       "slovo": "줄다",
-      "vyslovnost": "julda",
+      "vyslovnost": "čulda",
       "cs": "zmenšit se, ubýt",
       "en": "to decrease",
       "slovni_druh": "sloveso",
@@ -381,7 +391,7 @@
       "id": "ko-topik3-0959",
       "tema": "peníze",
       "slovo": "줄이다",
-      "vyslovnost": "jurida",
+      "vyslovnost": "čurida",
       "vyslov_hangul": "주리다",
       "cs": "snížit, omezit, zmenšit",
       "en": "to decrease, to reduce",
@@ -406,7 +416,7 @@
       "id": "ko-topik3-0960",
       "tema": "oblečení",
       "slovo": "주머니",
-      "vyslovnost": "jumeoni",
+      "vyslovnost": "čumŏni",
       "cs": "kapsa, váček",
       "en": "pocket",
       "slovni_druh": "podstatne_jmeno",
@@ -427,7 +437,7 @@
       "id": "ko-topik3-0961",
       "tema": "peníze",
       "slovo": "쓸데없다",
-      "vyslovnost": "sseuldeeopda",
+      "vyslovnost": "ssŭltteŏptta",
       "vyslov_hangul": "쓸떼업따",
       "cs": "zbytečný, k ničemu",
       "en": "to be unnecessary, useless",
@@ -451,7 +461,7 @@
       "id": "ko-topik3-0962",
       "tema": "pocity",
       "slovo": "부담스럽다",
-      "vyslovnost": "budamseureopda",
+      "vyslovnost": "pudamsŭrŏptta",
       "vyslov_hangul": "부담스럽따",
       "cs": "být na obtíž, zatěžující, nepříjemně drahý",
       "en": "to feel burdened",
@@ -460,6 +470,7 @@
       "priklad": "교통비{가} 오르니까 정말 부담스럽더라고요.",
       "priklad_cs": "Jízdné zdražilo a je to pro mě opravdu zátěž. (가 → 1. pád)",
       "mnemo": "負 nést na zádech + 擔 nést na rameni = břemeno + -스럽다. Platí pro peníze i pro nepříjemný tlak (부담스러운 선물).",
+      "mnemo_zvuk": "„BUDDHA M(á) SIRUP“: Buddha vleče na zádech sud sirupu, to je ale zátěž.",
       "koreny": [
         "bu-負",
         "dam-擔"
@@ -484,7 +495,7 @@
       "id": "ko-topik3-0963",
       "tema": "peníze",
       "slovo": "상승",
-      "vyslovnost": "sangseung",
+      "vyslovnost": "sangsŭng",
       "cs": "růst, vzestup (cen, teploty)",
       "en": "rise, increase",
       "slovni_druh": "podstatne_jmeno",
@@ -492,6 +503,7 @@
       "priklad": "물가 상승{에} 관한 뉴스{를} 들었어요.",
       "priklad_cs": "Slyšel jsem zprávy o růstu cen. (에 → o; 를 → 4. pád)",
       "mnemo": "上 nahoru + 昇 stoupat. Opak 하락 (pokles). Formální, ve zprávách.",
+      "mnemo_zvuk": "„SAMSUNG“: akcie Samsungu letí nahoru, samý vzestup.",
       "koreny": [
         "sang-上",
         "seung-昇"
@@ -507,7 +519,7 @@
       "id": "ko-topik3-0964",
       "tema": "peníze",
       "slovo": "오르다",
-      "vyslovnost": "oreuda",
+      "vyslovnost": "orŭda",
       "cs": "stoupat, zdražit; vystoupat",
       "en": "to be raised, to rise",
       "slovni_druh": "sloveso",
@@ -534,7 +546,7 @@
       "id": "ko-topik3-0965",
       "tema": "peníze",
       "slovo": "공공요금",
-      "vyslovnost": "gonggongyogeum",
+      "vyslovnost": "konggongjogŭm",
       "cs": "poplatky za veřejné služby (energie, voda, MHD)",
       "en": "public utility charges",
       "slovni_druh": "podstatne_jmeno",
@@ -542,6 +554,7 @@
       "priklad": "다음 달{부터} 전기 요금{하고} 공공요금{이} 오른대요.",
       "priklad_cs": "Prý od příštího měsíce zdraží elektřina a veřejné poplatky. (부터 → od; 하고 → a; 이 → 1. pád)",
       "mnemo": "公共 veřejný (公 veřejný + 共 společný) + 料金 poplatek.",
+      "mnemo_zvuk": "„KONG KONG, JÓ, GUMU?“: King Kong platí za elektřinu, vodu a MHD celého města žvýkačkou.",
       "koreny": [
         "gong-公",
         "gong-共",
@@ -559,7 +572,7 @@
       "id": "ko-topik3-0966",
       "tema": "ostatní",
       "slovo": "하루빨리",
-      "vyslovnost": "harubballi",
+      "vyslovnost": "haruppalli",
       "cs": "co nejdřív, co nejrychleji",
       "en": "immediately, as soon as possible",
       "slovni_druh": "ostatni",
@@ -577,7 +590,7 @@
       "id": "ko-topik3-0967",
       "tema": "peníze",
       "slovo": "안정되다",
-      "vyslovnost": "anjeongdoeda",
+      "vyslovnost": "andžŏngdweda",
       "cs": "ustálit se, stabilizovat se",
       "en": "to be stabilized",
       "slovni_druh": "sloveso",
@@ -608,7 +621,7 @@
       "id": "ko-topik3-0968",
       "tema": "ostatní",
       "slovo": "정확하다",
-      "vyslovnost": "jeonghwakada",
+      "vyslovnost": "čŏnghwakchada",
       "vyslov_hangul": "정화카다",
       "cs": "přesný",
       "en": "to be accurate",
@@ -617,6 +630,7 @@
       "priklad": "가계부{를} 쓰면 지출{을} 정확하게 알 수 있어요.",
       "priklad_cs": "Když si vedeš rozpočet, víš přesně, kolik utratíš. (를, 을 → 4. pád)",
       "mnemo": "正 správný + 確 jistý. Výslovnost [정화카다]. 정확히 = přesně.",
+      "mnemo_zvuk": "„JOHN WICK“: John Wick vystřelí jednou a trefí přesně doprostřed terče.",
       "koreny": [
         "jeong-正",
         "hwak-確"
@@ -639,7 +653,7 @@
       "id": "ko-topik3-0969",
       "tema": "práce",
       "slovo": "운영",
-      "vyslovnost": "unyeong",
+      "vyslovnost": "unjŏng",
       "vyslov_hangul": "우녕",
       "cs": "provoz, vedení (podniku)",
       "en": "operation, management",
@@ -648,6 +662,7 @@
       "priklad": "나중{에} 작은 카페{를} 운영하고 싶어요.",
       "priklad_cs": "Jednou bych chtěl provozovat malou kavárnu. (에 → kdy; 를 → 4. pád)",
       "mnemo": "運 pohybovat + 營 spravovat, podnikat. 가게를 운영하다 = provozovat obchod.",
+      "mnemo_zvuk": "„UNION“ (unie): odborová unie převezme vedení továrny a řídí celý provoz.",
       "koreny": [
         "un-運",
         "yeong-營"
@@ -663,7 +678,7 @@
       "id": "ko-topik3-0970",
       "tema": "práce",
       "slovo": "성공",
-      "vyslovnost": "seonggong",
+      "vyslovnost": "sŏnggong",
       "cs": "úspěch",
       "en": "success",
       "slovni_druh": "podstatne_jmeno",
@@ -671,6 +686,7 @@
       "priklad": "자신{만의} 성공 전략{이} 뭐예요?",
       "priklad_cs": "Jaká je tvoje vlastní strategie úspěchu? (의 → 2. pád; 이 → 1. pád)",
       "mnemo": "成 dosáhnout + 功 zásluha. 성공하다 = uspět. Opak 실패.",
+      "mnemo_zvuk": "„SONG + GONG“: tvá písnička skončí úderem gongu a sál bouří, úspěch!",
       "koreny": [
         "seong-成",
         "gong-功"
@@ -689,7 +705,7 @@
       "id": "ko-topik3-0971",
       "tema": "práce",
       "slovo": "전략",
-      "vyslovnost": "jeollyak",
+      "vyslovnost": "čŏlljak",
       "vyslov_hangul": "절략",
       "cs": "strategie",
       "en": "strategy",
@@ -698,6 +714,7 @@
       "priklad": "쿠폰{을} 활용하는 것{도} 좋은 전략이에요.",
       "priklad_cs": "Využívat kupony je taky dobrá strategie. (을 → 4. pád; 도 → také)",
       "mnemo": "戰 válka + 略 plán = válečný plán. Výslovnost [절략].",
+      "mnemo_zvuk": "„JOLLY YAK“ (veselý jak): veselý jak u šachovnice vymýšlí strategii, jak porazit krávy.",
       "koreny": [
         "jeon-戰",
         "ryak-略"

@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 3,
   "zdroj": "Sejong Korean 3, kap. 14 Part 2–3 – textbook s. 126–127 (어휘, 표현 -지 그래요?), s. 128–131 (연습해요, 이야기해 봐요, 듣고 말해요, 더 말해 봐요) + přepis poslechu s. 159 + 어휘 색인; workbook 3-2 s. 70 (어휘 연습)",
   "karty": [
     {
       "id": "ko-topik3-1010",
       "tema": "starosti",
       "slovo": "의논",
-      "vyslovnost": "uinon",
+      "vyslovnost": "ŭinon",
       "cs": "porada, projednání (s někým)",
       "en": "discussion",
       "slovni_druh": "podstatne_jmeno",
@@ -18,6 +18,7 @@
       "priklad": "고민{이} 생기면 저{는} 부모님{과} 의논해요.",
       "priklad_cs": "Když mám starost, poradím se s rodiči. (이 → 1. pád; 는 → téma; 과 → s + 7. pád)",
       "mnemo": "議 projednávat + 論 rozebírat. 論 se jinde čte 론 (토론), tady 논. ~와/과 의논하다 = poradit se s kým.",
+      "mnemo_zvuk": "„WINONA“: Winona Ryder se před každou rolí dlouze radí s celým štábem.",
       "koreny": [
         "ui-議",
         "non-論"
@@ -33,7 +34,7 @@
       "id": "ko-topik3-1011",
       "tema": "povaha",
       "slovo": "단순하다",
-      "vyslovnost": "dansunhada",
+      "vyslovnost": "tansunhada",
       "cs": "jednoduchý, prostý",
       "en": "to be simple",
       "slovni_druh": "pridavne_jmeno",
@@ -41,6 +42,7 @@
       "priklad": "머리{가} 복잡할 때{는} 조금 단순하게 생각해 보는 게 어때?",
       "priklad_cs": "Když máš v hlavě zmatek, co to zkusit vidět trochu jednodušeji? (가 → 1. pád; 는 → důraz)",
       "mnemo": "單 jediný + 純 čistý, ryzí = jediná čistá věc. Cílové spojení 단순하게 생각하다 = brát to jednoduše. Opak 복잡하다.",
+      "mnemo_zvuk": "„TAN, SUN“: dovolená jednoduchá jako facka: slunce (sun), opálení (tan) a nic víc.",
       "koreny": [
         "dan-單",
         "sun-純"
@@ -60,7 +62,7 @@
       "id": "ko-topik3-1012",
       "tema": "povaha",
       "slovo": "솔직하다",
-      "vyslovnost": "soljikada",
+      "vyslovnost": "solččikchada",
       "vyslov_hangul": "솔찌카다",
       "cs": "upřímný, otevřený",
       "en": "to be honest",
@@ -69,6 +71,7 @@
       "priklad": "저{는} 고민{이} 생기면 친한 친구{에게} 솔직하게 이야기하고 조언{을} 구해요.",
       "priklad_cs": "Když mám starost, upřímně se svěřím blízkému kamarádovi a požádám o radu. (는 → téma; 이 → 1. pád; 에게 → 3. pád; 을 → 4. pád)",
       "mnemo": "率 přímočarý (zde čteno 솔) + 直 přímý = jde rovnou k věci. Výslovnost [솔찌카다]. 솔직히 말하면 = upřímně řečeno.",
+      "mnemo_zvuk": "„SOUL CHICK“: soulová zpěvačka zpívá upřímně, rovnou z duše, nic nepředstírá.",
       "koreny": [
         "sol-率",
         "jik-直"
@@ -91,7 +94,7 @@
       "id": "ko-topik3-1013",
       "tema": "starosti",
       "slovo": "도전",
-      "vyslovnost": "dojeon",
+      "vyslovnost": "todžŏn",
       "cs": "výzva, pokus o něco nového",
       "en": "challenge",
       "slovni_druh": "podstatne_jmeno",
@@ -99,6 +102,7 @@
       "priklad": "같은 일{만} 반복해서 재미없으면 새로운 것{에} 도전해 보세요.",
       "priklad_cs": "Když tě nebaví dělat pořád totéž, pusť se do něčeho nového. (만 → jen; 에 → do čeho)",
       "mnemo": "挑 vyzvat + 戰 boj = vyzvat na souboj. ~에 도전하다 = pustit se do čeho, zkusit (výzvu).",
+      "mnemo_zvuk": "„DO, JOHN!“: trenér hecuje Johna „Do it!“ a John přijímá výzvu.",
       "koreny": [
         "do-挑",
         "jeon-戰"
@@ -114,7 +118,7 @@
       "id": "ko-topik3-1014",
       "tema": "plány",
       "slovo": "우선순위",
-      "vyslovnost": "useonsunwi",
+      "vyslovnost": "usŏnsunwi",
       "vyslov_hangul": "우선수뉘",
       "cs": "priorita, pořadí důležitosti",
       "en": "order of priority",
@@ -146,7 +150,7 @@
       "alternativy": [
         "갖다"
       ],
-      "vyslovnost": "gajida",
+      "vyslovnost": "kadžida",
       "cs": "mít, vlastnit; (zájem) projevit",
       "en": "to have",
       "slovni_druh": "sloveso",
@@ -174,7 +178,7 @@
         "-지 그래요?",
         "-지 그래?"
       ],
-      "vyslovnost": "-ji geurae(yo)?",
+      "vyslovnost": "-či gŭre(jo)?",
       "cs": "co kdybys …? proč ne …? (rada)",
       "en": "why don't you …?",
       "slovni_druh": "ostatni",
@@ -192,7 +196,7 @@
       "id": "ko-topik3-1017",
       "tema": "peníze",
       "slovo": "요금제",
-      "vyslovnost": "yogeumje",
+      "vyslovnost": "jogŭmdže",
       "cs": "tarif (mobilní, internetový)",
       "en": "payment plan",
       "slovni_druh": "podstatne_jmeno",
@@ -200,6 +204,7 @@
       "priklad": "핸드폰 요금{이} 너무 많이 나와서 요금제{를} 바꿨어요.",
       "priklad_cs": "Účet za mobil byl moc vysoký, tak jsem změnil tarif. (이 → 1. pád; 를 → 4. pád)",
       "mnemo": "料金 poplatek + 制 systém = systém poplatků. 요금제를 바꾸다 = změnit tarif.",
+      "mnemo_zvuk": "„JÓ, GUMU, JAY?“: operátor nabízí Jayovi nový tarif, platit se bude žvýkačkou.",
       "koreny": [
         "yo-料",
         "geum-金",
@@ -224,6 +229,7 @@
       "priklad": "학교 진로 상담실{에} 가서 상담 신청{을} 했어요.",
       "priklad_cs": "Šel jsem do školní kariérní poradny a objednal se na konzultaci. (에 → kam; 을 → 4. pád)",
       "mnemo": "相談 porada (相 vzájemný + 談 rozhovor) + 室 místnost. 상담하다 = radit se s odborníkem, 상담 신청 = žádost o konzultaci.",
+      "mnemo_zvuk": "„SANG, DÁM SÍLU“: ve školní poradně si vybrečíš a zazpíváš (sang), poradce řekne: „Dám ti sílu.“",
       "koreny": [
         "sang-相",
         "dam-談",
@@ -252,6 +258,7 @@
       "priklad": "가장 인기{가} 많은 고민 상담소{는} 어디예요?",
       "priklad_cs": "Která poradna je nejoblíbenější? (가 → 1. pád; 는 → téma)",
       "mnemo": "相談 porada + 所 místo, úřad. -소 = samostatné středisko (상담소), -실 = místnost v budově (상담실).",
+      "mnemo_zvuk": "„SANG DÁMĚ SOS“: zoufalec zavolá do poradenského střediska a dámě na lince zazpívá (sang) své SOS.",
       "koreny": [
         "sang-相",
         "dam-談",
@@ -268,7 +275,7 @@
       "id": "ko-topik3-1020",
       "tema": "úřady",
       "slovo": "신청",
-      "vyslovnost": "sincheong",
+      "vyslovnost": "sinčchŏng",
       "cs": "žádost, přihláška",
       "en": "request, application",
       "slovni_druh": "podstatne_jmeno",
@@ -276,6 +283,7 @@
       "priklad": "그럼 학교 진로 상담실{에} 상담 신청{을} 한번 해 보지 그래?",
       "priklad_cs": "Tak co kdyby ses objednal na konzultaci ve školní kariérní poradně? (에 → kam; 을 → 4. pád)",
       "mnemo": "申 vyjádřit + 請 prosit = vyjádřit prosbu. 신청하다 = přihlásit se, zažádat. 신청서 = přihláška (formulář).",
+      "mnemo_zvuk": "„SIGN, CHONG!“: Cheech strká Chongovi přihlášku na festival: „Sign, Chong!“",
       "koreny": [
         "sin-申",
         "cheong-請"
@@ -292,7 +300,7 @@
       "id": "ko-topik3-1021",
       "tema": "povaha",
       "slovo": "진지하다",
-      "vyslovnost": "jinjihada",
+      "vyslovnost": "čindžihada",
       "cs": "vážný, upřímně míněný",
       "en": "to be serious",
       "slovni_druh": "pridavne_jmeno",
@@ -300,6 +308,7 @@
       "priklad": "여자 친구{하고} 진지하게 이야기{를} 해 보지 그래요?",
       "priklad_cs": "Co kdyby sis s přítelkyní vážně promluvil? (하고 → s + 7. pád; 를 → 4. pád)",
       "mnemo": "眞 pravý + 摯 vážný, upřímný. 진지하게 = vážně, bez legrace. Pozor: 진짜 = opravdu.",
+      "mnemo_zvuk": "„ČINGIS“: Čingischán nikdy nežertuje, je smrtelně vážný.",
       "koreny": [
         "jin-眞",
         "ji-摯"
@@ -328,6 +337,7 @@
       "priklad": "기다리지만 말고 여자 친구{에게} 먼저 사과하지 그래요?",
       "priklad_cs": "Nečekej jen tak a co kdyby ses přítelkyni omluvil jako první? (에게 → 3. pád)",
       "mnemo": "謝 děkovat, omluvit se + 過 chyba = omluvit se za chybu. 사과하다 = omluvit se. Stejně znějící 사과 = jablko (původní slovo).",
+      "mnemo_zvuk": "„ZA KVA(K)“: žába se sousedům omlouvá za noční kvákání.",
       "koreny": [
         "sa-謝",
         "gwa-過"
@@ -343,7 +353,7 @@
       "id": "ko-topik3-1023",
       "tema": "nakupování",
       "slovo": "중고",
-      "vyslovnost": "junggo",
+      "vyslovnost": "čunggo",
       "cs": "z druhé ruky, použitý (secondhand)",
       "en": "used article, secondhand",
       "slovni_druh": "podstatne_jmeno",
@@ -351,6 +361,7 @@
       "priklad": "그럼 인터넷{에서} 중고 제품{을} 한번 알아보지 그래요?",
       "priklad_cs": "Tak co kdybyste se na internetu poohlédl po použitém zboží? (에서 → kde; 을 → 4. pád)",
       "mnemo": "中 střed + 古 starý = „napůl staré“. Stojí před podstatným jménem: 중고 제품, 중고차, 중고 책.",
+      "mnemo_zvuk": "„DJANGO“: Django jezdí na koni z druhé ruky a nosí obnošený klobouk.",
       "koreny": [
         "jung-中",
         "go-古"
@@ -366,7 +377,7 @@
       "id": "ko-topik3-1024",
       "tema": "nakupování",
       "slovo": "제품",
-      "vyslovnost": "jepum",
+      "vyslovnost": "čepchum",
       "cs": "výrobek, produkt",
       "en": "product",
       "slovni_druh": "podstatne_jmeno",
@@ -374,6 +385,7 @@
       "priklad": "아무리 비싸도 친환경 제품{을} 사고 싶어요.",
       "priklad_cs": "I kdyby byly sebedražší, chci kupovat ekologické výrobky. (을 → 4. pád)",
       "mnemo": "製 vyrábět + 品 věc = vyrobená věc. Srovnej 상품 (zboží), 화장품 (kosmetika).",
+      "mnemo_zvuk": "„ČEPICE PUMA“: čepice Puma je nejprodávanější výrobek v obchodě.",
       "koreny": [
         "je-製",
         "pum-品"
@@ -388,7 +400,7 @@
       "id": "ko-topik3-1025",
       "tema": "plány",
       "slovo": "단기",
-      "vyslovnost": "dangi",
+      "vyslovnost": "tangi",
       "cs": "krátkodobý, krátké období",
       "en": "short term",
       "slovni_druh": "podstatne_jmeno",
@@ -396,6 +408,7 @@
       "priklad": "그럼 계획{을} 세울 때 단기 계획{을} 세워 보지 그래요?",
       "priklad_cs": "Tak co si při plánování dávat krátkodobé plány? (을 → 4. pád)",
       "mnemo": "短 krátký + 期 období. Opak 장기 (長期, dlouhodobý). 단기 계획, 단기 아르바이트.",
+      "mnemo_zvuk": "„TANGO“: krátkodobý románek, jedno tango a konec.",
       "koreny": [
         "dan-短",
         "gi-期"
@@ -410,7 +423,7 @@
       "id": "ko-topik3-1026",
       "tema": "nakupování",
       "slovo": "불친절하다",
-      "vyslovnost": "bulchinjeolhada",
+      "vyslovnost": "pulčchindžŏlhada",
       "cs": "nevlídný, neochotný",
       "en": "to be unkind",
       "slovni_druh": "pridavne_jmeno",
@@ -418,6 +431,7 @@
       "priklad": "음식{이} 맛있어도 불친절한 식당{에는} 가고 싶지 않아요.",
       "priklad_cs": "I když je tam jídlo dobré, do restaurace s nevlídnou obsluhou chodit nechci. (이 → 1. pád; 에는 → kam + důraz)",
       "mnemo": "不 ne + 親切 vlídný (親 blízký + 切 upřímný). Opak 친절하다.",
+      "mnemo_zvuk": "„PŮL ČINŽÁKU“: nevlídný domovník už pohádal půl činžáku.",
       "koreny": [
         "bul-不",
         "chin-親",
@@ -441,7 +455,7 @@
       "id": "ko-topik3-1027",
       "tema": "starosti",
       "slovo": "줄어들다",
-      "vyslovnost": "jureodeulda",
+      "vyslovnost": "čurŏdŭlda",
       "vyslov_hangul": "주러들다",
       "cs": "zmenšovat se, ubývat",
       "en": "to be decreased",
@@ -470,7 +484,7 @@
       "id": "ko-topik3-1028",
       "tema": "lidé",
       "slovo": "세대",
-      "vyslovnost": "sedae",
+      "vyslovnost": "sede",
       "cs": "generace",
       "en": "generation",
       "cs_upresneni": "generace (世代), ne domácnost",
@@ -479,6 +493,7 @@
       "priklad": "그 세대{에서만} 느낄 수 있는 행복{도} 있어요.",
       "priklad_cs": "Je i štěstí, které se dá prožít jen v dané generaci. (에서만 → jen v; 도 → i)",
       "mnemo": "世 svět, věk + 代 období, střídání = věkové období lidí. Stejně znějící 세대 (世帶) = domácnost.",
+      "mnemo_zvuk": "„SEDĚ“: tři generace sedí u jednoho stolu: děda, táta a syn.",
       "koreny": [
         "se-世",
         "dae-代"
@@ -494,7 +509,7 @@
       "id": "ko-topik3-1029",
       "tema": "lidé",
       "slovo": "세대별",
-      "vyslovnost": "sedaebyeol",
+      "vyslovnost": "sedebjŏl",
       "cs": "podle generací",
       "en": "generational, by generation",
       "slovni_druh": "podstatne_jmeno",
@@ -502,6 +517,7 @@
       "priklad": "설문 조사 결과 세대별{로} 고민{이} 다양한 것{으로} 나타났어요.",
       "priklad_cs": "Průzkum ukázal, že starosti se podle generací liší. (로 → podle; 이 → 1. pád; 으로 → jako)",
       "mnemo": "世代 generace + 別 zvlášť = rozdělené podle generací. -별 = podle: 나라별, 나이별.",
+      "mnemo_zvuk": "„SEDĚ BYL(I)“: na rodinné fotce seděli rozdělení podle generací, děti vpředu, babičky vzadu.",
       "koreny": [
         "se-世",
         "dae-代",
@@ -518,7 +534,7 @@
       "id": "ko-topik3-1030",
       "tema": "starosti",
       "slovo": "살펴보다",
-      "vyslovnost": "salpyeoboda",
+      "vyslovnost": "salpchjŏboda",
       "cs": "prohlédnout, prozkoumat (pozorně)",
       "en": "to examine, to check",
       "slovni_druh": "sloveso",
@@ -544,7 +560,7 @@
       "id": "ko-topik3-1031",
       "tema": "zdraví",
       "slovo": "탈모",
-      "vyslovnost": "talmo",
+      "vyslovnost": "tchalmo",
       "cs": "vypadávání vlasů",
       "en": "hair loss",
       "slovni_druh": "podstatne_jmeno",
@@ -552,6 +568,7 @@
       "priklad": "30대{는} 스트레스{로} 인한 탈모{에} 대한 고민{이} 많았어요.",
       "priklad_cs": "Třicátníci se hodně trápí vypadáváním vlasů kvůli stresu. (는 → téma; 로 인한 → způsobený; 에 대한 → o; 이 → 1. pád)",
       "mnemo": "脫 zbavit se + 毛 vlas, chlup. Srovnej 탈의실 (převlékárna, 脫 = svléknout).",
+      "mnemo_zvuk": "„TALMUD“: rabín studuje Talmud tak usilovně, že mu padají vlasy.",
       "koreny": [
         "tal-脫",
         "mo-毛"
@@ -574,6 +591,7 @@
       "priklad": "노후{에는} 시골{에서} 조용히 살고 싶어요.",
       "priklad_cs": "Na stáří chci žít v klidu na venkově. (에는 → kdy + důraz; 에서 → kde)",
       "mnemo": "老 starý + 後 po = čas po zestárnutí. Srovnej 노인 (senior).",
+      "mnemo_zvuk": "„NOHU NAHORU“: ve stáří konečně dáš nohu nahoru a užíváš si důchod.",
       "koreny": [
         "no-老",
         "hu-後"
@@ -592,7 +610,7 @@
       "alternativy": [
         "노후준비"
       ],
-      "vyslovnost": "nohu junbi",
+      "vyslovnost": "nohu džunbi",
       "cs": "příprava na stáří (spoření, plánování)",
       "en": "preparation for golden age",
       "slovni_druh": "podstatne_jmeno",
@@ -617,7 +635,7 @@
       "id": "ko-topik3-1034",
       "tema": "vztahy",
       "slovo": "연애",
-      "vyslovnost": "yeonae",
+      "vyslovnost": "jŏne",
       "vyslov_hangul": "여내",
       "cs": "milostný vztah, chození (s někým)",
       "en": "date, romance",
@@ -626,6 +644,7 @@
       "priklad": "20대{는} 연애{와} 취업{에} 대한 고민{이} 많았어요.",
       "priklad_cs": "Dvacátníci se nejvíc trápí láskou a hledáním práce. (는 → téma; 와 → a; 에 대한 → o; 이 → 1. pád)",
       "mnemo": "戀 milovat, toužit + 愛 láska. Výslovnost [여내]. 연애하다 = chodit s někým, 연애 결혼 = sňatek z lásky.",
+      "mnemo_zvuk": "„JOHNNY“: Johnny chodí s každou holkou ze třídy, věčný romantik.",
       "koreny": [
         "yeon-戀",
         "ae-愛"
@@ -641,7 +660,7 @@
       "id": "ko-topik3-1035",
       "tema": "rodina",
       "slovo": "자식",
-      "vyslovnost": "jasik",
+      "vyslovnost": "časik",
       "cs": "děti, potomci (vlastní)",
       "en": "child, offspring",
       "slovni_druh": "podstatne_jmeno",
@@ -663,7 +682,7 @@
       "id": "ko-topik3-1036",
       "tema": "vzhled",
       "slovo": "패션",
-      "vyslovnost": "paesyeon",
+      "vyslovnost": "pchesjŏn",
       "cs": "móda",
       "en": "fashion",
       "slovni_druh": "podstatne_jmeno",
@@ -682,7 +701,7 @@
       "id": "ko-topik3-1037",
       "tema": "pocity",
       "slovo": "만족스럽다",
-      "vyslovnost": "manjokseureopda",
+      "vyslovnost": "mandžokssŭrŏptta",
       "vyslov_hangul": "만족쓰럽따",
       "cs": "uspokojivý; být spokojený",
       "en": "to be satisfactory",
@@ -691,6 +710,7 @@
       "priklad": "가장 만족스러운 고민 해결 방법{을} 알려 준 상담소{를} 골라 보세요.",
       "priklad_cs": "Vyberte poradnu, která vám dala nejuspokojivější řešení. (을, 를 → 4. pád)",
       "mnemo": "滿 plný + 足 dost = mít dost do plna + -스럽다 (budící dojem). ㅂ nepravidelnost: 만족스러워요. 만족하다 = být spokojen.",
+      "mnemo_zvuk": "„MAN-ŽOKEJ“: žokej projede cílem první a spokojeně se usmívá.",
       "koreny": [
         "man-滿",
         "jok-足"

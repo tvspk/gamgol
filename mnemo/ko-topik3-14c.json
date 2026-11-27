@@ -3,14 +3,14 @@
   "uroven": "TOPIK 3",
   "uroven_poznamka": "odhad – zdroj uvádí jen INTERMEDIATE (중급)",
   "verze_schematu": 1,
-  "verze": 1,
+  "verze": 2,
   "zdroj": "Sejong Korean 3, kap. 14 – workbook 3-2 s. 71 (어휘 확장, 문화 Tip) + 어휘 색인 workbooku",
   "karty": [
     {
       "id": "ko-topik3-1038",
       "tema": "škola",
       "slovo": "학점이 나쁘다",
-      "vyslovnost": "hakjeomi nappeuda",
+      "vyslovnost": "hakččŏmi nappŭda",
       "vyslov_hangul": "학쩌미 나쁘다",
       "cs": "mít špatné známky (na vysoké škole)",
       "en": "to have a bad grade",
@@ -19,6 +19,7 @@
       "priklad": "대학{에서} 강의{를} 듣고 시험{을} 봤는데 학점{이} 나빠요.",
       "priklad_cs": "Na vysoké jsem chodil na přednášky a skládal zkoušky, ale mám špatné známky. (에서 → kde; 를, 을 → 4. pád; 이 → 1. pád)",
       "mnemo": "學點 kredit, známka (學 učení + 點 bod) – na univerzitě. Ve škole obecně 성적. Výslovnost [학쩜].",
+      "mnemo_zvuk": "„HACK! ČUMÍ“: student hackne univerzitní systém, opraví si špatné známky a profesor jen čumí.",
       "koreny": [
         "hak-學",
         "jeom-點"
@@ -39,7 +40,7 @@
       "id": "ko-topik3-1039",
       "tema": "kariéra",
       "slovo": "진로 결정이 어렵다",
-      "vyslovnost": "jillo gyeoljeongi eoryeopda",
+      "vyslovnost": "čillo gjŏlččŏngi ŏrjŏptta",
       "vyslov_hangul": "질로 결쩡이 어렵따",
       "cs": "nevědět, jakou dráhu si zvolit",
       "en": "to have a difficulty deciding on future career",
@@ -71,7 +72,7 @@
       "id": "ko-topik3-1040",
       "tema": "vztahy",
       "slovo": "의견 충돌이 잦다",
-      "vyslovnost": "uigyeon chungdori jatda",
+      "vyslovnost": "ŭigjŏn čchungdori džatta",
       "vyslov_hangul": "의견 충도리 잗따",
       "cs": "často se neshodnout, mít časté spory",
       "en": "to have disagreements often",
@@ -108,7 +109,7 @@
       "alternativy": [
         "마음이 안 맞다"
       ],
-      "vyslovnost": "maeumi jal an matda",
+      "vyslovnost": "maŭmi džal an matta",
       "vyslov_hangul": "마으미 잘 안 맏따",
       "cs": "nerozumět si, nebýt na stejné vlně",
       "en": "to disagree, not to get along",
@@ -136,7 +137,7 @@
       "alternativy": [
         "덜렁거리다"
       ],
-      "vyslovnost": "deolleongdaeda",
+      "vyslovnost": "tŏllŏngdeda",
       "cs": "být roztržitý, nepozorný (chovat se ledabyle)",
       "en": "to be clumsy, careless",
       "slovni_druh": "sloveso",
@@ -159,7 +160,7 @@
       "id": "ko-topik3-1043",
       "tema": "povaha",
       "slovo": "고집이 세다",
-      "vyslovnost": "gojibi seda",
+      "vyslovnost": "kodžibi seda",
       "vyslov_hangul": "고지비 세다",
       "cs": "být tvrdohlavý, umíněný",
       "en": "to be headstrong, stubborn",
@@ -168,6 +169,7 @@
       "priklad": "민우 씨{는} 고집{이} 세서 친구들{의} 조언{을} 거의 무시해요.",
       "priklad_cs": "Minu je tvrdohlavý, takže rady kamarádů skoro ignoruje. (는 → téma; 이 → 1. pád; 의 → 2. pád; 을 → 4. pád)",
       "mnemo": "固 pevný + 執 držet = pevně se držet svého + 세다 silný. Korejci říkají 황소 고집 „býčí tvrdohlavost“: býk, který nechce, se nehne z místa.",
+      "mnemo_zvuk": "„KOZA BÍ(LÁ) SEDÁ“: tvrdohlavá bílá koza si sedne doprostřed silnice a nehne se.",
       "koreny": [
         "go-固",
         "jip-執"
@@ -191,7 +193,7 @@
       "id": "ko-topik3-1044",
       "tema": "povaha",
       "slovo": "신경질적이다",
-      "vyslovnost": "singyeongjiljeogida",
+      "vyslovnost": "singjŏngdžilččŏgida",
       "vyslov_hangul": "신경질쩌기다",
       "cs": "být podrážděný, vznětlivý, nervózní",
       "en": "to be temperamental",
@@ -200,6 +202,7 @@
       "priklad": "너무 예민해서 작은 일{에도} 자주 화{를} 내요. 신경질적이에요.",
       "priklad_cs": "Je moc citlivý, kvůli maličkostem se často zlobí. Je vznětlivý. (에도 → i kvůli; 를 → 4. pád)",
       "mnemo": "神經 nervy (神 duch + 經 dráha) + 質 povaha + 的 -ový = nervózní povaha. 신경질을 내다 = vyjet na někoho.",
+      "mnemo_zvuk": "„SYN KONGA ŽIL“ (u nás): syn King Konga u nás bydlel a kvůli každé maličkosti vybuchoval.",
       "koreny": [
         "sin-神",
         "gyeong-經",
@@ -225,7 +228,7 @@
       "id": "ko-topik3-1045",
       "tema": "zdraví",
       "slovo": "건강에 이상이 있다",
-      "vyslovnost": "geongange isangi itda",
+      "vyslovnost": "kŏngange isangi itta",
       "vyslov_hangul": "건강에 이상이 읻따",
       "cs": "mít zdravotní potíže, něco není v pořádku se zdravím",
       "en": "to have a problem with health",
@@ -256,7 +259,7 @@
       "id": "ko-topik3-1046",
       "tema": "pocity",
       "slovo": "감정 조절이 안 되다",
-      "vyslovnost": "gamjeong jojeori an doeda",
+      "vyslovnost": "kamdžŏng džodžŏri an dweda",
       "vyslov_hangul": "감정 조저리 안 되다",
       "cs": "neumět ovládat emoce",
       "en": "emotion is uncontrollable",
@@ -291,7 +294,7 @@
       "id": "ko-topik3-1047",
       "tema": "práce",
       "slovo": "일이 손에 안 잡히다",
-      "vyslovnost": "iri sone an japida",
+      "vyslovnost": "iri sone an džapchida",
       "vyslov_hangul": "이리 소네 안 자피다",
       "cs": "nemoci se soustředit na práci (nic mi nejde od ruky)",
       "en": "can't get the work done",
